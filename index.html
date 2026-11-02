@@ -1,0 +1,46 @@
+<!doctype html>
+<!-- Catequizando: casca do app. Tela de carregamento, menu (barra inferior no celular,
+     lateral no computador), área principal #view, faixa offline e aviso (toast).
+     Cada tela é desenhada por um arquivo em js/views/. -->
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Catequizando</title>
+  <meta name="description" content="A Bíblia, a liturgia do dia, a missa explicada, os santos e as orações, mesmo sem internet.">
+  <meta name="theme-color" content="#1F3A93" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0B1630" media="(prefers-color-scheme: dark)">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" type="image/png" href="icons/favicon.png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Literata:opsz,wght@7..72,400;7..72,600&family=Montserrat:wght@600;700;800&display=swap">
+  <link rel="stylesheet" href="css/app.css?v=0.1.0">
+</head>
+<body>
+  <a class="pular" href="#view">Pular para o conteúdo</a>
+
+  <!-- Carregamento -->
+  <div id="carregando" class="carregando" aria-hidden="true">
+    <div class="carregando-lumi"></div>
+    <p>Catequizando</p>
+  </div>
+
+  <!-- Shell do app -->
+  <div id="shell" class="shell" hidden>
+    <nav class="nav" aria-label="Menu principal">
+      <a class="nav-marca" href="#/inicio" aria-label="Catequizando, início">
+        <span class="nav-marca-lumi"></span><span>Catequizando</span>
+      </a>
+      <ul id="nav-lista" class="nav-lista"></ul>
+    </nav>
+    <main id="view" class="view" tabindex="-1"></main>
+  </div>
+
+  <div id="offline" class="offline" role="status" hidden>📴 Offline: seu progresso fica salvo no aparelho.</div>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <script type="module" src="js/app.js?v=0.1.0"></script>
+</body>
+</html>
