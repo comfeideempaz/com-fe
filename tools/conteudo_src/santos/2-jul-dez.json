@@ -1,0 +1,596 @@
+{
+  "_comentario": "Vidas dos santos (julho a dezembro). Separar fato histórico (historia) de tradição piedosa (tradicao).",
+  "maria-goretti": {
+    "titulo": "Virgem e mártir",
+    "viveu": "1890 – 1902",
+    "local": "Corinaldo e Nettuno (Itália)",
+    "patrono": ["adolescentes", "vítimas de violência sexual", "pureza"],
+    "historia": [
+      "Maria Goretti nasceu numa família pobre de camponeses. Depois da morte do pai, ajudava a mãe a cuidar dos irmãos menores numa fazenda perto de Nettuno, onde dividiam a casa com a família Serenelli.",
+      "Alessandro Serenelli, um jovem de 19 anos, tentou várias vezes abusar dela. Em 5 de julho de 1902, Maria, com 11 anos, resistiu dizendo que aquilo era pecado e que ele iria para o inferno. Ele a esfaqueou 14 vezes. Antes de morrer, no hospital, ela perdoou o agressor: \"Quero que ele esteja comigo no céu\".",
+      "Alessandro foi condenado a 30 anos de prisão. Na cadeia, depois de um sonho com Maria, converteu-se profundamente. Ao sair, pediu perdão à mãe de Maria, que o perdoou, e os dois comungaram juntos no Natal. Ele viveu o resto da vida como porteiro num convento de capuchinhos. Maria foi canonizada por Pio XII em 1950, com a presença da mãe e de Alessandro."
+    ],
+    "curiosidades": [
+      "Foi a primeira canonização acompanhada por uma multidão tão grande que a cerimônia teve de ser feita na Praça de São Pedro.",
+      "Sua mãe, Assunta, foi a primeira mãe a assistir à canonização de uma filha."
+    ],
+    "biblia": ["Mt 5,8", "Lc 23,34", "1Cor 6,19-20"],
+    "fontes": ["Martirológio Romano, 6 de julho", "Pio XII, Homilia de canonização (24 de junho de 1950)"]
+  },
+  "paulina": {
+    "titulo": "Virgem",
+    "viveu": "1865 – 1942",
+    "local": "Trento (Itália) e Santa Catarina e São Paulo (Brasil)",
+    "patrono": ["diabéticos (devoção popular)", "Santa Catarina"],
+    "historia": [
+      "Amábile Lúcia Visintainer nasceu em Vigolo Vattaro, no Trentino, então parte do Império Austro-Húngaro. Aos 10 anos emigrou com a família para o Brasil, para a colônia de Vígolo, hoje Nova Trento, em Santa Catarina.",
+      "Em 1890, com a amiga Virgínia Nicolodi, começou a cuidar de uma mulher com câncer num casebre. Dali nasceu a Congregação das Irmãzinhas da Imaculada Conceição, a primeira congregação feminina fundada no Brasil. Amábile tomou o nome de Madre Paulina do Coração Agonizante de Jesus.",
+      "Foi superiora geral, mas sofreu incompreensões e foi afastada do governo da congregação, aceitando tudo com humildade. Passou os últimos anos em São Paulo, onde morreu depois de sofrer com o diabetes, que lhe custou o braço direito e a visão. Foi canonizada por São João Paulo II em 2002: é a primeira santa que viveu no Brasil."
+    ],
+    "curiosidades": [
+      "O Santuário de Santa Paulina, em Nova Trento (SC), recebe milhares de peregrinos.",
+      "O milagre de sua canonização foi a cura de uma mulher em estado vegetativo, em Rio Branco (AC)."
+    ],
+    "biblia": ["Mt 25,35-40", "Fl 2,5-8"],
+    "fontes": ["Martirológio Romano, 9 de julho", "Diretório Litúrgico da CNBB"],
+    "revisar": true,
+    "obs": "Conferir o local do milagre da canonização."
+  },
+  "bento": {
+    "titulo": "Abade",
+    "viveu": "c. 480 – c. 547",
+    "local": "Núrsia, Subiaco e Monte Cassino (Itália)",
+    "patrono": ["Europa", "monges", "contra o mal (medalha de São Bento)"],
+    "historia": [
+      "Nasceu em Núrsia, na Úmbria, e foi estudar em Roma. Desgostoso com a corrupção da cidade, retirou-se para viver como eremita numa gruta em Subiaco. Sua fama atraiu discípulos, e ele fundou ali vários pequenos mosteiros.",
+      "Por volta de 529, fundou o mosteiro de Monte Cassino, onde escreveu a Regra, que orienta a vida monástica até hoje. Ela resume a vida do monge em \"ora et labora\" (reza e trabalha): oração, trabalho, estudo e vida comunitária, com equilíbrio e discrição.",
+      "Os mosteiros beneditinos preservaram a cultura, a agricultura e os livros durante a Idade Média, e por isso São Paulo VI o proclamou padroeiro da Europa em 1964. Quase tudo o que sabemos de sua vida vem do livro II dos Diálogos de São Gregório Magno."
+    ],
+    "tradicao": [
+      "Gregório conta que monges rebeldes tentaram envenená-lo, mas quando Bento abençoou o copo, ele se partiu. Daí a ligação de São Bento com a proteção contra o mal."
+    ],
+    "curiosidades": [
+      "A Medalha de São Bento traz as iniciais de uma oração de exorcismo em latim, como \"Vade retro Satana\" (\"Afasta-te, Satanás\"). É um sacramental, não amuleto.",
+      "Sua irmã gêmea, Santa Escolástica, também foi religiosa; a festa dela é em 10 de fevereiro."
+    ],
+    "biblia": ["Pr 2,1-9", "Mt 19,27-29", "Sl 34(33),12-15"],
+    "fontes": ["São Gregório Magno, Diálogos II", "Regra de São Bento", "São Paulo VI, Pacis Nuntius (1964)"]
+  },
+  "maria-madalena": {
+    "titulo": "Discípula do Senhor",
+    "viveu": "séc. I",
+    "local": "Mágdala (Galileia) e Jerusalém",
+    "patrono": ["convertidos", "perfumistas"],
+    "historia": [
+      "Maria de Mágdala foi libertada por Jesus de \"sete demônios\" e passou a segui-lo com outras mulheres que o serviam com seus bens (Lc 8,1-3).",
+      "Esteve ao pé da cruz quando quase todos os discípulos tinham fugido (Jo 19,25). Na manhã da Páscoa, foi ao sepulcro, encontrou-o vazio e chorava quando Jesus ressuscitado a chamou pelo nome: \"Maria!\". Ela o reconheceu: \"Rabûni!\" (Mestre). Jesus a enviou a anunciar a ressurreição aos discípulos (Jo 20,11-18).",
+      "Por isso os Padres da Igreja a chamaram de \"apóstola dos apóstolos\". Em 2016, o Papa Francisco elevou sua memória à categoria de festa, igual à dos Apóstolos."
+    ],
+    "tradicao": [
+      "Durante séculos, no Ocidente, Maria Madalena foi identificada com a pecadora que ungiu os pés de Jesus (Lc 7,36-50) e com Maria de Betânia. Os Evangelhos não dizem isso; a liturgia atual distingue as três.",
+      "Uma tradição da Provença diz que ela foi viver no sul da França."
+    ],
+    "curiosidades": [
+      "Na liturgia de sua festa se usa um prefácio próprio que a chama \"apóstola dos apóstolos\".",
+      "Ela é a primeira testemunha da ressurreição registrada nos Evangelhos."
+    ],
+    "biblia": ["Lc 8,1-3", "Jo 19,25", "Jo 20,1-18", "Mc 16,9"],
+    "fontes": ["Congregação para o Culto Divino, Decreto de 3 de junho de 2016", "Santo Tomás de Aquino, Comentário a João 20"]
+  },
+  "tiago-maior": {
+    "titulo": "Apóstolo",
+    "viveu": "séc. I – 44",
+    "local": "Galileia e Jerusalém",
+    "patrono": ["Espanha", "peregrinos"],
+    "historia": [
+      "Tiago, filho de Zebedeu e irmão de João, era pescador. Jesus chamou os dois irmãos, que deixaram o pai no barco e o seguiram (Mc 1,19-20). Jesus os apelidou de \"Boanerges\", filhos do trovão (Mc 3,17).",
+      "Com Pedro e João, esteve nos momentos mais íntimos de Jesus: a ressurreição da filha de Jairo, a Transfiguração e a agonia no Getsêmani.",
+      "Foi o primeiro dos Apóstolos a morrer mártir: Herodes Agripa I mandou matá-lo à espada em Jerusalém, por volta do ano 44 (At 12,1-2). É chamado \"Maior\" para distingui-lo do outro apóstolo Tiago, filho de Alfeu."
+    ],
+    "tradicao": [
+      "Segundo uma tradição medieval, Tiago pregou na Espanha, e seu corpo foi levado para lá depois do martírio. Seu túmulo, descoberto no século IX, deu origem à cidade e à grande peregrinação de Santiago de Compostela."
+    ],
+    "curiosidades": [
+      "O Caminho de Santiago é percorrido a pé por centenas de milhares de peregrinos todo ano. A concha de vieira virou o símbolo do peregrino.",
+      "Sua mãe pediu a Jesus que seus filhos se sentassem à direita e à esquerda no Reino; Jesus perguntou se podiam beber o seu cálice (Mt 20,20-23). Tiago bebeu-o no martírio."
+    ],
+    "biblia": ["Mc 1,19-20", "Mc 3,17", "Mt 17,1-9", "Mt 20,20-23", "At 12,1-2"],
+    "fontes": ["Martirológio Romano, 25 de julho", "Bento XVI, Audiência geral de 21 de junho de 2006"]
+  },
+  "joaquim-e-ana": {
+    "titulo": "Pais da Virgem Maria",
+    "viveu": "séc. I a.C.",
+    "local": "Terra Santa",
+    "patrono": ["avós", "idosos", "casais", "gestantes (Sant'Ana)"],
+    "historia": [
+      "Os Evangelhos não falam dos pais de Maria. Seus nomes chegaram até nós por uma tradição muito antiga, registrada no Protoevangelho de Tiago, escrito por volta do ano 150.",
+      "A Igreja os venera como os pais que acolheram e educaram aquela que seria a Mãe do Salvador. São os avós de Jesus."
+    ],
+    "tradicao": [
+      "Segundo o Protoevangelho, Joaquim e Ana eram idosos e não tinham filhos. Joaquim se retirou para o deserto para jejuar e rezar, e um anjo anunciou aos dois o nascimento de Maria. Ana prometeu consagrar a filha a Deus.",
+      "A Igreja não considera o Protoevangelho como Escritura, mas aproveitou dele os nomes e algumas festas, como a Apresentação de Nossa Senhora."
+    ],
+    "curiosidades": [
+      "No Brasil, 26 de julho é o Dia dos Avós, por causa de Joaquim e Ana.",
+      "Em 2021, o Papa Francisco instituiu o Dia Mundial dos Avós e dos Idosos, celebrado no quarto domingo de julho, perto dessa festa."
+    ],
+    "biblia": ["Sl 92(91),13-16", "Eclo 44,1.10-15", "Mt 13,16-17"],
+    "fontes": ["Protoevangelho de Tiago (apócrifo, séc. II)", "Martirológio Romano, 26 de julho"],
+    "revisar": true
+  },
+  "inacio-de-loyola": {
+    "titulo": "Presbítero",
+    "viveu": "1491 – 1556",
+    "local": "Loyola (Espanha), Paris e Roma",
+    "patrono": ["retiros espirituais", "soldados", "Companhia de Jesus"],
+    "historia": [
+      "Íñigo López de Loyola nasceu numa família nobre do País Basco e cresceu sonhando com a glória dos cavaleiros. Em 1521, defendendo a cidade de Pamplona, uma bala de canhão quebrou-lhe a perna.",
+      "Durante a longa recuperação, como não havia romances de cavalaria no castelo, leu uma Vida de Cristo e uma vida dos santos. Percebeu que os sonhos de glória mundana o deixavam vazio, e os pensamentos de imitar os santos o enchiam de paz. Começou ali sua conversão.",
+      "Fez peregrinação a Montserrat e viveu quase um ano em Manresa, rezando, onde começou a escrever os Exercícios Espirituais. Estudou em Paris e reuniu companheiros, entre eles São Francisco Xavier e São Pedro Fabro. Em 1540, o Papa aprovou a Companhia de Jesus (jesuítas), que se dedicou à educação, às missões e à renovação da Igreja."
+    ],
+    "curiosidades": [
+      "O lema dos jesuítas é \"Ad maiorem Dei gloriam\" (\"Para a maior glória de Deus\"), abreviado AMDG.",
+      "Os jesuítas chegaram ao Brasil em 1549, com Manuel da Nóbrega, ainda em vida de Santo Inácio. O Papa Francisco foi o primeiro papa jesuíta."
+    ],
+    "frase": {"texto": "Tomai, Senhor, e recebei toda a minha liberdade, a minha memória, o meu entendimento e toda a minha vontade.", "fonte": "Santo Inácio de Loyola, Exercícios Espirituais 234"},
+    "biblia": ["1Cor 10,31", "Lc 9,23-26"],
+    "fontes": ["Santo Inácio de Loyola, Autobiografia", "Martirológio Romano, 31 de julho"]
+  },
+  "joao-maria-vianney": {
+    "titulo": "Presbítero",
+    "viveu": "1786 – 1859",
+    "local": "Ars (França)",
+    "patrono": ["párocos", "sacerdotes"],
+    "historia": [
+      "João Maria Vianney cresceu durante a Revolução Francesa, quando a fé era perseguida e as missas eram celebradas às escondidas. Teve enorme dificuldade nos estudos, sobretudo no latim, e quase não foi ordenado padre.",
+      "Em 1818, foi enviado para Ars, uma pequena aldeia de cerca de 230 habitantes onde a fé estava esquecida. Com oração, penitência, pregação simples e muita caridade, transformou a aldeia.",
+      "Ficou famoso como confessor: chegava a passar 12 a 16 horas por dia no confessionário. Nos últimos anos, cerca de 100 mil peregrinos por ano iam a Ars para se confessar com ele. Foi canonizado em 1925, e Pio XI o proclamou padroeiro dos párocos."
+    ],
+    "curiosidades": [
+      "Bento XVI convocou um Ano Sacerdotal em 2009-2010, nos 150 anos da sua morte.",
+      "Seu corpo está exposto na basílica de Ars."
+    ],
+    "frase": {"texto": "O sacerdócio é o amor do Coração de Jesus.", "fonte": "Citado por Bento XVI, Carta para o Ano Sacerdotal (2009)"},
+    "biblia": ["Jo 10,11-16", "Mt 9,35-38"],
+    "fontes": ["Bento XVI, Carta de proclamação do Ano Sacerdotal (16 de junho de 2009)", "Martirológio Romano, 4 de agosto"]
+  },
+  "lourenco": {
+    "titulo": "Diácono e mártir",
+    "viveu": "c. 225 – 258",
+    "local": "Roma (Itália)",
+    "patrono": ["diáconos", "cozinheiros", "bibliotecários"],
+    "historia": [
+      "Lourenço era um dos sete diáconos de Roma no tempo do Papa Sisto II, encarregado dos bens da Igreja e da ajuda aos pobres. Em agosto de 258, o imperador Valeriano mandou matar bispos, padres e diáconos. Sisto II foi decapitado em 6 de agosto, e Lourenço quatro dias depois.",
+      "Santo Ambrósio conta que, quando o prefeito exigiu os tesouros da Igreja, Lourenço pediu alguns dias, distribuiu os bens entre os pobres e voltou com eles: \"Estes são os tesouros da Igreja\"."
+    ],
+    "tradicao": [
+      "A tradição diz que foi martirizado sobre uma grelha em brasa e que, com bom humor, teria dito: \"Vira-me, que deste lado já estou assado\". Muitos estudiosos pensam que ele foi decapitado, como Sisto II, e que a grelha é um acréscimo posterior."
+    ],
+    "curiosidades": [
+      "A chuva de meteoros que aparece por volta de 10 de agosto é chamada popularmente de \"lágrimas de São Lourenço\".",
+      "Seu nome está no Cânon Romano (Oração Eucarística I)."
+    ],
+    "biblia": ["2Cor 9,6-10", "Jo 12,24-26"],
+    "fontes": ["Santo Ambrósio, Sobre os deveres II,28", "Santo Agostinho, Sermão 302", "Martirológio Romano, 10 de agosto"]
+  },
+  "clara": {
+    "titulo": "Virgem",
+    "viveu": "1194 – 1253",
+    "local": "Assis (Itália)",
+    "patrono": ["televisão", "bordadeiras", "boa visão"],
+    "historia": [
+      "Clara era de uma família nobre de Assis. Comovida pela pregação de São Francisco, fugiu de casa na noite do Domingo de Ramos de 1212 e foi até a Porciúncula, onde Francisco cortou seus cabelos e lhe deu um hábito pobre.",
+      "Viveu mais de 40 anos no convento de São Damião, em Assis, onde fundou a Ordem das Senhoras Pobres, hoje chamadas Clarissas. Lutou para que suas irmãs pudessem viver em total pobreza, e foi a primeira mulher a escrever uma regra de vida religiosa aprovada pelo Papa, recebida dois dias antes de sua morte.",
+      "Mesmo doente por muitos anos, era o coração da comunidade. Foi canonizada apenas dois anos depois de morrer, em 1255."
+    ],
+    "tradicao": [
+      "Quando soldados sarracenos ao serviço do imperador atacaram o convento, em 1240, Clara, doente, mandou que a levassem até a porta com a Eucaristia, e os soldados fugiram. Por isso é representada com o ostensório."
+    ],
+    "curiosidades": [
+      "Pio XII a proclamou padroeira da televisão em 1958 porque, estando doente e impossibilitada de ir à missa de Natal, viu e ouviu a celebração na parede do quarto.",
+      "Seu nome quer dizer \"clara, luminosa\"."
+    ],
+    "biblia": ["Mt 6,19-21", "Fl 3,8"],
+    "fontes": ["Legenda de Santa Clara (séc. XIII)", "Processo de canonização de Santa Clara (1253)", "Bento XVI, Audiência geral de 15 de setembro de 2010"]
+  },
+  "dulce-dos-pobres": {
+    "titulo": "Virgem",
+    "viveu": "1914 – 1992",
+    "local": "Salvador (Bahia, Brasil)",
+    "patrono": ["pobres e doentes da Bahia (devoção popular)"],
+    "historia": [
+      "Maria Rita de Souza Brito Lopes Pontes nasceu em Salvador. Desde a adolescência acolhia mendigos e doentes na porta de casa. Entrou na Congregação das Irmãs Missionárias da Imaculada Conceição da Mãe de Deus e tomou o nome de Irmã Dulce, em homenagem à mãe, que morreu quando ela tinha seis anos.",
+      "Sem lugar para os doentes que recolhia nas ruas, ocupou casas abandonadas e, por fim, com permissão da superiora, o galinheiro do convento, onde instalou os primeiros 70 doentes. Ali nasceu o Hospital Santo Antônio, hoje parte das Obras Sociais Irmã Dulce, um dos maiores complexos de saúde do Brasil que atendem pelo SUS.",
+      "Mesmo com saúde frágil (tinha só 30% da capacidade respiratória), dormiu por cerca de 30 anos sentada numa cadeira. Foi canonizada pelo Papa Francisco em 13 de outubro de 2019: é a primeira santa nascida no Brasil."
+    ],
+    "curiosidades": [
+      "Era chamada de \"Anjo Bom da Bahia\". Foi indicada ao Prêmio Nobel da Paz em 1988.",
+      "Recebeu duas visitas de São João Paulo II, em 1980 e em 1991, quando já estava doente.",
+      "Sua memória litúrgica no Brasil é em 13 de agosto, dia em que entrou na vida religiosa."
+    ],
+    "biblia": ["Mt 25,35-40", "1Jo 3,18"],
+    "fontes": ["Martirológio Romano, 13 de agosto", "Diretório Litúrgico da CNBB"]
+  },
+  "maximiliano-kolbe": {
+    "titulo": "Presbítero e mártir",
+    "viveu": "1894 – 1941",
+    "local": "Polônia e Auschwitz",
+    "patrono": ["jornalistas", "radioamadores", "dependentes químicos", "prisioneiros"],
+    "historia": [
+      "Raimundo Kolbe nasceu na Polônia. Ainda criança, teve uma visão em que Nossa Senhora lhe oferecia duas coroas, uma branca (pureza) e uma vermelha (martírio), e ele aceitou as duas. Entrou para os franciscanos conventuais com o nome de Maximiliano.",
+      "Em 1917, em Roma, fundou a Milícia da Imaculada. Na Polônia, criou a Niepokalanów, \"Cidade da Imaculada\", um grande convento com gráfica e rádio, que chegou a ter centenas de frades. Também foi missionário no Japão.",
+      "Na Segunda Guerra, foi preso pelos nazistas e levado para Auschwitz. Em julho de 1941, depois da fuga de um prisioneiro, dez homens foram escolhidos para morrer de fome. Um deles, Francisco Gajowniczek, chorou pela esposa e pelos filhos. Maximiliano se ofereceu para morrer no lugar dele. No bunker da fome, rezava e cantava com os outros; foi o último a morrer, com uma injeção de ácido carbólico, em 14 de agosto de 1941."
+    ],
+    "curiosidades": [
+      "Francisco Gajowniczek sobreviveu à guerra e esteve presente na canonização de Maximiliano por São João Paulo II, em 1982.",
+      "João Paulo II o chamou de \"padroeiro do nosso difícil século\"."
+    ],
+    "biblia": ["Jo 15,13", "1Jo 3,16"],
+    "fontes": ["São João Paulo II, Homilia de canonização (10 de outubro de 1982)", "Martirológio Romano, 14 de agosto"]
+  },
+  "monica": {
+    "titulo": "Mãe de Santo Agostinho",
+    "viveu": "c. 331 – 387",
+    "local": "Tagaste (atual Argélia) e Óstia (Itália)",
+    "patrono": ["mães", "esposas que sofrem", "mães de filhos afastados da fé"],
+    "historia": [
+      "Mônica nasceu em Tagaste, no norte da África, numa família cristã. Casou-se com Patrício, um pagão de gênio difícil, e com paciência e oração conseguiu sua conversão pouco antes da morte dele.",
+      "Seu filho Agostinho, inteligente e ambicioso, afastou-se da fé e aderiu ao maniqueísmo. Mônica rezou e chorou por ele durante cerca de 17 anos. Um bispo a consolou: \"É impossível que se perca o filho de tantas lágrimas\". Ela o seguiu até a Itália.",
+      "Em Milão, viu Agostinho converter-se e ser batizado por Santo Ambrósio, na Páscoa de 387. Pouco depois, quando esperavam um navio em Óstia para voltar à África, ela morreu, dizendo que já não tinha mais nada a desejar neste mundo."
+    ],
+    "curiosidades": [
+      "Quase tudo o que sabemos dela está nas Confissões de Santo Agostinho, livro IX, onde ele conta a famosa conversa com a mãe na janela em Óstia.",
+      "Sua festa, 27 de agosto, é na véspera da festa do filho."
+    ],
+    "biblia": ["Lc 7,11-17", "Lc 18,1-8", "1Pd 3,1-2"],
+    "fontes": ["Santo Agostinho, Confissões III,12 e IX,8-13"]
+  },
+  "agostinho": {
+    "titulo": "Bispo e Doutor da Igreja",
+    "viveu": "354 – 430",
+    "local": "Tagaste e Hipona (atual Argélia), Milão (Itália)",
+    "patrono": ["teólogos", "impressores", "convertidos"],
+    "historia": [
+      "Agostinho nasceu em Tagaste, filho do pagão Patrício e da cristã Mônica. Muito inteligente, tornou-se professor de retórica em Cartago, Roma e Milão. Viveu anos com uma companheira, com quem teve um filho, Adeodato, e buscou a verdade no maniqueísmo e na filosofia.",
+      "Em Milão, ouviu as pregações de Santo Ambrósio. No verão de 386, num jardim, ouviu uma voz de criança que cantava \"Toma e lê\". Abriu a Bíblia em Romanos 13,13-14 e sentiu que todas as dúvidas se dissipavam. Foi batizado por Ambrósio na Páscoa de 387.",
+      "De volta à África, foi ordenado padre e depois bispo de Hipona, onde viveu por 35 anos. Escreveu obras que marcaram toda a história do pensamento, como as Confissões e A Cidade de Deus, e combateu as heresias de seu tempo. Morreu em 430, enquanto os vândalos cercavam a cidade."
+    ],
+    "curiosidades": [
+      "Antes da conversão, rezava: \"Dá-me a castidade e a continência, mas não agora\" (Confissões VIII,7).",
+      "É um dos quatro grandes Doutores da Igreja latina, com Ambrósio, Jerônimo e Gregório Magno. Sua regra de vida inspira até hoje os agostinianos."
+    ],
+    "frase": {"texto": "Fizeste-nos para ti, Senhor, e inquieto está o nosso coração enquanto não repousa em ti.", "fonte": "Santo Agostinho, Confissões I,1"},
+    "biblia": ["Rm 13,13-14", "Sl 42(41),2-3"],
+    "fontes": ["Santo Agostinho, Confissões", "Possídio, Vida de Agostinho", "Bento XVI, Audiências gerais de janeiro e fevereiro de 2008"]
+  },
+  "pio-de-pietrelcina": {
+    "titulo": "Presbítero",
+    "viveu": "1887 – 1968",
+    "local": "Pietrelcina e San Giovanni Rotondo (Itália)",
+    "patrono": ["voluntários da defesa civil", "adolescentes (devoção)"],
+    "historia": [
+      "Francesco Forgione nasceu em Pietrelcina, no sul da Itália, numa família de camponeses. Entrou para os frades capuchinhos com o nome de frei Pio e foi ordenado padre em 1910.",
+      "Em 20 de setembro de 1918, rezando diante de um crucifixo, recebeu os estigmas: chagas nas mãos, nos pés e no lado, que sangraram por 50 anos. Foi examinado por médicos e, por um tempo, a Santa Sé restringiu seu ministério enquanto investigava os fenômenos. Ele obedeceu sempre.",
+      "Passava horas no confessionário e celebrava a missa com intensa devoção. Fundou os Grupos de Oração e a Casa Alívio do Sofrimento, um grande hospital em San Giovanni Rotondo. Foi canonizado por São João Paulo II em 2002, que, como jovem padre, tinha se confessado com ele."
+    ],
+    "tradicao": [
+      "Muitos relatos falam de bilocação, perfume misterioso e leitura das consciências. São testemunhos de pessoas que conviveram com ele; a Igreja canonizou sua santidade de vida, não esses fenômenos."
+    ],
+    "curiosidades": [
+      "Pouco antes da sua morte, as chagas desapareceram sem deixar cicatriz.",
+      "É um dos santos mais populares da Itália e do mundo."
+    ],
+    "frase": {"texto": "Reza, espera e não te preocupes.", "fonte": "Conselho frequente de Padre Pio em suas cartas e direção espiritual"},
+    "biblia": ["Gl 6,17", "Gl 2,19-20"],
+    "fontes": ["Martirológio Romano, 23 de setembro", "São João Paulo II, Homilia de canonização (16 de junho de 2002)"]
+  },
+  "cosme-e-damiao": {
+    "titulo": "Mártires",
+    "viveu": "séc. III – c. 303",
+    "local": "Ciro, na Síria",
+    "patrono": ["médicos", "farmacêuticos", "crianças (no Brasil)"],
+    "historia": [
+      "Cosme e Damião eram irmãos, provavelmente gêmeos, médicos de origem árabe. Segundo a tradição, atendiam os doentes de graça, por isso são chamados no Oriente de \"anárgiros\" (os que não recebem dinheiro).",
+      "Foram martirizados na perseguição de Diocleciano, e sua devoção se espalhou muito cedo. Seus nomes estão no Cânon Romano (Oração Eucarística I), e uma basílica foi dedicada a eles em Roma, no Fórum, no século VI."
+    ],
+    "tradicao": [
+      "Os detalhes do martírio vêm de relatos lendários posteriores. Também há a lenda de que transplantaram a perna de um etíope para um doente."
+    ],
+    "curiosidades": [
+      "No Brasil, a festa de 26 e 27 de setembro é marcada pela distribuição de doces às crianças. Esse costume se mistura com tradições de outras religiões; para o católico, o importante é a caridade e a intercessão dos santos mártires.",
+      "Na reforma do calendário, a memória passou para 26 de setembro."
+    ],
+    "biblia": ["Mt 10,8", "Eclo 38,1-9"],
+    "fontes": ["Martirológio Romano, 26 de setembro", "Missal Romano, Oração Eucarística I"],
+    "revisar": true
+  },
+  "arcanjos": {
+    "titulo": "Arcanjos",
+    "viveu": "Criaturas espirituais",
+    "local": "—",
+    "patrono": ["Miguel: Igreja, policiais, militares", "Gabriel: comunicações, carteiros", "Rafael: médicos, viajantes, noivos"],
+    "historia": [
+      "Os anjos são criaturas puramente espirituais, pessoais e imortais, que glorificam a Deus e são mensageiros dos seus desígnios (CIC 328-336). A Bíblia dá o nome de três arcanjos.",
+      "Miguel (\"Quem como Deus?\") é o príncipe que protege o povo de Deus (Dn 12,1) e que, com seus anjos, combate o dragão (Ap 12,7-9). Gabriel (\"Força de Deus\") anuncia a Daniel o tempo do Messias (Dn 9,21), a Zacarias o nascimento de João (Lc 1,19) e a Maria a encarnação do Filho de Deus (Lc 1,26-38). Rafael (\"Deus cura\") acompanha o jovem Tobias em sua viagem, cura a cegueira de Tobit e liberta Sara (Tb 12,15).",
+      "Desde 1969, os três são celebrados juntos em 29 de setembro."
+    ],
+    "curiosidades": [
+      "A Oração a São Miguel Arcanjo foi composta pelo Papa Leão XIII no fim do século XIX e rezada por muito tempo depois das missas.",
+      "Os Anjos da Guarda têm sua própria memória em 2 de outubro (Mt 18,10)."
+    ],
+    "biblia": ["Dn 12,1", "Ap 12,7-9", "Lc 1,26-38", "Tb 12,15", "Jd 9", "Mt 18,10"],
+    "fontes": ["CIC 328-336", "CIC 391-395"]
+  },
+  "teresinha": {
+    "titulo": "Virgem e Doutora da Igreja",
+    "viveu": "1873 – 1897",
+    "local": "Alençon e Lisieux (França)",
+    "patrono": ["missões", "missionários", "França (copadroeira)", "floristas"],
+    "historia": [
+      "Teresa Martin foi a caçula de nove filhos de Luís e Zélia Martin, canonizados em 2015. Perdeu a mãe aos quatro anos. Na noite de Natal de 1886, recebeu a graça de vencer a sensibilidade exagerada que a fazia chorar por tudo: chamou isso de sua \"conversão\".",
+      "Queria entrar no Carmelo de Lisieux aos 15 anos e chegou a pedir pessoalmente ao Papa Leão XIII. Entrou em 1888, onde já estavam duas de suas irmãs. Lá descobriu sua \"pequena via\": a santidade pelas pequenas coisas feitas com grande amor e confiança total em Deus, como uma criança nos braços do Pai.",
+      "Morreu de tuberculose aos 24 anos, depois de longo sofrimento e de uma noite escura da fé. Sua autobiografia, História de uma Alma, publicada após sua morte, espalhou-se pelo mundo. Foi canonizada em 1925 e declarada Doutora da Igreja por São João Paulo II em 1997."
+    ],
+    "curiosidades": [
+      "Sem nunca sair do convento, foi proclamada padroeira das missões, junto com São Francisco Xavier, por rezar e se oferecer pelos missionários.",
+      "Prometeu: \"Passarei o meu céu fazendo o bem na terra\". Por isso se associa sua intercessão a uma chuva de rosas."
+    ],
+    "frase": {"texto": "No coração da Igreja, minha Mãe, eu serei o amor.", "fonte": "Santa Teresinha, Manuscrito B, 3v"},
+    "biblia": ["Mt 18,1-4", "1Cor 12,31–13,13", "Is 66,12-13"],
+    "fontes": ["Santa Teresa do Menino Jesus, História de uma Alma", "São João Paulo II, Divini Amoris Scientia (1997)"]
+  },
+  "francisco-de-assis": {
+    "titulo": "Diácono",
+    "viveu": "1181/1182 – 1226",
+    "local": "Assis (Itália)",
+    "patrono": ["Itália", "ecologia", "animais", "pobres"],
+    "historia": [
+      "Francisco era filho de Pedro Bernardone, rico comerciante de tecidos de Assis. Jovem alegre e festeiro, sonhava ser cavaleiro. Preso na guerra contra Perúgia e depois doente, começou a mudar. Um dia abraçou e beijou um leproso, o que antes lhe causava horror.",
+      "Na igrejinha de São Damião, ouviu o crucifixo dizer: \"Francisco, vai e repara a minha casa, que, como vês, está em ruínas\". Começou a reconstruir igrejas com as próprias mãos. Diante do bispo e do pai, que o processava, devolveu até as roupas e disse que, dali em diante, só tinha o Pai do céu.",
+      "Vivendo o Evangelho ao pé da letra, em pobreza e alegria, atraiu companheiros. O Papa Inocêncio III aprovou sua forma de vida em 1209: nasceram os Frades Menores (franciscanos). Fundou também as Clarissas, com Santa Clara, e a Ordem Terceira para leigos. Em 1224, no monte Alverne, recebeu os estigmas. Morreu em 3 de outubro de 1226 e foi canonizado dois anos depois."
+    ],
+    "tradicao": [
+      "Os Fioretti (Florzinhas) contam histórias como a pregação aos pássaros e o lobo de Gúbio, que Francisco teria amansado. São narrativas piedosas do século XIV, com fundo nos primeiros biógrafos."
+    ],
+    "curiosidades": [
+      "Montou o primeiro presépio vivo em Greccio, no Natal de 1223.",
+      "Compôs o Cântico do Irmão Sol, um dos primeiros poemas em língua italiana.",
+      "Nunca foi ordenado padre por humildade; era diácono. O Papa Francisco escolheu o nome em sua homenagem."
+    ],
+    "frase": {"texto": "Louvado sejas, meu Senhor, com todas as tuas criaturas, especialmente o senhor irmão Sol.", "fonte": "São Francisco de Assis, Cântico do Irmão Sol"},
+    "biblia": ["Gl 6,14", "Mt 10,7-10", "Mt 11,25-30"],
+    "fontes": ["Tomás de Celano, Vida Primeira e Vida Segunda", "São Boaventura, Legenda Maior", "Papa Francisco, Laudato Si' 10-12"]
+  },
+  "faustina": {
+    "titulo": "Virgem",
+    "viveu": "1905 – 1938",
+    "local": "Polônia",
+    "patrono": ["Divina Misericórdia (apóstola)"],
+    "historia": [
+      "Helena Kowalska era a terceira de dez filhos de uma família pobre de camponeses. Estudou só três anos e trabalhou como empregada doméstica. Entrou na Congregação das Irmãs de Nossa Senhora da Misericórdia, em Varsóvia, com o nome de Maria Faustina.",
+      "Trabalhou como cozinheira, jardineira e porteira. Ao mesmo tempo, recebeu revelações de Jesus, que lhe pediu que espalhasse a devoção à Divina Misericórdia: a imagem de Jesus Misericordioso com a inscrição \"Jesus, eu confio em vós\", a festa da Misericórdia no domingo depois da Páscoa, o terço da Misericórdia e a hora da Misericórdia, às três da tarde.",
+      "Por ordem do confessor, o beato Miguel Sopoćko, escreveu um Diário. Morreu de tuberculose aos 33 anos, em Cracóvia. São João Paulo II a canonizou no ano 2000 e instituiu, no mesmo dia, o Domingo da Divina Misericórdia para toda a Igreja."
+    ],
+    "curiosidades": [
+      "São João Paulo II morreu em 2 de abril de 2005, véspera do Domingo da Misericórdia, e foi canonizado num Domingo da Misericórdia, em 2014.",
+      "No Brasil, sua memória é em 6 de outubro, pois o dia 5 é de São Benedito."
+    ],
+    "frase": {"texto": "Jesus, eu confio em vós.", "fonte": "Inscrição pedida por Jesus para a imagem, Diário 47"},
+    "biblia": ["Lc 6,36", "Ef 2,4-5", "Sl 136(135),1"],
+    "fontes": ["Santa Faustina Kowalska, Diário", "São João Paulo II, Homilia de canonização (30 de abril de 2000)"]
+  },
+  "teresa-de-avila": {
+    "titulo": "Virgem e Doutora da Igreja",
+    "viveu": "1515 – 1582",
+    "local": "Ávila (Espanha)",
+    "patrono": ["Espanha", "escritores católicos", "enfermos"],
+    "historia": [
+      "Teresa de Cepeda y Ahumada entrou no Carmelo da Encarnação, em Ávila, aos 20 anos. Durante muitos anos viveu uma vida religiosa dividida, entre Deus e as conversas e visitas no parlatório. Por volta dos 39 anos, diante de uma imagem de Cristo muito chagado, viveu uma conversão profunda.",
+      "Começou a reforma do Carmelo, para voltar ao espírito de oração e pobreza da regra primitiva. Fundou o primeiro convento de Carmelitas Descalças, São José de Ávila, em 1562, e depois mais 16 conventos, viajando por toda a Espanha em carroças, apesar da saúde frágil. Com São João da Cruz, estendeu a reforma aos frades.",
+      "Escreveu obras-primas sobre a oração, como O Livro da Vida, Caminho de Perfeição e Castelo Interior. Foi a primeira mulher declarada Doutora da Igreja, em 1970."
+    ],
+    "curiosidades": [
+      "Definia a oração como \"tratar de amizade, estando muitas vezes a sós com quem sabemos que nos ama\" (Livro da Vida 8,5).",
+      "Morreu na noite de 4 de outubro de 1582, exatamente quando entrou em vigor o calendário gregoriano: o dia seguinte foi 15 de outubro."
+    ],
+    "frase": {"texto": "Nada te perturbe, nada te espante, tudo passa, Deus não muda. A paciência tudo alcança. Quem a Deus tem, nada lhe falta: só Deus basta.", "fonte": "Santa Teresa de Ávila, Poesias (marcador de breviário)"},
+    "biblia": ["Rm 8,35-39", "Sl 63(62),2-9"],
+    "fontes": ["Santa Teresa de Jesus, Livro da Vida", "São Paulo VI, Proclamação como Doutora da Igreja (1970)"]
+  },
+  "aparecida": {
+    "titulo": "Padroeira do Brasil",
+    "viveu": "Imagem encontrada em 1717",
+    "local": "Rio Paraíba do Sul, Guaratinguetá (São Paulo)",
+    "patrono": ["Brasil"],
+    "historia": [
+      "Em outubro de 1717, a vila de Guaratinguetá esperava a passagem do conde de Assumar, governador da capitania. Três pescadores, Domingos Garcia, João Alves e Filipe Pedroso, foram encarregados de pescar no rio Paraíba do Sul, mas não pegavam nada.",
+      "João Alves lançou a rede e trouxe o corpo de uma pequena imagem de Nossa Senhora da Conceição, de terracota, sem a cabeça. Lançando de novo, pescou a cabeça. Depois disso, a pesca foi tão abundante que quase afundou o barco. A imagem, enegrecida pelo tempo no rio, tem cerca de 36 centímetros.",
+      "Por 15 anos ficou na casa de Filipe Pedroso, onde vizinhos se reuniam para rezar. Construiu-se uma capela e, depois, a Basílica Velha. Em 1930, Pio XI a proclamou Padroeira do Brasil. A Basílica Nova, hoje Santuário Nacional, é um dos maiores templos marianos do mundo."
+    ],
+    "tradicao": [
+      "Muitos milagres são contados desde os primeiros tempos, como o das velas que se acenderam sozinhas e o do escravo Zacarias, cujas correntes se soltaram quando rezava diante da imagem."
+    ],
+    "curiosidades": [
+      "A imagem é atribuída ao frei Agostinho de Jesus, monge santeiro de São Paulo, do século XVII.",
+      "Em 1978 a imagem foi quebrada em cerca de 200 pedaços por um visitante e foi cuidadosamente restaurada.",
+      "O dia 12 de outubro é feriado nacional, e no Brasil é uma solenidade."
+    ],
+    "biblia": ["Jo 2,1-5", "Est 5,1-3", "Ap 12,1", "Lc 5,4-7"],
+    "fontes": ["Santuário Nacional de Aparecida, História", "Pio XI, Breve de proclamação da Padroeira (16 de julho de 1930)", "Diretório Litúrgico da CNBB"],
+    "revisar": true,
+    "obs": "Conferir a grafia dos nomes dos pescadores e a data do breve de Pio XI."
+  },
+  "frei-galvao": {
+    "titulo": "Presbítero",
+    "viveu": "1739 – 1822",
+    "local": "Guaratinguetá e São Paulo (Brasil)",
+    "patrono": ["gestantes e partos (devoção às pílulas)", "construtores (devoção popular)"],
+    "historia": [
+      "Antônio de Sant'Anna Galvão nasceu em Guaratinguetá, numa família rica e religiosa. Estudou com os jesuítas na Bahia e, em 1760, entrou para a Ordem Franciscana, no Rio de Janeiro. Foi ordenado padre em 1762 e enviado a São Paulo.",
+      "Foi confessor muito procurado, pregador e porteiro do convento. Com a irmã Helena Maria do Espírito Santo, fundou o Recolhimento de Nossa Senhora da Luz, para mulheres que queriam viver em oração. Ele mesmo foi o arquiteto e um dos pedreiros da obra, que trabalhou por cerca de 28 anos. Hoje é o Mosteiro da Luz, em São Paulo.",
+      "Morreu em 1822 e foi sepultado na igreja do Mosteiro da Luz. Foi o primeiro santo nascido no Brasil, canonizado pelo Papa Bento XVI em São Paulo, em 11 de maio de 2007."
+    ],
+    "tradicao": [
+      "Conta-se que, para ajudar um jovem que sofria com cálculos renais e uma mulher em parto difícil, escreveu num papelzinho um verso em latim do Ofício de Nossa Senhora e mandou que engolissem. Assim nasceram as \"pílulas de Frei Galvão\", até hoje distribuídas pelas monjas do Mosteiro da Luz."
+    ],
+    "curiosidades": [
+      "O verso das pílulas diz: \"Depois do parto, ó Virgem, permanecestes intacta: Mãe de Deus, intercedei por nós\".",
+      "Sua memória no Brasil é em 25 de outubro."
+    ],
+    "biblia": ["Mt 5,16", "Sl 127(126),1"],
+    "fontes": ["Bento XVI, Homilia de canonização (11 de maio de 2007)", "Diretório Litúrgico da CNBB"]
+  },
+  "joao-paulo-ii": {
+    "titulo": "Papa",
+    "viveu": "1920 – 2005",
+    "local": "Wadowice e Cracóvia (Polônia), Roma",
+    "patrono": ["Jornada Mundial da Juventude", "famílias"],
+    "historia": [
+      "Karol Wojtyła nasceu em Wadowice, na Polônia. Perdeu a mãe aos 8 anos, o irmão aos 12 e o pai aos 20. Durante a ocupação nazista, trabalhou numa pedreira e numa fábrica química, participou de um teatro clandestino e estudou no seminário clandestino de Cracóvia. Foi ordenado padre em 1946.",
+      "Professor de ética, bispo auxiliar e depois arcebispo de Cracóvia, participou do Concílio Vaticano II. Em 16 de outubro de 1978, foi eleito Papa: o primeiro não italiano em 455 anos. Seu pontificado, de quase 27 anos, foi um dos mais longos da história.",
+      "Visitou 129 países, inclusive o Brasil quatro vezes, criou as Jornadas Mundiais da Juventude, publicou o Catecismo da Igreja Católica (1992) e contribuiu para a queda do comunismo na Europa. Sobreviveu a um atentado em 13 de maio de 1981, na Praça de São Pedro, e perdoou o agressor. Foi canonizado em 2014."
+    ],
+    "curiosidades": [
+      "Atribuiu sua sobrevivência no atentado à proteção de Nossa Senhora de Fátima, cuja festa era no mesmo dia. A bala foi colocada na coroa da imagem de Fátima.",
+      "Seu lema era \"Totus tuus\" (\"Todo teu\"), dirigido a Maria.",
+      "Sua memória é em 22 de outubro, dia do início do pontificado."
+    ],
+    "frase": {"texto": "Não tenhais medo! Abri, ou melhor, escancarai as portas a Cristo!", "fonte": "São João Paulo II, Homilia do início do pontificado (22 de outubro de 1978)"},
+    "biblia": ["Jo 21,15-17", "Mt 14,27"],
+    "fontes": ["Martirológio Romano, 22 de outubro", "Papa Francisco, Homilia de canonização (27 de abril de 2014)"]
+  },
+  "simao-e-judas": {
+    "titulo": "Apóstolos",
+    "viveu": "séc. I",
+    "local": "Galileia e, segundo a tradição, Pérsia",
+    "patrono": ["causas desesperadas (São Judas Tadeu)"],
+    "historia": [
+      "Simão é chamado nos Evangelhos de \"o Zelote\" ou \"o Cananeu\" (Lc 6,15; Mt 10,4), talvez porque fosse muito zeloso pela Lei ou ligado ao movimento dos zelotes.",
+      "Judas, chamado Tadeu, é o \"Judas, não o Iscariotes\", que na Última Ceia perguntou a Jesus: \"Senhor, por que te manifestarás a nós e não ao mundo?\" (Jo 14,22). A Carta de Judas, no Novo Testamento, é tradicionalmente atribuída a ele."
+    ],
+    "tradicao": [
+      "Uma tradição ocidental diz que os dois pregaram juntos na Pérsia e ali morreram mártires, por isso são celebrados no mesmo dia."
+    ],
+    "curiosidades": [
+      "No Brasil, a devoção a São Judas Tadeu é enorme: o dia 28 de outubro reúne multidões em seus santuários, como o de São Paulo.",
+      "Talvez por ter o mesmo nome do traidor, foi pouco invocado por séculos, e a devoção a ele como santo das causas desesperadas cresceu justamente por isso."
+    ],
+    "biblia": ["Lc 6,12-16", "Jo 14,21-23", "Jd 1-3", "Jd 20-25"],
+    "fontes": ["Martirológio Romano, 28 de outubro", "Bento XVI, Audiência geral de 11 de outubro de 2006"]
+  },
+  "cecilia": {
+    "titulo": "Virgem e mártir",
+    "viveu": "séc. III",
+    "local": "Roma (Itália)",
+    "patrono": ["música", "músicos", "corais"],
+    "historia": [
+      "Cecília é uma das mártires mais veneradas de Roma, citada no Cânon Romano. Sua basílica em Trastevere existe desde o século V, e seu culto é muito antigo.",
+      "Além disso, quase tudo o que se conta dela vem de uma Paixão escrita por volta do século V, de valor histórico incerto."
+    ],
+    "tradicao": [
+      "Segundo esse relato, era uma jovem nobre consagrada a Deus que foi obrigada a casar com Valeriano. Na noite do casamento, contou-lhe que um anjo guardava sua virgindade. Valeriano se converteu, assim como seu irmão Tibúrcio, e ambos foram martirizados. Cecília tentou ser morta sufocada no banho quente e depois foi golpeada três vezes com a espada, vivendo ainda três dias.",
+      "O relato diz que, durante a festa do casamento, enquanto os instrumentos tocavam, ela cantava a Deus em seu coração. Daí vem o patronato da música."
+    ],
+    "curiosidades": [
+      "Em 1599, seu túmulo foi aberto e, segundo as testemunhas, o corpo estava incorrupto. O escultor Stefano Maderno fez a famosa estátua que a mostra deitada, com o pescoço ferido.",
+      "No dia 22 de novembro, corais e músicos costumam celebrar sua festa."
+    ],
+    "biblia": ["Ef 5,19-20", "Sl 150"],
+    "fontes": ["Martirológio Romano, 22 de novembro", "Missal Romano, Oração Eucarística I"],
+    "revisar": true
+  },
+  "francisco-xavier": {
+    "titulo": "Presbítero",
+    "viveu": "1506 – 1552",
+    "local": "Navarra (Espanha), Índia e Japão",
+    "patrono": ["missões", "missionários", "Oriente"],
+    "historia": [
+      "Francisco de Jasso y Xavier nasceu num castelo de Navarra. Estudando em Paris, dividia o quarto com Pedro Fabro e conheceu Inácio de Loyola, que lhe repetia: \"De que adianta ao homem ganhar o mundo inteiro, se perder a sua alma?\" (Mt 16,26). Tornou-se um dos primeiros companheiros da Companhia de Jesus.",
+      "Em 1541, partiu de Lisboa para a Índia como missionário. Pregou em Goa, no sul da Índia, nas Molucas e no Japão, onde chegou em 1549. Aprendia o essencial das línguas locais, ensinava as orações e batizou milhares de pessoas.",
+      "Desejava entrar na China, então fechada aos estrangeiros. Morreu doente na ilha de Sanchoão, diante da costa chinesa, em 3 de dezembro de 1552, aos 46 anos. Foi canonizado em 1622."
+    ],
+    "curiosidades": [
+      "Batizou tanto que, segundo suas cartas, às vezes ficava com os braços cansados.",
+      "É padroeiro das missões junto com Santa Teresinha. Seu corpo está em Goa, na Índia."
+    ],
+    "biblia": ["Mt 16,26", "Mc 16,15-20", "1Cor 9,16-23"],
+    "fontes": ["São Francisco Xavier, Cartas", "Martirológio Romano, 3 de dezembro"]
+  },
+  "nicolau": {
+    "titulo": "Bispo",
+    "viveu": "c. 270 – c. 343",
+    "local": "Mira, na Lícia (atual Turquia)",
+    "patrono": ["crianças", "marinheiros", "Rússia", "Bari (Itália)"],
+    "historia": [
+      "Nicolau foi bispo de Mira, na Ásia Menor, no século IV. Os dados históricos seguros são poucos, mas seu culto é antiquíssimo e muito forte no Oriente e no Ocidente.",
+      "Em 1087, marinheiros de Bari levaram suas relíquias para a Itália, onde estão até hoje, na Basílica de São Nicolau."
+    ],
+    "tradicao": [
+      "A história mais famosa conta que um homem pobre não tinha dote para casar as três filhas. Nicolau jogou à noite, pela janela, três saquinhos de ouro, em segredo. Daí nasceu o costume de dar presentes escondidos às crianças.",
+      "A tradição também diz que participou do Concílio de Niceia (325), mas o nome dele não aparece nas listas mais antigas."
+    ],
+    "curiosidades": [
+      "A figura do Papai Noel (Santa Claus, em inglês) vem de \"Sinterklaas\", o nome holandês de São Nicolau.",
+      "Em vários países da Europa, as crianças ganham presentes em 6 de dezembro, dia da sua festa."
+    ],
+    "biblia": ["Mt 6,3-4", "2Cor 9,7"],
+    "fontes": ["Martirológio Romano, 6 de dezembro"],
+    "revisar": true
+  },
+  "luzia": {
+    "titulo": "Virgem e mártir",
+    "viveu": "c. 283 – 304",
+    "local": "Siracusa (Sicília, Itália)",
+    "patrono": ["olhos e visão", "oftalmologistas", "cegos"],
+    "historia": [
+      "Luzia foi martirizada em Siracusa durante a perseguição de Diocleciano. Uma inscrição grega do século IV ou V, encontrada nas catacumbas de Siracusa, já mostra a devoção a ela. Seu nome está no Cânon Romano."
+    ],
+    "tradicao": [
+      "Segundo os Atos, foi em peregrinação ao túmulo de Santa Águeda, em Catânia, pela cura da mãe, que estava doente. A mãe foi curada, e Luzia decidiu consagrar-se a Deus e distribuir sua herança aos pobres. O noivo, revoltado, denunciou-a como cristã.",
+      "A tradição de que teria arrancado os próprios olhos vem de uma época posterior e não está nos Atos antigos; nasceu do seu nome, que lembra luz (lux)."
+    ],
+    "curiosidades": [
+      "É representada com um prato com dois olhos.",
+      "Na Suécia e em outros países do norte, sua festa, perto do dia mais escuro do ano, é celebrada com meninas usando coroas de velas."
+    ],
+    "biblia": ["Mt 6,22-23", "2Cor 4,6"],
+    "fontes": ["Martirológio Romano, 13 de dezembro", "Missal Romano, Oração Eucarística I"]
+  },
+  "estevao": {
+    "titulo": "Primeiro mártir",
+    "viveu": "séc. I – c. 36",
+    "local": "Jerusalém",
+    "patrono": ["diáconos", "pedreiros"],
+    "historia": [
+      "Estêvão foi um dos sete homens \"cheios do Espírito Santo e de sabedoria\" escolhidos pelos Apóstolos para servir às mesas e cuidar das viúvas (At 6,1-6). Por isso é considerado um dos primeiros diáconos.",
+      "Fazia grandes prodígios e sinais. Acusado falsamente de blasfêmia, fez diante do Sinédrio um longo discurso sobre a história da salvação (At 7). Viu os céus abertos e Jesus de pé à direita de Deus.",
+      "Foi apedrejado fora da cidade. Morreu como Jesus, entregando o espírito e perdoando: \"Senhor, não lhes leves em conta este pecado\" (At 7,59-60). Um jovem chamado Saulo, o futuro São Paulo, guardava as roupas dos que o apedrejavam."
+    ],
+    "curiosidades": [
+      "Sua festa é no dia seguinte ao Natal, 26 de dezembro: a Igreja coloca o primeiro mártir junto ao presépio para mostrar que o Menino veio para dar a vida.",
+      "Santo Agostinho dizia que, se Estêvão não tivesse rezado, a Igreja não teria tido Paulo."
+    ],
+    "biblia": ["At 6,1-15", "At 7,54-60", "At 8,1"],
+    "fontes": ["Martirológio Romano, 26 de dezembro", "Santo Agostinho, Sermão 382"]
+  },
+  "benedito": {
+    "titulo": "Religioso",
+    "viveu": "c. 1524 – 1589",
+    "local": "Sicília (Itália)",
+    "patrono": ["cozinheiros", "afrodescendentes", "Palermo"],
+    "historia": [
+      "Benedito nasceu perto de Messina, na Sicília, filho de escravos africanos que se tornaram cristãos. Foi libertado ainda jovem e trabalhou no campo. Por causa da cor da pele, era chamado \"o Mouro\" (em italiano, il Moro).",
+      "Aos 21 anos, juntou-se a um grupo de eremitas que seguiam a regra de São Francisco. Quando o Papa mandou que esses eremitas entrassem em ordens já existentes, foi para o convento dos frades menores de Santa Maria de Jesus, em Palermo, onde trabalhou como cozinheiro.",
+      "Embora não soubesse ler, foi escolhido superior do convento e mestre de noviços, por causa de sua sabedoria e santidade. Depois, voltou com alegria à cozinha. Foi canonizado em 1807."
+    ],
+    "tradicao": [
+      "Conta-se que, levando comida escondida aos pobres, foi surpreendido pelo superior, e quando abriu o manto só havia flores."
+    ],
+    "curiosidades": [
+      "No Brasil, a devoção a São Benedito chegou com os africanos escravizados e foi muito importante nas irmandades de negros. Há grandes festas populares em sua honra, com congadas e procissões, em várias cidades.",
+      "No Brasil, sua memória é em 5 de outubro."
+    ],
+    "biblia": ["1Cor 1,26-29", "Lc 1,52"],
+    "fontes": ["Martirológio Romano, 4 de abril", "Diretório Litúrgico da CNBB"]
+  }
+}

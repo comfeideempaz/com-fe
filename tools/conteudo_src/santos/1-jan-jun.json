@@ -1,0 +1,412 @@
+{
+  "_comentario": "Vidas dos santos (janeiro a junho). Separar fato histórico (historia) de tradição piedosa (tradicao). Datas aproximadas com 'c.'. Itens incertos: revisar.",
+  "sebastiao": {
+    "titulo": "Mártir",
+    "viveu": "séc. III – c. 288",
+    "local": "Roma (Itália)",
+    "patrono": ["Rio de Janeiro", "contra a fome, a peste e a guerra", "atletas", "militares"],
+    "historia": [
+      "Sebastião é um dos mártires mais venerados de Roma. Sabemos com certeza que foi martirizado na perseguição do imperador Diocleciano e sepultado na Via Ápia, onde hoje fica a Basílica de São Sebastião, já mencionada no calendário romano do ano 354.",
+      "Segundo os Atos do seu martírio, escritos no século V, ele era oficial da guarda pretoriana e usava sua posição para encorajar os cristãos presos. Descoberto, foi amarrado a uma árvore e flechado. Dado como morto, foi cuidado por uma viúva, Irene. Recuperado, voltou a confessar Cristo diante do imperador e foi morto a pauladas.",
+      "Na Idade Média, era invocado contra a peste, porque se via nas flechas a imagem das doenças que atingem de repente. No Brasil, é padroeiro da cidade do Rio de Janeiro, fundada por Estácio de Sá em 1565 com o nome de São Sebastião do Rio de Janeiro."
+    ],
+    "tradicao": [
+      "Os detalhes da carreira militar, das flechas e da cura por Santa Irene vêm dos Atos escritos mais de um século depois; não são documentos históricos no sentido moderno."
+    ],
+    "curiosidades": [
+      "A batalha que expulsou os franceses da Baía de Guanabara, em 20 de janeiro de 1567, aconteceu no dia da sua festa, o que reforçou a devoção carioca.",
+      "É um dos santos mais pintados da história da arte, quase sempre amarrado e atravessado por flechas."
+    ],
+    "biblia": ["Mt 10,28", "2Tm 4,7-8"],
+    "fontes": ["Martirológio Romano, 20 de janeiro", "Depositio Martyrum (Cronógrafo de 354)"]
+  },
+  "ines": {
+    "titulo": "Virgem e mártir",
+    "viveu": "c. 291 – c. 304",
+    "local": "Roma (Itália)",
+    "patrono": ["meninas", "jovens", "noivos", "pureza"],
+    "historia": [
+      "Inês foi martirizada em Roma muito jovem, provavelmente com cerca de 12 ou 13 anos, durante a perseguição de Diocleciano. Seu nome está no Cânon Romano (Oração Eucarística I), entre as santas lembradas em toda missa que usa essa oração.",
+      "Santo Ambrósio, menos de um século depois, escreveu sobre ela: era jovem demais para ser punida pela lei, mas não para a vitória; no corpo frágil, encontrou lugar para o martírio. Ela recusou casar-se com quem a pretendia, dizendo que já pertencia a Cristo.",
+      "Foi sepultada na Via Nomentana, onde o imperador Constantino e sua filha Constância mandaram construir uma basílica em sua honra."
+    ],
+    "tradicao": [
+      "Os relatos sobre a forma exata do martírio variam (espada ou fogo); a tradição posterior acrescentou milagres para proteger sua virgindade."
+    ],
+    "curiosidades": [
+      "Seu nome lembra a palavra latina agnus (cordeiro). Por isso é representada com um cordeiro.",
+      "Todo ano, no dia 21 de janeiro, o Papa abençoa dois cordeiros; da lã deles são tecidos os pálios, faixas de lã que os arcebispos metropolitanos usam."
+    ],
+    "biblia": ["Ap 14,4", "1Cor 1,27"],
+    "fontes": ["Santo Ambrósio, Sobre as virgens I,2", "Martirológio Romano, 21 de janeiro", "Missal Romano, Oração Eucarística I"]
+  },
+  "francisco-de-sales": {
+    "titulo": "Bispo e Doutor da Igreja",
+    "viveu": "1567 – 1622",
+    "local": "Saboia (França) e Genebra (Suíça)",
+    "patrono": ["jornalistas", "escritores", "surdos"],
+    "historia": [
+      "Nasceu no castelo de Sales, na Saboia, numa família nobre. Estudou direito em Pádua, mas abandonou uma carreira promissora para ser padre.",
+      "Foi enviado à região do Chablais, que tinha passado ao calvinismo. Como as pessoas não iam ouvir suas pregações, escrevia folhetos e os passava por baixo das portas. Com paciência e mansidão, muitos voltaram à fé católica. Mais tarde, tornou-se bispo de Genebra.",
+      "Com Santa Joana de Chantal fundou a Ordem da Visitação. Seu livro Introdução à Vida Devota (Filoteia) ensinou que a santidade é para todos: o soldado, o comerciante, a mãe de família, cada um no seu estado de vida. Foi declarado Doutor da Igreja em 1877."
+    ],
+    "curiosidades": [
+      "Tinha temperamento forte e dizia que levou anos para dominar a raiva; tornou-se conhecido como o santo da mansidão.",
+      "Por causa dos folhetos que escrevia, Pio XI o proclamou padroeiro dos jornalistas e escritores católicos em 1923."
+    ],
+    "frase": {"texto": "Pega-se mais moscas com uma colher de mel do que com um barril de vinagre.", "fonte": "Dito atribuído, citado em biografias", "revisar": true},
+    "biblia": ["Mt 11,29", "1Cor 13,4"],
+    "fontes": ["Bento XVI, Audiência geral de 2 de março de 2011", "Pio XI, Rerum omnium perturbationem (1923)"]
+  },
+  "tomas-de-aquino": {
+    "titulo": "Presbítero e Doutor da Igreja",
+    "viveu": "1225 – 1274",
+    "local": "Itália e França",
+    "patrono": ["estudantes", "escolas católicas", "teólogos", "filósofos"],
+    "historia": [
+      "Nasceu em Roccasecca, perto de Aquino, na Itália. Sua família queria que ele fosse abade do rico mosteiro de Monte Cassino, mas ele decidiu entrar na nova Ordem dos Pregadores (dominicanos). Os irmãos o sequestraram e o mantiveram preso no castelo da família por cerca de um ano, mas ele não desistiu.",
+      "Estudou com Santo Alberto Magno em Paris e Colônia. Os colegas o chamavam de \"boi mudo\" por ser grande e calado; Alberto respondeu que os mugidos daquele boi seriam ouvidos no mundo inteiro.",
+      "Escreveu a Suma Teológica e muitas outras obras, unindo a fé e a razão. Compôs os hinos da festa de Corpus Christi, como o Tantum Ergo e o Adoro te devote, cantados até hoje. Morreu a caminho do Concílio de Lião, em 1274, e foi canonizado em 1323."
+    ],
+    "tradicao": [
+      "Conta-se que, rezando diante do crucifixo, ouviu: \"Escreveste bem de mim, Tomás; que recompensa queres?\", e respondeu: \"Nada senão a ti, Senhor.\""
+    ],
+    "curiosidades": [
+      "Em dezembro de 1273, depois de uma experiência mística durante a missa, parou de escrever e disse que tudo o que tinha escrito lhe parecia palha diante do que havia visto. A Suma ficou inacabada.",
+      "É chamado de Doutor Angélico."
+    ],
+    "biblia": ["Sb 7,7-10", "Mt 23,8-12"],
+    "fontes": ["Bento XVI, Audiências gerais de junho de 2010", "Guilherme de Tocco, Vida de Santo Tomás"]
+  },
+  "joao-bosco": {
+    "titulo": "Presbítero",
+    "viveu": "1815 – 1888",
+    "local": "Turim (Itália)",
+    "patrono": ["jovens", "estudantes", "editores", "mágicos"],
+    "historia": [
+      "Nasceu numa família pobre de camponeses no Piemonte e perdeu o pai aos dois anos. Aos nove anos teve um sonho em que via meninos brigando e ouvia que deveria conquistá-los não com pancadas, mas com mansidão e caridade.",
+      "Já padre, em Turim, acolheu meninos pobres, órfãos e jovens que saíam da prisão. Criou o Oratório de Valdocco, com escola, oficinas, música e brincadeira. Seu método educativo, o Sistema Preventivo, se apoia em três pilares: razão, religião e bondade.",
+      "Fundou a Congregação Salesiana (em homenagem a São Francisco de Sales) e, com Santa Maria Mazzarello, as Filhas de Maria Auxiliadora. Foi canonizado em 1934."
+    ],
+    "curiosidades": [
+      "Para atrair os meninos, fazia malabarismos, mágicas e andava na corda bamba.",
+      "Os salesianos chegaram ao Brasil em 1883, ainda em vida de Dom Bosco. Ele teve um sonho sobre uma terra prometida na América do Sul entre os paralelos 15 e 20; muitos o associam a Brasília."
+    ],
+    "biblia": ["Mt 18,1-5", "Mc 10,14"],
+    "fontes": ["Martirológio Romano, 31 de janeiro", "São João Bosco, Memórias do Oratório"]
+  },
+  "bras": {
+    "titulo": "Bispo e mártir",
+    "viveu": "séc. III – c. 316",
+    "local": "Sebaste, na Armênia (atual Turquia)",
+    "patrono": ["doenças da garganta", "otorrinolaringologistas"],
+    "historia": [
+      "Brás foi bispo de Sebaste e morreu mártir no início do século IV, durante a perseguição do imperador Licínio. Sua devoção se espalhou pelo Oriente e pelo Ocidente.",
+      "Os Atos posteriores contam que ele vivia numa caverna, onde os animais selvagens vinham até ele, e que foi preso, torturado e decapitado."
+    ],
+    "tradicao": [
+      "O episódio mais famoso é o do menino que estava morrendo engasgado com uma espinha de peixe: a mãe o levou a Brás, que rezou e o menino ficou curado. Esse relato vem da tradição e é a origem da bênção da garganta."
+    ],
+    "curiosidades": [
+      "No dia 3 de fevereiro, muitas paróquias dão a bênção da garganta com duas velas cruzadas, pedindo a intercessão de São Brás contra os males da garganta.",
+      "A bênção está prevista no Ritual de Bênçãos."
+    ],
+    "biblia": ["Tg 5,14-15", "Sl 34(33),20"],
+    "fontes": ["Martirológio Romano, 3 de fevereiro", "Ritual de Bênçãos"],
+    "revisar": true,
+    "obs": "Poucos dados históricos seguros; data do martírio aproximada."
+  },
+  "josefina-bakhita": {
+    "titulo": "Virgem",
+    "viveu": "c. 1869 – 1947",
+    "local": "Sudão e Itália",
+    "patrono": ["Sudão", "vítimas do tráfico de pessoas"],
+    "historia": [
+      "Nasceu em Darfur, no Sudão. Aos 7 ou 8 anos foi sequestrada por traficantes de escravos. O trauma foi tão grande que esqueceu o próprio nome; os sequestradores a chamaram de Bakhita, que quer dizer \"afortunada\". Foi vendida várias vezes e sofreu torturas terríveis.",
+      "Em 1883, foi comprada pelo cônsul italiano e depois levada à Itália, onde trabalhou como babá. Conheceu as Irmãs Canossianas em Veneza e lá descobriu Jesus, o \"Patrão\" que a amava. Foi batizada em 1890 com o nome de Josefina.",
+      "Quando a família quis levá-la de volta à África, ela pediu para ficar. A justiça italiana reconheceu que ela era livre, pois a escravidão já era ilegal. Entrou para as Canossianas e viveu 50 anos em Schio, como cozinheira, costureira e porteira, conhecida pela bondade. Foi canonizada por São João Paulo II em 2000."
+    ],
+    "curiosidades": [
+      "Dizia que, se encontrasse os traficantes que a sequestraram, se ajoelharia para beijar suas mãos, porque sem eles não teria conhecido Jesus.",
+      "Bento XVI apresentou sua vida na encíclica Spe Salvi como exemplo da esperança cristã. O dia 8 de fevereiro é o Dia Mundial de Oração contra o Tráfico de Pessoas."
+    ],
+    "biblia": ["Gl 5,1", "Rm 8,28"],
+    "fontes": ["Bento XVI, Spe Salvi 3", "Martirológio Romano, 8 de fevereiro"]
+  },
+  "policarpo": {
+    "titulo": "Bispo e mártir",
+    "viveu": "c. 69 – c. 155",
+    "local": "Esmirna (atual Izmir, Turquia)",
+    "patrono": ["contra dores de ouvido (tradição)"],
+    "historia": [
+      "Policarpo foi discípulo do apóstolo São João e bispo de Esmirna por muitos anos. Santo Inácio de Antioquia escreveu-lhe uma carta a caminho do martírio, e Santo Ireneu, que o conheceu quando menino, conta que ele falava do que tinha ouvido dos que viram o Senhor.",
+      "Temos uma carta escrita por ele aos filipenses e o relato do seu martírio, o mais antigo que conhecemos, escrito pela própria Igreja de Esmirna logo depois de sua morte.",
+      "Preso já idoso, o procônsul pediu que ele amaldiçoasse a Cristo para ser solto. Ele respondeu: \"Há oitenta e seis anos eu o sirvo, e ele nunca me fez mal algum. Como poderia blasfemar contra o meu Rei, que me salvou?\". Foi levado à fogueira e, como as chamas não o atingiam, foi morto com um punhal."
+    ],
+    "curiosidades": [
+      "O Martírio de Policarpo é o primeiro documento a mostrar os cristãos celebrando o aniversário da morte de um mártir e guardando suas relíquias como \"mais preciosas que pedras preciosas\".",
+      "É um elo vivo entre os Apóstolos e a Igreja do século II."
+    ],
+    "biblia": ["Ap 2,8-10", "2Tm 4,6-8"],
+    "fontes": ["Martírio de Policarpo 9 e 18", "Santo Ireneu, Contra as Heresias III,3,4", "Eusébio, História Eclesiástica IV,15"]
+  },
+  "perpetua-e-felicidade": {
+    "titulo": "Mártires",
+    "viveu": "† 203",
+    "local": "Cartago (atual Tunísia)",
+    "patrono": ["mães", "gestantes"],
+    "historia": [
+      "Perpétua era uma jovem nobre de 22 anos, mãe de um bebê ainda amamentado. Felicidade era sua escrava, grávida de oito meses. Ambas eram catecúmenas e foram presas por se prepararem para o Batismo, proibido por um decreto do imperador Sétimo Severo.",
+      "Perpétua escreveu na prisão um diário, que chegou até nós: é um dos textos mais antigos escritos por uma mulher cristã. Ela conta os apelos do pai para que renunciasse à fé e responde mostrando um jarro: assim como o jarro não pode ter outro nome, ela não podia chamar-se senão cristã.",
+      "Felicidade deu à luz uma menina na prisão, dois dias antes do martírio. As duas foram expostas às feras no anfiteatro e depois mortas à espada, de mãos dadas."
+    ],
+    "curiosidades": [
+      "Seus nomes estão no Cânon Romano (Oração Eucarística I): \"Felicidade, Perpétua\".",
+      "A dona e a escrava morreram juntas, como irmãs: sinal de que em Cristo \"não há escravo nem livre\" (Gl 3,28)."
+    ],
+    "biblia": ["Gl 3,28", "Rm 8,35-37"],
+    "fontes": ["Paixão de Perpétua e Felicidade (séc. III)", "Missal Romano, Oração Eucarística I"]
+  },
+  "patricio": {
+    "titulo": "Bispo",
+    "viveu": "c. 385 – c. 461",
+    "local": "Britânia e Irlanda",
+    "patrono": ["Irlanda", "engenheiros"],
+    "historia": [
+      "Patrício nasceu na Britânia romana, filho de um diácono. Aos 16 anos, foi sequestrado por piratas e levado como escravo para a Irlanda, onde cuidou de ovelhas por seis anos. Ali descobriu a oração: rezava cem vezes por dia e outras tantas à noite.",
+      "Fugiu, voltou para casa e, anos depois, sentiu em sonho o chamado dos irlandeses: \"Vem caminhar de novo entre nós\". Tornou-se padre e bispo, e voltou à Irlanda como missionário, onde evangelizou por cerca de 30 anos, fundando igrejas e ordenando sacerdotes.",
+      "Deixou dois escritos autênticos: a Confissão, uma autobiografia espiritual, e uma Carta contra os soldados de Corótico, que tinham matado e escravizado cristãos recém-batizados."
+    ],
+    "tradicao": [
+      "A explicação da Santíssima Trindade com o trevo de três folhas e a expulsão das serpentes da Irlanda são lendas posteriores, sem base nos seus escritos."
+    ],
+    "curiosidades": [
+      "Começa a sua Confissão assim: \"Eu, Patrício, pecador, o mais rústico e o menor de todos os fiéis\".",
+      "O verde e o trevo, usados no dia de São Patrício, vêm dessa tradição popular."
+    ],
+    "biblia": ["Mt 28,19-20", "Is 6,8"],
+    "fontes": ["São Patrício, Confissão 1, 16, 23", "Martirológio Romano, 17 de março"]
+  },
+  "sao-jose": {
+    "titulo": "Esposo da Virgem Maria",
+    "viveu": "séc. I a.C. – séc. I",
+    "local": "Nazaré e Belém (Terra Santa)",
+    "patrono": ["Igreja universal", "pais de família", "trabalhadores", "boa morte"],
+    "historia": [
+      "José, da descendência de Davi, era noivo de Maria. Os Evangelhos o chamam de \"homem justo\" (Mt 1,19). Ao saber que Maria estava grávida, decidiu deixá-la em segredo para não expô-la; mas em sonho o anjo lhe revelou que o filho era obra do Espírito Santo, e José recebeu Maria como esposa.",
+      "Obedecendo a outros sonhos, levou Maria e o Menino para o Egito, fugindo de Herodes, e depois voltou para Nazaré. Era carpinteiro (Mt 13,55) e ensinou a Jesus o seu ofício. Procurou Jesus angustiado quando ele ficou no Templo aos doze anos (Lc 2,41-51).",
+      "Não há nenhuma palavra de José registrada nos Evangelhos: ele fala pelas obras. Depois do episódio no Templo, não aparece mais; a tradição entende que morreu antes da vida pública de Jesus, assistido por Jesus e Maria."
+    ],
+    "tradicao": [
+      "A ideia de que José era um ancião vem de escritos apócrifos (como o Protoevangelho de Tiago), e não dos Evangelhos.",
+      "Por ter morrido nos braços de Jesus e Maria, segundo a tradição, é invocado como padroeiro da boa morte."
+    ],
+    "curiosidades": [
+      "O Beato Pio IX o declarou Padroeiro da Igreja Universal em 1870. Em 2020-2021 o Papa Francisco dedicou um ano inteiro a São José, com a carta Patris Corde.",
+      "A quarta-feira é o dia tradicionalmente dedicado a São José.",
+      "A festa de São José Operário, em 1º de maio, foi criada por Pio XII em 1955."
+    ],
+    "biblia": ["Mt 1,18-25", "Mt 2,13-23", "Lc 2,41-52", "Mt 13,55"],
+    "fontes": ["Papa Francisco, Patris Corde (2020)", "São João Paulo II, Redemptoris Custos (1989)", "CIC 437", "CIC 532"]
+  },
+  "catarina-de-sena": {
+    "titulo": "Virgem e Doutora da Igreja",
+    "viveu": "1347 – 1380",
+    "local": "Siena e Roma (Itália)",
+    "patrono": ["Itália", "Europa", "enfermeiros"],
+    "historia": [
+      "Catarina Benincasa era a 24ª de 25 filhos de um tintureiro de Siena. Desde menina quis consagrar-se a Deus. Entrou para as Mantellatas, leigas da Ordem Terceira de São Domingos, e viveu em casa uma vida intensa de oração e penitência, servindo os pobres e os doentes, inclusive durante a peste.",
+      "Embora quase não soubesse escrever, ditou centenas de cartas a papas, reis e pessoas simples, e o livro Diálogo da Divina Providência. Ao redor dela formou-se uma \"família\" de discípulos.",
+      "Num tempo em que os papas moravam em Avinhão, na França, ela foi até lá e insistiu com Gregório XI que voltasse a Roma, o que aconteceu em 1377. Morreu aos 33 anos, em Roma. Foi declarada Doutora da Igreja em 1970, junto com Santa Teresa de Ávila, as primeiras mulheres com esse título."
+    ],
+    "curiosidades": [
+      "Recebeu os estigmas (as chagas de Cristo), que segundo os relatos ficaram invisíveis a seu pedido até a morte.",
+      "Chamava o Papa de \"o doce Cristo na terra\"."
+    ],
+    "frase": {"texto": "Se fordes o que deveis ser, poreis fogo em toda a Itália.", "fonte": "Santa Catarina de Sena, Carta 368"},
+    "biblia": ["Mt 11,25", "Gl 2,20"],
+    "fontes": ["São Paulo VI, Proclamação como Doutora da Igreja (1970)", "Bento XVI, Audiência geral de 24 de novembro de 2010"],
+    "revisar": true,
+    "obs": "Conferir o número da carta citada na frase."
+  },
+  "jorge": {
+    "titulo": "Mártir",
+    "viveu": "séc. III – c. 303",
+    "local": "Lida (Palestina)",
+    "patrono": ["Inglaterra", "Portugal", "escoteiros", "cavaleiros", "militares"],
+    "historia": [
+      "Jorge é um dos mártires mais antigos e venerados do Oriente e do Ocidente. Sabemos com segurança que morreu mártir, provavelmente na perseguição de Diocleciano, e que seu túmulo em Lida (atual Lod, em Israel) era lugar de peregrinação desde muito cedo.",
+      "Segundo a tradição, era um soldado do exército romano, natural da Capadócia, que se recusou a renunciar à fé e foi torturado e decapitado."
+    ],
+    "tradicao": [
+      "A famosa história do dragão, que ameaçava uma cidade e é vencido por Jorge para salvar uma princesa, surgiu na Idade Média, popularizada pela Legenda Áurea (séc. XIII). É uma imagem da vitória da fé sobre o mal, não um fato histórico."
+    ],
+    "curiosidades": [
+      "No Brasil, a devoção a São Jorge é muito popular, sobretudo no Rio de Janeiro, onde o dia 23 de abril é feriado estadual.",
+      "Por causa do sincretismo religioso, algumas pessoas o confundem com entidades de outras religiões. Para o católico, Jorge é um mártir que deu a vida por Cristo."
+    ],
+    "biblia": ["Ef 6,10-17", "Ap 12,7-11"],
+    "fontes": ["Martirológio Romano, 23 de abril"]
+  },
+  "rita-de-cassia": {
+    "titulo": "Religiosa",
+    "viveu": "c. 1381 – 1457",
+    "local": "Cássia (Itália)",
+    "patrono": ["causas impossíveis", "esposas e mães que sofrem", "viúvas"],
+    "historia": [
+      "Rita nasceu em Roccaporena, perto de Cássia, na Úmbria. Desejava ser religiosa, mas, por obediência aos pais, casou-se jovem com Paulo Mancini, homem de temperamento violento. Com paciência e oração, ajudou o marido a se converter. Tiveram dois filhos.",
+      "O marido foi assassinado numa briga entre famílias. Rita perdoou os assassinos e rezou para que os filhos não se vingassem; os dois morreram pouco depois, de doença. Viúva e sozinha, pediu para entrar no mosteiro agostiniano de Santa Maria Madalena, em Cássia, onde foi aceita depois de ajudar a reconciliar as famílias em conflito.",
+      "No mosteiro, viveu cerca de 40 anos em oração e penitência. Por volta de 1442, recebeu na testa uma ferida, como de um espinho da coroa de Cristo, que levou até a morte. Foi canonizada em 1900."
+    ],
+    "tradicao": [
+      "Conta-se que, já doente, pediu uma rosa do jardim da casa onde nasceu, em pleno inverno, e uma parente encontrou uma rosa florida na neve. Por isso se distribuem rosas bentas no dia 22 de maio.",
+      "Também se conta que a madre lhe mandou regar um galho seco, e ela obedeceu por muito tempo, até a videira brotar."
+    ],
+    "curiosidades": [
+      "Seu corpo, que se conservou de forma notável, está exposto numa urna de vidro na Basílica de Cássia.",
+      "É chamada \"santa das causas impossíveis\"."
+    ],
+    "biblia": ["Mt 5,44", "Rm 12,21"],
+    "fontes": ["Martirológio Romano, 22 de maio", "Bula de canonização de Leão XIII (1900)"],
+    "revisar": true,
+    "obs": "Datas de nascimento variam entre 1371 e 1381 conforme as biografias."
+  },
+  "filipe-neri": {
+    "titulo": "Presbítero",
+    "viveu": "1515 – 1595",
+    "local": "Florença e Roma (Itália)",
+    "patrono": ["humoristas", "educadores", "Roma (copadroeiro)"],
+    "historia": [
+      "Nasceu em Florença e foi para Roma ainda jovem. Durante anos viveu como leigo, ensinando, rezando nas catacumbas e cuidando dos peregrinos e doentes. Em 1544, rezando na catacumba de São Sebastião, sentiu o Espírito Santo encher seu coração de tal forma que, segundo ele, o peito se dilatou.",
+      "Ordenado padre em 1551, passava horas no confessionário. Reunia jovens e adultos para conversar sobre a fé, rezar, cantar e visitar as igrejas de Roma. Desses encontros nasceu a Congregação do Oratório, aprovada em 1575.",
+      "Era famoso pela alegria e pelo bom humor, que usava para combater a vaidade, a começar pela própria. Foi canonizado em 1622, no mesmo dia que Santo Inácio, São Francisco Xavier e Santa Teresa de Ávila."
+    ],
+    "curiosidades": [
+      "Para se humilhar, às vezes andava pelas ruas com metade da barba raspada ou com roupas engraçadas.",
+      "A palavra \"oratório\", como gênero musical, nasceu das músicas cantadas nos encontros do seu Oratório."
+    ],
+    "frase": {"texto": "Sede bons, se puderdes.", "fonte": "Dito atribuído, citado em biografias", "revisar": true},
+    "biblia": ["Fl 4,4", "Rm 5,5"],
+    "fontes": ["Martirológio Romano, 26 de maio", "Papa Francisco, Carta pelo V centenário de nascimento (2015)"]
+  },
+  "jose-de-anchieta": {
+    "titulo": "Presbítero",
+    "viveu": "1534 – 1597",
+    "local": "Ilhas Canárias (Espanha) e Brasil",
+    "patrono": ["Brasil (copadroeiro)", "catequistas"],
+    "historia": [
+      "José de Anchieta nasceu em San Cristóbal de La Laguna, em Tenerife, nas Ilhas Canárias. Estudou em Coimbra, em Portugal, onde entrou para a Companhia de Jesus aos 17 anos. Por causa de uma doença na coluna, que o deixou encurvado, foi enviado ao Brasil em 1553, esperando que o clima o ajudasse.",
+      "Participou, com o padre Manuel da Nóbrega, da fundação do colégio de São Paulo de Piratininga em 25 de janeiro de 1554, origem da cidade de São Paulo. Aprendeu o tupi e escreveu a primeira gramática dessa língua, além de catecismos, poemas e peças de teatro para evangelizar os indígenas.",
+      "Ajudou a negociar a paz de Iperoig com os tamoios, ficando como refém. Foi provincial dos jesuítas no Brasil e morreu em Reritiba, no Espírito Santo (hoje cidade de Anchieta). Foi canonizado pelo Papa Francisco em 2014, por canonização equivalente."
+    ],
+    "tradicao": [
+      "Conta-se que, enquanto era refém em Iperoig, escreveu na areia da praia um longo poema em latim à Virgem Maria, memorizando-o para depois colocá-lo no papel. O poema existe; o modo como foi composto vem da tradição."
+    ],
+    "curiosidades": [
+      "É chamado \"Apóstolo do Brasil\".",
+      "Sua festa, 9 de junho, é memória obrigatória no Brasil."
+    ],
+    "biblia": ["1Cor 9,22", "Mt 28,19-20"],
+    "fontes": ["Martirológio Romano, 9 de junho", "Diretório Litúrgico da CNBB"]
+  },
+  "antonio-de-padua": {
+    "titulo": "Presbítero e Doutor da Igreja",
+    "viveu": "1195 – 1231",
+    "local": "Lisboa (Portugal) e Pádua (Itália)",
+    "patrono": ["Lisboa", "Pádua", "objetos perdidos", "pobres", "casamentos (devoção popular)"],
+    "historia": [
+      "Nasceu em Lisboa, com o nome de Fernando de Bulhões. Entrou para os cônegos regrantes de Santo Agostinho e estudou profundamente a Bíblia em Coimbra.",
+      "Em 1220, viu chegar a Coimbra os corpos de cinco frades franciscanos martirizados em Marrocos. Comovido, entrou para a Ordem de São Francisco, tomou o nome de Antônio e partiu para a África, querendo ser mártir. Ficou doente, e o navio de volta foi desviado por uma tempestade até a Sicília.",
+      "Na Itália, viveu escondido até que, numa ordenação, foi obrigado a pregar de improviso e todos se admiraram da sua sabedoria. São Francisco o encarregou de ensinar teologia aos frades. Pregou pela Itália e pela França com enorme fruto. Morreu perto de Pádua aos 36 anos e foi canonizado menos de um ano depois, em 1232. É Doutor da Igreja desde 1946."
+    ],
+    "tradicao": [
+      "Conta-se que, quando as pessoas de Rimini não quiseram ouvi-lo, ele foi pregar aos peixes, que colocaram a cabeça para fora da água para escutar.",
+      "A imagem de Santo Antônio com o Menino Jesus nos braços vem de um relato de que ele foi visto segurando o Menino."
+    ],
+    "curiosidades": [
+      "No Brasil e em Portugal é o \"santo casamenteiro\", e o 12 de junho, véspera da festa, virou Dia dos Namorados no Brasil.",
+      "Os \"pães de Santo Antônio\", distribuídos no dia 13 de junho, lembram sua caridade com os pobres.",
+      "Quando seu túmulo foi aberto em 1263, sua língua foi encontrada incorrupta; ela é venerada em Pádua."
+    ],
+    "biblia": ["Is 61,1-3", "Mc 16,15"],
+    "fontes": ["Martirológio Romano, 13 de junho", "Pio XII, Exulta, Lusitania felix (1946)", "Bento XVI, Audiência geral de 10 de fevereiro de 2010"]
+  },
+  "luis-gonzaga": {
+    "titulo": "Religioso",
+    "viveu": "1568 – 1591",
+    "local": "Castiglione e Roma (Itália)",
+    "patrono": ["juventude católica", "estudantes", "pacientes de AIDS"],
+    "historia": [
+      "Luís era o filho mais velho do marquês de Castiglione e foi educado para a carreira militar e para a corte. Ainda menino, viveu em cortes da Itália e da Espanha, mas desde cedo decidiu dedicar-se a Deus.",
+      "Depois de muita resistência do pai, renunciou ao título e à herança e entrou na Companhia de Jesus em Roma, aos 17 anos.",
+      "Em 1591, uma epidemia atingiu Roma. Luís pediu para cuidar dos doentes nos hospitais, carregando-os nos ombros. Contraiu a doença e morreu aos 23 anos. São Roberto Belarmino foi seu diretor espiritual."
+    ],
+    "curiosidades": [
+      "Bento XIII o proclamou padroeiro da juventude católica em 1729.",
+      "Dizia: \"Sou um pedaço de ferro torto; entrei na vida religiosa para ser endireitado pelo martelo da mortificação e da oração\"."
+    ],
+    "biblia": ["Mt 25,36-40", "1Tm 4,12"],
+    "fontes": ["Martirológio Romano, 21 de junho"],
+    "revisar": true,
+    "obs": "Conferir a fonte da frase atribuída."
+  },
+  "joao-batista-nascimento": {
+    "titulo": "Precursor do Senhor",
+    "viveu": "séc. I a.C. – c. 29",
+    "local": "Judeia (Terra Santa)",
+    "patrono": ["festas juninas", "batismo", "Porto (Portugal)"],
+    "historia": [
+      "João Batista é o único santo, além de Nossa Senhora, cujo nascimento é celebrado com uma solenidade. Isso porque já foi santificado no seio da mãe: estremeceu de alegria quando Maria, grávida de Jesus, visitou Isabel (Lc 1,41-44).",
+      "Era filho do sacerdote Zacarias e de Isabel, já idosos. O anjo Gabriel anunciou seu nascimento, e Zacarias ficou mudo por não acreditar. No dia da circuncisão, escreveu \"João é o seu nome\" e voltou a falar, cantando o Benedictus (Lc 1,57-79).",
+      "Viveu no deserto, vestido de pelos de camelo, comendo gafanhotos e mel silvestre. Pregou a conversão e batizou no rio Jordão, onde batizou também Jesus e o apontou como \"o Cordeiro de Deus\" (Jo 1,29). Foi preso e decapitado por Herodes Antipas, por denunciar sua união ilegítima com Herodíades (Mc 6,17-29)."
+    ],
+    "curiosidades": [
+      "A festa cai seis meses antes do Natal, porque o anjo disse a Maria que Isabel estava no sexto mês (Lc 1,36).",
+      "As festas juninas brasileiras nasceram das festas de Santo Antônio, São João e São Pedro. A fogueira de São João recorda, segundo a tradição, o sinal combinado por Isabel para avisar Maria do nascimento.",
+      "Jesus disse que, entre os nascidos de mulher, não surgiu ninguém maior que João Batista (Mt 11,11)."
+    ],
+    "biblia": ["Lc 1,5-25", "Lc 1,57-80", "Jo 1,19-34", "Mt 3,1-17", "Mt 11,7-11", "Mc 6,17-29"],
+    "fontes": ["CIC 523", "CIC 717-720"]
+  },
+  "pedro-e-paulo": {
+    "titulo": "Apóstolos",
+    "viveu": "séc. I – c. 64/67",
+    "local": "Galileia, Jerusalém, Antioquia, Ásia Menor, Grécia e Roma",
+    "patrono": ["Roma", "Papa (Pedro)", "pescadores (Pedro)", "missionários e escritores (Paulo)"],
+    "historia": [
+      "Simão, pescador de Betsaida, foi chamado por Jesus junto com seu irmão André. Jesus mudou seu nome para Cefas, Pedro (pedra), e lhe confiou as chaves do Reino (Mt 16,18-19). Pedro negou Jesus três vezes na Paixão, chorou amargamente e, depois da ressurreição, professou três vezes seu amor: \"Senhor, tu sabes que eu te amo\" (Jo 21,15-17). Pregou em Pentecostes, liderou a Igreja de Jerusalém e foi para Roma.",
+      "Saulo de Tarso era fariseu e perseguia os cristãos. A caminho de Damasco, Jesus ressuscitado apareceu-lhe: \"Saulo, Saulo, por que me persegues?\" (At 9,4). Convertido, tornou-se o Apóstolo dos gentios. Fez grandes viagens missionárias, fundou comunidades e escreveu cartas que estão no Novo Testamento.",
+      "Ambos morreram mártires em Roma, sob o imperador Nero. Segundo a tradição antiga, Pedro foi crucificado no monte Vaticano, e Paulo, como cidadão romano, foi decapitado na Via Ostiense. Sobre seus túmulos se erguem a Basílica de São Pedro e a de São Paulo Fora dos Muros."
+    ],
+    "tradicao": [
+      "Pedro teria pedido para ser crucificado de cabeça para baixo, por não se julgar digno de morrer como o Senhor (relato de Orígenes, citado por Eusébio).",
+      "A lenda do \"Quo vadis?\" conta que Pedro fugia de Roma e encontrou Jesus, que lhe disse que ia ser crucificado de novo; Pedro então voltou."
+    ],
+    "curiosidades": [
+      "No Brasil, a solenidade é celebrada no domingo seguinte a 29 de junho, quando o dia 29 cai em dia de semana.",
+      "Nesse dia se faz a coleta do Óbolo de São Pedro, para ajudar a caridade do Papa.",
+      "As escavações sob a Basílica de São Pedro, no século XX, identificaram o túmulo venerado como o de Pedro."
+    ],
+    "biblia": ["Mt 16,13-19", "Jo 21,15-19", "At 9,1-19", "2Tm 4,6-8", "Gl 2,7-9"],
+    "fontes": ["CIC 552-553", "CIC 765", "Eusébio, História Eclesiástica II,25 e III,1", "São Clemente de Roma, Carta aos Coríntios 5"]
+  },
+  "tome": {
+    "titulo": "Apóstolo",
+    "viveu": "séc. I",
+    "local": "Galileia e, segundo a tradição, Índia",
+    "patrono": ["Índia", "arquitetos", "construtores"],
+    "historia": [
+      "Tomé, chamado Dídimo (gêmeo), era um dos Doze. Quando Jesus decidiu voltar à Judeia, onde queriam matá-lo, Tomé disse: \"Vamos também nós, para morrermos com ele\" (Jo 11,16). Na Última Ceia, perguntou: \"Senhor, não sabemos para onde vais; como podemos saber o caminho?\", e Jesus respondeu: \"Eu sou o caminho, a verdade e a vida\" (Jo 14,5-6).",
+      "Não estava com os outros quando Jesus ressuscitado apareceu e disse que só acreditaria se tocasse as chagas. Oito dias depois, Jesus voltou e o convidou a tocar. Tomé fez a mais alta profissão de fé dos Evangelhos: \"Meu Senhor e meu Deus!\" (Jo 20,24-29)."
+    ],
+    "tradicao": [
+      "Uma tradição muito antiga diz que Tomé evangelizou a Índia e morreu mártir perto de Chennai (Madras). Os \"cristãos de São Tomé\", no sul da Índia, consideram-se fundados por ele."
+    ],
+    "curiosidades": [
+      "Muitas pessoas repetem em silêncio \"Meu Senhor e meu Deus!\" no momento da elevação da hóstia na missa.",
+      "A expressão \"ver para crer, como São Tomé\" vem desse episódio."
+    ],
+    "biblia": ["Jo 11,16", "Jo 14,5-6", "Jo 20,24-29"],
+    "fontes": ["Martirológio Romano, 3 de julho", "Bento XVI, Audiência geral de 27 de setembro de 2006"]
+  }
+}
