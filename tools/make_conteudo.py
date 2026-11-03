@@ -20,7 +20,7 @@ erros, revisar = [], []
 
 
 def rotulo(no, caminho):
-    for k in ("titulo", "nome", "pergunta", "id"):
+    for k in ("titulo", "nome", "pergunta", "autor", "id"):
         if isinstance(no, dict) and isinstance(no.get(k), str):
             return f"{caminho} · {no[k]}"
     return caminho
