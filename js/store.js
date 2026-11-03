@@ -125,3 +125,61 @@ export function importar(texto) {
 }
 
 export function apagarTudo() { state = blankState(); salvar(); }
+
+// ---- Marcações de conteúdo (usadas pelas telas e pelos selos) ----
+
+export function jaLido(ref) { return !!state.lidos[ref]; }
+
+// Desmarca um capítulo lido (se a pessoa marcou sem querer).
+export function desmarcarLido(ref) { delete state.lidos[ref]; salvar(); }
+
+export function marcarVisto(lista, id, titulo, tipo) {
+  if (!state[lista].includes(id)) state[lista].push(id);
+  registrar({ tipo, ref: id, titulo });
+}
+
+export function setFlag(nome, valor = true) { state.flags[nome] = valor; salvar(); }
+
+export function contarFlag(nome, chave) {
+  const atual = state.flags[nome] || [];
+  if (!atual.includes(chave)) state.flags[nome] = [...atual, chave];
+  salvar();
+}
+
+export function alternarFavorito(ref) {
+  const i = state.favoritos.indexOf(ref);
+  if (i >= 0) state.favoritos.splice(i, 1); else state.favoritos.unshift(ref);
+  salvar();
+  return i < 0;
+}
+
+// Projetos de leitura: { inicio: "2026-11-03", diasFeitos: [1, 2, ...], concluido: data | null }
+export function iniciarPlano(id, extra = {}) {
+  state.planos[id] = { inicio: hojeISO(), diasFeitos: [], concluido: null, ...extra };
+  salvar();
+}
+
+export function sairPlano(id) { delete state.planos[id]; salvar(); }
+
+export function marcarDiaPlano(id, dia, totalDias, titulo) {
+  const p = state.planos[id];
+  if (!p) return;
+  if (!p.diasFeitos.includes(dia)) p.diasFeitos.push(dia);
+  if (p.diasFeitos.length >= totalDias && !p.concluido) p.concluido = hojeISO();
+  registrar({ tipo: "plano", ref: `${id}:${dia}`, titulo });
+}
+
+export function desmarcarDiaPlano(id, dia) {
+  const p = state.planos[id];
+  if (!p) return;
+  p.diasFeitos = p.diasFeitos.filter(d => d !== dia);
+  p.concluido = null;
+  salvar();
+}
+
+export function ganharSelo(id) {
+  if (state.selos[id]) return false;
+  state.selos[id] = hojeISO();
+  salvar();
+  return true;
+}

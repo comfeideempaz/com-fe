@@ -7,7 +7,9 @@ const ITENS = [
   { rota: "#/santos", icone: "santo", titulo: "Santos", texto: "Histórias e curiosidades" },
   { rota: "#/missa", icone: "calice", titulo: "Missa explicada", texto: "Cada parte e o porquê" },
   { rota: "#/oracoes", icone: "maos", titulo: "Orações", texto: "Orações e terço guiado" },
-  { rota: "#/progresso", icone: "progresso", titulo: "Meu progresso", texto: "Sequência, meta e backup" },
+  { rota: "#/sacramentos", icone: "cruz", titulo: "Sacramentos", texto: "Confissão e exame de consciência" },
+  { rota: "#/defesa", icone: "escudo", titulo: "Defesa da Fé", texto: "Respostas com a Bíblia e o Catecismo" },
+  { rota: "#/progresso", icone: "progresso", titulo: "Meu progresso", texto: "Sequência, selos, meta e backup" },
   { rota: "#/sobre", icone: "info", titulo: "Sobre", texto: "Fontes e créditos" },
 ];
 

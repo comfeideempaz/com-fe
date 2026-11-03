@@ -1,10 +1,14 @@
-// Tela "Meu progresso": sequência e recorde, meta do dia, aparência (tema e letra)
+// Tela "Meu progresso": sequência e recorde, selos, números do caminho, meta do dia, aparência (tema e letra)
 // e o backup do progresso (exportar e importar arquivo), já que não há conta.
 
 import { getState, subscribe, setPerfil, sequenciaAtual, exportar, importar, apagarTudo } from "../store.js";
 import { cabecalho, esc, formatNumber, toast, hojeISO } from "../ui.js";
 import { META } from "../config.js";
 import { ic } from "../icons.js";
+import { definicoes } from "../selos.js";
+import { refsHTML } from "../biblia.js";
+
+let selosDef = null;
 
 function opcoes(lista, atual) {
   return lista.map(v => `<option value="${v}" ${String(v) === String(atual) ? "selected" : ""}>${v}</option>`).join("");
@@ -18,6 +22,29 @@ function desenhar(el) {
       <div class="cartao estat"><div class="estat-ic chama">${ic("chama")}</div><div><p class="estat-num">${formatNumber(sequenciaAtual())}</p><p class="estat-rot">sequência atual</p></div></div>
       <div class="cartao estat"><div class="estat-ic ouro">${ic("selo")}</div><div><p class="estat-num">${formatNumber(st.sequencia.recorde)}</p><p class="estat-rot">maior sequência</p></div></div>
       <div class="cartao estat"><div class="estat-ic livro">${ic("livro")}</div><div><p class="estat-num">${formatNumber(Object.keys(st.lidos).length)}</p><p class="estat-rot">capítulos lidos</p></div></div>
+    </section>
+
+    <section class="cartao" aria-labelledby="t-selos">
+      <h2 id="t-selos">Selos do caminho</h2>
+      ${selosDef ? `<p class="apoio">${esc(selosDef.sobre)}</p>
+      <ul class="selos">${selosDef.selos.map(s => {
+        const quando = st.selos[s.id];
+        return `<li class="selo ${quando ? "ganho" : ""}"><span class="selo-ic">${ic(quando ? "selo" : "alvo")}</span>
+          <span><strong>${esc(s.nome)}</strong><small>${esc(s.descricao)}</small>
+          ${quando ? `<em>“${esc(s.frase)}” ${refsHTML(s.biblia)}</em><small>Recebido em ${esc(quando.split("-").reverse().join("/"))}</small>` : ""}</span></li>`;
+      }).join("")}</ul>` : ""}
+    </section>
+
+    <section class="cartao" aria-labelledby="t-numeros">
+      <h2 id="t-numeros">Seu caminho em números</h2>
+      <ul class="numeros">
+        <li><strong>${formatNumber((st.flags.evangelhos || []).length)}</strong> evangelhos do dia</li>
+        <li><strong>${formatNumber(st.santosVistos.length)}</strong> vidas de santos</li>
+        <li><strong>${formatNumber(st.missaVista.length)}</strong> partes da missa</li>
+        <li><strong>${formatNumber((st.flags.defesa || []).length)}</strong> temas da Defesa da Fé</li>
+        <li><strong>${formatNumber(st.favoritos.length)}</strong> versículos favoritos</li>
+        <li><strong>${formatNumber(Object.values(st.planos).filter(p => p.concluido).length)}</strong> projetos concluídos</li>
+      </ul>
     </section>
 
     <form class="cartao form" id="f-perfil" aria-labelledby="t-perfil">
@@ -88,7 +115,8 @@ function desenhar(el) {
   });
 }
 
-export function render(el) {
+export async function render(el) {
+  try { selosDef = await definicoes(); } catch { selosDef = null; }
   desenhar(el);
   // Redesenha só quando algo mudou fora desta tela (ex.: restaurar backup), mantendo o foco.
   return subscribe(() => { if (!el.contains(document.activeElement) || document.activeElement.type === "file") desenhar(el); });

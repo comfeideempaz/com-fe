@@ -6,6 +6,9 @@ import { APP_NAME } from "./config.js";
 import { ic } from "./icons.js";
 import { lumi } from "./lumi.js";
 import { getState, subscribe } from "./store.js";
+import { verificar as verificarSelos } from "./selos.js";
+import { dia as diaLiturgico, aplicarCor } from "./liturgia.js";
+import { hojeISO } from "./ui.js";
 
 // Itens do menu. "celular" = aparece na barra inferior (5 itens).
 // "computador" = aparece no menu lateral (classe nav-desktop quando não está no celular).
@@ -17,6 +20,8 @@ const MENU = [
   { id: "santos", rota: "#/santos", rotulo: "Santos", icone: "santo", computador: true },
   { id: "missa", rota: "#/missa", rotulo: "Missa explicada", icone: "calice", computador: true },
   { id: "oracoes", rota: "#/oracoes", rotulo: "Orações", icone: "maos", computador: true },
+  { id: "sacramentos", rota: "#/sacramentos", rotulo: "Sacramentos", icone: "cruz", computador: true },
+  { id: "defesa", rota: "#/defesa", rotulo: "Defesa da Fé", icone: "escudo", computador: true },
   { id: "progresso", rota: "#/progresso", rotulo: "Meu progresso", icone: "progresso", computador: true },
   { id: "sobre", rota: "#/sobre", rotulo: "Sobre", icone: "info", computador: true },
   { id: "mais", rota: "#/mais", rotulo: "Mais", icone: "mais", celular: true },
@@ -26,7 +31,8 @@ const MENU = [
 const ROUTES = [
   { re: /^\/inicio$/, nav: "inicio", title: "Início", view: "inicio" },
   { re: /^\/biblia$/, nav: "biblia", title: "Bíblia", view: "biblia" },
-  { re: /^\/biblia\/([a-z0-9]+)\/(\d+)$/, nav: "biblia", title: "Bíblia", view: "biblia", params: ["livro", "cap"] },
+  { re: /^\/biblia\/([a-z0-9-]+)$/, nav: "biblia", title: "Bíblia", view: "biblia", params: ["livro"] },
+  { re: /^\/biblia\/([a-z0-9-]+)\/(\d+)(?:\/(\d+))?$/, nav: "biblia", title: "Bíblia", view: "biblia", params: ["livro", "cap", "v"] },
   { re: /^\/planos$/, nav: "planos", title: "Projetos de leitura", view: "planos" },
   { re: /^\/planos\/([a-z0-9-]+)$/, nav: "planos", title: "Projeto de leitura", view: "planos", params: ["plano"] },
   { re: /^\/liturgia$/, nav: "liturgia", title: "Liturgia", view: "liturgia" },
@@ -35,12 +41,17 @@ const ROUTES = [
   { re: /^\/santos\/([a-z0-9-]+)$/, nav: "santos", title: "Santo", view: "santos", params: ["id"] },
   { re: /^\/missa$/, nav: "missa", title: "Missa explicada", view: "missa" },
   { re: /^\/oracoes$/, nav: "oracoes", title: "Orações", view: "oracoes" },
+  { re: /^\/oracoes\/([a-z0-9-]+)$/, nav: "oracoes", title: "Orações", view: "oracoes", params: ["id"] },
+  { re: /^\/sacramentos$/, nav: "sacramentos", title: "Sacramentos", view: "sacramentos" },
+  { re: /^\/sacramentos\/([a-z0-9-]+)$/, nav: "sacramentos", title: "Sacramentos", view: "sacramentos", params: ["id"] },
+  { re: /^\/defesa$/, nav: "defesa", title: "Defesa da Fé", view: "defesa" },
+  { re: /^\/defesa\/([a-z0-9-]+)$/, nav: "defesa", title: "Defesa da Fé", view: "defesa", params: ["id"] },
   { re: /^\/progresso$/, nav: "progresso", title: "Meu progresso", view: "progresso" },
   { re: /^\/sobre$/, nav: "sobre", title: "Sobre", view: "sobre" },
   { re: /^\/mais$/, nav: "mais", title: "Mais", view: "mais" },
 ];
 
-const MAIS_INCLUI = ["santos", "missa", "oracoes", "progresso", "sobre"];
+const MAIS_INCLUI = ["santos", "missa", "oracoes", "sacramentos", "defesa", "progresso", "sobre"];
 
 function montarMenu() {
   document.getElementById("nav-lista").innerHTML = MENU.map(m => {
@@ -76,7 +87,7 @@ async function rotear() {
   }
   const params = {};
   const m = rota.re ? caminho.match(rota.re) : null;
-  (rota.params || []).forEach((nome, i) => { params[nome] = decodeURIComponent(m[i + 1]); });
+  (rota.params || []).forEach((nome, i) => { if (m[i + 1] !== undefined) params[nome] = decodeURIComponent(m[i + 1]); });
 
   const minha = ++geracao;
   if (typeof limpar === "function") { try { limpar(); } catch (e) { console.error(e); } }
@@ -113,6 +124,11 @@ function iniciar() {
   subscribe(aplicarTema);
   montarMenu();
   faixaOffline();
+  // Cor litúrgica do dia em todo o app.
+  diaLiturgico(hojeISO()).then(d => d && aplicarCor(d.cor)).catch(() => {});
+  // Selos: confere depois de cada mudança no progresso (sem travar a tela).
+  let espera;
+  subscribe(() => { clearTimeout(espera); espera = setTimeout(verificarSelos, 400); });
   addEventListener("hashchange", rotear);
   document.getElementById("carregando").remove();
   document.getElementById("shell").hidden = false;

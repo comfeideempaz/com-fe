@@ -355,7 +355,7 @@ def main():
                 rel.append(f"{abrev} {c['n']}: faltam os versículos {', '.join(map(str, faltam))}")
             if len(set(ns)) != len(ns):
                 rel.append(f"{abrev} {c['n']}: número de versículo repetido")
-            caps_out.append({"n": c["n"], "v": limpos, "total": max(max(ns), faltam_ref if referencia else 0)})
+            caps_out.append({"n": c["n"], "v": limpos, "total": faltam_ref if referencia and faltam_ref else max(ns)})
             tot["versiculos"] += len(limpos)
         tot["capitulos"] += len(caps_out)
         (SAIDA / f"{lid}.json").write_text(json.dumps(

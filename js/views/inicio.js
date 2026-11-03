@@ -1,11 +1,13 @@
-// Tela de Início: "Hoje na Igreja" (data, tempo e cor litúrgica, santo e evangelho
-// do dia, que chegam na Fase 2), sequência de dias, meta do dia, atalhos e
-// últimas atividades.
+// Tela de Início: "Hoje na Igreja" (celebração, cor litúrgica, santo e evangelho
+// do dia), sequência de dias, meta do dia, atalhos e últimas atividades.
 
 import { getState, subscribe, sequenciaAtual, metaHoje } from "../store.js";
 import { esc, ring, plural, dataExtenso, relativeTime, formatNumber } from "../ui.js";
 import { ic } from "../icons.js";
 import { lumi } from "../lumi.js";
+import { dia, leiturasDe, COR_NOME, aplicarCor } from "../liturgia.js";
+import { carregar } from "../content.js";
+import { hojeISO } from "../ui.js";
 
 const ATALHOS = [
   { rota: "#/biblia", icone: "livro", titulo: "Bíblia", texto: "Os 73 livros, offline" },
@@ -14,16 +16,47 @@ const ATALHOS = [
   { rota: "#/missa", icone: "calice", titulo: "Missa explicada", texto: "Cada parte e o porquê" },
   { rota: "#/santos", icone: "santo", titulo: "Santos", texto: "Histórias e curiosidades" },
   { rota: "#/oracoes", icone: "maos", titulo: "Orações", texto: "Orações e terço guiado" },
+  { rota: "#/sacramentos", icone: "cruz", titulo: "Sacramentos", texto: "Confissão e exame de consciência" },
+  { rota: "#/defesa", icone: "escudo", titulo: "Defesa da Fé", texto: "Respostas com a Bíblia" },
+  { rota: "#/progresso", icone: "selo", titulo: "Meu caminho", texto: "Sequência, selos e backup" },
 ];
 
-const ROTULO_ATIVIDADE = { capitulo: "Leu", evangelho: "Leu", missa: "Estudou a missa", santo: "Conheceu", oracao: "Rezou" };
+const ROTULO_ATIVIDADE = { capitulo: "Leu", evangelho: "Leu o", missa: "Estudou", santo: "Conheceu", oracao: "Rezou", plano: "Projeto:", defesa: "Estudou", sacramento: "Estudou" };
 
 function saudacao() {
   const h = new Date().getHours();
   return h < 12 ? "Bom dia" : h < 18 ? "Boa tarde" : "Boa noite";
 }
 
-function desenhar(el) {
+async function hojeNaIgreja() {
+  try {
+    const d = await dia(hojeISO());
+    if (!d) return null;
+    aplicarCor(d.cor);
+    const { lt } = await leiturasDe(d);
+    let santo = null;
+    if (d.santos?.length) {
+      const { santos } = await carregar("santos/indice.json");
+      santo = santos.find(x => x.id === d.santos[0]) || null;
+    }
+    return { d, ev: lt?.ev || [], santo };
+  } catch { return null; }
+}
+
+function heroHTML(h) {
+  if (!h) return `<p class="hero-rotulo">Hoje na Igreja</p><h2 id="hoje-titulo">Liturgia de hoje</h2><p>O calendário deste ano ainda não está no app.</p>`;
+  const { d, ev, santo } = h;
+  return `<p class="hero-rotulo">Hoje na Igreja</p>
+    <h2 id="hoje-titulo">${esc(d.nome)}</h2>
+    <p>${d.diaTempo && d.diaTempo !== d.nome ? esc(d.diaTempo) + " · " : ""}Cor ${esc((COR_NOME[d.cor] || d.cor).toLowerCase())}${d.preceito ? " · dia de preceito" : ""}</p>
+    <div class="chips">
+      ${ev.length ? `<a class="chip" href="#/liturgia/${d.data}">${ic("livro")} Evangelho: ${esc(ev[0].txt)}</a>` : ""}
+      ${santo && santo.id !== d.santo ? `<a class="chip" href="${santo.vida ? `#/santos/${santo.id}` : `#/liturgia/${d.data}`}">${ic("santo")} ${esc(santo.nome.split(",")[0])}</a>` : ""}
+      <a class="chip" href="#/liturgia/${d.data}">${ic("calendario")} Leituras e dicas</a>
+    </div>`;
+}
+
+function desenhar(el, hoje) {
   const st = getState();
   const seq = sequenciaAtual();
   const meta = metaHoje();
@@ -41,10 +74,7 @@ function desenhar(el) {
       <div class="hero-faixa" aria-hidden="true"></div>
       <div class="hero-corpo">
         <div class="hero-texto">
-          <p class="hero-rotulo">Hoje na Igreja</p>
-          <h2 id="hoje-titulo">Liturgia de hoje</h2>
-          <p>O tempo litúrgico, a cor, o santo e o evangelho do dia aparecem aqui assim que o calendário for carregado.</p>
-          <div class="chips"><span class="chip">${ic("calendario")} Tempo litúrgico</span><span class="chip">${ic("santo")} Santo do dia</span><span class="chip">${ic("livro")} Evangelho</span></div>
+          ${heroHTML(hoje)}
         </div>
         <div class="hero-lumi">${lumi({ tamanho: 112 })}</div>
       </div>
@@ -77,7 +107,8 @@ function desenhar(el) {
   `;
 }
 
-export function render(el) {
-  desenhar(el);
-  return subscribe(() => desenhar(el));
+export async function render(el) {
+  const hoje = await hojeNaIgreja();
+  desenhar(el, hoje);
+  return subscribe(() => desenhar(el, hoje));
 }

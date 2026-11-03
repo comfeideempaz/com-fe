@@ -86,4 +86,9 @@ def alinhar_capitulo(versos, ref_cap, razao, avisos, rotulo):
                 avisos.append(f"{rotulo},{n}: cortado texto estranho ao versículo: «{t[p:p + 60].strip()}…»")
                 t = t[:p].strip()
         saida.append([n, t])
-    return saida
+    # Números que não existem neste capítulo (lixo de OCR, ex.: "57" no Salmo 3) saem.
+    maximo = max(ref_cap)
+    fora = [n for n, _ in saida if n > maximo]
+    if fora:
+        avisos.append(f"{rotulo}: removidos números de versículo inexistentes {fora}")
+    return [v for v in saida if v[0] <= maximo]

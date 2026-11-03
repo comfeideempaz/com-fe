@@ -264,3 +264,205 @@ h1:focus { outline: none; }
   .painel.tres .estat-ic { width: 38px; height: 38px; }
   .painel.tres .estat-num { font-size: 1.3rem; }
 }
+
+/* ===== Fase 3: telas de conteúdo ===== */
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.migalha { margin: 0 0 6px; }
+.migalha a { display: inline-flex; align-items: center; gap: 4px; text-decoration: none; font-weight: 600; font-size: .92rem; }
+.migalha .ic { width: 1.1rem; height: 1.1rem; }
+.fontes { color: var(--muted); font-size: .8rem; margin: 8px 0 0; }
+.aviso-texto { color: var(--muted); font-size: .82rem; margin-top: 16px; }
+.grupo-titulo { font-size: .8rem; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); margin: 16px 0 8px; }
+a.chip { text-decoration: none; }
+.bolinha { display: inline-block; width: .8rem; height: .8rem; border-radius: 50%; border: 1px solid rgba(0,0,0,.15); vertical-align: -1px; flex: none; }
+.botao.pequeno { min-height: 38px; padding: 6px 14px; font-size: .9rem; }
+.botao:disabled { opacity: .55; cursor: default; }
+
+/* Referências bíblicas */
+.refs { display: flex; flex-wrap: wrap; gap: 6px; margin: 6px 0; }
+.ref { display: inline-block; padding: 3px 10px; border-radius: 999px; background: var(--primary-soft); color: var(--primary); font-size: .82rem; font-weight: 600; text-decoration: none; white-space: nowrap; }
+.ref:hover { text-decoration: underline; }
+.texto-biblia { font-family: var(--font-biblia); font-size: 1.08rem; line-height: 1.75; }
+.texto-biblia sup { font-family: var(--font); font-size: .62em; font-weight: 700; color: var(--gold); margin-right: 3px; }
+.cap-num { display: block; font-family: var(--font-titulo); color: var(--primary); margin-top: 8px; }
+
+/* Busca */
+.busca { display: flex; align-items: center; gap: 10px; padding: 0 14px; min-height: 50px; border-radius: 16px; background: var(--surface); border: 1px solid var(--line); margin-bottom: 14px; }
+.busca input { flex: 1; border: 0; background: none; min-height: 48px; outline: none; }
+.busca .ic { color: var(--muted); }
+.alternar { display: flex; align-items: center; gap: 8px; font-size: .92rem; margin: -4px 0 10px; }
+
+/* Cartão de link ("continuar") */
+.continuar { display: flex; align-items: center; gap: 14px; text-decoration: none; color: var(--text); }
+.continuar > span:nth-child(2) { flex: 1; display: flex; flex-direction: column; }
+.continuar small { color: var(--muted); }
+.continuar .seta { color: var(--muted); }
+.hoje-card { border-left: 6px solid var(--cor); }
+.cor-ic { background: color-mix(in srgb, var(--cor) 18%, transparent); color: var(--cor); }
+
+/* Bíblia: índice e capítulos */
+.progresso-biblia p { margin-bottom: 8px; }
+.livros { list-style: none; margin: 0 0 6px; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 8px; }
+.livros a { display: flex; align-items: center; gap: 10px; padding: 10px 12px; border-radius: 14px; background: var(--surface); border: 1px solid var(--line); text-decoration: none; color: var(--text); }
+.livros a:hover { border-color: var(--primary); }
+.livro-abrev { font-family: var(--font-titulo); font-weight: 800; color: var(--primary); min-width: 2.3em; font-size: .9rem; }
+.livro-nome { flex: 1; font-size: .93rem; line-height: 1.2; }
+.livro-pct { font-size: .72rem; color: var(--muted); font-weight: 700; }
+.livros a.completo { background: var(--gold-soft); border-color: var(--gold); }
+.grade-caps { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(52px, 1fr)); gap: 8px; }
+.grade-caps a { display: grid; place-content: center; height: 52px; border-radius: 14px; background: var(--surface); border: 1px solid var(--line); text-decoration: none; color: var(--text); font-weight: 700; }
+.grade-caps a.lido { background: var(--gold-soft); border-color: var(--gold); }
+.grade-caps a:hover { border-color: var(--primary); }
+
+/* Leitor */
+.leitor-topo { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+.leitor { padding: 22px clamp(18px, 4vw, 36px); }
+.leitor .texto-biblia { margin: 0; }
+.vers { border-radius: 6px; cursor: pointer; transition: background .15s; }
+.vers:hover { background: var(--surface-2); }
+.vers.sel { background: var(--primary-soft); }
+.vers.destaque { background: var(--gold-soft); }
+.vers.falta { color: var(--muted); font-style: italic; font-size: .9em; cursor: default; }
+.barra-verso { position: sticky; bottom: calc(var(--nav-h) + 10px + env(safe-area-inset-bottom)); z-index: 15; display: flex; align-items: center; gap: 8px; flex-wrap: wrap; padding: 10px 12px; border-radius: 16px; background: var(--surface); border: 1px solid var(--line); box-shadow: var(--shadow); margin-bottom: 12px; }
+.barra-verso span { font-weight: 700; flex: 1; }
+@media (min-width: 821px) { .barra-verso { bottom: 16px; } }
+.leitor-fim { display: flex; flex-direction: column; gap: 12px; align-items: stretch; }
+.leitor-nav { justify-content: space-between; }
+.lista-cartoes { list-style: none; padding: 0; margin: 0; }
+
+/* Liturgia */
+.dia-topo, .santo-topo { border-left: 6px solid var(--cor-dia); padding-left: 14px; }
+.dia-data::first-letter { text-transform: uppercase; }
+.chip-cor { background: var(--surface); border: 1px solid var(--line); }
+.chip-preceito { background: var(--primary-soft); color: var(--primary); }
+.leitura summary, .explica summary, .parte summary { cursor: pointer; list-style: none; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.leitura summary::-webkit-details-marker, .explica summary::-webkit-details-marker, .parte summary::-webkit-details-marker { display: none; }
+.leitura summary::after, .explica summary::after, .parte summary::after { content: "+"; margin-left: auto; font-weight: 800; color: var(--muted); font-size: 1.2rem; }
+.leitura[open] summary::after, .explica[open] summary::after, .parte[open] summary::after { content: "–"; }
+.leitura-rot { font-family: var(--font-titulo); font-weight: 700; }
+.leitura-ref { color: var(--primary); font-weight: 600; font-size: .92rem; }
+.leitura-texto { margin-top: 12px; }
+.leitura-alt { font-weight: 700; color: var(--muted); margin: 10px 0 4px; }
+.explica summary { display: block; padding-right: 22px; position: relative; }
+.explica summary::after { position: absolute; right: 0; top: 0; }
+.explica p:first-of-type { margin-top: 10px; }
+.dica { border-left: 5px solid var(--gold); }
+.dica-norma { border-left-color: var(--primary); }
+.dica-costume { border-left-color: var(--liturgia); }
+.dica-tipo { font-size: .74rem; font-weight: 800; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); margin: 0 0 4px; }
+.dica h3 { font-size: 1.05rem; }
+
+.cal-topo { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-bottom: 10px; }
+.cal-topo h2 { margin: 0; text-transform: capitalize; }
+.cal-topo .botao { min-height: 40px; padding: 6px 12px; }
+.cal-semana, .cal-grade { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(7, 1fr); gap: 4px; text-align: center; }
+.cal-semana li { font-size: .75rem; font-weight: 700; color: var(--muted); padding: 4px 0; }
+.cal-grade a { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 4px; aspect-ratio: 1; max-height: 64px; border-radius: 12px; text-decoration: none; color: var(--text); font-weight: 600; }
+.cal-grade a:hover { background: var(--surface-2); }
+.cal-grade a i { width: 70%; height: 4px; border-radius: 4px; background: var(--cor); }
+.cal-grade a.forte span { font-weight: 800; color: var(--primary); }
+.cal-grade a.hoje { background: var(--primary); color: var(--primary-ink); }
+.cal-grade a.hoje span { color: var(--primary-ink); }
+.cal-legenda { list-style: none; padding: 0; margin: 12px 0 0; display: flex; flex-wrap: wrap; gap: 12px; font-size: .8rem; color: var(--muted); }
+.cal-legenda li { display: flex; align-items: center; gap: 5px; }
+.lista-destaques { list-style: none; padding: 0; margin: 0; }
+.lista-destaques a { display: flex; align-items: center; gap: 12px; padding: 8px 0; text-decoration: none; color: var(--text); border-bottom: 1px solid var(--line); }
+.lista-destaques li:last-child a { border-bottom: 0; }
+.lista-destaques small { display: block; color: var(--muted); }
+.dia-num { display: grid; place-content: center; text-align: center; width: 44px; height: 44px; border-radius: 12px; flex: none; font-family: var(--font-titulo); font-weight: 800; background: color-mix(in srgb, var(--cor) 16%, transparent); border-bottom: 3px solid var(--cor); line-height: 1; }
+.dia-num small { font-size: .62rem; font-weight: 700; color: var(--muted); text-transform: uppercase; }
+
+/* Santos */
+.lista-santos { list-style: none; padding: 0; margin: 0; display: grid; gap: 6px; }
+.lista-santos a { display: flex; align-items: center; gap: 12px; padding: 10px 12px; border-radius: 14px; background: var(--surface); border: 1px solid var(--line); text-decoration: none; color: var(--text); }
+.lista-santos a:hover { border-color: var(--primary); }
+.lista-santos a.visto { border-color: var(--gold); }
+.santo-nome { flex: 1; display: flex; flex-direction: column; font-weight: 600; line-height: 1.3; }
+.santo-nome small { color: var(--muted); font-weight: 400; }
+.santo-prox { display: flex; flex-direction: column; text-decoration: none; color: var(--text); }
+.santo-prox small { color: var(--muted); }
+.patrono { color: var(--muted); }
+.frase { margin: 0 0 16px; border-left: 5px solid var(--gold); font-family: var(--font-biblia); font-size: 1.05rem; }
+.frase p { margin-bottom: 6px; }
+.frase cite { font-family: var(--font); font-size: .82rem; color: var(--muted); font-style: normal; }
+.tradicao { background: var(--surface-2); }
+
+/* Missa */
+.rito-num { display: inline-grid; place-content: center; width: 1.8rem; height: 1.8rem; border-radius: 50%; background: var(--primary); color: var(--primary-ink); font-size: .9rem; margin-right: 6px; }
+.parte summary span:first-child { font-weight: 700; }
+.parte.vista { border-color: var(--gold); }
+.parte-corpo { margin-top: 12px; }
+.parte-corpo h3 { font-size: .95rem; margin-top: 12px; }
+.parte-meta { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: .9rem; color: var(--muted); }
+.parte-diz { font-family: var(--font-biblia); background: var(--surface-2); border-radius: 12px; padding: 10px 14px; }
+.curiosidade { background: var(--gold-soft); border-radius: 12px; padding: 10px 14px; }
+.abas { display: flex; gap: 6px; overflow-x: auto; margin-bottom: 12px; padding-bottom: 2px; }
+.abas button { flex: none; border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 8px 16px; cursor: pointer; font-weight: 600; }
+.abas button[aria-selected="true"] { background: var(--primary); color: var(--primary-ink); border-color: var(--primary); }
+.glossario dt { font-weight: 800; font-family: var(--font-titulo); margin-top: 12px; }
+.glossario dt:first-child { margin-top: 0; }
+.glossario dd { margin: 4px 0 0; }
+
+/* Orações e terço */
+.terco-card .tile-ic { background: var(--gold-soft); color: var(--gold); }
+.oracao-texto p, p.oracao-texto { font-family: var(--font-biblia); font-size: 1.12rem; line-height: 1.75; }
+.terco { min-height: 220px; }
+.terco-progresso { height: 6px; border-radius: 6px; background: var(--surface-2); overflow: hidden; margin-bottom: 12px; }
+.terco-progresso span { display: block; height: 100%; background: var(--liturgia); }
+.misterio-titulo { font-family: var(--font-titulo); font-size: 1.25rem; font-weight: 700; color: var(--primary); }
+.contas { display: flex; gap: 8px; flex-wrap: wrap; margin: 12px 0 4px; }
+.contas span { width: 22px; height: 22px; border-radius: 50%; border: 2px solid var(--gold); }
+.contas span.rezada { background: var(--gold); }
+.terco-botoes { justify-content: space-between; }
+.terco-botoes #t-prox { flex: 1; min-width: 180px; }
+
+/* Sacramentos */
+.tiles-2 { grid-template-columns: 1fr 1fr !important; margin-bottom: 16px; }
+.destaque-tile .tile-ic { background: var(--gold-soft); color: var(--gold); }
+.passos { list-style: none; padding: 0; margin: 0; }
+.passo { display: flex; gap: 14px; }
+.passo-num { flex: none; display: grid; place-content: center; width: 2.2rem; height: 2.2rem; border-radius: 50%; background: var(--primary); color: var(--primary-ink); font-weight: 800; }
+.passo > div { flex: 1; min-width: 0; }
+.passo h2 { font-size: 1.05rem; }
+.dialogo { background: var(--surface-2); border-radius: 12px; padding: 10px 14px; margin: 8px 0; }
+.dialogo dt { font-weight: 800; font-size: .8rem; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); margin-top: 6px; }
+.dialogo dd { margin: 0; font-family: var(--font-biblia); }
+.exame-lista { list-style: none; padding: 0; margin: 8px 0 0; }
+.exame-lista li { border-top: 1px solid var(--line); }
+.exame-lista label { display: flex; gap: 12px; padding: 10px 0; cursor: pointer; }
+.exame-lista input { width: 1.2rem; height: 1.2rem; margin-top: 3px; flex: none; accent-color: var(--primary); }
+
+/* Defesa da Fé */
+.objecao { background: var(--surface-2); font-style: italic; }
+.resposta-curta { border-left: 5px solid var(--primary); }
+
+/* Projetos */
+.lista-planos { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; }
+@media (min-width: 640px) { .lista-planos { grid-template-columns: 1fr 1fr; } }
+.plano { margin: 0; }
+.plano a { display: block; text-decoration: none; color: var(--text); }
+.plano h3 { font-size: 1.05rem; }
+.plano-meta { margin: 8px 0 0; font-weight: 600; font-size: .9rem; }
+.dias-plano { list-style: none; padding: 0; margin: 0; }
+.dia-plano.feito { opacity: .75; }
+.dia-plano.destaque { border: 2px solid var(--primary); }
+.dia-plano-topo { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; margin-bottom: 6px; }
+.trechos { list-style: none; padding: 0; margin: 0 0 10px; display: flex; flex-wrap: wrap; gap: 6px; }
+.trechos a { display: inline-block; padding: 6px 12px; border-radius: 12px; background: var(--primary-soft); color: var(--primary); text-decoration: none; font-weight: 600; font-size: .9rem; }
+.trechos a.lido { background: var(--gold-soft); color: var(--text); }
+.trechos a.lido::before { content: "✓ "; }
+
+/* Selos e números */
+.selos { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; }
+@media (min-width: 640px) { .selos { grid-template-columns: 1fr 1fr; } }
+.selo { display: flex; gap: 12px; padding: 10px; border-radius: 14px; background: var(--surface-2); opacity: .7; }
+.selo > span:last-child { display: flex; flex-direction: column; }
+.selo small { color: var(--muted); }
+.selo em { font-family: var(--font-biblia); font-size: .9rem; margin-top: 4px; }
+.selo-ic { display: grid; place-content: center; width: 42px; height: 42px; border-radius: 50%; background: var(--surface); color: var(--muted); flex: none; }
+.selo.ganho { opacity: 1; background: var(--gold-soft); }
+.selo.ganho .selo-ic { background: var(--gold); color: #fff; }
+.numeros { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 8px; }
+.numeros li { background: var(--surface-2); border-radius: 12px; padding: 10px 12px; font-size: .88rem; color: var(--muted); }
+.numeros strong { display: block; font-family: var(--font-titulo); font-size: 1.35rem; color: var(--text); }
+.lista-links a > span:first-child:not(.tile-ic) { flex: 1; display: flex; flex-direction: column; }
