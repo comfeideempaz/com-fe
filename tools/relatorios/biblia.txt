@@ -1,741 +1,2074 @@
 Pontos da Bíblia para revisar (gerado por make_biblia.py)
 
+Gn 1,3: cortado texto estranho ao versículo: «é — “antes de existir coisa alguma criada”. — Segundo. a opi…»
+Gn 1,12: cortado texto estranho ao versículo: «sobre o Gênesis, espraia-se em largas considorações sobre es…»
+Gn 1,20: cortado texto estranho ao versículo: «zóica, alguns batráquios, anfíbios e peixes; a isto responde…»
+Gn 1,25: cortado texto estranho ao versículo: «Nesta camada geológica encontram-se os fósseis dêsses gigant…»
 Gn 2,17: comentário da edição removido; conferir se o versículo ficou completo
 Gn 2: faltam os versículos 18
-Gn 5: faltam os versículos 24
+Gn 5,7: cortado texto estranho ao versículo: «mais controvertidos da Sagrada Escritura, e que tem dado en…»
+Gn 5,24: separado do versículo 23 (conferir)
+Gn 7,13: cortado texto estranho ao versículo: «blico, castigo enviado por Deus, por causa da malícia dos Ro…»
+Gn 7,17: cortado texto estranho ao versículo: «nhecidos dos hebreus, e não por toda a humanidade. As expres…»
 Gn 7: faltam os versículos 11
 Gn 8: faltam os versículos 12
 Gn 10: faltam os versículos 6, 21
+Gn 11,4: cortado texto estranho ao versículo: «O que se afirma no versículo primeiro é que todos aqueles po…»
+Gn 11,6: cortado texto estranho ao versículo: «desta torre, que se chamcu Babel (V. 9), só na família semit…»
+Gn 11,9: cortado texto estranho ao versículo: «et faciamus nobis no men, ne dispcrgemur superfaciem omnis t…»
+Gn 11,16: cortado texto estranho ao versículo: «cumpriu a vontade divina. Pouco tempo depois só restava em S…»
+Gn 12,3: cortado texto estranho ao versículo: «Modêlo de heróica obediência, não recuando ante nenhum sacri…»
+Gn 13,18: cortado texto estranho ao versículo: «CaríruLo I& GUERRA DE CODORLAOMOR, E DE SEUS ALIADOS CONTRA…»
 Gn 14: faltam os versículos 9
-Gn 17: faltam os versículos 10
+Gn 17,10: separado do versículo 9 (conferir)
+Gn 17,12: cortado texto estranho ao versículo: «mas Deus serviu-se desta cerimônia para fazer dela um sinal…»
 Gn 23: faltam os versículos 13
-Gn 25: faltam os versículos 10
-Gn 29: faltam os versículos 8
-Gn 35: faltam os versículos 18, 19
-Gn 37: faltam os versículos 35
-Gn 39: faltam os versículos 4, 6
+Gn 25,10: separado do versículo 9 (conferir)
+Gn 29,8: separado do versículo 7 (conferir)
+Gn 35,18: separado do versículo 17 (conferir)
+Gn 35,19: separado do versículo 18 (conferir)
+Gn 37,28: cortado texto estranho ao versículo: «Não há pois contradição. Os dois nomes empregavam-se indifer…»
+Gn 37,35: separado do versículo 34 (conferir)
+Gn 39,4: separado do versículo 3 (conferir)
+Gn 39,6: separado do versículo 5 (conferir)
+Gn 40,23: cortado texto estranho ao versículo: «CaríruLo dl SONHOS DE FARAÓ, EXPLICADOS POR JOSE. ELEVAÇÃO D…»
 Gn 40: faltam os versículos 11
 Gn 43: faltam os versículos 19
-Gn 46: faltam os versículos 8
+Gn 46,8: separado do versículo 7 (conferir)
 Gn 49,10: comentário da edição removido; conferir se o versículo ficou completo
 Gn 49,13: comentário da edição removido; conferir se o versículo ficou completo
 Gn 49,17: comentário da edição removido; conferir se o versículo ficou completo
 Gn 49,18: comentário da edição removido; conferir se o versículo ficou completo
-Gn 49: faltam os versículos 7
+Gn 49,4: cortado texto estranho ao versículo: «compreende a profecia de Jacó, o pai das doze tribos de Isra…»
+Gn 49,7: separado do versículo 6 (conferir)
+Gn 49,13: cortado texto estranho ao versículo: «sões concordam na idéia fundamental ligada a esta palavra, e…»
 Gn 50,25: comentário da edição removido; conferir se o versículo ficou completo
-Gn 50: faltam os versículos 22
+Gn 50,2: cortado texto estranho ao versículo: «3º Vocação de Moisés e sua volta para O Egito, 3;4. —4.º Ten…»
+Gn 50,22: separado do versículo 21 (conferir)
+Gn 50,25: cortado texto estranho ao versículo: «propositadamente Moisés éste livro, para dar aos hebreus a i…»
 Ex 2: faltam os versículos 10
 Ex 3,7: comentário da edição removido; conferir se o versículo ficou completo
-Ex 6: faltam os versículos 14, 15, 27
-Ex 9: faltam os versículos 11
-Ex 14: faltam os versículos 4, 11, 17
+Ex 3,7: cortado texto estranho ao versículo: «Esta contradição aparente foi resolvida por várias formas, s…»
+Ex 4: faltam os versículos 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31
+Ex 5,14: cortado texto estranho ao versículo: «Aquéles pois dentre os hebreus, que estavam encarregados das…»
+Ex 5,17: cortado texto estranho ao versículo: «Faraó lhes respondeu: Vós estais ociosos, e isto é o que vos…»
+Ex 5,18: cortado texto estranho ao versículo: «Eu torno outra vez para meus irmãos ao Egito, a ver se eles…»
+Ex 5,19: cortado texto estranho ao versículo: «Assim os que dentre os hebreus estavam incum bidos das obras…»
+Ex 5,20: cortado texto estranho ao versículo: «E vindo ter com Moisés, e Aarão, que estavam perto dali espe…»
+Ex 5,21: cortado texto estranho ao versículo: «Eu endurecerei o seu coração, e ele não quererá deixar sair…»
+Ex 6,14: separado do versículo 13 (conferir)
+Ex 6,15: separado do versículo 14 (conferir)
+Ex 6,27: separado do versículo 26 (conferir)
+Ex 7,3: cortado texto estranho ao versículo: «seqiientes, que tão notáveis foram, e que são conhecidos pel…»
+Ex 7,6: cortado texto estranho ao versículo: «Zschokke, (História sacra an tiqui testamenti), e está de ac…»
+Ex 7,24: cortado texto estranho ao versículo: «fato que todos os anos, no momento da cheia, próximo do mês…»
+Ex 8,11: cortado texto estranho ao versículo: «O Padre Noory encontrou no museu de Boulac uma divindade com…»
+Ex 9,11: separado do versículo 10 (conferir)
+Ex 10,24: cortado texto estranho ao versículo: «No deserto levanta montes de areia, e sepulta caravanas inte…»
+Ex 12,31: cortado texto estranho ao versículo: «Refere o texto que entre as vítimas contava-se o filho do Fa…»
+Ex 14,4: separado do versículo 3 (conferir)
+Ex 14,4: cortado texto estranho ao versículo: «o que contudo não passa duma hipótese, com fundamento sólido…»
+Ex 14,11: separado do versículo 10 (conferir)
+Ex 14,17: separado do versículo 16 (conferir)
+Ex 14,22: cortado texto estranho ao versículo: «J. Salvador, Histoire des Instl tuítions de Moiseo et du peu…»
+Ex 14,28: cortado texto estranho ao versículo: «Eduardo Robinson, Biblical Researches, 1841. Em cobriram as…»
+Ex 14,31: cortado texto estranho ao versículo: «fim acabou a escravidão. Tinham passado 420 anos depois que…»
+Ex 15,18: cortado texto estranho ao versículo: «suas carroças, e cavalaria: e o Senhor fez que tornassem sob…»
 Ex 15: faltam os versículos 6
-Ex 16: faltam os versículos 5, 21, 29
-Ex 21: faltam os versículos 14
+Ex 16,18: cortado texto estranho ao versículo: «Porém, ainda se deve advertir que o maná de que fala Moisés…»
+Ex 16,21: separado do versículo 20 (conferir)
+Ex 16,29: separado do versículo 28 (conferir)
+Ex 16: faltam os versículos 5
+Ex 19,3: cortado texto estranho ao versículo: «A sua situação singularissima torna-o um dos pontos mais ext…»
+Ex 21,14: separado do versículo 13 (conferir)
+Ex 25,16: cortado texto estranho ao versículo: «guardavam os emhlemas religiosos, em honra dum deus, e que e…»
+Ex 25,22: cortado texto estranho ao versículo: «deu a arca ao povo escolhido para que este tivesse sob os se…»
+Ex 27,19: cortado texto estranho ao versículo: «Todos os vasos, que houverem de servir para qualquer uso, e…»
 Ex 27: faltam os versículos 10
+Ex 28,1: cortado texto estranho ao versículo: «Faze também que se cheguem a ti Aarão, teu ir mão, com seus…»
+Ex 29,8: cortado texto estranho ao versículo: «E' a idéia constante de que o homem para se aproximar de Deu…»
 Ex 29: faltam os versículos 11
 Ex 30: faltam os versículos 15
 Ex 31: faltam os versículos 10
-Ex 35: faltam os versículos 11, 31
+Ex 33,23: cortado texto estranho ao versículo: «SOBE MOISÉS AO MONTE. DEUS LHE MOSTRA A SUA GLÓRIA, E RENOVA…»
+Ex 35,11: separado do versículo 10 (conferir)
+Ex 35: faltam os versículos 31
+Ex 37,29: cortado texto estranho ao versículo: «CONSTRUÇÃO DO ALTAR DOS HOLOCAUSTOS, DA BACIA DE METAL, E DO…»
 Ex 39: faltam os versículos 35
-Ex 40: faltam os versículos 5, 11
-Lv 7: faltam os versículos 4, 34
+Ex 40,11: separado do versículo 10 (conferir)
+Ex 40,36: cortado texto estranho ao versículo: «LEVÍTICO E' o terceiro livro do Pentateuco; segundo o costum…»
+Ex 40: faltam os versículos 5
+Lv 4,4: cortado texto estranho ao versículo: «Qual era o valor deste sacrifício é do sacrifício pelo delit…»
+Lv 6,21: cortado texto estranho ao versículo: «O sacerdote, que suceder legitimamente a seu pai, a oferecer…»
+Lv 7,34: separado do versículo 33 (conferir)
+Lv 7: faltam os versículos 4
+Lv 13,29: cortado texto estranho ao versículo: «resto da carne, e o cabelo tirar para amarelo, e estiver mai…»
 Lv 13: faltam os versículos 30
-Lv 16: faltam os versículos 18, 19
-Lv 19: faltam os versículos 31, 36
-Lv 20: faltam os versículos 5
+Lv 16,16: cortado texto estranho ao versículo: «o Antigo Testamento é a figura do Novo, e já o dizia S. Just…»
+Lv 16,18: separado do versículo 17 (conferir)
+Lv 16,19: separado do versículo 18 (conferir)
+Lv 19,31: separado do versículo 30 (conferir)
+Lv 19,36: separado do versículo 35 (conferir)
+Lv 20,5: separado do versículo 4 (conferir)
+Lv 21,3: cortado texto estranho ao versículo: «Os sacerdotes não raparão as cabeças, nem as barbas, e não f…»
+Lv 21,19: cortado texto estranho ao versículo: «belida no ólho, se tiver uma sarna contínua, ou alguma impig…»
 Lv 21: faltam os versículos 5, 20
-Lv 23: faltam os versículos 8, 11, 12, 14
-Lv 24: faltam os versículos 14, 18
+Lv 23,8: separado do versículo 7 (conferir)
+Lv 23,8: cortado texto estranho ao versículo: «sábado para atos cultuais. Isto fez-se mais tarde nas sinago…»
+Lv 23,10: cortado texto estranho ao versículo: «li e ao outro dia do sábado elevará o sacerdote este molho d…»
+Lv 23,13: cortado texto estranho ao versículo: «e a quarta parte de um hin para as ofertas de vinho. lá Não…»
+Lv 23: faltam os versículos 11, 12, 14
+Lv 24,13: cortado texto estranho ao versículo: «ld Manda deitar fora do arraial esse blasfemador: e todos os…»
+Lv 24,18: separado do versículo 17 (conferir)
+Lv 24: faltam os versículos 14
+Lv 25,10: cortado texto estranho ao versículo: «ano chamado jubilar, que seguia imediatamente o ano sabático…»
+Lv 25,14: cortado texto estranho ao versículo: «no nosso ano santo temos meio de reaver o patrimô nio celest…»
 Lv 25: faltam os versículos 11
+Lv 26,3: cortado texto estranho ao versículo: «patriarcas erigiram pedras monumentais, que consagraram pela…»
 Lv 26: faltam os versículos 4
-Lv 27: faltam os versículos 14
-Nm 1: faltam os versículos 2, 30, 47
+Lv 27,14: separado do versículo 13 (conferir)
+Nm 1,2: separado do versículo 1 (conferir)
+Nm 1,30: separado do versículo 29 (conferir)
+Nm 1,31: cortado texto estranho ao versículo: «Rúben, de Gad e Números da tribo de Manassés, 32. — 11.º Aca…»
+Nm 1,46: cortado texto estranho ao versículo: «eles não foram contados com os outros, segundo as famílias d…»
+Nm 1: faltam os versículos 47
 Nm 2: faltam os versículos 11
-Nm 3: faltam os versículos 19, 31, 49
-Nm 4: faltam os versículos 12
-Nm 5: faltam os versículos 18, 30
+Nm 3,19: separado do versículo 18 (conferir)
+Nm 3,31: separado do versículo 30 (conferir)
+Nm 3,48: cortado texto estranho ao versículo: «+9 “Tomou pais Moisés o dinheiro dos que exce diam o número,…»
+Nm 3: faltam os versículos 49
+Nm 4,12: separado do versículo 11 (conferir)
+Nm 5,18: separado do versículo 17 (conferir)
+Nm 5: faltam os versículos 30
+Nm 6,4: cortado texto estranho ao versículo: «à Por todo o tempo da separação do Nazareno não passará nava…»
 Nm 6: faltam os versículos 1, 5
-Nm 7: faltam os versículos 7, 9, 10, 25, 41, 42, 55
+Nm 7,4: cortado texto estranho ao versículo: «e para as hóstias dos pacíficos dois bois, cinco carneiros,…»
+Nm 7,7: separado do versículo 6 (conferir)
+Nm 7,9: separado do versículo 8 (conferir)
+Nm 7: faltam os versículos 10, 25, 41, 42, 55
 Nm 8: faltam os versículos 9
-Nm 10: faltam os versículos 18, 25
-Nm 11: faltam os versículos 8, 17, 31, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79
-Nm 13: faltam os versículos 14
-Nm 19: faltam os versículos 19
-Nm 22: faltam os versículos 4, 11, 14
+Nm 10,18: separado do versículo 17 (conferir)
+Nm 10,23: cortado texto estranho ao versículo: «Os últimos que partiram de todo o campo, foram os tilhos de…»
+Nm 10: faltam os versículos 25
+Nm 11,31: separado do versículo 30 (conferir)
+Nm 11: faltam os versículos 8, 17, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79
+Nm 13,14: separado do versículo 13 (conferir)
+Nm 13,34: cortado texto estranho ao versículo: «Carírucro JS DISCURSO SEDICIOSO DOS ISRAELITAS. DEUS OS COND…»
+Nm 14: faltam os versículos 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45
+Nm 15,1: cortado texto estranho ao versículo: «até quando murmu rará de mim este povo? Até quando não me ac…»
+Nm 15,12: cortado texto estranho ao versículo: «E a ti far-te-ei principe duma gente grande, e-mais forte: d…»
+Nm 15,16: cortado texto estranho ao versículo: «17-28 tinha prometido com juramento: Por isso os matou no de…»
+Nm 15,22: cortado texto estranho ao versículo: «e que me tentaram já dez vezes. e que não obedeceram à minha…»
+Nm 15,23: cortado texto estranho ao versículo: «detrairam de mim, a verá. e que vos tem ordenado por ele, de…»
+Nm 15,24: cortado texto estranho ao versículo: «Levantai amanhã o campo, e tornai a voltar para o deserto pe…»
+Nm 15,31: cortado texto estranho ao versículo: «Pois que desprezou a palavra do Senhor, e tornou vão o seu p…»
+Nm 15,34: cortado texto estranho ao versículo: «Contar-se-á um ano por cada dia. E por espaço de quarenta an…»
+Nm 15,35: cortado texto estranho ao versículo: «Nesta solidão será consumida, e morrerá. Então disse o Senho…»
+Nm 15,38: cortado texto estranho ao versículo: «"39 E Moisés falou tódas estas palavras a todos os filhos de…»
+Nm 15,40: cortado texto estranho ao versículo: «Estamos prestes para ir ao lugar, de que o Senhor falou: Por…»
+Nm 19,19: separado do versículo 18 (conferir)
+Nm 21,18: cortado texto estranho ao versículo: «térpretes divergido muito sobre à significação desta frase.…»
+Nm 22,4: separado do versículo 3 (conferir)
+Nm 22,7: cortado texto estranho ao versículo: «S. João, no Apocalipse, traduziu por Nicolaos a palavra Bala…»
+Nm 22,8: cortado texto estranho ao versículo: «conclui que Balaam tinha boa fé e sinceridade quando consult…»
+Nm 22,11: separado do versículo 10 (conferir)
+Nm 22,33: cortado texto estranho ao versículo: «Aceitam os críticos a embaixada de Baiac junto de Balaam, po…»
+Nm 22: faltam os versículos 14
 Nm 23,10: comentário da edição removido; conferir se o versículo ficou completo
-Nm 24: faltam os versículos 15
+Nm 23,10: cortado texto estranho ao versículo: «que a Vulgata traduziu por parábola. Esta frase inicia os qu…»
+Nm 24,15: separado do versículo 14 (conferir)
+Nm 24,19: cortado texto estranho ao versículo: «Prediz os destinos de Israel, A realeza universal reservada…»
 Nm 25: faltam os versículos 15
-Nm 26: faltam os versículos 38
+Nm 26,38: separado do versículo 37 (conferir)
 Nm 29,26: comentário da edição removido; conferir se o versículo ficou completo
-Nm 29: faltam os versículos 3, 30
-Nm 30: faltam os versículos 15
+Nm 29,3: separado do versículo 2 (conferir)
+Nm 29: faltam os versículos 30
+Nm 30,15: separado do versículo 14 (conferir)
 Nm 33: faltam os versículos 5, 43
 Nm 34: faltam os versículos 16
 Nm 35: faltam os versículos 4
 Nm 36: faltam os versículos 11
-Dt 1: faltam os versículos 42
+Dt 1,42: separado do versículo 41 (conferir)
+Dt 3,1: cortado texto estranho ao versículo: «Tendo pois voltado tomamos o caminho de Basan: e Og, rei de…»
 Dt 4: faltam os versículos 8
 Dt 6: faltam os versículos 9
-Dt 7: faltam os versículos 6, 14
+Dt 7,6: separado do versículo 5 (conferir)
+Dt 7: faltam os versículos 14
 Dt 9: faltam os versículos 11
-Dt 11: faltam os versículos 6, 10
-Dt 12: faltam os versículos 10
-Dt 13: faltam os versículos 16
-Dt 15: faltam os versículos 2
+Dt 11,6: separado do versículo 5 (conferir)
+Dt 11,10: separado do versículo 9 (conferir)
+Dt 12,10: separado do versículo 9 (conferir)
+Dt 12: faltam os versículos 32
+Dt 13,16: separado do versículo 15 (conferir)
+Dt 15,2: separado do versículo 1 (conferir)
 Dt 16: faltam os versículos 2
+Dt 17,19: cortado texto estranho ao versículo: «arrastado pelo espírito da imitação, começaria pedindo um re…»
+Dt 18,16: cortado texto estranho ao versículo: «Moisés acaba de impor ao seu povo o abandono das práticas su…»
+Dt 18,18: cortado texto estranho ao versículo: «Toda a Sagrada Escritura, toda a tradição judaica e cristã a…»
+Dt 18,22: cortado texto estranho ao versículo: «Jesus foi enviado por seu Pai Celeste para redimir os homens…»
 Dt 18: faltam os versículos 8
+Dt 19,2: cortado texto estranho ao versículo: «e dividitás em três porções iguais todo o distrito da tua te…»
 Dt 19: faltam os versículos 3, 8, 13
 Dt 21: faltam os versículos 21
-Dt 22: faltam os versículos 12
+Dt 22,12: separado do versículo 11 (conferir)
 Dt 23: faltam os versículos 11
+Dt 24,6: cortado texto estranho ao versículo: «sés encontrou o repúdio inveterado nos costumes da sua nação…»
 Dt 25: faltam os versículos 14
-Dt 26: faltam os versículos 11
-Dt 28: faltam os versículos 36, 42, 44, 45, 46, 47
+Dt 26,11: separado do versículo 10 (conferir)
+Dt 28,35: cortado texto estranho ao versículo: «sobre ti, a uma gente, que nem tu, nem teus: pais conhecem:…»
+Dt 28,44: separado do versículo 43 (conferir)
+Dt 28: faltam os versículos 36, 42, 45, 46, 47
+Dt 29,22: cortado texto estranho ao versículo: «a amargura deve ser o absinto, segundo o original hebraico,…»
 Dt 29: faltam os versículos 11
-Dt 31: faltam os versículos 3, 5
+Dt 31,3: separado do versículo 2 (conferir)
+Dt 31: faltam os versículos 5
+Dt 32,4: cortado texto estranho ao versículo: «Porque não debalde vos foram postos estes preceitos, mas sim…»
 Dt 32: faltam os versículos 47
 Dt 33,7: comentário da edição removido; conferir se o versículo ficou completo
-Js 1: faltam os versículos 6
+Dt 33,3: cortado texto estranho ao versículo: «de Faran numa região do país dos ismaelitas, à qual dava o n…»
+Dt 34,5: cortado texto estranho ao versículo: «por autor um escritor posterior, provavelmente Josué; assim…»
+Js 1,1: cortado texto estranho ao versículo: «2.º Os avisos de Josué a Israel, nos últimos dias da sua vid…»
+Js 1,6: separado do versículo 5 (conferir)
+Js 2,6: cortado texto estranho ao versículo: «mulheres e crianças, expostas às agressões das tribos vizinh…»
 Js 3,17: comentário da edição removido; conferir se o versículo ficou completo
+Js 3,12: cortado texto estranho ao versículo: «13.E logo que os sacerdotes, que levam a arca do Senhor Deus…»
+Js 3,16: cortado texto estranho ao versículo: «bem depressa serão as trombetas dos sacerdotes que Josué que…»
 Js 3: faltam os versículos 13
+Js 5: faltam os versículos 7, 8, 9, 10, 11, 12, 13, 14, 15
 Js 6,6: comentário da edição removido; conferir se o versículo ficou completo
+Js 6,6: cortado texto estranho ao versículo: «e a terceira, a do tempo de Eusébio e de S. Jerônimo, que é…»
+Js 6,7: cortado texto estranho ao versículo: «Porque estavam com o seu prepúcio, assim como tinham nascido…»
+Js 6,21: cortado texto estranho ao versículo: «Jericó era a primeira cidade de Canaã, que ia cair em posse…»
+Js 6: faltam os versículos 27
 Js 7: faltam os versículos 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
-Js 10: faltam os versículos 28, 31
+Js 8,3: cortado texto estranho ao versículo: «por que se há de fatigar debalde todo o povo contra tão "pou…»
+Js 8,5: cortado texto estranho ao versículo: «e o coração do povo tomou medo, e se derreteu como água. Mas…»
+Js 8,6: cortado texto estranho ao versículo: «e ptise ram cinza sobre as suas cabeças, Até que seguindo-no…»
+Js 8,7: cortado texto estranho ao versículo: «Oxalá que nós tivéssemos ficado da outra banda do Jordão, co…»
+Js 8,12: cortado texto estranho ao versículo: «Eu não serei mais convosco, enquanto não consu mirdes aquele…»
+Js 8,13: cortado texto estranho ao versículo: «tu não poderás estar diante de teus inimigos, até não ser ex…»
+Js 8,14: cortado texto estranho ao versículo: «O que tendo visto o rei de Hai, saiu a grã pressa ao amanhec…»
+Js 8,16: cortado texto estranho ao versículo: «“ 17 E apresentada esta pelas suas famílias, caiu a sorte so…»
+Js 8,19: cortado texto estranho ao versículo: «E tendo ele levantado o seu escudo contra a cidade, no mesmo…»
+Js 8,21: cortado texto estranho ao versículo: «E cobiçando tirei estas coisas, e as escondi na terra no mei…»
+Js 8,23: cortado texto estranho ao versículo: «diante do Senhor. tomaram também vivo o rei da cidade de Hai…»
+Js 8,24: cortado texto estranho ao versículo: «Mortos pois todos aqueles, que tinham perseguido a Israel ao…»
+Js 8,25: cortado texto estranho ao versículo: «E tudo o que lhe pertencia foi consumido no fogo. Os que mor…»
+Js 8,26: cortado texto estranho ao versículo: «E até hoje se chama aquéle lugar o-vale de Acor. E Josué não…»
+Js 10,13: cortado texto estranho ao versículo: «e dirigiu Josué uma prece ao Senhor, “depois da qual, cheio…»
+Js 10,19: cortado texto estranho ao versículo: «Este sistema foi defendido na Alemanha pelo jesuíta Cristóvã…»
+Js 10,28: separado do versículo 27 (conferir)
+Js 10: faltam os versículos 31
 Js 12: faltam os versículos 11, 15
-Js 13: faltam os versículos 9
+Js 13,9: separado do versículo 8 (conferir)
+Js 18,7: cortado texto estranho ao versículo: «A este e no norte, o horizonte é cerrado pelas colinas de ca…»
+Js 18,10: cortado texto estranho ao versículo: «ll e caiu a primeira sorte aos filhos de Benjamim pelas suas…»
 Js 18: faltam os versículos 11
-Js 21: faltam os versículos 2, 20, 21, 26
+Js 21,2: separado do versículo 1 (conferir)
+Js 21,20: separado do versículo 19 (conferir)
+Js 21,21: separado do versículo 20 (conferir)
+Js 21,25: cortado texto estranho ao versículo: «'26 Ao todo foram dadas aos filhos de Caat, que eram de infe…»
+Js 21: faltam os versículos 26
+Js 24,30: cortado texto estranho ao versículo: «dentemente não é de Josué, é que nos aparece a primeira fras…»
+Js 24,33: cortado texto estranho ao versículo: «veria existir qualquer inscrição ou' escultura, pois segundo…»
 Jz 1: faltam os versículos 11
 Jz 2: faltam os versículos 7
 Jz 4,7: comentário da edição removido; conferir se o versículo ficou completo
-Jz 6: faltam os versículos 16, 18
+Jz 5,2: cortado texto estranho ao versículo: «judeu, à que pertencia Jael. Oppressor crut populi Dei (Lapi…»
+Jz 6,14: cortado texto estranho ao versículo: «e os filhos do Oriente, que são os árabes nômadas que vaguea…»
+Jz 6,16: separado do versículo 15 (conferir)
+Jz 6,18: separado do versículo 17 (conferir)
+Jz 8,13: cortado texto estranho ao versículo: «e perguntou-lhe os nomes dos príncipes e anciãos de Socot, e…»
 Jz 8: faltam os versículos 14
-Jz 11: faltam os versículos 3
-Jz 13: faltam os versículos 18
-Jz 15: faltam os versículos 8
+Jz 9,56: cortado texto estranho ao versículo: «Palestina um grande número de povoações fortificadas. Estas…»
+Jz 11,3: separado do versículo 2 (conferir)
+Jz 11,37: cortado texto estranho ao versículo: «mente desta interessante questão bíblica. 2.0 Não se encontr…»
+Jz 13,18: separado do versículo 17 (conferir)
+Jz 15,8: separado do versículo 7 (conferir)
+Jz 16,31: cortado texto estranho ao versículo: «quer dizer que fossem só duas as colunas; havia mais, mas Sa…»
 Jz 16: faltam os versículos 10
-Jz 19: faltam os versículos 3, 24
-Jz 21: faltam os versículos 11
-Rt 1: faltam os versículos 9
-1Sm 1: faltam os versículos 11
+Jz 19,24: separado do versículo 23 (conferir)
+Jz 19: faltam os versículos 3
+Jz 21,11: separado do versículo 10 (conferir)
+Rt 1,9: separado do versículo 8 (conferir)
+1Sm 1,11: separado do versículo 10 (conferir)
+1Sm 3,20: cortado texto estranho ao versículo: «dos profetas que prcdisseram o futuro em nome de Deus. O ter…»
 1Sm 3: faltam os versículos 8
-1Sm 9: faltam os versículos 4
-1Sm 13: faltam os versículos 4
-1Sm 16: faltam os versículos 11
-1Sm 17: faltam os versículos 7, 11, 12, 50
-1Sm 18: faltam os versículos 11
-1Sm 20: faltam os versículos 8
-1Sm 21: faltam os versículos 9, 14
-1Sm 22: faltam os versículos 9
-1Sm 23: faltam os versículos 3, 11
+1Sm 9,4: separado do versículo 3 (conferir)
+1Sm 13,4: separado do versículo 3 (conferir)
+1Sm 16,11: separado do versículo 10 (conferir)
+1Sm 17,7: separado do versículo 6 (conferir)
+1Sm 17,11: separado do versículo 10 (conferir)
+1Sm 17,11: cortado texto estranho ao versículo: «i2 Davi porém era filho daquele homem efrateu de Belém de Ju…»
+1Sm 17,50: separado do versículo 49 (conferir)
+1Sm 17: faltam os versículos 12
+1Sm 18,11: separado do versículo 10 (conferir)
+1Sm 18,11: cortado texto estranho ao versículo: «porém Davi se desviou, e evitou [o golpe por duas vezes. '…»
+1Sm 20,8: separado do versículo 7 (conferir)
+1Sm 21,9: separado do versículo 8 (conferir)
+1Sm 21,14: separado do versículo 13 (conferir)
+1Sm 22,9: separado do versículo 8 (conferir)
+1Sm 23,3: separado do versículo 2 (conferir)
+1Sm 23,11: separado do versículo 10 (conferir)
 1Sm 25,6: comentário da edição removido; conferir se o versículo ficou completo
+1Sm 27,8: cortado texto estranho ao versículo: «9.E Davi matava tudo quanto encontrava no país, sem deixar c…»
 1Sm 27: faltam os versículos 4, 9
-2Sm 3: faltam os versículos 33
+2Sm 3,33: separado do versículo 32 (conferir)
 2Sm 4: faltam os versículos 3
-2Sm 5: faltam os versículos 18, 19
-2Sm 6: faltam os versículos 5, 9
-2Sm 8: faltam os versículos 16
-2Sm 13: faltam os versículos 9
-2Sm 16: faltam os versículos 10
-2Sm 19: faltam os versículos 4, 13
-2Sm 20: faltam os versículos 5, 14
-2Sm 21: faltam os versículos 9
-2Sm 22: faltam os versículos 10, 41, 45
+2Sm 5,9: cortado texto estranho ao versículo: «da a ser a mais notável das cidades do mundo. Cartago, Atena…»
+2Sm 5,18: separado do versículo 17 (conferir)
+2Sm 5,18: cortado texto estranho ao versículo: «iS Mas vindo os filisteus se estenderam pelo Vale dos Rafain…»
+2Sm 5: faltam os versículos 19
+2Sm 6,5: separado do versículo 4 (conferir)
+2Sm 6,9: separado do versículo 8 (conferir)
+2Sm 8,16: separado do versículo 15 (conferir)
+2Sm 11,27: cortado texto estranho ao versículo: «REPREENDE NATAN A DAVI O SEU PECADO. ESTE PRÍNCIPE O RECONHE…»
+2Sm 13,9: separado do versículo 8 (conferir)
+2Sm 16,10: separado do versículo 9 (conferir)
+2Sm 19,4: separado do versículo 3 (conferir)
+2Sm 19,13: separado do versículo 12 (conferir)
+2Sm 20,5: separado do versículo 4 (conferir)
+2Sm 20,14: separado do versículo 13 (conferir)
+2Sm 21,9: separado do versículo 8 (conferir)
+2Sm 22,10: separado do versículo 9 (conferir)
+2Sm 22: faltam os versículos 41, 45
 2Sm 24: faltam os versículos 14
+1Rs 1: faltam os versículos 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53
+1Rs 2,27: cortado texto estranho ao versículo: «Desterrou pois Salomão a Abiatar, para não ser mais pontífic…»
+1Rs 2,35: cortado texto estranho ao versículo: «E em lugar de Joab constituiu o rei a Banaias filho de Jojad…»
+1Rs 2,38: cortado texto estranho ao versículo: «E disse Semei ao rei: Justa ordem é esta. Co mo o disse o re…»
+1Rs 2,40: cortado texto estranho ao versículo: «Levantou-se pois Semei, e silhou o seu jumento: E foi ter co…»
+1Rs 2,41: cortado texto estranho ao versículo: «Mas Joab, como ouvisse soar a trombeta, disse: Que quer dize…»
+1Rs 2,45: cortado texto estranho ao versículo: «Este é o estrondo que vós ouvistes. E o rei Salomão será abe…»
 1Rs 2: faltam os versículos 48
 1Rs 5: faltam os versículos 17
-1Rs 7: faltam os versículos 15
+1Rs 6,8: cortado texto estranho ao versículo: «Non seulement il a pendant dix siecles porté le Temple de Je…»
+1Rs 7,9: cortado texto estranho ao versículo: «cette colonnade, ainsi que les planchers intermediaires, eta…»
+1Rs 7,15: separado do versículo 14 (conferir)
+1Rs 8,6: cortado texto estranho ao versículo: «Fez pois Salomão naquele tempo uma festa muito célebre, e to…»
 1Rs 8: faltam os versículos 65
 1Rs 10: faltam os versículos 6
-1Rs 13: faltam os versículos 32
-1Rs 14: faltam os versículos 13
+1Rs 13,32: separado do versículo 31 (conferir)
+1Rs 14,13: separado do versículo 12 (conferir)
 1Rs 15: faltam os versículos 4
+1Rs 17,24: cortado texto estranho ao versículo: «mais preeminente figura desta época. Os bolandistas chamam-l…»
+1Rs 18,4: cortado texto estranho ao versículo: «Fr. Francisco Maia, História profética. Sant'Ana, Crônica do…»
 1Rs 18: faltam os versículos 41
-1Rs 20: faltam os versículos 18
+1Rs 20,18: separado do versículo 17 (conferir)
+1Rs 20: faltam os versículos 34, 35, 36, 37, 38, 39, 40, 41, 42, 43
+1Rs 21,1: cortado texto estranho ao versículo: «Veio pois Benadad à presença de Acab, e este o fez montar so…»
 1Rs 21: faltam os versículos 30, 31, 32, 33
-2Rs 1: faltam os versículos 14
-2Rs 3: faltam os versículos 11
-2Rs 5: faltam os versículos 6, 10
-2Rs 6: faltam os versículos 11
-2Rs 11: faltam os versículos 9
-2Rs 13: faltam os versículos 7
+2Rs 1,14: separado do versículo 13 (conferir)
+2Rs 2,2: cortado texto estranho ao versículo: «16, lê-se que Jorão, filho de Josalat, tomou posse do reino…»
+2Rs 2,25: separado do versículo 24 (conferir)
+2Rs 2,25: cortado texto estranho ao versículo: «Cavíruco 3 O REI DE MOAB RECUSA PAGAR O TRIBUTO AO REI DE IS…»
+2Rs 3,9: cortado texto estranho ao versículo: «Todas as palavras que lá estão, encontram-se, ao menos nas s…»
+2Rs 3,11: separado do versículo 10 (conferir)
+2Rs 3: faltam os versículos 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27
+2Rs 4,4: cortado texto estranho ao versículo: «E deitado azeite em todas estas vasilhas: E estando cheias,…»
+2Rs 4,11: cortado texto estranho ao versículo: «Por que ajuntou o Se nhor estes três reis, para os entregar…»
+2Rs 4,15: cortado texto estranho ao versículo: «E quando este cantava ao som da harpa, foi a mão do Senhor s…»
+2Rs 4,17: cortado texto estranho ao versículo: «Vós não vereis vento, nem chuva: Mas esta madre se encherá d…»
+2Rs 4,18: cortado texto estranho ao versículo: «E isto é pouco na presença do Senhor: Ainda mais ele entrega…»
+2Rs 4,19: cortado texto estranho ao versículo: «E vós destruireis todas as cidades fortes, e todas as praças…»
+2Rs 4,22: cortado texto estranho ao versículo: «Manda comigo, te peço, um dos teus servos, e uma jumenta, pa…»
+2Rs 4,23: cortado texto estranho ao versículo: «sangue derramado pela espada: Os reis pelejaram contra si, e…»
+2Rs 4,24: cortado texto estranho ao versículo: «Mas os israelitas levantando-se bateram os moabitas: Estes f…»
+2Rs 4,25: cortado texto estranho ao versículo: «E encheram todos os campos os mais férteis de pedras, que ca…»
+2Rs 4,26: cortado texto estranho ao versículo: «Mas eles não puderam. Vai pois a recebê-la, e dize-lhe: Vai-…»
+2Rs 4,27: cortado texto estranho ao versículo: «É tendo vindo ter com o homem de Deus ao monte, se deitou a…»
+2Rs 5,6: separado do versículo 5 (conferir)
+2Rs 5,10: separado do versículo 9 (conferir)
+2Rs 6,11: separado do versículo 10 (conferir)
+2Rs 11,9: separado do versículo 8 (conferir)
+2Rs 13,7: separado do versículo 6 (conferir)
+2Rs 14: faltam os versículos 29
+2Rs 15,38: cortado texto estranho ao versículo: «ACAZ SE ENTREGA AQ CULTO DOS ÍDOLOS. E' CERCADO EM JERUSALÉM…»
 2Rs 15: faltam os versículos 11
 2Rs 17,33: comentário da edição removido; conferir se o versículo ficou completo
-2Rs 17: faltam os versículos 7, 9
+2Rs 17,7: separado do versículo 6 (conferir)
+2Rs 17,9: separado do versículo 8 (conferir)
+2Rs 18: faltam os versículos 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37
+2Rs 19,12: cortado texto estranho ao versículo: «Porventura os deuses das gentes livraram os povos, que meus…»
+2Rs 19,14: cortado texto estranho ao versículo: «O rei pois dos assírios impôs a' Ezequias, rei de Judá, trez…»
+2Rs 19,16: cortado texto estranho ao versículo: «Inclina a tua orelha, e ouve: Abre, Senhor, os teus olhos, e…»
+2Rs 19,18: cortado texto estranho ao versículo: «E lançaram os seus deuses no fogo: Porque eles não eram deus…»
+2Rs 19,22: cortado texto estranho ao versículo: «Diante deste altar vós adorareis em Jerusalém? A quem insult…»
+2Rs 19,24: cortado texto estranho ao versículo: «Acaso tens confiança no Egito por causa das carroças e caval…»
+2Rs 19,26: cortado texto estranho ao versículo: «E os que nelas habitam, abatidas as forças, se atemcrizaram,…»
+2Rs 19,30: cortado texto estranho ao versículo: «E tudo o que ficar da casa de Judá, lançará raizes para baix…»
+2Rs 19,31: cortado texto estranho ao versículo: «E cada um de vós comerá da sua vinha, e da sua figueira, e b…»
+2Rs 19,32: cortado texto estranho ao versículo: «Não queirais dar ouvidos a Ezequias, que vos engana, dizendo…»
+2Rs 19,34: cortado texto estranho ao versículo: «Acaso livraram eles da minha mão a Samaria? E eu protegerei…»
+2Rs 19,37: cortado texto estranho ao versículo: «E quando ele adorava no templo a Nesroc seu deus, Adramelec…»
+2Rs 23,3: cortado texto estranho ao versículo: «4-E mandou o rei ao pontífice Helcias,. e aos sacerdotes da…»
 2Rs 23: faltam os versículos 14, 24
 1Cr 1: faltam os versículos 11
-1Cr 6: faltam os versículos 2
+1Cr 6,2: separado do versículo 1 (conferir)
+1Cr 8,40: separado do versículo 39 (conferir)
 1Cr 8: faltam os versículos 23, 30
-1Cr 10: faltam os versículos 5
+1Cr 10,5: separado do versículo 4 (conferir)
+1Cr 11,1: cortado texto estranho ao versículo: «Paralipômenos il, 3-11 a ti disse o Senhor teu Deus: Tu apas…»
 1Cr 12: faltam os versículos 5
-1Cr 16: faltam os versículos 30
-1Cr 19: faltam os versículos 5
-1Cr 21: faltam os versículos 28
+1Cr 16,30: separado do versículo 29 (conferir)
+1Cr 19,5: separado do versículo 4 (conferir)
+1Cr 21,28: separado do versículo 27 (conferir)
 1Cr 24: faltam os versículos 11, 14
-1Cr 29: faltam os versículos 5, 9, 10, 11
+1Cr 27: faltam os versículos 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34
+1Cr 29,3: cortado texto estranho ao versículo: «E quando convenha de ouro, façam-se de ouro as obras, e onde…»
+1Cr 29,9: separado do versículo 8 (conferir)
+1Cr 29,10: separado do versículo 9 (conferir)
+1Cr 29,11: separado do versículo 10 (conferir)
+1Cr 29: faltam os versículos 5
+2Cr 1,10: cortado texto estranho ao versículo: «Nous descendons da village à notre che, fontaine, des vont.…»
 2Cr 3,7: comentário da edição removido; conferir se o versículo ficou completo
-2Cr 3: faltam os versículos 16
-2Cr 4: faltam os versículos 9, 14
-2Cr 5: faltam os versículos 2, 7, 8
-2Cr 8: faltam os versículos 8
+2Cr 3,16: separado do versículo 15 (conferir)
+2Cr 4,9: separado do versículo 8 (conferir)
+2Cr 4: faltam os versículos 14
+2Cr 5,1: cortado texto estranho ao versículo: «é Depois disto congregou para Jerusalém todos os anciãos de…»
+2Cr 5,7: separado do versículo 6 (conferir)
+2Cr 5,8: separado do versículo 7 (conferir)
+2Cr 5: faltam os versículos 2
+2Cr 6,42: cortado texto estranho ao versículo: «DESCE UM FOGO DO CRU A CONSUMIR AS VÍTIMAS. A MA JESTADE DO…»
+2Cr 8: faltam os versículos 8, 15, 16, 17, 18
+2Cr 9,2: cortado texto estranho ao versículo: «Porque assim o tinha mandado Davi, homem de Deus. Salomão lh…»
+2Cr 9,15: cortado texto estranho ao versículo: «Fez pois o rei Salomão duzentas lanças de ouro do peso de se…»
+2Cr 9,18: cortado texto estranho ao versículo: «Têm-se escrito volumes sobre Ofir. Uns colo cam-no na Arábia…»
 2Cr 9: faltam os versículos 5
-2Cr 10: faltam os versículos 15, 18
+2Cr 10,15: separado do versículo 14 (conferir)
+2Cr 10,17: cortado texto estranho ao versículo: «iS E enviou o rei Roboão a Adurão, que era superintendente d…»
+2Cr 10: faltam os versículos 18
 2Cr 11: faltam os versículos 10
 2Cr 12,9: comentário da edição removido; conferir se o versículo ficou completo
-2Cr 12: faltam os versículos 11
-2Cr 14: faltam os versículos 2, 5, 6, 7
-2Cr 15: faltam os versículos 1, 3, 4, 5, 6, 7, 8
+2Cr 12,11: separado do versículo 10 (conferir)
+2Cr 12,13: cortado texto estranho ao versículo: «“Uertes nons pouvons dire qu'aucun monument découvert jusqu'…»
+2Cr 14,5: separado do versículo 4 (conferir)
+2Cr 14,6: separado do versículo 5 (conferir)
+2Cr 14,7: separado do versículo 6 (conferir)
+2Cr 14: faltam os versículos 2, 9, 10, 11, 12, 13, 14, 15
+2Cr 15,11: cortado texto estranho ao versículo: «Socorre-nos pois, Senhor nosso Deus: Porque confiados em ti,…»
+2Cr 15: faltam os versículos 1, 3, 4, 5, 6, 7, 8, 16, 17, 18, 19
+2Cr 16,2: cortado texto estranho ao versículo: «Mas se o deixardes, ele vos deixará. Tirou pois Asa o ouro e…»
+2Cr 16,4: cortado texto estranho ao versículo: «Sabido o que, Benadad despediu os generais dos seus exército…»
+2Cr 16,8: cortado texto estranho ao versículo: «Acaso não eram os etiopes e os libios mito mais em número em…»
+2Cr 16,9: cortado texto estranho ao versículo: «Porque os olhos do Senhor contemplam tóda a terra, e inspira…»
+2Cr 16,11: cortado texto estranho ao versículo: «Quanto às ações de Asa, desde as primeiras até às últimas, e…»
+2Cr 16,13: cortado texto estranho ao versículo: «E adormeceu com seus pais: E morreu no ano quarenta e um do…»
 2Cr 16: faltam os versículos 17
+2Cr 18,15: cortado texto estranho ao versículo: «Ele lhe respondeu: Ide: Porque todas as coisas vos sairão be…»
 2Cr 18: faltam os versículos 14
+2Cr 20,8: cortado texto estranho ao versículo: «9.Se vierem sobre nós os males, a espada do juizo, a peste,…»
 2Cr 20: faltam os versículos 9, 21
-2Cr 23: faltam os versículos 11, 17, 18
+2Cr 23,11: separado do versículo 10 (conferir)
+2Cr 23,17: separado do versículo 16 (conferir)
+2Cr 23,17: cortado texto estranho ao versículo: «iS E estabeleceu Jojada oficiais para a guarda do templo do…»
+2Cr 23: faltam os versículos 18
+2Cr 25,28: cortado texto estranho ao versículo: «OZIAS SUCEDE A AMASIAS. PIEDADE DESTE PRÍNCIPE. GUERRA CONTR…»
+2Cr 26,13: cortado texto estranho ao versículo: «e se opuseram ao rei, e disseram: A ti, Ozias, não é que per…»
 2Cr 26: faltam os versículos 7, 18
-2Cr 27: faltam os versículos 5
+2Cr 27,5: separado do versículo 4 (conferir)
+2Cr 32: faltam os versículos 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33
+2Cr 33,17: cortado texto estranho ao versículo: «Assim como os deuses das outras nações. não puderam livrar o…»
+2Cr 33,21: cortado texto estranho ao versículo: «E Senaquerib se recolheu com ignomí-. nia ao seu país. E ten…»
 2Cr 33: faltam os versículos 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14
-2Cr 35: faltam os versículos 18
-Esd 2: faltam os versículos 6
-Esd 3: faltam os versículos 9
-Esd 4: faltam os versículos 21, 22, 23
-Esd 7: faltam os versículos 19
+2Cr 34,6: cortado texto estranho ao versículo: «Observava os sonhos, seguia os agouros, dava-se às artes mág…»
+2Cr 34,7: cortado texto estranho ao versículo: «E depois que destruiu os altares, e os bosques, e fez em ped…»
+2Cr 34,8: cortado texto estranho ao versículo: «e o Templo do Senhor, mandou a Safan filho de Eselias, e a M…»
+2Cr 34,13: cortado texto estranho ao versículo: «Mas sobre os que carregavam com os pesos para diversos usos,…»
+2Cr 34,14: cortado texto estranho ao versículo: «E pôs oficiais do exército em todas as cidades fortes de Jud…»
+2Cr 34,15: cortado texto estranho ao versículo: «E Ele disse ao secretário Safan: Eu achei o livro da lei na…»
+2Cr 34,16: cortado texto estranho ao versículo: «E ordenou a Judá que servisse o Senhor Deus de Israel. Mas S…»
+2Cr 34,18: cortado texto estranho ao versículo: «E as palavras dos profetas, que lhe falaram da parte do Senh…»
+2Cr 34,23: cortado texto estranho ao versículo: «Mas cometeu muito maiores delitos. E Olda lhes respondeu: Ei…»
+2Cr 35,18: separado do versículo 17 (conferir)
+Esd 2,2: cortado texto estranho ao versículo: «que primeiro tinham vindo com Zorobabel, entre eles Neemias;…»
+Esd 2,6: separado do versículo 5 (conferir)
+Esd 3,9: separado do versículo 8 (conferir)
+Esd 4,21: separado do versículo 20 (conferir)
+Esd 4,22: separado do versículo 21 (conferir)
+Esd 4,22: cortado texto estranho ao versículo: «22 Vede não sejais negligentes em executar esta ordém, e não…»
+Esd 4: faltam os versículos 23
+Esd 7,19: separado do versículo 18 (conferir)
 Esd 10: faltam os versículos 3
-Ne 3: faltam os versículos 6
+Ne 3,6: separado do versículo 5 (conferir)
 Ne 7: faltam os versículos 34
-Ne 8: faltam os versículos 3
+Ne 8,3: separado do versículo 2 (conferir)
 Ne 11: faltam os versículos 24
 Ne 12: faltam os versículos 11, 45
 Ne 13: faltam os versículos 20
-Tb 8: faltam os versículos 4
+Tb 6,6: cortado texto estranho ao versículo: «pequeno Zab, afluentes do Tigre, para o lado déste, a que se…»
+Tb 8,4: separado do versículo 3 (conferir)
 Jt 2: faltam os versículos 14
+Jt 6,8: cortado texto estranho ao versículo: «9:E eles desviando-se do lado do monte, ataram Aquior de mão…»
 Jt 6: faltam os versículos 9
-Est 1: faltam os versículos 9
-Est 3: faltam os versículos 11
-Est 9: faltam os versículos 18, 26
-Est 14: faltam os versículos 8
+Jt 9,19: cortado texto estranho ao versículo: «JUDITE SE ENFEITA, E TOMANDO CONSIGO UMA ESCRAVA, SAI, E VAI…»
+Jt 11: faltam os versículos 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21
+Jt 12,12: cortado texto estranho ao versículo: «Logo como obram assim, é certo que se hão de perder. Então f…»
+Jt 12,13: cortado texto estranho ao versículo: «Judite lhe respondeu: Quem sou eu para contradizer a meu sei…»
+Jt 12,18: cortado texto estranho ao versículo: «E Judite lhe disse: Eu beberei, senhor, porque a minha alma…»
+Jt 12,19: cortado texto estranho ao versículo: «E tomou, e comeu, e bebeu diante déle o que sua serva lhe ti…»
+Jt 12,20: cortado texto estranho ao versículo: «E Holofernes se alegrou diante dela, e bebeu muito vinho em…»
+Est 1,6: cortado texto estranho ao versículo: «E' a esta a que se refere aqui o texto. No original está Sus…»
+Est 1: faltam os versículos 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22
+Est 2,1: cortado texto estranho ao versículo: «Por que era em extremo formosa. Passadas assim as coisas, qu…»
+Est 2,16: cortado texto estranho ao versículo: «Foi pois levada à câmara do rei Assuero no décimo mês, chama…»
+Est 2,22: cortado texto estranho ao versículo: «E que isto se publicasse por todos os povos. O que descobriu…»
+Est 3,11: separado do versículo 10 (conferir)
+Est 9,18: separado do versículo 17 (conferir)
+Est 9,26: separado do versículo 25 (conferir)
+Est 10,3: cortado texto estranho ao versículo: «Com toda a fidelidade trasladei o que se acha no Hebraico. M…»
+Est 13,7: cortado texto estranho ao versículo: «Até aqui o traslado da carta. O que se segue, o achei escrit…»
+Est 14,8: separado do versículo 7 (conferir)
+Est 16,18: cortado texto estranho ao versículo: «4º Sexto discurso de Jó, 19. — 5º Discurso de Sofar, 20. — 6…»
+Est 16,24: cortado texto estranho ao versículo: «Jó Caráter do livro de Jó — Este livro é ao mesmo tempo hist…»
 Est 16: faltam os versículos 25
 1Mc 1,7: comentário da edição removido; conferir se o versículo ficou completo
+1Mc 1,12: separado do versículo 11 (conferir)
+1Mc 1: faltam os versículos 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67
 1Mc 2,18: comentário da edição removido; conferir se o versículo ficou completo
-1Mc 2: faltam os versículos 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
+1Mc 2,2: separado do versículo 1 (conferir)
+1Mc 2,57: cortado texto estranho ao versículo: «pôs o rei Antíoco o abominável idolo da desolação em cima do…»
+1Mc 2,68: separado do versículo 67 (conferir)
+1Mc 2,69: separado do versículo 68 (conferir)
+1Mc 2,70: separado do versículo 69 (conferir)
+1Mc 2: faltam os versículos 3, 4, 5, 6, 7, 8, 9, 10, 11
 1Mc 3,7: comentário da edição removido; conferir se o versículo ficou completo
+1Mc 3,8: cortado texto estranho ao versículo: «E correu as cidades de Judá, e lançou fora delas os ímpios,…»
+1Mc 3,15: cortado texto estranho ao versículo: «Éle pois se preparou para o atacar: E o exército dos ímpios…»
+1Mc 3,18: cortado texto estranho ao versículo: «E Judas lhes disse: E' coisa fácil virem a cair os muitos na…»
+1Mc 3,21: cortado texto estranho ao versículo: «Nós nenhuma conveniência temos em largar a lei, e as ordenan…»
+1Mc 3,22: cortado texto estranho ao versículo: «E o mesmo Senhor quebrará todos os seus esforços diante da n…»
+1Mc 3,23: cortado texto estranho ao versículo: «E tanto que cessou de falar, lançou-se Judas de repente sobr…»
+1Mc 3,31: cortado texto estranho ao versículo: «que os tinham seguido. E ele estava consternado em extremo n…»
+1Mc 3,32: cortado texto estranho ao versículo: «Sai, e obedecei ao edito do rei e vi vereis. Deixou pois a L…»
+1Mc 3,40: cortado texto estranho ao versículo: «Em bem pouco tempo nos extermina rão eles da face da terra.…»
+1Mc 3,44: cortado texto estranho ao versículo: «E todos os mais que escaparam, fugiram para as nações, para…»
+1Mc 3,49: cortado texto estranho ao versículo: «E trouxeram os ornamentos sacerdotais, e as primícias, e os…»
 1Mc 4: faltam os versículos 36
 1Mc 6: faltam os versículos 51
-1Mc 7: faltam os versículos 25, 28, 30
+1Mc 7,25: separado do versículo 24 (conferir)
+1Mc 7,30: separado do versículo 29 (conferir)
+1Mc 7: faltam os versículos 28
+1Mc 8: faltam os versículos 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
+1Mc 9,14: cortado texto estranho ao versículo: «E observou Judas que a ala da parte direita do exército, ond…»
+1Mc 9,17: cortado texto estranho ao versículo: «E travou-se uma renhida peleja, e foram muitos os que de uma…»
+1Mc 9,22: cortado texto estranho ao versículo: «E quanto às outras relações, que se podiam fazer, das guerra…»
+1Mc 9,26: cortado texto estranho ao versículo: «TE estes soldados judeus obedecerão ao seu mando, sem recebe…»
+1Mc 9,27: cortado texto estranho ao versículo: «E levantou-se uma tão grande tribulação em Israel, que se nã…»
+1Mc 9,30: cortado texto estranho ao versículo: «E tudo o que acrescentarem ou tirarem ficará valioso. Portan…»
+1Mc 9,31: cortado texto estranho ao versículo: «Por que tens tu teito carregar o teu jugo sóbre os judeus no…»
 1Mc 9: faltam os versículos 34
 1Mc 10,32: comentário da edição removido; conferir se o versículo ficou completo
+1Mc 11: faltam os versículos 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74
+1Mc 12,11: cortado texto estranho ao versículo: «entrado a ser pontífice pelos anos de 199 antes da mesma era…»
+1Mc 12,40: cortado texto estranho ao versículo: «E contou-lhe tudo o que Demétrio tinha feito, e o ódio que t…»
+1Mc 12,41: cortado texto estranho ao versículo: «Porque faziam muitos danos a Israel. E marchou Jônatas em se…»
+1Mc 12,42: cortado texto estranho ao versículo: «E quando Trifão viu que Jônatas era chegado com um grande ex…»
+1Mc 12,49: cortado texto estranho ao versículo: «Logo per deram o ânimo, e com deprecações gritaram misericór…»
 1Mc 12: faltam os versículos 58, 59
+1Mc 13,10: separado do versículo 9 (conferir)
+1Mc 13: faltam os versículos 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54
+1Mc 14,1: cortado texto estranho ao versículo: «No ano cento e setenta e dois ajuntou o rei Demétrio o seu e…»
+1Mc 14,12: cortado texto estranho ao versículo: «E' cada um se punha assentado debaixo da sua parreira, e deb…»
+1Mc 14,15: cortado texto estranho ao versículo: «Restabeleceu a glória do santuário, e multiplicou os vasos s…»
+1Mc 14,16: cortado texto estranho ao versículo: «E soou em Roma a notícia de que Jônatas era falecido: E cheg…»
+1Mc 14,17: cortado texto estranho ao versículo: «Temendo não mover contra si o ódio do povo de Israel, que po…»
+1Mc 14,18: cortado texto estranho ao versículo: «E Trifão faltou à palavra, e não remeteu a Jônatas. Escrever…»
+1Mc 14,21: cortado texto estranho ao versículo: «Os embaixadores, que foram enviados ao nosso povo, nos infor…»
+1Mc 14,25: cortado texto estranho ao versículo: «estas razões, disseram: Que ação de graças ren deremos nós a…»
+1Mc 14,34: cortado texto estranho ao versículo: «Tito Lívio diz que Trifão matara a Antíoco peitando os médic…»
+1Mc 14,39: cortado texto estranho ao versículo: «E se acaso se nos pagava qualquer outro “impósto em Jerusalé…»
+1Mc 14,49: cortado texto estranho ao versículo: «E viram-se reduzidos a uma grande fome, e muitos déeles morr…»
 1Mc 14: faltam os versículos 41
+1Mc 15,23: cortado texto estranho ao versículo: «Os romanos depois da segunda guerra Púnica ficaram tão pode…»
+1Mc 15,29: cortado texto estranho ao versículo: «E levaram o seu povo a uma grande g glória. Tendes assolado…»
+1Mc 15,34: cortado texto estranho ao versículo: «E a Gazara, que está na fronteira de Azot, onde antes habita…»
+1Mc 15,35: cortado texto estranho ao versículo: «Pelo que toca às queixas que nos fazes acerca de Jope, e de…»
 1Mc 16: faltam os versículos 15
 2Mc 2: faltam os versículos 24
 2Mc 4,19: comentário da edição removido; conferir se o versículo ficou completo
 2Mc 6: faltam os versículos 9
+2Mc 9,27: cortado texto estranho ao versículo: «'28 Enfim, este homicida, e blasfemo, ferido de uma horrível…»
 2Mc 9: faltam os versículos 28
-2Mc 10: faltam os versículos 28
+2Mc 10,28: separado do versículo 27 (conferir)
+2Mc 11,38: cortado texto estranho ao versículo: «OS JUDEUS SÃO PERSEGUIDOS PELOS GOVERNADORES DAS PROVÍNCIAS…»
+2Mc 12: faltam os versículos 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46
+2Mc 13,21: cortado texto estranho ao versículo: «Porque era incon quistável e difícil de ser entrada por caus…»
+2Mc 13,24: cortado texto estranho ao versículo: «E lhes pediu com agonizadas instâncias que o deixassem ir co…»
+2Mc 13,25: cortado texto estranho ao versículo: «Quando porém Antíoco entrou em Ptolemaida, estavam os ptolem…»
 2Mc 14,3: comentário da edição removido; conferir se o versículo ficou completo
 2Mc 15,2: comentário da edição removido; conferir se o versículo ficou completo
-2Mc 15: faltam os versículos 18, 28, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52
+2Mc 15,15: cortado texto estranho ao versículo: «do livro do Gênesis que vamos encontrar a primeira referênci…»
+2Mc 15,18: separado do versículo 17 (conferir)
+2Mc 15,28: separado do versículo 27 (conferir)
+2Mc 15,38: cortado texto estranho ao versículo: «Jerusalém estava ainda com a guarnição sira dentro, julga Ca…»
+2Mc 15,40: cortado texto estranho ao versículo: «Primeiros combates de Judas com os sírios, Guerra de Judas c…»
+2Mc 15: faltam os versículos 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52
+Jó 1,1: cortado texto estranho ao versículo: «que dois dos seus amigos, Elifaz e Baldad, descendem de Abra…»
+Jó 1,5: cortado texto estranho ao versículo: «Assim o fazia Jó todos os dias. Manuel Biblique, não basta p…»
+Jó 1,12: cortado texto estranho ao versículo: «“Jó temia que eles pecassem quando bendiziam ao Senhor, por…»
 Jó 1: faltam os versículos 14
 Jó 2,10: comentário da edição removido; conferir se o versículo ficou completo
-Jó 4: faltam os versículos 13
+Jó 2,13: cortado texto estranho ao versículo: «cheologique, 1860 insere um artigo intitulado Representation…»
+Jó 4,13: separado do versículo 12 (conferir)
+Jó 8,1: cortado texto estranho ao versículo: «padre Pereira verteu por laço, significa, no entender dos in…»
+Jó 9,11: cortado texto estranho ao versículo: «Baldad tinha dito que Deus é justo, e que não teria castigad…»
 Jó 9: faltam os versículos 23
 Jó 11: faltam os versículos 8
-Jó 12: faltam os versículos 10
+Jó 12,10: separado do versículo 9 (conferir)
 Jó 13: faltam os versículos 18
 Jó 14,22: comentário da edição removido; conferir se o versículo ficou completo
-Jó 15: faltam os versículos 14
+Jó 14,22: cortado texto estranho ao versículo: «Esta é a minha esperança, e firme nela passarei com alegria…»
+Jó 15,13: cortado texto estranho ao versículo: «lá Que é o homem, para ser imaculado, e para parecer justo t…»
+Jó 15: faltam os versículos 14, 35
+Jó 19,26: cortado texto estranho ao versículo: «ainda as folhas dos livros não eram de papel nem de pergamin…»
+Jó 22,21: cortado texto estranho ao versículo: «Alude ao erro dos incrédulos, que antes do Dilúvio julgavam…»
 Jó 24,12: comentário da edição removido; conferir se o versículo ficou completo
-Jó 31: faltam os versículos 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
+Jó 24,18: cortado texto estranho ao versículo: «Não só nos campos, mas também nas cidades, cometeram mil des…»
+Jó 26,12: cortado texto estranho ao versículo: «se acha muito bem expressa nos poetas e historiadores profan…»
+Jó 29,18: cortado texto estranho ao versículo: «eu o tinha socorrido na sua necessidade, ou porque lhe tinha…»
+Jó 30,10: separado do versículo 9 (conferir)
+Jó 30: faltam os versículos 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31
+Jó 31: faltam os versículos 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 32, 33, 34, 35, 36, 37, 38, 39, 40
+Jó 32,1: cortado texto estranho ao versículo: «Cessaram porém estes três homens de responder a Jó. porque s…»
+Jó 32,6: cortado texto estranho ao versículo: «portanto abaixando a minha cabeça, não me atrevi 'a expor-vo…»
+Jó 32,7: cortado texto estranho ao versículo: «Porque esperava que falasse a idade mais pre vecta, e que os…»
+Jó 32,13: cortado texto estranho ao versículo: «Não digais porventura: Nós achamos a sabedoria, Deus é que a…»
+Jó 32,14: cortado texto estranho ao versículo: «file não falou nada para mim, nem eu lhe responderei também…»
+Jó 32,15: cortado texto estranho ao versículo: «E não foi um o que nos formou no ventre da mãe? Ei-los aí in…»
+Jó 32,19: cortado texto estranho ao versículo: «Eis-aqui o meu peito é como o mosto sem res piradouro, o qua…»
+Jó 32,22: cortado texto estranho ao versículo: «Porque não sei o tempo que subsistirei, e se daqui a pouco m…»
+Jó 33,17: cortado texto estranho ao versículo: «13 e 14, são como dum homem miserável que implora com submis…»
+Jó 35,16: cortado texto estranho ao versículo: «INSISTE AINDA ELIG EM DEFENDER A EQUIDADE DOS ZOS DE DEUS. E…»
 Jó 36,22: comentário da edição removido; conferir se o versículo ficou completo
-Jó 37: faltam os versículos 8
-Jó 38: faltam os versículos 25
-Jó 40: faltam os versículos 13, 19
-Jó 42: faltam os versículos 10
+Jó 36,22: cortado texto estranho ao versículo: «Eliú, neste e no precedente versículo, diz a Jó: Se tivesses…»
+Jó 37,8: separado do versículo 7 (conferir)
+Jó 38,3: cortado texto estranho ao versículo: «Dretes explicam à letra este lugar, do ouro que aos babitant…»
+Jó 38,18: cortado texto estranho ao versículo: «Como se faz com um críblo que se move para limpar as palhas…»
+Jó 38,25: separado do versículo 24 (conferir)
+Jó 39,35: cortado texto estranho ao versículo: «CONTINUA AINDA O SENHOR A MOSTRAR A Jó A DISTÂNCIA DA CRIATU…»
+Jó 40,10: cortado texto estranho ao versículo: «altamente persuadidos de que as divinas escrituras, e princi…»
+Jó 40,13: separado do versículo 12 (conferir)
+Jó 40,18: cortado texto estranho ao versículo: «notório que os elefantes nas batalhas levavam sobre seus lom…»
+Jó 40,26: cortado texto estranho ao versículo: «dônia. E também se dá por certo que o elefante atura 4 sede…»
+Jó 40: faltam os versículos 19
+Jó 41,6: cortado texto estranho ao versículo: «uma sinédoque, a parte pelo todo; porque não há rede que pos…»
+Jó 42,6: cortado texto estranho ao versículo: «Beemot e Leviatã, sejam os que forem à letra, não são aqui s…»
+Jó 42,10: separado do versículo 9 (conferir)
+Jó 42,16: cortado texto estranho ao versículo: «ordinário nos homens daquele pais, e de que ainda hoje usam…»
 Sl 1,6: comentário da edição removido; conferir se o versículo ficou completo
+Sl 1,1: cortado texto estranho ao versículo: «(+) Nesta explicação dos Salmos indicar-se-á o assunto de ca…»
+Sl 1,6: cortado texto estranho ao versículo: «pelo caminho dos pecadores, porque isso é impossível, visto…»
+Sl 2,2: cortado texto estranho ao versículo: «Também este Salmo não tem título; mas do contexto depreende-…»
+Sl 2,8: cortado texto estranho ao versículo: «Cristo, porque é o Ungido por excelência — Sacerdote e rei.…»
 Sl 3,1: comentário da edição removido; conferir se o versículo ficou completo
+Sl 3,7: cortado texto estranho ao versículo: «por Psalmus, composição ritmica destinada a ser cantada com…»
 Sl 3: faltam os versículos 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56
+Sl 4,4: cortado texto estranho ao versículo: «O sentido moral, segundo os mais abalizados críticos, é most…»
+Sl 4,10: cortado texto estranho ao versículo: «esto imperativo, e que corresponde a “se vos irardes”, etc.…»
+Sl 5,5: cortado texto estranho ao versículo: «duzimos o hebreu el-han-nekhiloth, que a Vulgata traduziu po…»
 Sl 6,11: comentário da edição removido; conferir se o versículo ficou completo
-Sl 6: faltam os versículos 8
+Sl 6,3: cortado texto estranho ao versículo: «O meu ólho se turvou à vista do furor: Tenho envelhecido no…»
+Sl 6,8: separado do versículo 7 (conferir)
+Sl 6,8: cortado texto estranho ao versículo: «Alguns expositores entendem que o Salmista diri gira este câ…»
+Sl 6,11: cortado texto estranho ao versículo: «com a precisão que se lê no Novo, o estado das almas de pois…»
 Sl 7,3: comentário da edição removido; conferir se o versículo ficou completo
+Sl 7,3: cortado texto estranho ao versículo: «Schuiggyon o qual é diferente do mizmor — psalmus. Não se co…»
+Sl 7,11: cortado texto estranho ao versículo: «tiga o pecador, que não pode subtrair-se aos rigores dos seu…»
+Sl 8,8: cortado texto estranho ao versículo: «posto para ser cantado nas vindimas. Mas à este propósito ad…»
 Sl 9,21: comentário da edição removido; conferir se o versículo ficou completo
+Sl 9,5: cortado texto estranho ao versículo: «A ser exata quererá dizer que este Salmo deve ser cantado co…»
+Sl 9: faltam os versículos 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39
+Sl 10,5: cortado texto estranho ao versículo: «Ele dominará a todos os seus inimigos. O Senhor habita no se…»
+Sl 10,8: cortado texto estranho ao versículo: «“9 Os. seus olhos estão voltados contra o pobre: Ar ma cilad…»
 Sl 10: faltam os versículos 9
+Sl 11,9: cortado texto estranho ao versículo: «SALMO IMPETRATÓRIO. DAVI CHEIO DE CONSOLAÇÃO PELA FIRME ESPE…»
+Sl 13,7: cortado texto estranho ao versículo: «Jerônimo explica este fato dizendo que nessa Epístola são fr…»
 Sl 14,5: comentário da edição removido; conferir se o versículo ficou completo
-Sl 14: faltam os versículos 4
-Sl 19: faltam os versículos 5
+Sl 14,4: separado do versículo 3 (conferir)
+Sl 15,1: cortado texto estranho ao versículo: «hebraica Mikthum, cujo sentido é obscuro, que a Vulgata vert…»
+Sl 15,4: cortado texto estranho ao versículo: «III Quaest. VII. Art. IV. — P. Sclo. nada necessita, e nada…»
+Sl 15,11: separado do versículo 10 (conferir)
+Sl 15,11: cortado texto estranho ao versículo: «“Me instrufram os meus rins.” Os gregos e os latinos colocam…»
+Sl 17,1: cortado texto estranho ao versículo: «Mas debalde o quer: por que eis-aqui a divina resposta que l…»
+Sl 17,14: cortado texto estranho ao versículo: «e tremeu a terra, e os fundamentos dos montes se encheram de…»
+Sl 17,31: cortado texto estranho ao versículo: «guinte têm dado ocasião a interpretações muito diversas. O q…»
+Sl 18,7: cortado texto estranho ao versículo: «2.º (4-6) O som da palavra, conquanto não seja articulada, r…»
+Sl 19,5: separado do versículo 4 (conferir)
 Sl 20,12: comentário da edição removido; conferir se o versículo ficou completo
 Sl 21,13: comentário da edição removido; conferir se o versículo ficou completo
 Sl 21,17: comentário da edição removido; conferir se o versículo ficou completo
+Sl 21,1: cortado texto estranho ao versículo: «“Porquanto os porás aparte”. Outros têm: “Por alvo da tua ir…»
+Sl 21,4: cortado texto estranho ao versículo: «lavras iniciais foram as que Jesus Cristo repetiu na Cruz: D…»
+Sl 21,20: cortado texto estranho ao versículo: «mcos, subentendendo mordent, ou laccrant: Como um leão mor d…»
 Sl 21: faltam os versículos 14
+Sl 22,6: cortado texto estranho ao versículo: «déste Salmo. Não é fácil determinar o motivo que Davi tem pa…»
+Sl 23,4: cortado texto estranho ao versículo: «Salmo, no entender de S. Agostinho e S. Atanásio, foi compos…»
+Sl 24,6: cortado texto estranho ao versículo: «Ensinará aos que erram no caminho da vida presente a lei que…»
+Sl 24,8: cortado texto estranho ao versículo: «chamam “'Acrósticos”, porque no hebreu cada versículo tem po…»
+Sl 28,2: cortado texto estranho ao versículo: «versículo e o seguinte são o cântico de louvores ao Senhor,…»
+Sl 28,9: cortado texto estranho ao versículo: «chama a cada passo na Escritura a Voz de Deus. Com esta ling…»
+Sl 29,4: cortado texto estranho ao versículo: «desertum Cudes do verso $S, também sc deve trasladar no mesm…»
+Sl 29,8: cortado texto estranho ao versículo: «pois que ele a reedificara e a purificara das profanações e…»
 Sl 29: faltam os versículos 14, 15
-Sl 37: faltam os versículos 6
-Sl 41: faltam os versículos 2, 3, 4, 5
+Sl 31,1: cortado texto estranho ao versículo: «O que pode convir a Davi, quando saiu de Jerusalém fugindo d…»
+Sl 31,5: cortado texto estranho ao versículo: «2.º (3-4) O estado moral do pecador antes de obter o perdão.…»
+Sl 31,9: cortado texto estranho ao versículo: «é mortal diante de ti, porque quanto ao resto, Deus ainda de…»
+Sl 33,4: cortado texto estranho ao versículo: «pado das ciladas de Saul, se refugiou, sem ser conhecido, na…»
+Sl 35,3: cortado texto estranho ao versículo: «em louvor e exaltará a tua justiça. E se entende de Cristo q…»
+Sl 35,9: cortado texto estranho ao versículo: «Na Escritura é freqiiente este epíteto, quando quer signific…»
+Sl 36,1: cortado texto estranho ao versículo: «Nem invejes aos que obram iniquidade. explicam assim: E pelo…»
+Sl 36,7: cortado texto estranho ao versículo: «prisioneiros da Babilônia, porque nele se fala fregiientemen…»
+Sl 36,38: cortado texto estranho ao versículo: «não fala senão depois de ter meditado as coisas dentro de si…»
+Sl 37,3: cortado texto estranho ao versículo: «tenciais, julgam alguns que fora composto por Davi na revolt…»
+Sl 37,6: separado do versículo 5 (conferir)
+Sl 38,3: cortado texto estranho ao versículo: «a Iditum, nome próprio dum dos três chefes do coro do tempo…»
+Sl 39,3: cortado texto estranho ao versículo: «possa acabar em paz, e com uma ditosa morte a carreira da mi…»
+Sl 39,7: cortado texto estranho ao versículo: «Se se fala de Cristo como Cabeça do Corpo Místico que compre…»
+Sl 39,11: cortado texto estranho ao versículo: «Aures perfecisti mihi, correspondendo perfecisti a perforast…»
+Sl 40,10: cortado texto estranho ao versículo: «vindo-se nole de um termo figurado, que se toma de quando se…»
+Sl 41: faltam os versículos 2, 3, 4, 5, 7, 8, 9, 10, 11, 12
 Sl 42,4: comentário da edição removido; conferir se o versículo ficou completo
+Sl 42,1: cortado texto estranho ao versículo: «fste salmo tem grande importância, pois é salmo que a Igreja…»
+Sl 42,4: cortado texto estranho ao versículo: «Onde está o teu Deus? E entrarei ao Altar de Deus: O Deus qu…»
+Sl 42,5: cortado texto estranho ao versículo: «Com voz de regozijo, e louvor: Som festivo de «quem se banqu…»
+Sl 42,6: cortado texto estranho ao versículo: «Salvação do meu rosto, “ arca do testamento, na qual Deus de…»
 Sl 42: faltam os versículos 7
+Sl 43,1: cortado texto estranho ao versículo: «com o Kinnor. O kinnor era um instrumento pcrtátil, feito du…»
+Sl 43,24: cortado texto estranho ao versículo: «cedeu no primeiro período, se deve tornar a entender no segu…»
+Sl 44,2: cortado texto estranho ao versículo: «não podemos levantar-nos por nós mesmos: venha, Senhor, o te…»
+Sl 44,7: cortado texto estranho ao versículo: «Quer dizer: Eu nisto não tenho outra parte, senão aquela que…»
+Sl 44,9: cortado texto estranho ao versículo: «Com as quais coisas te alegraram ca este versículo a Jesus C…»
+Sl 44,15: cortado texto estranho ao versículo: «vestidos são mirra, aloés, e cássia”, que espalham o seu che…»
+Sl 45: faltam os versículos 11, 12
+Sl 46,1: cortado texto estranho ao versículo: «Serei exaltado cnire as gentes, e serei exaltado na terra. i…»
+Sl 46,4: cortado texto estranho ao versículo: «quando se converteram à fé de Cristo os imperadores romanos,…»
+Sl 46,10: cortado texto estranho ao versículo: «escolherá u nossa herança: A formosura de Jacó, a qual amou:…»
 Sl 47,3: comentário da edição removido; conferir se o versículo ficou completo
-Sl 49: faltam os versículos 7
+Sl 47,11: cortado texto estranho ao versículo: «mada a rainha do Oriente, quanto pelas espirituais da presen…»
+Sl 48,10: cortado texto estranho ao versículo: «ma; isto é, um discurso cheio de graves sentenças, ou coisas…»
+Sl 48,21: cortado texto estranho ao versículo: «e se degradou pelo amor às coisas sensíveis, até fazer-se em…»
+Sl 49,7: separado do versículo 6 (conferir)
+Sl 50,6: cortado texto estranho ao versículo: «fético, compôs um salmo que convém a todos os tempos, e que…»
+Sl 50,9: cortado texto estranho ao versículo: «agravar mais o seu delito, também para conseguir o perdão, e…»
+Sl 50,15: cortado texto estranho ao versículo: «aquela expressão de Origenes: Quecumque in carne nasci tur,…»
+Sl 50,21: cortado texto estranho ao versículo: «porque não foi só um o homicídio, que Davi cometeu, mas fora…»
 Sl 50: faltam os versículos 5, 11
-Sl 53: faltam os versículos 8
-Sl 55: faltam os versículos 5
+Sl 51,6: cortado texto estranho ao versículo: «lecimento da sua Igreja; porque o seu santo espírito lhe faz…»
+Sl 51: faltam os versículos 11
+Sl 52,1: cortado texto estranho ao versículo: «Ao regente do córo. Sobre Maelet Panreiteia inteligência de…»
+Sl 53,8: separado do versículo 7 (conferir)
+Sl 54,18: cortado texto estranho ao versículo: «deve suprir. Mas que farei sendo o aleivoso tu? homo unanimu…»
+Sl 54,23: cortado texto estranho ao versículo: «gata denota muitas vezes assaltar, sitiar, combater, persegu…»
+Sl 55,2: cortado texto estranho ao versículo: «e o mesmo sucede cada dia, castigando aos pecadores com mort…»
+Sl 55,5: separado do versículo 4 (conferir)
+Sl 55,7: cortado texto estranho ao versículo: «sentido é que temia a luz do dia por não ser descoberto, sen…»
+Sl 55,12: cortado texto estranho ao versículo: «a distribuição, e pontuação que têm as palavras na Vulgata.…»
+Sl 56,9: cortado texto estranho ao versículo: «Levantar-me-ei de manhã. Duguet havendo observado que os sal…»
+Sl 56,12: separado do versículo 11 (conferir)
 Sl 56: faltam os versículos 2
-Sl 57: faltam os versículos 5
+Sl 57,2: cortado texto estranho ao versículo: «sobre o que diz Santo Agostinho: “Persuado-me que reconhecei…»
+Sl 57,5: separado do versículo 4 (conferir)
+Sl 57,7: cortado texto estranho ao versículo: «aos conselheiros, e cortesãos de Saul, como se dissera: Por…»
 Sl 59,9: comentário da edição removido; conferir se o versículo ficou completo
+Sl 59,2: cortado texto estranho ao versículo: «(2 Rs 8, obseuro, foram traduzidas pela Vulgata Pro his qui…»
+Sl 59,9: cortado texto estranho ao versículo: «grandes calamidades, que sofreu o povo no govêrno dos juízes…»
+Sl 59,14: cortado texto estranho ao versículo: «vir de exposição a este lugar. O hebreu tem: “Judá, meu legi…»
+Sl 61,2: cortado texto estranho ao versículo: «Pois que dele é a minha salvação. ção da tua graca, e consta…»
+Sl 61,8: cortado texto estranho ao versículo: «fiança em Deus. Segunda (4-5). Projetos dos infmigos de Davi…»
+Sl 61,13: separado do versículo 12 (conferir)
+Sl 61,13: cortado texto estranho ao versículo: «são tão vãos, e de tão pouca substância os filhos dos homens…»
+Sl 62,4: cortado texto estranho ao versículo: «Os meus lábios te louvarão. méia, mas Judá é o que se lê em…»
+Sl 62,12: cortado texto estranho ao versículo: «Não nos devemos porém esquecer que se trata de verso, empreg…»
+Sl 63,1: cortado texto estranho ao versículo: «Pois sc fechou à boca aos que falam coisas iníquas. Ao regen…»
+Sl 63,5: cortado texto estranho ao versículo: «tendem que este salmo não pode ser do tempç da perseguição d…»
 Sl 65,3: comentário da edição removido; conferir se o versículo ficou completo
+Sl 65,3: cortado texto estranho ao versículo: «pinas de ovelhas, porque a abundância e bondade dos campos f…»
+Sl 65,11: cortado texto estranho ao versículo: «alusivo ao que se refere no livro 4 de Esdras, c. 13, que qu…»
+Sl 66: faltam os versículos 8
 Sl 67,8: comentário da edição removido; conferir se o versículo ficou completo
+Sl 67,3: cortado texto estranho ao versículo: «Xardinal Pie, Oeuvres, Homclie prononcte le jour de la Pente…»
+Sl 67,8: cortado texto estranho ao versículo: «onde deve passar a arca sagrada daquele que se elevou sobre…»
+Sl 67,12: cortado texto estranho ao versículo: «se mui presente, para o que depois diremos; pois parece que…»
+Sl 67,13: cortado texto estranho ao versículo: «Fx la maitressc de la maisor ramasso le butian. Puis, quand…»
+Sl 67,14: cortado texto estranho ao versículo: «dos exércitos, isto é, o rei de grande poder, será Jabin, re…»
+Sl 67,15: cortado texto estranho ao versículo: «tempo todas as tribos ter parte naquela expedição, nem ajuda…»
 Sl 68,1: comentário da edição removido; conferir se o versículo ficou completo
-Sl 70: faltam os versículos 5, 11
+Sl 68,6: cortado texto estranho ao versículo: «Jesus Cristo, e por isso, como o salmo 21, é muito citado no…»
+Sl 68,11: cortado texto estranho ao versículo: «— P. Scio. matris significam uma mesma coisa. Os judeus não…»
+Sl 70,11: separado do versículo 10 (conferir)
+Sl 70: faltam os versículos 5
 Sl 71,10: comentário da edição removido; conferir se o versículo ficou completo
 Sl 71,15: comentário da edição removido; conferir se o versículo ficou completo
+Sl 71,20: cortado texto estranho ao versículo: «com o contexto, se bem que a Vulgata não so afasta muito, qu…»
 Sl 71: faltam os versículos 5, 16
+Sl 73,14: cortado texto estranho ao versículo: «(Dan 7-11.) Também é certo que se não repetiram os sinais ou…»
+Sl 75,1: cortado texto estranho ao versículo: «cência em que deve suprir-se, erit vobis evasle, “tereis vós…»
+Sl 75,8: cortado texto estranho ao versículo: «mostra-nos a sua realização e agradece ao Senhor. Tem quatro…»
+Sl 76,10: cortado texto estranho ao versículo: «Israel. E há aqui uma bela descrição da passagem do Mar Verm…»
 Sl 77: faltam os versículos 55, 62
+Sl 78,3: cortado texto estranho ao versículo: «mãos. O salmista, nestes três últimos versos, lembra a prudê…»
+Sl 80,2: cortado texto estranho ao versículo: «Celebrai ao Deus de Jacó. de Carrieres: “Os seus habitantes…»
+Sl 80,10: cortado texto estranho ao versículo: «Alguns comentadores entendem a festa dos taberuáculos. taber…»
+Sl 83,5: cortado texto estranho ao versículo: «estes, ou composto pelos descendentes de Coré. Esto salmo é…»
+Sl 85,1: cortado texto estranho ao versículo: «Padre pedia o castigo do homem pecador, porém a paz, e a mis…»
+Sl 86,3: cortado texto estranho ao versículo: «traduzido de vinte maneiras diversas. Boulleret — Les Psuume…»
 Sl 89: faltam os versículos 11, 18, 19
 Sl 94,11: comentário da edição removido; conferir se o versículo ficou completo
+Sl 94,6: cortado texto estranho ao versículo: «tinas. Há porém uma observação importante: o que é recitado…»
+Sl 97,8: cortado texto estranho ao versículo: «diz que se refere à libertação de escravidão do Egito. Este…»
+Sl 99,5: cortado texto estranho ao versículo: «SaLmo 100 SALMO DIDÁTICO. DAVI NA SUA PESSOA PÕE DIANTE DE T…»
 Sl 101,28: comentário da edição removido; conferir se o versículo ficou completo
-Sl 101: faltam os versículos 11, 23
+Sl 101,11: separado do versículo 10 (conferir)
+Sl 101,23: separado do versículo 22 (conferir)
+Sl 101,28: cortado texto estranho ao versículo: «salmo, ou em figura deste pobre povo cativo, ou qualquer des…»
+Sl 102,5: cortado texto estranho ao versículo: «velmente, com segurança, e sem temor, quando livres, e solto…»
+Sl 102,22: cortado texto estranho ao versículo: «SAaLMo 103 SALMO GRATULATÓRIO. VAI FAZENDO MEMÓRIA DAS MA RA…»
+Sl 104,8: cortado texto estranho ao versículo: «contra na Vulgata à testa de outros muitos salmos, vale o me…»
 Sl 104: faltam os versículos 27
-Sl 107: faltam os versículos 1, 11
+Sl 107,11: separado do versículo 10 (conferir)
+Sl 107,11: cortado texto estranho ao versículo: «Também julga que Davi o compusera em ação de graças pela vit…»
+Sl 107: faltam os versículos 1
 Sl 109,7: comentário da edição removido; conferir se o versículo ficou completo
 Sl 109,8: comentário da edição removido; conferir se o versículo ficou completo
-Sl 115: faltam os versículos 10, 12
-Sl 118: faltam os versículos 25, 118, 153
+Sl 109,3: cortado texto estranho ao versículo: «No versículo 3 mostra-nos, ainda que duma maneira obscura, C…»
+Sl 109,7: cortado texto estranho ao versículo: «a nenhum mortal, pois que não reconhecia ninguém superior a…»
+Sl 110,8: cortado texto estranho ao versículo: «Vê-se bem como este salmo encerra passagens duma obscuridade…»
+Sl 110,10: cortado texto estranho ao versículo: «SaLmo Ill FELIZ O HOMEM QUE TEME VERDADEIRAMENTE A DEUS, AIN…»
+Sl 112,6: cortado texto estranho ao versículo: «três grandes festas do ano, na festa da Dedicação e nas Neom…»
+Sl 113,2: cortado texto estranho ao versículo: «da terra aos humildes, como o fez com Saul, Davi, José, e co…»
+Sl 113: faltam os versículos 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+Sl 114,2: cortado texto estranho ao versículo: «eculium di cunctis populis... et in regrum sacerdo tale, et…»
+Sl 115,12: separado do versículo 11 (conferir)
+Sl 115,19: cortado texto estranho ao versículo: «Jerônimo, que todos os três dizem aqui. in stupore mco: isto…»
+Sl 115: faltam os versículos 10
+Sl 117,10: cortado texto estranho ao versículo: «Outros são de parecer que se cantou no ato de trasladar a Ar…»
+Sl 117,27: cortado texto estranho ao versículo: «Dado que este dito, ou provérbio se possa entender de Davi,…»
+Sl 118,1: cortado texto estranho ao versículo: «acróstico ou - compreendendo cada letra do alfaheto hebraico…»
+Sl 118,5: cortado texto estranho ao versículo: «são 1.º thorah, a lei; 2.º hedoth, os testemunhos; 3.º piggo…»
+Sl 118,25: separado do versículo 24 (conferir)
+Sl 118: faltam os versículos 118, 153
+Sl 119,3: cortado texto estranho ao versículo: «ao redil, e havia de celebrar com festa o achado, Lc 15. — T…»
 Sl 119: faltam os versículos 6
 Sl 120,1: comentário da edição removido; conferir se o versículo ficou completo
-Sl 121: faltam os versículos 3
+Sl 121,3: separado do versículo 2 (conferir)
+Sl 124,5: cortado texto estranho ao versículo: «Paz seja sobre Israel. o que parece indicar o versículo 3. T…»
+Sl 125,7: separado do versículo 6 (conferir)
+Sl 126,5: separado do versículo 4 (conferir)
+Sl 129,5: cortado texto estranho ao versículo: «católica para sufragar os mortos. Tem quatro estrofes. Prime…»
 Sl 131,13: comentário da edição removido; conferir se o versículo ficou completo
-Sl 135: faltam os versículos 19
+Sl 131,6: cortado texto estranho ao versículo: «Davi, e outros com S. João Crisóstomo o atribuem a Salomão,…»
+Sl 132,1: cortado texto estranho ao versículo: «Eu abençoareci à sua caça, significando por caça o mantiment…»
+Sl 135,4: cortado texto estranho ao versículo: «da Arca a glória do Senhor, e isto ainda muito tempo antes d…»
+Sl 135,19: separado do versículo 18 (conferir)
+Sl 135,27: separado do versículo 26 (conferir)
 Sl 136,7: comentário da edição removido; conferir se o versículo ficou completo
+Sl 136,1: cortado texto estranho ao versículo: «Lembrando-nos de Sião: no original hebraico se não encontra,…»
+Sl 136,7: cortado texto estranho ao versículo: «Foram sinaladas aos judeus algumas cidades na Caldéia, para…»
 Sl 138,23: comentário da edição removido; conferir se o versículo ficou completo
+Sl 138,17: cortado texto estranho ao versículo: «do Ocidente, porque o Mediterrâneo era ocidental a respeito…»
+Sl 140,6: cortado texto estranho ao versículo: «Boullerut, ob. cit. Parece ter sido composto depois da morte…»
+Sl 141,1: cortado texto estranho ao versículo: «Boulleret escolheu o ue é mais conforme com a versão dos Set…»
+Sl 143,8: cortado texto estranho ao versículo: «Parece que o compôs Davi depois de haver conseguido alguma v…»
 Sl 143: faltam os versículos 11
 Sl 147: faltam os versículos 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12
 Sl 148,13: comentário da edição removido; conferir se o versículo ficou completo
+Sl 148,13: cortado texto estranho ao versículo: «ceiro Céu, onde andam as aves, e se formam as nuvens, e do s…»
 Sl 150,1: comentário da edição removido; conferir se o versículo ficou completo
+Sl 150,1: cortado texto estranho ao versículo: «tros e executores do juízo que tem pronunciado o Senhor cont…»
+Pr 1,3: cortado texto estranho ao versículo: «4.A fim de se dar aos pequeninos astúcia, ciência, e entendi…»
 Pr 1: faltam os versículos 4
+Pr 2,22: cortado texto estranho ao versículo: «Tudo quanto aqui se diz da mulher adúltera e mundana em sent…»
+Pr 6,8: cortado texto estranho ao versículo: «vido de argumento contra a inspiração desto livro. Objetam o…»
 Pr 6: faltam os versículos 18
 Pr 9,2: comentário da edição removido; conferir se o versículo ficou completo
 Pr 9,11: comentário da edição removido; conferir se o versículo ficou completo
+Pr 9,2: cortado texto estranho ao versículo: «piada no capítulo precedente, em que o autor apresentou a sa…»
 Pr 10: faltam os versículos 10
-Pr 11: faltam os versículos 19
-Pr 12: faltam os versículos 3
+Pr 11,19: separado do versículo 18 (conferir)
+Pr 12,3: separado do versículo 2 (conferir)
+Pr 12,28: cortado texto estranho ao versículo: «13 O FILHO SÁBIO, OU INSENSATO. RESERVA QUE DEVE HAVER NAS P…»
+Pr 13,18: cortado texto estranho ao versículo: «breu 18: O que despreza a palavra de Deus, andará em perdiçã…»
 Pr 14,15: comentário da edição removido; conferir se o versículo ficou completo
-Pr 15: faltam os versículos 19
-Pr 18: faltam os versículos 4
+Pr 15,19: separado do versículo 18 (conferir)
+Pr 16,4: cortado texto estranho ao versículo: «permissão de não serem contestes as falsas testemunhas contr…»
+Pr 16,33: cortado texto estranho ao versículo: «DEUS PROVA OS CORAÇÕES. NÃO DESPREZAR +0 POBRE. JUÍZOS INJUS…»
+Pr 17,14: cortado texto estranho ao versículo: «autoridade está bem no insensato, nem o mentir e faltar ao q…»
+Pr 17,19: cortado texto estranho ao versículo: «fazia encaminhar para dentro da sua fazenda a levada das ásu…»
+Pr 18,4: separado do versículo 3 (conferir)
+Pr 18,14: cortado texto estranho ao versículo: «dissipa as suas obras; porque também frater se toma por aque…»
+Pr 19,24: cortado texto estranho ao versículo: «ser, que todo aquéle que não sopeia a ira, experimentará mui…»
 Pr 20,26: comentário da edição removido; conferir se o versículo ficou completo
+Pr 21,31: cortado texto estranho ao versículo: «muitas cidades bem guarnecidas tomadas por estratagema e ard…»
 Pr 22,6: comentário da edição removido; conferir se o versículo ficou completo
-Pr 22: faltam os versículos 4
-Pr 26: faltam os versículos 11, 12, 15
+Pr 22,4: separado do versículo 3 (conferir)
+Pr 23,3: cortado texto estranho ao versículo: «de alguma parte da herdade ou campo alheio, com a mudança do…»
+Pr 24,23: cortado texto estranho ao versículo: «entendido. O que se encontra no texto original é: O Justo ca…»
+Pr 24,29: cortado texto estranho ao versículo: «verdadeiramente é provar a amizade que se consagra ao interl…»
+Pr 25,8: cortado texto estranho ao versículo: «à glória e majestade de Deus encobrir a palavra, isto é, esc…»
+Pr 25,23: cortado texto estranho ao versículo: «dus, violentus, ou como no Salmo 7%.0. Cfr. Lexicon hebraicu…»
+Pr 26,10: cortado texto estranho ao versículo: «1H O imprudente, que repete a sua loucura, é como o cão que…»
+Pr 26,15: separado do versículo 14 (conferir)
+Pr 26,15: cortado texto estranho ao versículo: «O sentido é este: é tão inútil prestar honras ao insensato,…»
+Pr 26: faltam os versículos 11, 12
+Pr 27,14: cortado texto estranho ao versículo: «a sua vocação, pois: é semelhante às aves, que ao tempo que…»
+Pr 27,27: cortado texto estranho ao versículo: «nômico dirigido ao pai de famílias para ver com seus próprio…»
+Pr 28,5: cortado texto estranho ao versículo: «perseguidor e algoz do ímpio são os remorsos da sua própria…»
+Pr 28,11: cortado texto estranho ao versículo: «culares se enfurece contra os seus conterrâneos e semelhante…»
+Pr 28,16: cortado texto estranho ao versículo: «prezá-lo-á. Os Setenta: censurá-lo-á. O pobre prudente, se d…»
 Pr 29: faltam os versículos 7, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69
+Pr 30,1: cortado texto estranho ao versículo: «breu, e em S. Jerônimo, mas acha-se nos Setenta. E' pois o s…»
 Ecl 10,8: comentário da edição removido; conferir se o versículo ficou completo
+Ecl 10,8: cortado texto estranho ao versículo: «breu, é, que assim como quando se acha qualquer mosca dentro…»
+Ecl 10,14: cortado texto estranho ao versículo: «“Porque este remédio te curará dos maiores pecados”: a mesma…»
 Ecl 12,4: comentário da edição removido; conferir se o versículo ficou completo
 Ecl 12,6: comentário da edição removido; conferir se o versículo ficou completo
+Ct 1,1: cortado texto estranho ao versículo: «breu: “Porque os teus amores são melhores do que o vinho.” P…»
+Ct 1,5: cortado texto estranho ao versículo: «cantares, seção 6) as torrentes da misericórdia do divino es…»
+Ct 1,7: cortado texto estranho ao versículo: «ama a minha alma, aponta-me, etc.”. mosíssima, e pela tua si…»
+Ct 1,13: cortado texto estranho ao versículo: «vagabunda atrás de'rebanhos alheios. De onde se vê a mui ext…»
 Ct 2,7: comentário da edição removido; conferir se o versículo ficou completo
 Ct 2,14: comentário da edição removido; conferir se o versículo ficou completo
+Ct 2,2: cortado texto estranho ao versículo: «uma flor branca e cheirosa, dele pendem os seus frutos à man…»
+Ct 2,7: cortado texto estranho ao versículo: «tórico alude a espôsa ao costume nupcial, que era cobrir o e…»
+Ct 2,11: cortado texto estranho ao versículo: «ao espiritual, este não querer o espôso que zs damas acordem…»
+Ct 3,1: cortado texto estranho ao versículo: «E não o achei os seus filhinhos, isto é, os bons pensamentos…»
+Ct 3,11: cortado texto estranho ao versículo: «era o costume dos antigos, ter guardas na câmara onde dormia…»
 Ct 4,8: comentário da edição removido; conferir se o versículo ficou completo
+Ct 4,2: cortado texto estranho ao versículo: «dema de que a mãe coroou ao filho, poderá dizer-se que foi a…»
+Ct 5,7: cortado texto estranho ao versículo: «com o regalo dos mais finos cheiros se deitavam as damas na…»
 Ct 6,3: comentário da edição removido; conferir se o versículo ficou completo
 Ct 6,7: comentário da edição removido; conferir se o versículo ficou completo
+Ct 6,4: cortado texto estranho ao versículo: «12, ou as serventes do paço. E' também de notar que não tend…»
+Ct 6,7: cortado texto estranho ao versículo: «Também entre as cidades do Oriente era Jerusalém a mais form…»
+Ct 6,12: cortado texto estranho ao versículo: «a dizer assim: Enquanto eu me ocupo neste exercicio de carid…»
 Ct 7,7: comentário da edição removido; conferir se o versículo ficou completo
+Ct 7,1: cortado texto estranho ao versículo: «tanto gosto faziam disso e tão encantadas estavam da sua gen…»
+Ct 7,5: cortado texto estranho ao versículo: «formas, como ainda hoje so vê cm várias estátuas antigas. E…»
+Ct 7,7: cortado texto estranho ao versículo: «na Palestina, que ficava na tribo de Issacar, elevado e amen…»
+Ct 7,12: cortado texto estranho ao versículo: «cuja figura representa aqui a Espôsa, fazem por crescer de v…»
 Ct 8,13: comentário da edição removido; conferir se o versículo ficou completo
+Ct 8,6: cortado texto estranho ao versículo: «lemos no fim do capítulo 24 do Gênesis que Isaac introduzira…»
+Ct 8,9: cortado texto estranho ao versículo: «tempo pequenos vasos de cheiro pendentes sobre o peito, e br…»
+Ct 8,13: cortado texto estranho ao versículo: «que ela reconhece por experiência própria tudo quanto acabad…»
+Ct 8,14: cortado texto estranho ao versículo: «mirra, e outeiro do incenso, que eram sítios onde o Espôso c…»
+Sb 2,25: cortado texto estranho ao versículo: «tender em dois sentidos; ou que Deus olhará por ele, declara…»
 Sb 8,21: comentário da edição removido; conferir se o versículo ficou completo
+Sb 9,1: cortado texto estranho ao versículo: «ORAÇÃO DE SALOMÃO, PEDINDO A DEUS A SABEDORIA. à SABEDORIA É…»
+Sb 12,8: cortado texto estranho ao versículo: «a medio sacramento tuo: depois de mediar o teu juramento. De…»
+Sb 12,21: cortado texto estranho ao versículo: «“punido, tu o condenas e julgas estranho do teu poder. Como…»
+Sb 16,2: cortado texto estranho ao versículo: «animais, a que os gentios davam culto, ficaram despojados da…»
+Sb 16,20: cortado texto estranho ao versículo: «sículo alude a fatos que não estão narrados no Êxodo. Cornél…»
 Sb 17,8: comentário da edição removido; conferir se o versículo ficou completo
-Sb 17: faltam os versículos 10
+Sb 17,10: separado do versículo 9 (conferir)
+Sb 18,2: cortado texto estranho ao versículo: «“inferno e a eterna condenação. Acrescenta que os egípcios s…»
 Sb 18: faltam os versículos 6
 Sb 19,15: comentário da edição removido; conferir se o versículo ficou completo
+Sb 19,1: cortado texto estranho ao versículo: «representado, ou todo o mundo; porque as quatro coisas de qu…»
 Eclo 1,6: comentário da edição removido; conferir se o versículo ficou completo
-Eclo 2: faltam os versículos 7
+Eclo 1,6: cortado texto estranho ao versículo: «ção ou no govérno, ou na duração das suas criaturas, quanto…»
+Eclo 1,40: cortado texto estranho ao versículo: «EXURTAÇÃO À PACIÊNCIA NAS TENTAÇÕES. UTILIDADE DAS AFLIÇÕES…»
+Eclo 2,7: separado do versículo 6 (conferir)
 Eclo 4,26: comentário da edição removido; conferir se o versículo ficou completo
+Eclo 7,40: cortado texto estranho ao versículo: «rece ao Senhor a espádua direita das tuas vitimas e o sacrif…»
 Eclo 7: faltam os versículos 18
+Eclo 9,25: separado do versículo 24 (conferir)
+Eclo 9,25: cortado texto estranho ao versículo: «que ta podem tirar, já por qualquer aleive que te levantem,…»
+Eclo 10,15: cortado texto estranho ao versículo: «Vulgata, pode entender-se não só na significação de princípi…»
+Eclo 10,30: cortado texto estranho ao versículo: «de Faraó, Daniel na de Nabucodonosor, ainda que servos, tinh…»
+Eclo 11,1: cortado texto estranho ao versículo: «gar três sentidos. O primeiro é, que se alguém se acbar em a…»
+Eclo 11,15: cortado texto estranho ao versículo: «À caridade e os caminhos das boas obras néle mesmo têm a sua…»
+Eclo 12,6: cortado texto estranho ao versículo: «Tal é o sentido literal do presente verso, para cuja intelig…»
+Eclo 12,13: cortado texto estranho ao versículo: «Dá o que é bom, não acérca da esmola, mas de qualquer outro…»
+Eclo 13,32: cortado texto estranho ao versículo: «FELICIDADE DO QUE NÃO PECA PELA LÍNGUA. INFELICIDA DE DO AVA…»
 Eclo 14,15: comentário da edição removido; conferir se o versículo ficou completo
-Eclo 16: faltam os versículos 16
-Eclo 17: faltam os versículos 30
+Eclo 14,15: cortado texto estranho ao versículo: «gável decreto de que todos hão de morrer. A morte, ou o esta…»
+Eclo 14,23: cortado texto estranho ao versículo: «com a prática de semelhantes obras de justiça, e de misericó…»
+Eclo 16,16: separado do versículo 15 (conferir)
+Eclo 17,30: separado do versículo 29 (conferir)
+Eclo 18,1: cortado texto estranho ao versículo: «tão brilhantes luzes, padece e padecerá pelo tempo adiante s…»
 Eclo 18: faltam os versículos 3
+Eclo 22,3: cortado texto estranho ao versículo: «a exame do mesmo coração o que a boca mostra ter impulsos de…»
+Eclo 22,20: cortado texto estranho ao versículo: «vida, porque não deixando os maus hábitos da culpa vai sempr…»
 Eclo 24,17: comentário da edição removido; conferir se o versículo ficou completo
 Eclo 24,23: comentário da edição removido; conferir se o versículo ficou completo
-Eclo 27: faltam os versículos 9, 18
+Eclo 24,7: cortado texto estranho ao versículo: «chama no verso seguinte “multidão de escolhidos, e benditos”…»
+Eclo 24,14: cortado texto estranho ao versículo: «as naturezas criadas, porque sem o socorro delas a Divina Sa…»
+Eclo 24,17: cortado texto estranho ao versículo: «aquela sempiterna duração, que já havia antes de haver tempo…»
+Eclo 24,21: cortado texto estranho ao versículo: «opinião, foi feita a Cruz de Cristo; porque dizem que o enca…»
+Eclo 24,23: cortado texto estranho ao versículo: «44, verso 10, explicando que coisa seja stacte, diz assim: “…»
+Eclo 27,9: separado do versículo 8 (conferir)
+Eclo 27: faltam os versículos 18
+Eclo 30,21: cortado texto estranho ao versículo: «corpo tem o primeiro lugar entre os bens do corpo, assim a s…»
 Eclo 31,30: comentário da edição removido; conferir se o versículo ficou completo
+Eclo 31,30: cortado texto estranho ao versículo: «soas mais porcas na comida passar alguma vez os limites da t…»
 Eclo 33,17: comentário da edição removido; conferir se o versículo ficou completo
 Eclo 35: faltam os versículos 9
 Eclo 38,12: comentário da edição removido; conferir se o versículo ficou completo
-Eclo 45: faltam os versículos 29
+Eclo 38,12: cortado texto estranho ao versículo: «os homens conhecessem a eficácia dos remédios, e já lhes ins…»
+Eclo 38,20: cortado texto estranho ao versículo: «recendo-lhe ofertas com um coração bem disposto, e resignado…»
+Eclo 39,1: cortado texto estranho ao versículo: «“nem passarão ao Ajuntamento,” cujo sentido é, nem terão ass…»
+Eclo 41,20: cortado texto estranho ao versículo: «As lágrimas derramam-se até sobre os impios quando morrem, m…»
+Eclo 41: faltam os versículos 28
+Eclo 42,9: cortado texto estranho ao versículo: «Ou, quando se tem de tratar com os negociantes, deve cada um…»
+Eclo 45,29: separado do versículo 28 (conferir)
 Eclo 48,6: comentário da edição removido; conferir se o versículo ficou completo
 Eclo 48,11: comentário da edição removido; conferir se o versículo ficou completo
-Eclo 49: faltam os versículos 10
+Eclo 48,11: cortado texto estranho ao versículo: «as ameaças ou increpação do Senhor cortra os israelitas, e e…»
+Eclo 49,10: separado do versículo 9 (conferir)
+Eclo 50,16: cortado texto estranho ao versículo: «— Pereira. haviam de ser consumidas, como se vê do Lev 3. Al…»
 Eclo 50: faltam os versículos 10
-Eclo 51: faltam os versículos 29
+Eclo 51,1: cortado texto estranho ao versículo: «Amós 809-784 Jcroboão. Período de( Oséias..... 790-725 Jerob…»
+Eclo 51,29: separado do versículo 28 (conferir)
+Eclo 51,38: cortado texto estranho ao versículo: «LIVROS PROFÉTICOS Os livros proféticos constituem, sem dúvid…»
 Is 1,1: comentário da edição removido; conferir se o versículo ficou completo
 Is 1,2: comentário da edição removido; conferir se o versículo ficou completo
 Is 1,10: comentário da edição removido; conferir se o versículo ficou completo
+Is 1,2: cortado texto estranho ao versículo: «Deus se queixa dos judeus, queixa-se também de nós, porque “…»
+Is 1,7: cortado texto estranho ao versículo: «Por esta frase também se in culca que Deus é o santo por exc…»
+Is 1,13: cortado texto estranho ao versículo: «taram a Mas S. Jerônimo quer que por “príncipes de Sodoma” d…»
+Is 1,18: cortado texto estranho ao versículo: «— Pereira. pelo sangue; ou do que derramaram os judeus na mo…»
+Is 1,30: cortado texto estranho ao versículo: «ta fique de todo limpa e sem escória. ““Purificar-te-ei no c…»
+Is 2,2: cortado texto estranho ao versículo: «por obra o ornato e pompa dos mesmos ídolos, e também as riq…»
+Is 2,7: cortado texto estranho ao versículo: «postos uns em cima dos outros, para lhe servirem de base. Co…»
+Is 2,21: cortado texto estranho ao versículo: «que era um lugar notável pelo comércio marítimo, para onde S…»
 Is 3,6: comentário da edição removido; conferir se o versículo ficou completo
 Is 3,22: comentário da edição removido; conferir se o versículo ficou completo
 Is 3,26: comentário da edição removido; conferir se o versículo ficou completo
+Is 3,2: cortado texto estranho ao versículo: «judeus, para que não agravem mais a Cristo, provocando a sua…»
+Is 3,26: cortado texto estranho ao versículo: «necessário e indispensável uso. Tais eram os vestidos de dó…»
 Is 4,3: comentário da edição removido; conferir se o versículo ficou completo
 Is 5,5: comentário da edição removido; conferir se o versículo ficou completo
+Is 5,12: cortado texto estranho ao versículo: «No Novo Testamento mencionam-se ainda Caminho de sabbat, dis…»
 Is 6,3: comentário da edição removido; conferir se o versículo ficou completo
+Is 6,1: cortado texto estranho ao versículo: «Isaías. A tradição assina a esta profecia o período posterio…»
+Is 6,3: cortado texto estranho ao versículo: «socinianos de nenhum modo podem iludir). E desta visão escre…»
+Is 6,12: cortado texto estranho ao versículo: «se diz, nos irá lá, deve-se isso tomar no mesmo sentido em q…»
 Is 7,16: comentário da edição removido; conferir se o versículo ficou completo
+Is 7,1: cortado texto estranho ao versículo: «persão dos judeus pelo Mundo, não se extinguiram de todo, an…»
+Is 7,3: cortado texto estranho ao versículo: «de pouca duração, porém esta opinião não tem fundamento sóli…»
+Is 7,8: cortado texto estranho ao versículo: «tida modernamente, a maioria coloca-a a oeste da cidade e id…»
+Is 7,16: cortado texto estranho ao versículo: «da profecia de Isaías. Num belo fragmento de arte cristã, en…»
 Is 7: faltam os versículos 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64
-Is 8: faltam os versículos 17
+Is 8,6: cortado texto estranho ao versículo: «estes fatos bíblicos são confirmados pelas recentes descober…»
+Is 8,17: separado do versículo 16 (conferir)
 Is 9,7: comentário da edição removido; conferir se o versículo ficou completo
+Is 9,5: cortado texto estranho ao versículo: «marítima, porque estava adjacente ao mar, ou lagoa de Tiberí…»
+Is 9,7: cortado texto estranho ao versículo: «S. Jerônimo explica assim: tu multiplicaste a gente, enchend…»
+Is 9,12: cortado texto estranho ao versículo: «Porém o achar-se em alguns todo o texto, como ele se acha no…»
+Is 10,11: cortado texto estranho ao versículo: «julgar que ele era só um instrumento de que Deus se servia p…»
 Is 11,9: comentário da edição removido; conferir se o versículo ficou completo
 Is 11,11: comentário da edição removido; conferir se o versículo ficou completo
 Is 11,15: comentário da edição removido; conferir se o versículo ficou completo
 Is 11,16: comentário da edição removido; conferir se o versículo ficou completo
+Is 11,2: cortado texto estranho ao versículo: «Veja-se acima o versículo 18. Vulgata com os Setenta pôs “da…»
 Is 13,3: comentário da edição removido; conferir se o versículo ficou completo
+Is 13,3: cortado texto estranho ao versículo: «nações estrangeiras, que se referem a quase todos os povos c…»
+Is 13,22: cortado texto estranho ao versículo: «se alguns séculos depois, mas cumpriu-se. Ciro tomou Eabilôn…»
 Is 15,9: comentário da edição removido; conferir se o versículo ficou completo
+Is 15,9: cortado texto estranho ao versículo: «Por ferrolhos se entendem aqui os termos e as forças, por es…»
 Is 18,2: comentário da edição removido; conferir se o versículo ficou completo
 Is 18,3: comentário da edição removido; conferir se o versículo ficou completo
+Is 18,3: cortado texto estranho ao versículo: «Etiópia, e a que mandando seus embaixadores por mar lhes diz…»
+Is 18,7: cortado texto estranho ao versículo: «Espanha, depois por efeito dum grande terremoto, ficou sorvi…»
 Is 19,2: comentário da edição removido; conferir se o versículo ficou completo
 Is 19,8: comentário da edição removido; conferir se o versículo ficou completo
 Is 19,20: comentário da edição removido; conferir se o versículo ficou completo
+Is 19,11: cortado texto estranho ao versículo: «era tão grande a cópia de pescado, e tanto o rendimento que…»
 Is 20,4: comentário da edição removido; conferir se o versículo ficou completo
 Is 21,5: comentário da edição removido; conferir se o versículo ficou completo
+Is 21,1: cortado texto estranho ao versículo: «longínqua e próxima do mar. Refere-se o texto aos habitantes…»
+Is 21,5: cortado texto estranho ao versículo: «Cyropedia, VI, V, 10, e Babelon, Les inscriptions cunciforme…»
+Is 21,16: cortado texto estranho ao versículo: «desolação que está reservada à Iduméia. Esta profecia contra…»
 Is 22,2: comentário da edição removido; conferir se o versículo ficou completo
-Is 22: faltam os versículos 11
+Is 22,2: cortado texto estranho ao versículo: «estas palavras e a profecia que se segue. Chama-se-lhe vale,…»
+Is 22,11: separado do versículo 10 (conferir)
 Is 23,4: comentário da edição removido; conferir se o versículo ficou completo
+Is 23,1: cortado texto estranho ao versículo: «é uma elegia de rara perfeição poética. Pode dividir-se em e…»
 Is 24,5: comentário da edição removido; conferir se o versículo ficou completo
+Is 24,5: cortado texto estranho ao versículo: «mas também a aplicam aos últimos tempos e ao juízo final. E'…»
+Is 24,10: cortado texto estranho ao versículo: «ça das delícias passadas será para os homens matéria de pesa…»
 Is 25,7: comentário da edição removido; conferir se o versículo ficou completo
+Is 25,12: cortado texto estranho ao versículo: «de modo que noutros lugares diz a Escritura que Deus deixou…»
+Is 26,6: cortado texto estranho ao versículo: «breu, nem as versões trazem aqui o nome de Sião; o autor da…»
+Is 27,7: cortado texto estranho ao versículo: «pente robusta,” Segundo as quais versões apontadas por S. Je…»
+Is 27,10: cortado texto estranho ao versículo: «cito de Senaquerib totalmente, até não ficar nenhum vivo. Pu…»
 Is 28,4: comentário da edição removido; conferir se o versículo ficou completo
-Is 28: faltam os versículos 2
+Is 28,1: cortado texto estranho ao versículo: «pela sua idolatria e pela sua revolta: a invasão assíria cas…»
+Is 28: faltam os versículos 2, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29
 Is 29,3: comentário da edição removido; conferir se o versículo ficou completo
 Is 29,29: comentário da edição removido; conferir se o versículo ficou completo
+Is 29,2: cortado texto estranho ao versículo: «como ímpeto de muitas águas que inundam, e se espraiam: sobr…»
+Is 29,5: cortado texto estranho ao versículo: «Estes embebedaram-se com o vinho do erro e da amência, que J…»
+Is 29,7: cortado texto estranho ao versículo: «O sacerdote e profeta não entenderam por causa da embriaguez…»
+Is 29,9: cortado texto estranho ao versículo: «a fortaleza daqueles, que depois de terem feito o último est…»
+Is 29,13: cortado texto estranho ao versículo: «Para que vão, e caiam para trás, e fiquem esmigalhados, e me…»
+Is 29,14: cortado texto estranho ao versículo: «“Manda, torna a mandar, manda, torna a mandar.” E como viam…»
+Is 29,15: cortado texto estranho ao versículo: «Por que temos posto a mentira por base da nossa esperança. e…»
+Is 29,17: cortado texto estranho ao versículo: «Acaso dentro ainda de pouco tempo e em breve espaço não se c…»
+Is 29,18: cortado texto estranho ao versículo: «Quando passar o flagelo de inundação, ele vos terá por emprê…»
+Is 29,19: cortado texto estranho ao versículo: «E alegrar-se-ão cada vez mais os mansos no Se nhor e exultar…»
+Is 29,21: cortado texto estranho ao versículo: «Para fazer a sua obra, uma obra alheia dele: Para fabricar a…»
+Is 29,22: cortado texto estranho ao versículo: «Por esta causa o Senhor que resgatou a Abraão, diz isto à ca…»
+Is 29,24: cortado texto estranho ao versículo: «e os que estavam em erro de espírito chegarão a ter claro en…»
 Is 30,23: comentário da edição removido; conferir se o versículo ficou completo
+Is 30,1: cortado texto estranho ao versículo: «tra Jerusalém passa Isaías a outro vaticínio, que se cumpriu…»
+Is 30,6: cortado texto estranho ao versículo: «mas lá, em castigo da sua soberba e desobediência, em lugar…»
 Is 33,8: comentário da edição removido; conferir se o versículo ficou completo
+Is 33,1: cortado texto estranho ao versículo: «judeus explicam este capítulo do que se passou na Judéia, qu…»
+Is 33,8: cortado texto estranho ao versículo: «povo, por isso foi engrandecido. — Pereira. Ê£LE ENCHEU A SI…»
+Is 33,19: cortado texto estranho ao versículo: «não ouvir as vozes de sangue, isto é, para não ir após da co…»
+Is 34,8: cortado texto estranho ao versículo: «tro, como no capítulo sessenta e três, expressamente afirma…»
+Is 34: faltam os versículos 12, 13, 14, 15, 16, 17
 Is 35,2: comentário da edição removido; conferir se o versículo ficou completo
+Is 35,2: cortado texto estranho ao versículo: «A glória do Libano lhe foi dada: A formosura do Carmelo, e d…»
 Is 35: faltam os versículos 11
-Is 37: faltam os versículos 6
+Is 37,6: separado do versículo 5 (conferir)
 Is 38,1: comentário da edição removido; conferir se o versículo ficou completo
+Is 38,1: cortado texto estranho ao versículo: «tos, alega aqui S. Jerônimo, e quanto a supor eu a Beroso ma…»
+Is 38,10: cortado texto estranho ao versículo: «bem se vê que não nasceu senão ao terceiro ano depois que ao…»
 Is 40,10: comentário da edição removido; conferir se o versículo ficou completo
+Is 40,8: cortado texto estranho ao versículo: «que entendamos estas palavras dos desertos que separavam a B…»
+Is 40,10: cortado texto estranho ao versículo: «Alexandria, faltam todas estas mesmas palavras, sem trazerem…»
+Is 42,6: cortado texto estranho ao versículo: «Há no entretanto expressões que se referem a Ciro, e à liber…»
 Is 43,27: comentário da edição removido; conferir se o versículo ficou completo
+Is 44,3: cortado texto estranho ao versículo: «gue-se: “E por isso eu contaminei os príncipes do Santuário”…»
 Is 45,4: comentário da edição removido; conferir se o versículo ficou completo
 Is 45,8: comentário da edição removido; conferir se o versículo ficou completo
 Is 45,13: comentário da edição removido; conferir se o versículo ficou completo
+Is 45,2: cortado texto estranho ao versículo: «Nos monumentos, o nome de Ciro escrito Kuru ou Khuru; assim…»
+Is 45,4: cortado texto estranho ao versículo: «179, certifica que Babilônia tinha cem portas de bronze, que…»
+Is 45,8: cortado texto estranho ao versículo: «vista desta confissão de Ciro, quer que em todo o rigor se v…»
+Is 45,17: cortado texto estranho ao versículo: «que S. Jerônimo adota por mais conforme às intenções do Espí…»
 Is 46,1: comentário da edição removido; conferir se o versículo ficou completo
+Is 46,1: cortado texto estranho ao versículo: «siderado por estes como um deus. Sobre o seu túmulo edificar…»
+Is 46,8: cortado texto estranho ao versículo: «animais, mas déles denominava muitas cidades suas. E sem sai…»
 Is 47,4: comentário da edição removido; conferir se o versículo ficou completo
+Is 47,4: cortado texto estranho ao versículo: «do hebreu e dos Setenta, e o que na sua versão exprimiu S. J…»
+Is 47,9: cortado texto estranho ao versículo: «Contudo S. Jerônimo concebeu aqui este sentido: “assim o far…»
 Is 48,20: comentário da edição removido; conferir se o versículo ficou completo
-Is 48: faltam os versículos 16
+Is 48,16: separado do versículo 15 (conferir)
+Is 48,22: cortado texto estranho ao versículo: «O MESSIAS REJEITADO POR ISRAEL, E MANDADO AOS GEN TIOS. LIVR…»
 Is 49,10: comentário da edição removido; conferir se o versículo ficou completo
+Is 49,2: cortado texto estranho ao versículo: «de Ciro, ou de Isaías, como figuras de Cristo. A Igreja no O…»
+Is 49,6: cortado texto estranho ao versículo: «O Espírito Santo virá sobre ti, e a virtude do Altíssimo te…»
+Is 50,7: cortado texto estranho ao versículo: «Jerônimo, tendo deixado a imagem de homem, tinham tomado a d…»
+Is 51,6: cortado texto estranho ao versículo: «que foi dada no Monte Sinai, mas a do Evangelho, que há de s…»
+Is 51,18: cortado texto estranho ao versículo: «O que segundo S. Jerônimo quer dizer, que Deus castiga neste…»
 Is 52,5: comentário da edição removido; conferir se o versículo ficou completo
+Is 52,5: cortado texto estranho ao versículo: «A esta diz Deus que deponha os vestidos de dó, e se torne a…»
+Is 52,13: cortado texto estranho ao versículo: «o Templo de Jerusalém os vasos que Nabucodonosor tinha daí t…»
 Is 53,3: comentário da edição removido; conferir se o versículo ficou completo
 Is 53,11: comentário da edição removido; conferir se o versículo ficou completo
+Is 53,2: cortado texto estranho ao versículo: «O acôrdo fri zante deste Ecce Homo, apresentado por Isaías,…»
+Is 53,3: cortado texto estranho ao versículo: «com outros Padres entendem por esta terra seca o ventre virg…»
+Is 53,8: cortado texto estranho ao versículo: «Jerônimo e S. Agostinho, as palavras em que Isaías diz que C…»
+Is 53,11: cortado texto estranho ao versículo: «judicio sublatus est, illud significat, quod de tribulatione…»
 Is 54,1: comentário da edição removido; conferir se o versículo ficou completo
 Is 55,1: comentário da edição removido; conferir se o versículo ficou completo
 Is 56,6: comentário da edição removido; conferir se o versículo ficou completo
 Is 57,4: comentário da edição removido; conferir se o versículo ficou completo
+Is 57,9: cortado texto estranho ao versículo: «— Quando dissestes: “Tu és um samaritano, e estás possesso.…»
+Is 60,9: cortado texto estranho ao versículo: «viemos de longe para o Senhor, enquanto antes como estrangei…»
 Is 63,3: comentário da edição removido; conferir se o versículo ficou completo
 Is 63,7: comentário da edição removido; conferir se o versículo ficou completo
 Is 63,11: comentário da edição removido; conferir se o versículo ficou completo
+Is 63,3: cortado texto estranho ao versículo: «Por outra parte os caracteres, de que aqui aparece revestido…»
+Is 64,1: cortado texto estranho ao versículo: «olhos dos homens ser causa do erro e da dureza. — S. Jerônim…»
+Is 64,6: cortado texto estranho ao versículo: «E como esta simples negação deixava ainda manco o período, c…»
 Is 66,5: comentário da edição removido; conferir se o versículo ficou completo
 Is 66,20: comentário da edição removido; conferir se o versículo ficou completo
 Is 66,23: comentário da edição removido; conferir se o versículo ficou completo
+Is 66,9: cortado texto estranho ao versículo: «sos irmãos os judeus, que vos aborrecem, e vos rejeitam a vó…»
+Is 66,24: cortado texto estranho ao versículo: «mês, celebra a Igreja Cristã; umas de Cristo, outras de sua…»
 Jr 1,11: comentário da edição removido; conferir se o versículo ficou completo
 Jr 1,15: comentário da edição removido; conferir se o versículo ficou completo
+Jr 1,2: cortado texto estranho ao versículo: «cativeiro; participou de todas as angústias que experimenta…»
+Jr 1,5: cortado texto estranho ao versículo: «segundo filho de Josias (609-598), que o ministério de Jerem…»
+Jr 1,11: cortado texto estranho ao versículo: «Male tractaverunt illum, qui a ventre matris, con secratus e…»
 Jr 2,11: comentário da edição removido; conferir se o versículo ficou completo
+Jr 2,7: cortado texto estranho ao versículo: «S. Jerônimo, Vatablo e Santo Tomás o entendem do amor que o…»
+Jr 2,11: cortado texto estranho ao versículo: «sacerdotes e principes perverteram o povo com os seus maus e…»
+Jr 2,17: cortado texto estranho ao versículo: «de adorar ao Senhor, que era toda a sua glória, — Pereira. o…»
+Jr 3: faltam os versículos 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25
 Jr 4,15: comentário da edição removido; conferir se o versículo ficou completo
 Jr 4,18: comentário da edição removido; conferir se o versículo ficou completo
+Jr 4,1: cortado texto estranho ao versículo: «Se tu tirares de diante da minha face os teus tropeços, não…»
+Jr 4,10: cortado texto estranho ao versículo: «este roubador das nações, entende o profeta a Nabucodonosor:…»
+Jr 4,12: cortado texto estranho ao versículo: «Torna, pérfida Israel, diz o Senhor, e não apartarei a minha…»
+Jr 4,13: cortado texto estranho ao versículo: «E tens pervertido os teus caminhos, aos estranhos, debaixo d…»
+Jr 4,14: cortado texto estranho ao versículo: «E eu vos tomarei um de cada cidade, e dois de cada família,…»
+Jr 4,15: cortado texto estranho ao versículo: «Em comparação das posteriores idolatrias em que caiu Judé, p…»
+Jr 4,16: cortado texto estranho ao versículo: «Nem lhes virá ao pensamento, nem se lembrarão dela: Nem será…»
+Jr 4,18: cortado texto estranho ao versículo: «Jesus, filho de Josedec, Esdras e Neemias, foram pastores co…»
+Jr 4,19: cortado texto estranho ao versículo: «Em minhas entranhas, em minhas entranhas sin to dor, os afet…»
+Jr 4,21: cortado texto estranho ao versículo: «Porque fizeram mau o seu caminho, esqueceram-se do Senhor se…»
+Jr 4,23: cortado texto estranho ao versículo: «Olhei para a terra, e eis-que estava vazia, e era nada: E pa…»
+Jr 4,24: cortado texto estranho ao versículo: «então recobraram éles a terra da repromissão, que fora prome…»
+Jr 4,25: cortado texto estranho ao versículo: «Porque pecamos contra o Se nhor nosso Deus, nós e nossos pai…»
 Jr 5,1: comentário da edição removido; conferir se o versículo ficou completo
-Jr 6: faltam os versículos 17
-Jr 7: faltam os versículos 8
+Jr 6,17: separado do versículo 16 (conferir)
+Jr 7,8: separado do versículo 7 (conferir)
+Jr 10,5: cortado texto estranho ao versículo: «dos astros que foram postos para significar os anos, tempos,…»
+Jr 10,11: cortado texto estranho ao versículo: «Isto se confirmado tosco simulacro de Cibeles tido em suma v…»
+Jr 11,23: cortado texto estranho ao versículo: «interpretação, verteu assim: metamos raspas de pau venenoso…»
 Jr 12,10: comentário da edição removido; conferir se o versículo ficou completo
-Jr 13: faltam os versículos 11
-Jr 14: faltam os versículos 9
+Jr 13,11: separado do versículo 10 (conferir)
+Jr 14,9: separado do versículo 8 (conferir)
+Jr 15,7: cortado texto estranho ao versículo: «Daqui se vê que os santos enquanto vivem e depois que saem d…»
 Jr 16,3: comentário da edição removido; conferir se o versículo ficou completo
-Jr 16: faltam os versículos 7
+Jr 16,3: cortado texto estranho ao versículo: «Jerônimo todavia entendeu o converteris, não no futuro imper…»
+Jr 16,7: separado do versículo 6 (conferir)
+Jr 16,21: cortado texto estranho ao versículo: «CarítuLo 17 ce VINGANÇAS DO SENHOR CONTRA A INFIDELIDADE DE…»
 Jr 17,2: comentário da edição removido; conferir se o versículo ficou completo
+Jr 17,8: cortado texto estranho ao versículo: «Jerônimo iodo empenhado pelo texto hebreu, não perdia ocasiã…»
+Jr 18,5: cortado texto estranho ao versículo: «'6 Acaso não poderei eu fazer de vós, casa de Israel, como e…»
 Jr 18: faltam os versículos 6
 Jr 20: faltam os versículos 2
 Jr 27,12: comentário da edição removido; conferir se o versículo ficou completo
+Jr 27,12: cortado texto estranho ao versículo: «As lápides da coleção Egibi, que con têm os documentos relat…»
 Jr 31,40: comentário da edição removido; conferir se o versículo ficou completo
-Jr 33: faltam os versículos 9, 11
+Jr 32,1: cortado texto estranho ao versículo: «Não será arrancado ele, nem destruído dali por diante para s…»
+Jr 33,9: separado do versículo 8 (conferir)
+Jr 33,11: separado do versículo 10 (conferir)
+Jr 37,20: separado do versículo 19 (conferir)
+Jr 39,7: cortado texto estranho ao versículo: «Rabsares é o chefe dos eunucos, e Rebmag é o cheie dos magos…»
+Jr 39,13: cortado texto estranho ao versículo: «Rendeu-se pela fome em 2$ de julho. A 27 de agosto do ano 58…»
+Jr 43,9: cortado texto estranho ao versículo: «trie, fez no ano de 1886 importantes estudos na antiga Tafni…»
+Jr 46,6: cortado texto estranho ao versículo: «de Psametico I, reinou de 611 a 605 A. C. Pelo nome deste re…»
+Jr 47,6: cortado texto estranho ao versículo: «quistar Gaza indo fazer a da Ásia antes de chegar a Magedo,…»
 Jr 49,17: comentário da edição removido; conferir se o versículo ficou completo
 Jr 49: faltam os versículos 34
+Jr 50,2: cortado texto estranho ao versículo: «lônia. E' conhecida a importância que Babilônia atingiu e o…»
+Jr 52,3: cortado texto estranho ao versículo: «Assim os Setenta não trazem a referida cláusula, e o que a V…»
+Lm 1,3: cortado texto estranho ao versículo: «têm no alfabeto hebraico, começando o primeiro verso por Ale…»
 Lm 4: faltam os versículos 14
+Lm 5,14: cortado texto estranho ao versículo: «meado para governar os outros. Senão é que por éstes escravo…»
+Br 3,10: cortado texto estranho ao versículo: «11.Tens envelhecido em terra estranha, contami naste-te com…»
 Br 3: faltam os versículos 11
+Br 5,9: cortado texto estranho ao versículo: «CARTA DE JEREMIAS AOS JUDEUS CATIVOS, NA QUAL ELE LHES ANUNC…»
+Br 6,31: cortado texto estranho ao versículo: «banquetes, preparados nas sepulturas dos povos da mais alta…»
+Br 6,65: cortado texto estranho ao versículo: «66:Nem tão pouco mostram no céu às gentes os sinais dos«temp…»
 Br 6: faltam os versículos 66
 Ez 1,4: comentário da edição removido; conferir se o versículo ficou completo
 Ez 1,5: comentário da edição removido; conferir se o versículo ficou completo
+Ez 1,5: cortado texto estranho ao versículo: «mas é fazerem-se espiritualmente manifestos a Ezequiel os di…»
+Ez 1: faltam os versículos 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28
 Ez 2,5: comentário da edição removido; conferir se o versículo ficou completo
+Ez 2,1: cortado texto estranho ao versículo: «Isidoro de Sevilha, porém a assiriologia leva-nos à convicçã…»
+Ez 2,5: cortado texto estranho ao versículo: «o livro de Ezequiel, é, sem dúvida alguma, uma das passagens…»
+Ez 2,7: cortado texto estranho ao versículo: «incluindo os hebreus, estavam acostumados. Nós mesmos repre…»
 Ez 4,4: comentário da edição removido; conferir se o versículo ficou completo
+Ez 4,5: cortado texto estranho ao versículo: «E o recostar-se sobre o lado esquerdo por conta da casa de I…»
+Ez 4,6: cortado texto estranho ao versículo: «trezentos e noventa anos de Ezequiel” que anda à testa deste…»
+Ez 4,15: cortado texto estranho ao versículo: «excrementos animais como combustível é comum em algumas para…»
+Ez 5,8: cortado texto estranho ao versículo: «dernos, referem todo este verso para o tempo da perseguição…»
 Ez 6,14: comentário da edição removido; conferir se o versículo ficou completo
+Ez 8,17: cortado texto estranho ao versículo: «O culto sensual de Adonis era antigo na Fenl cia e em Canaã.…»
 Ez 9,4: comentário da edição removido; conferir se o versículo ficou completo
 Ez 11: faltam os versículos 18
+Ez 14,20: cortado texto estranho ao versículo: «Outra razão podia ser, que só dos mesmos três consta que alc…»
 Ez 16,4: comentário da edição removido; conferir se o versículo ficou completo
 Ez 16,31: comentário da edição removido; conferir se o versículo ficou completo
 Ez 16,48: comentário da edição removido; conferir se o versículo ficou completo
+Ez 16,27: cortado texto estranho ao versículo: «O que parece confirmar-se por dizer S. Jerónimo que tais pal…»
+Ez 16,32: cortado texto estranho ao versículo: «E te iulvarei segundo as sentencas das adúlte ras. e das que…»
 Ez 16: faltam os versículos 38
-Ez 18: faltam os versículos 19
+Ez 17,1: cortado texto estranho ao versículo: «tido que ficou explicado, tornaram-se filhas de Jerusalém. O…»
+Ez 17,4: cortado texto estranho ao versículo: «para mais fátil inteligência do texto desde:4 dizemos ao lei…»
+Ez 17,9: cortado texto estranho ao versículo: «decias, príncipe de sangue real, como tio que era de Jeconia…»
+Ez 18,19: separado do versículo 18 (conferir)
+Ez 18: faltam os versículos 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
 Ez 19: faltam os versículos 15, 16, 17, 18, 19, 20, 21, 22
 Ez 20: faltam os versículos 36
-Ez 21: faltam os versículos 18
+Ez 21,18: separado do versículo 17 (conferir)
+Ez 21,30: cortado texto estranho ao versículo: «truição de Jerusalém, e cativeiro do povo, se dirige a divin…»
 Ez 23: faltam os versículos 15
-Ez 24: faltam os versículos 20
-Ez 27: faltam os versículos 23
+Ez 24,20: separado do versículo 19 (conferir)
+Ez 25,10: cortado texto estranho ao versículo: «Depois do que vendo os árabes, que estas províncias se achav…»
+Ez 26,14: cortado texto estranho ao versículo: «descreve o esplendor de Tiro, o prestígio de que gozava, a p…»
+Ez 27,17: cortado texto estranho ao versículo: «por Tubal os íberos orientais, ou os ocidentais da Espanha;…»
+Ez 27,23: separado do versículo 22 (conferir)
 Ez 28,17: comentário da edição removido; conferir se o versículo ficou completo
+Ez 28,13: cortado texto estranho ao versículo: «um que o rei de Tiro morreria de uma morte cruel e desumana,…»
 Ez 28: faltam os versículos 18
 Ez 29,20: comentário da edição removido; conferir se o versículo ficou completo
+Ez 30,9: cortado texto estranho ao versículo: «A primeira interpretação tem por si os Setenta, que onde a V…»
 Ez 31,17: comentário da edição removido; conferir se o versículo ficou completo
+Ez 31,18: separado do versículo 17 (conferir)
 Ez 32: faltam os versículos 11
+Ez 33,16: cortado texto estranho ao versículo: «Ex quibus verbis discimus, posse hominem quamvis iniquum, et…»
+Ez 33,23: cortado texto estranho ao versículo: «*24 Filho do homem, os que habitam nessas casas arruinadas s…»
 Ez 33: faltam os versículos 24
 Ez 34: faltam os versículos 14
+Ez 37,2: cortado texto estranho ao versículo: «quo no seu tempo era famosa esta visão, por costumar ler-se…»
+Ez 37,28: cortado texto estranho ao versículo: «PROFECIA CONTRA GOG. ESTE PRÍNCIPE VIRA COM UM GRANDE EXÉRCI…»
 Ez 38,4: comentário da edição removido; conferir se o versículo ficou completo
-Ez 40: faltam os versículos 9, 47
+Ez 38,3: cortado texto estranho ao versículo: «Meotis, e se estendiam ao longo, dó mar Cáspio até às ínaias…»
+Ez 38,4: cortado texto estranho ao versículo: «e empunhando espadas. de quo promittitur nobis futura victor…»
+Ez 40,8: cortado texto estranho ao versículo: «9-.E mediu o vestíbulo da porta, o qual tinha oito cóvados,…»
+Ez 40,47: separado do versículo 46 (conferir)
+Ez 40: faltam os versículos 9
+Ez 43,17: cortado texto estranho ao versículo: «E vado babilônico, que tinha um palmo do menos. Sacy e de Ca…»
 Ez 43: faltam os versículos 9
-Ez 44: faltam os versículos 9
+Ez 44,9: separado do versículo 8 (conferir)
+Ez 44,31: cortado texto estranho ao versículo: «LUGAR PARA A SANTA CIDADE. QUINHÃO DO PRÍNCIPE. BALANÇAS E M…»
 Ez 45: faltam os versículos 12
-Dn 2: faltam os versículos 10
-Dn 6: faltam os versículos 4
+Ez 47,22: cortado texto estranho ao versículo: «Logo ela, ainda tomada à letra, não é senão uma figura da to…»
+Ez 48,2: cortado texto estranho ao versículo: «comentar este último capítulo, confessa o doutor Máximo que,…»
+Ez 48,35: separado do versículo 34 (conferir)
+Ez 48,35: cortado texto estranho ao versículo: «E desde aquele dia o nome da cidade será: O Senhor nela mesm…»
+Dn 1,4: cortado texto estranho ao versículo: «da corte e da companhia real, que fazia serviço em palácio,…»
+Dn 2,10: separado do versículo 9 (conferir)
+Dn 2,34: cortado texto estranho ao versículo: «coevos nos dizem que Nabucodonosor tinha uma grande predileç…»
+Dn 3,39: cortado texto estranho ao versículo: «sacrifício, que te seja agradável, como fora um holocausto d…»
+Dn 4,28: cortado texto estranho ao versículo: «O teu reino passará de ti a outro possuidor. Como Daniel fal…»
+Dn 4,31: cortado texto estranho ao versículo: «das mãos de Evilmerodac, filho do mesmo Nabucodonosor, às de…»
+Dn 5,2: cortado texto estranho ao versículo: «fiste último não era rei, mas exercia o poder supremo, porqu…»
+Dn 5,6: cortado texto estranho ao versículo: «Do templo do seu ídolo Belo, onde os havia colocado entre os…»
+Dn 6,4: separado do versículo 3 (conferir)
 Dn 7,6: comentário da edição removido; conferir se o versículo ficou completo
 Dn 7,8: comentário da edição removido; conferir se o versículo ficou completo
 Dn 8,5: comentário da edição removido; conferir se o versículo ficou completo
+Dn 8,5: cortado texto estranho ao versículo: «o único texto que me retraiu de seguir o sistema de Mr. de C…»
 Dn 8: faltam os versículos 1
 Dn 9,25: comentário da edição removido; conferir se o versículo ficou completo
+Dn 9,24: cortado texto estranho ao versículo: «dade que, devemo-lo confessar, nos outros livros da Escritur…»
+Dn 9,26: cortado texto estranho ao versículo: «Mashiah não está precedido de artigo, quando o devia ter, se…»
 Dn 10,1: comentário da edição removido; conferir se o versículo ficou completo
 Dn 10,13: comentário da edição removido; conferir se o versículo ficou completo
+Dn 10,1: cortado texto estranho ao versículo: «nem se lhe ocultam o fim da cidade e a desolação da guerra.…»
+Dn 13,4: cortado texto estranho ao versículo: «Agora pois, se tu apanhaste esta mulher, dize debaixo de que…»
 Dn 13: faltam os versículos 48, 54
 Os 1,6: comentário da edição removido; conferir se o versículo ficou completo
-Jl 1: faltam os versículos 4, 18, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39
+Os 1,6: cortado texto estranho ao versículo: «o mandou profetizar, foram estas: “Vai, toma por uma mulher…»
+Os 3,5: cortado texto estranho ao versículo: «Contudo, como em lugar do que diz a Vulgata: Nec cris viro,…»
+Os 9,12: cortado texto estranho ao versículo: «este profeta entende S. Jerônimo a Jeroboão, que, na qualida…»
+Os 11,4: cortado texto estranho ao versículo: «S. Mateus, no cap. 2, v. 15, nos certifica que esta profecia…»
+Os 13,14: cortado texto estranho ao versículo: «verbo a quem se refere o nominativo, perditio tua, são mui v…»
+Jl 1,18: separado do versículo 17 (conferir)
+Jl 1: faltam os versículos 4, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39
 Am 1,7: comentário da edição removido; conferir se o versículo ficou completo
-Am 1: faltam os versículos 9
-Am 3: faltam os versículos 11, 12
-Am 5: faltam os versículos 3
+Am 1,9: separado do versículo 8 (conferir)
+Am 3,11: separado do versículo 10 (conferir)
+Am 3,12: separado do versículo 11 (conferir)
+Am 5,3: separado do versículo 2 (conferir)
+Am 5: faltam os versículos 27
 Am 7,6: comentário da edição removido; conferir se o versículo ficou completo
 Am 8,10: comentário da edição removido; conferir se o versículo ficou completo
+Am 9: faltam os versículos 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14
+Ab 1,16: cortado texto estranho ao versículo: «Conforme porém esta exposição do apóstolo, em Cristo é que s…»
 Ab 1: faltam os versículos 14
-Mq 1: faltam os versículos 4
+Jn 2,2: cortado texto estranho ao versículo: «a que espécie pertencia o peixe. pois que o texto nada indic…»
+Mq 1,4: separado do versículo 3 (conferir)
+Mq 5,7: cortado texto estranho ao versículo: «Mas aqui há uma diticul dade, e é que S. Mateus, refletindo…»
+Na 3,8: cortado texto estranho ao versículo: «Cujas riquezas são e mar: As águas as suas muralhas. ram as…»
 Hab 3: faltam os versículos 1
+Ag 2,8: cortado texto estranho ao versículo: «hebraico é Virá o descjo Ge todas as gentes, mas 2 Vulgata e…»
 Zc 2,7: comentário da edição removido; conferir se o versículo ficou completo
-Zc 4: faltam os versículos 11
+Zc 4,11: separado do versículo 10 (conferir)
+Zc 4,11: cortado texto estranho ao versículo: «“Tu para acabares a obra do Templo, não esperaris nem em alg…»
+Zc 4,14: separado do versículo 13 (conferir)
+Zc 8,9: cortado texto estranho ao versículo: «iO0 Porque antes daqueles dias não tinham jornal os homens,…»
+Zc 8: faltam os versículos 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23
 Zc 9,2: comentário da edição removido; conferir se o versículo ficou completo
 Zc 9,14: comentário da edição removido; conferir se o versículo ficou completo
+Zc 9,12: cortado texto estranho ao versículo: «E eu farei que os res tos deste povo possuam todos estes ben…»
+Zc 9,13: cortado texto estranho ao versículo: «Porque eu estendi para mim a Judá como um arco, eu enchi a E…»
+Zc 9,14: cortado texto estranho ao versículo: «E o Senhor Deus os animará pelo som da trombeta, e marchará…»
+Zc 9,17: cortado texto estranho ao versículo: «Porque todas estas são coisas que eu “ aborreço, diz o Senho…»
 Zc 10,7: comentário da edição removido; conferir se o versículo ficou completo
+Zc 11,17: cortado texto estranho ao versículo: «CaríruLo' 12 JUDÁ E JERUSALÉM SERÃO AFLIGIDOS PELOS SEUS ADV…»
 Ml 2: faltam os versículos 1
+Ml 3,4: cortado texto estranho ao versículo: «cat Ss Então chegar-me-ei eu a vós a exercer o meu juízo e e…»
 Ml 3: faltam os versículos 5
 Mt 1,17: comentário da edição removido; conferir se o versículo ficou completo
+Mt 1,10: cortado texto estranho ao versículo: «mulher de Urias, a qual vem a ser Bersabé, de cujo adultério…»
+Mt 1,16: cortado texto estranho ao versículo: «não imediatamente, senão por meio de Joaquim, pai de Jeconia…»
+Mt 1,19: cortado texto estranho ao versículo: «Existem cerca de cinquenta representações da mais alta antig…»
+Mt 1,23: cortado texto estranho ao versículo: «Foi então que baixou o anjo, que lhe certifica o fato, e a d…»
 Mt 2,1: comentário da edição removido; conferir se o versículo ficou completo
 Mt 2,2: comentário da edição removido; conferir se o versículo ficou completo
+Mt 2,2: cortado texto estranho ao versículo: «melhor, os fragmentos que restam, foram transportados para R…»
+Mt 2,7: cortado texto estranho ao versículo: «grego, e a palavra latina stella da Vulgata significam uma e…»
+Mt 2,23: cortado texto estranho ao versículo: «tana Maltácia, designado por seu pai para suceder no reino d…»
 Mt 3,4: comentário da edição removido; conferir se o versículo ficou completo
 Mt 3,11: comentário da edição removido; conferir se o versículo ficou completo
-Mt 3: faltam os versículos 5
+Mt 3,5: separado do versículo 4 (conferir)
+Mt 3,16: cortado texto estranho ao versículo: «mergulhar as almas nas chamas ardentes que as purificam dout…»
+Mt 4,2: cortado texto estranho ao versículo: «viram a figura de uma pomba, na qual o Espirito Santo desceu…»
 Mt 5,7: comentário da edição removido; conferir se o versículo ficou completo
 Mt 5,10: comentário da edição removido; conferir se o versículo ficou completo
-Mt 5: faltam os versículos 47
-Mt 6: faltam os versículos 3, 25
-Mt 7: faltam os versículos 6
+Mt 5,2: cortado texto estranho ao versículo: «que durou três anos. O monte em que Jesus fala está situado…»
+Mt 5,3: cortado texto estranho ao versículo: «arbitrário de sentenças variadas do Divino Mestre. A simples…»
+Mt 5,4: cortado texto estranho ao versículo: «ceituar a Igreja, ridicularizar Jesus Cristo, afrontar o San…»
+Mt 5,7: cortado texto estranho ao versículo: «pretes entendem os que choram os seus pecados; S. João Crisó…»
+Mt 5,10: cortado texto estranho ao versículo: «expressão grega katharoi te kardia, mundi corde, corresponde…»
+Mt 5,14: cortado texto estranho ao versículo: «que vai até o v. 16, e onde se indicam as autoridades do rei…»
+Mt 5,47: separado do versículo 46 (conferir)
+Mt 6,25: separado do versículo 24 (conferir)
+Mt 6: faltam os versículos 3
+Mt 7,6: separado do versículo 5 (conferir)
 Mt 8,6: comentário da edição removido; conferir se o versículo ficou completo
+Mt 8,6: cortado texto estranho ao versículo: «transcendendo as fórças da natureza. pelas seguintes razões:…»
+Mt 8,10: cortado texto estranho ao versículo: «11, Digo-vos, Pegém, que virão muitos do Oriente, e do Ocide…»
 Mt 8: faltam os versículos 11
 Mt 9,4: comentário da edição removido; conferir se o versículo ficou completo
+Mt 9,19: cortado texto estranho ao versículo: «a entender que os fariseus fizeram esta nova tentativa, ou i…»
+Mt 9,24: cortado texto estranho ao versículo: «história, diz que esta mulher era de Panéias, cidade da Fení…»
+Mt 10,10: cortado texto estranho ao versículo: «do do Sant, vindo dali Sant'Iago e por corrupção inaceitável…»
 Mt 10: faltam os versículos 3
 Mt 11,22: comentário da edição removido; conferir se o versículo ficou completo
+Mt 11: faltam os versículos 30
 Mt 12,5: comentário da edição removido; conferir se o versículo ficou completo
 Mt 12,27: comentário da edição removido; conferir se o versículo ficou completo
+Mt 12,32: cortado texto estranho ao versículo: «diz Santo Agostinho, no sermão 71, que é talvez a maior difi…»
+Mt 12,47: cortado texto estranho ao versículo: «de Abraão, sendo neto de Nacor, que era irmão do patriarca.…»
+Mt 12,49: cortado texto estranho ao versículo: «Simão é expressamente apresentado como filho de Cleofas por…»
+Mt 12,50: cortado texto estranho ao versículo: «º CAPÍTULO 13 JESUS SENTADO EM UMA BARCA PROPÕE AO POVO VÁRI…»
+Mt 13,3: cortado texto estranho ao versículo: «de Jesus. Etimologicamente, parábola significa semelhariça,…»
+Mt 13,4: cortado texto estranho ao versículo: «vai interpretando gradualmente a parábola e ao mesmo tempo i…»
+Mt 13: faltam os versículos 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58
 Mt 14,9: comentário da edição removido; conferir se o versículo ficou completo
+Mt 14,2: cortado texto estranho ao versículo: «ressuscitou dentre os mortos, e por isso obram nele tantos m…»
+Mt 14,9: cortado texto estranho ao versículo: «que vai até ao versículo 24, quer Jesus Cristo ensinar duas…»
+Mt 14,12: cortado texto estranho ao versículo: «E chegando os seus discípulos, levaram o seu corpo, e o sepu…»
+Mt 14,14: cortado texto estranho ao versículo: «E vereis com os olhos, e não vereis. E ao saltar em terra vi…»
+Mt 14,15: cortado texto estranho ao versículo: «E vindo a tarde, se chegaram a ele os seus discípulos, dizen…»
+Mt 14,16: cortado texto estranho ao versículo: «E Jesus lhes disse: Não têm necessidade de se ir: Dai-lhes v…»
+Mt 14,17: cortado texto estranho ao versículo: «tas, e justos desejaram ver o que vedes, e não o viram: E ou…»
+Mt 14,20: cortado texto estranho ao versículo: «Porém ele não tem em si raiz, antes é de pouca duração: E qu…»
+Mt 14,22: cortado texto estranho ao versículo: «E obrigou logo Jesus a seus discípulos a que se embarcassem,…»
+Mt 14,25: cortado texto estranho ao versículo: «Porém na quarta vigília da noite, veio Jesus ter com eles, a…»
+Mt 14,27: cortado texto estranho ao versículo: «Pois donde lhe veio a cizânia? Mas Jesus lhes falou imediata…»
+Mt 14,28: cortado texto estranho ao versículo: «Queres tu que nós vamos E respondendo Pedro, lhe disse: Senh…»
+Mt 14,29: cortado texto estranho ao versículo: «E ele lhe-disse: Vem. E descendo Pedro a barca, ia caminhand…»
+Mt 14,32: cortado texto estranho ao versículo: «Mas depois de ter crescido, é a maior de to das às plantas e…»
+Mt 14,34: cortado texto estranho ao versículo: «E não lhes falava sem parábolas: E tendo passado à outra ban…»
 Mt 14: faltam os versículos 47, 49
-Mt 15: faltam os versículos 17
-Mt 17: faltam os versículos 4
-Mt 18: faltam os versículos 2, 16, 22
+Mt 15,9: cortado texto estranho ao versículo: «texto, já não socorre, nem assiste com o necessário a seu pa…»
+Mt 15,17: separado do versículo 16 (conferir)
+Mt 16,17: cortado texto estranho ao versículo: «Pedro a ocasião de confessar a natureza divina do Salvador.…»
+Mt 16,19: cortado texto estranho ao versículo: «isto é: nem teus pais, nem algum outro homem foi o que to en…»
+Mt 16,20: cortado texto estranho ao versículo: «bolizavam sempre o poderio, e a entrega das chaves a investi…»
+Mt 16,25: cortado texto estranho ao versículo: «turbações, levantamentos populares, insurreições, etc. Daqui…»
+Mt 17,4: separado do versículo 3 (conferir)
+Mt 17,26: cortado texto estranho ao versículo: «E' GRANDE PECADO ESCANDALIZAR OS PEQUE NOS. COMO SE DEVE DAR…»
+Mt 18,22: separado do versículo 21 (conferir)
+Mt 18: faltam os versículos 2, 16
+Mt 19,14: cortado texto estranho ao versículo: «visto os costumes e legislação então vigentes, permite ao ma…»
 Mt 20,3: comentário da edição removido; conferir se o versículo ficou completo
-Mt 20: faltam os versículos 7, 26
-Mt 21: faltam os versículos 18
-Mt 22: faltam os versículos 43
+Mt 20,3: cortado texto estranho ao versículo: «melhores intérpreies, a continuação do capítulo precedente,…»
+Mt 20,7: separado do versículo 6 (conferir)
+Mt 20,8: cortado texto estranho ao versículo: «diferentes horas a que o pai de familia saía à praça; uns qu…»
+Mt 20,14: cortado texto estranho ao versículo: «car o procedimento do pai de famílias, galardoando todos os…»
+Mt 20,29: cortado texto estranho ao versículo: «e eu pelo contrário tempo de recompensas, senão de perigos,…»
+Mt 20: faltam os versículos 26
+Mt 21,18: separado do versículo 17 (conferir)
+Mt 22,43: separado do versículo 42 (conferir)
 Mt 23,10: comentário da edição removido; conferir se o versículo ficou completo
+Mt 23,5: cortado texto estranho ao versículo: «os explicavam ao povo. Chama-se cadeira de Moisés, porque es…»
 Mt 24: faltam os versículos 20
 Mt 25: faltam os versículos 25, 28
-Mt 26: faltam os versículos 2, 24, 69
+Mt 26,7: cortado texto estranho ao versículo: «Scrutati sunt iniquitates: defecerunt scrutantes scrutinio.…»
+Mt 26,13: cortado texto estranho ao versículo: «mesma pessoa, ou entidades distintas? Esta questão suscitou…»
+Mt 26,17: cortado texto estranho ao versículo: «Onde queres tu que te preparemos o que sc há de comer na Pás…»
+Mt 26,24: separado do versículo 23 (conferir)
+Mt 26,30: cortado texto estranho ao versículo: «destas palavras, Jesus não diz: Isto é a figura do meu corpo…»
+Mt 26,43: cortado texto estranho ao versículo: «este cálice passasse dele, se era possível, quis representar…»
+Mt 26,59: cortado texto estranho ao versículo: «da meia-noite, porque o galo cantou a primeira vez, quando o…»
+Mt 26,66: cortado texto estranho ao versículo: «modesto se apresentara sempre, embora sempre se tivesse afir…»
+Mt 26,69: separado do versículo 68 (conferir)
+Mt 26,71: cortado texto estranho ao versículo: «como os sacerdotes cobriram de salivas aquele rosto, que apa…»
+Mt 26,75: cortado texto estranho ao versículo: «Lucas: Porventura tu também és dos discípulos deste homem? O…»
+Mt 26: faltam os versículos 2
 Mt 27,29: comentário da edição removido; conferir se o versículo ficou completo
 Mt 27,61: comentário da edição removido; conferir se o versículo ficou completo
-Mt 27: faltam os versículos 10, 39
+Mt 27,8: cortado texto estranho ao versículo: «Caifás declarou a Jesus Cristo réu de morte, não deu contra…»
+Mt 27,14: cortado texto estranho ao versículo: «assinalado este campo, quê desde aquele tempo não foi conhec…»
+Mt 27,20: cortado texto estranho ao versículo: «pelos judeus, em memória de haverem sido livres por Deus da…»
+Mt 27,32: cortado texto estranho ao versículo: «A este constrangeram a que levasse a cruz dele padecente. mi…»
+Mt 27,33: cortado texto estranho ao versículo: «forças, e isto justifica naturalmente a intervenção do Ciren…»
+Mt 27,37: cortado texto estranho ao versículo: «ESTE E' JE SUS, REI DOS JUDEUS. que foi ungido; ali se banha…»
+Mt 27,39: separado do versículo 38 (conferir)
+Mt 27,57: cortado texto estranho ao versículo: «Petrônio, numa sátira, diz que se tomavam estas precauções p…»
+Mt 27,66: cortado texto estranho ao versículo: «é, a sexta feira em que morreu Jesus Cristo. Chamava-se dia…»
+Mt 27: faltam os versículos 10
 Mt 28,9: comentário da edição removido; conferir se o versículo ficou completo
+Mt 28,9: cortado texto estranho ao versículo: «manhã do domingo, como o crê a Igreja. S. Jerônimo, S. Gregó…»
+Mc 1,21: cortado texto estranho ao versículo: «absorvidos na contemplação, sequiosos da vida eterna, cairam…»
+Mc 1: faltam os versículos 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45
+Mc 2,27: cortado texto estranho ao versículo: «Que é isto? que nova doutrina é esta? porque ele põe preceit…»
 Mc 2: faltam os versículos 36
 Mc 3: faltam os versículos 2, 16
-Mc 4: faltam os versículos 18, 31
+Mc 4,31: separado do versículo 30 (conferir)
+Mc 4: faltam os versículos 18
 Mc 6: faltam os versículos 54
-Mc 7: faltam os versículos 21
-Mc 8: faltam os versículos 19, 32
-Mc 9: faltam os versículos 7, 38, 41
+Mc 7,21: separado do versículo 20 (conferir)
+Mc 8,32: separado do versículo 31 (conferir)
+Mc 8: faltam os versículos 19
+Mc 9,7: separado do versículo 6 (conferir)
+Mc 9,38: separado do versículo 37 (conferir)
+Mc 9,41: separado do versículo 40 (conferir)
 Mc 10,35: comentário da edição removido; conferir se o versículo ficou completo
-Mc 10: faltam os versículos 24
-Mc 11: faltam os versículos 28
-Mc 12: faltam os versículos 7
-Mc 13: faltam os versículos 3, 6, 10, 11, 32
-Mc 14: faltam os versículos 4, 19
-Mc 15: faltam os versículos 19
+Mc 10,3: cortado texto estranho ao versículo: «se inclina o Santo “doutor, a que tanto o bicho, como o fogo…»
+Mc 10,9: cortado texto estranho ao versículo: «Deus tolerou o repúdio, por causa do adultério, mas ficou de…»
+Mc 10,14: cortado texto estranho ao versículo: «feição no gênero humano, que ele vem levantar do abatimento…»
+Mc 10,24: separado do versículo 23 (conferir)
+Mc 11,28: separado do versículo 27 (conferir)
+Mc 12,7: separado do versículo 6 (conferir)
+Mc 13,6: separado do versículo 5 (conferir)
+Mc 13,10: separado do versículo 9 (conferir)
+Mc 13,11: separado do versículo 10 (conferir)
+Mc 13,32: separado do versículo 31 (conferir)
+Mc 13: faltam os versículos 3
+Mc 14,4: separado do versículo 3 (conferir)
+Mc 14: faltam os versículos 19
+Mc 15,19: separado do versículo 18 (conferir)
+Mc 16,6: cortado texto estranho ao versículo: «vida alguma, o ponto capital do Novo Testamento. Já S. Paulo…»
+Mc 16,7: cortado texto estranho ao versículo: «estas medidas, as santas mulheres não encontraram o cadáver…»
+Mc 16,8: cortado texto estranho ao versículo: «riam todos que testemunhá-la com igual e firme energia, deix…»
+Mc 16,10: cortado texto estranho ao versículo: «E santas mulheres; no caminho de Emaús encontram o Mestre, n…»
+Mc 16,20: separado do versículo 19 (conferir)
 Lc 1: faltam os versículos 40, 45
+Lc 2,1: cortado texto estranho ao versículo: «gelhos oferece tantas dificuldades como este e o versículo s…»
+Lc 2,2: cortado texto estranho ao versículo: «' “ar havia de excluir a Judéia, cujos dados interessavam ta…»
+Lc 2,7: separado do versículo 6 (conferir)
+Lc 2,8: separado do versículo 7 (conferir)
+Lc 2: faltam os versículos 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52
 Lc 3,13: comentário da edição removido; conferir se o versículo ficou completo
 Lc 3,34: comentário da edição removido; conferir se o versículo ficou completo
-Lc 3: faltam os versículos 2, 3, 24
+Lc 3,2: separado do versículo 1 (conferir)
+Lc 3,9: cortado texto estranho ao versículo: «cos admitem os críticos ortodoxos a seguinte explicação, apr…»
+Lc 3,10: cortado texto estranho ao versículo: «Resolvem a objeção que os racionalistas aduzem do fato de Qu…»
+Lc 3,13: cortado texto estranho ao versículo: «da era cristã foi associado ao govêrno, e encarregado da adm…»
+Lc 3,24: separado do versículo 23 (conferir)
+Lc 3,24: cortado texto estranho ao versículo: «Um par de rolas ou dois pombinhos. Cristo, está o altar da c…»
+Lc 3: faltam os versículos 3
 Lc 4,3: comentário da edição removido; conferir se o versículo ficou completo
-Lc 4: faltam os versículos 42
-Lc 5: faltam os versículos 8, 31
-Lc 6: faltam os versículos 13, 21
+Lc 4,3: cortado texto estranho ao versículo: «aventando hipóteses mais ou menos verossimeis. Hoje, graças…»
+Lc 4,4: cortado texto estranho ao versículo: «Aparelhai o caminho do Senhor: Fazei direitas as suas vereda…»
+Lc 4,7: cortado texto estranho ao versículo: «Raça de viboras, quem vos advertiu que fu gísseis da ira que…»
+Lc 4,8: cortado texto estranho ao versículo: «Porque eu vos declaro que poderoso é Deus para fazer que des…»
+Lc 4,10: cortado texto estranho ao versículo: «Levou-o ainda a Jerusalém, e pô-lo sobre o pi náculo do Temp…»
+Lc 4,14: cortado texto estranho ao versículo: «Não trateis mal, nem oprimais com calúnias pessoa alguma: E…»
+Lc 4,16: cortado texto estranho ao versículo: «ele vos batizará em virtude do Espirito Santo, e no fogo: E…»
+Lc 4,20: cortado texto estranho ao versículo: «-E quantos havia na Sinagoga tinham os olhos fixos nele: 21…»
+Lc 4,22: cortado texto estranho ao versículo: «em ti é que tenho posto toda a minha complacência.: E todos…»
+Lc 4,25: cortado texto estranho ao versículo: «Heli, o primogênito, morreu sem posteridade, Jacó, segundo a…»
+Lc 4,27: cortado texto estranho ao versículo: «E muitos leprosos havia em Israel em tempo do profeta Eliseu…»
+Lc 4,28: cortado texto estranho ao versículo: «E todos os que estavam na Sinagoga, ouvindo isto, se enchera…»
+Lc 4,30: cortado texto estranho ao versículo: «cessor; no primeiro caso transcrevia-a, no segundo para que…»
+Lc 4,31: cortado texto estranho ao versículo: «32 Queo foi de Jessé, que o foi de Obed, que o foi de Booz,…»
+Lc 4,34: cortado texto estranho ao versículo: «Vieste a perder-nos? Bem sei quem és: E's o Santo Deus. mont…»
+Lc 4,37: cortado texto estranho ao versículo: «Ou então: Davi Salomão Natan Jeconias N Neri pai legal de, p…»
+Lc 4,42: separado do versículo 41 (conferir)
+Lc 5,31: separado do versículo 30 (conferir)
+Lc 5: faltam os versículos 8
+Lc 6,21: separado do versículo 20 (conferir)
+Lc 6: faltam os versículos 13
 Lc 7: faltam os versículos 18
-Lc 8: faltam os versículos 5
-Lc 9: faltam os versículos 44
+Lc 8,5: separado do versículo 4 (conferir)
+Lc 9,44: separado do versículo 43 (conferir)
+Lc 9,62: cortado texto estranho ao versículo: «CAPÍTULO -10 ESCOLHE JESUS SETENTA E DOIS DISCÍPULOS, E ENVI…»
 Lc 10,1: comentário da edição removido; conferir se o versículo ficou completo
-Lc 11: faltam os versículos 37
-Lc 12: faltam os versículos 3
-Lc 13: faltam os versículos 11, 22
+Lc 10,1: cortado texto estranho ao versículo: «chamar o “Filho do homem”, isto é, da Virgem Maria, não obst…»
+Lc 10,6: cortado texto estranho ao versículo: «seu seguimento. No que se está vendo aquela grande verdade,…»
+Lc 11,7: cortado texto estranho ao versículo: «não me posso levantar a dar-tos. vida ativa concita respeito…»
+Lc 11,37: separado do versículo 36 (conferir)
+Lc 12,3: separado do versículo 2 (conferir)
+Lc 13,11: separado do versículo 10 (conferir)
+Lc 13,22: separado do versículo 21 (conferir)
+Lc 14: faltam os versículos 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35
+Lc 15,1: cortado texto estranho ao versículo: «Chegavam-se pois a Jesus os publicanos, e os pecadores para…»
+Lc 15,12: cortado texto estranho ao versículo: «Para que não aconteça que também eles te convidem a sua vez…»
+Lc 15,14: cortado texto estranho ao versículo: «E depois de ter consumido tudo, sucedeu haver naquele pais u…»
+Lc 15,15: cortado texto estranho ao versículo: «Retirou-se pois dali, e acomodou-se com um dos cidadãos da t…»
+Lc 15,17: cortado texto estranho ao versículo: «Até que tendo entrado em si, disse: Quantos jornaleiros há e…»
+Lc 15,19: cortado texto estranho ao versículo: «Rogo-te que me dês por escusado. Já não sou digno de ser cha…»
+Lc 15,21: cortado texto estranho ao versículo: «Sai logo às praças, e às ruas da cidade: E traze-me cá quant…»
+Lc 15,23: cortado texto estranho ao versículo: «E força-os a entrar, para que fique. cheia a minha casa. Tra…»
+Lc 15,24: cortado texto estranho ao versículo: «Porque este meu filho era morto, e reviveu: Ti nha-se perdid…»
+Lc 16,21: cortado texto estranho ao versículo: «conjunxit, homo non separet, e assim indicou que o divórcio…»
+Lc 18,22: cortado texto estranho ao versículo: «com mostras de grande dor, arrependimento, e compunção, se c…»
 Lc 19,18: comentário da edição removido; conferir se o versículo ficou completo
 Lc 19,43: comentário da edição removido; conferir se o versículo ficou completo
-Lc 19: faltam os versículos 10
-Lc 20: faltam os versículos 27
+Lc 19,10: separado do versículo 9 (conferir)
+Lc 20,27: separado do versículo 26 (conferir)
+Lc 21: faltam os versículos 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38
 Lc 22,29: comentário da edição removido; conferir se o versículo ficou completo
 Lc 22,35: comentário da edição removido; conferir se o versículo ficou completo
-Lc 23: faltam os versículos 50
+Lc 22,1: cortado texto estranho ao versículo: «Estava pois chegada a festa dos pães asmos, que se chama a P…»
+Lc 22,17: cortado texto estranho ao versículo: «Tomai-o, e distribuí-o entre vós: IS Porque vos declaro que…»
+Lc 22,21: cortado texto estranho ao versículo: «E os que dentro da cidade, retirem se: E os que nos campos,…»
+Lc 22,23: cortado texto estranho ao versículo: «Porque haverá grande apêrto sobre a terra, e ira contra este…»
+Lc 22,26: cortado texto estranho ao versículo: «“27 E então verão o Filho do homem, que virá sobre uma nuvem…»
+Lc 22,28: cortado texto estranho ao versículo: «Porque está per Mas. vós sois os que haveis permanecido comi…»
+Lc 22,29: cortado texto estranho ao versículo: «' E por isso eu preparo o reino para vós outros, como meu Pa…»
+Lc 22,34: cortado texto estranho ao versículo: «E para que aquele dia vos não apanhe de repente. Mas Jesus l…»
+Lc 23,50: separado do versículo 49 (conferir)
 Lc 24,1: comentário da edição removido; conferir se o versículo ficou completo
+Lc 24,15: cortado texto estranho ao versículo: «ram tal impressão nos espiritos dos Apóstolos, que pareceram…»
+Lc 24,50: cortado texto estranho ao versículo: «Esçrituras encerram obscuridade, e que os mesmos Apóstolos n…»
 Lc 24: faltam os versículos 37
 Jo 1,7: comentário da edição removido; conferir se o versículo ficou completo
+Jo 1,7: cortado texto estranho ao versículo: «das nuvens das suas alegorias, nada tem que ver com o verdad…»
+Jo 1,14: cortado texto estranho ao versículo: «tor e Salvador: deu-lhes a prerrogativa e direito de serem f…»
+Jo 1,20: cortado texto estranho ao versículo: «Ainda que eu tenho sido o primeiro que vos tenho pregado, nã…»
+Jo 2,4: cortado texto estranho ao versículo: «Kafr-Kenna, no caminho de Nazaré para Tiberíiades. Mostram-s…»
+Jo 2,7: cortado texto estranho ao versículo: «o termo francês femme, diferença que é comum à nossa palavra…»
+Jo 2,11: cortado texto estranho ao versículo: «é a que melhor se conforma como texto grego, e lembra aquela…»
+Jo 2,25: cortado texto estranho ao versículo: «Pois ele bem sabia por si “mesmo o que havia no homem. judeu…»
 Jo 2: faltam os versículos 12
 Jo 3,23: comentário da edição removido; conferir se o versículo ficou completo
-Jo 5: faltam os versículos 11, 24
+Jo 4,25: cortado texto estranho ao versículo: «com autorização do rei persa Dario Noto, o qual foi destruid…»
+Jo 5,11: separado do versículo 10 (conferir)
+Jo 5,23: cortado texto estranho ao versículo: «'24 Em verdade, em verdade vos digo, que quem ou ve:a minha…»
+Jo 5: faltam os versículos 24
+Jo 6,52: cortado texto estranho ao versículo: «que ele agora queira o que antes não queria. Terceira. Que n…»
+Jo 6,57: cortado texto estranho ao versículo: «Jesus Cristo dão a entender, que todo o cristão, se quer viv…»
+Jo 6,60: cortado texto estranho ao versículo: «está Qui manducat me et ipse vivet propter me, que o padre P…»
 Jo 6: faltam os versículos 20
-Jo 7: faltam os versículos 34, 45
-Jo 8: faltam os versículos 8, 14, 24, 53
-Jo 9: faltam os versículos 4, 19
-Jo 11: faltam os versículos 7, 13, 17
-Jo 12: faltam os versículos 8
+Jo 7,34: separado do versículo 33 (conferir)
+Jo 7,45: separado do versículo 44 (conferir)
+Jo 8,7: cortado texto estranho ao versículo: «malícia, porque se a condenava à morte, tomavam daí pretexto…»
+Jo 8,14: separado do versículo 13 (conferir)
+Jo 8,24: separado do versículo 23 (conferir)
+Jo 8,32: cortado texto estranho ao versículo: «ainda destes não convêm todos nela, como mostra Sabatier e C…»
+Jo 8,53: separado do versículo 52 (conferir)
+Jo 8: faltam os versículos 8
+Jo 9,4: separado do versículo 3 (conferir)
+Jo 9,7: cortado texto estranho ao versículo: «responde, que não precisamente por seus pecados lhe havia De…»
+Jo 9: faltam os versículos 19
+Jo 10,40: cortado texto estranho ao versículo: «E deixou-se lá ficar: o seu ministério, sem perder de vista…»
+Jo 11,7: separado do versículo 6 (conferir)
+Jo 11,13: separado do versículo 12 (conferir)
+Jo 11,50: cortado texto estranho ao versículo: «senão que atado como estava saíu do sepulcro, tirando deste…»
+Jo 11: faltam os versículos 17
+Jo 12,1: cortado texto estranho ao versículo: «MARIA, IRMÃ DE LAZARO, O UNGE COM UM PRECIOSO BÁLSAMO. MURMU…»
+Jo 12,8: separado do versículo 7 (conferir)
+Jo 12,11: cortado texto estranho ao versículo: «1.12 E no dia seguinte uma grande multidão de povo, que tinh…»
+Jo 12: faltam os versículos 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50
+Jo 13,16: cortado texto estranho ao versículo: «E que eles mesmos haviam contribuido para o seu cumprimento.…»
+Jo 13,17: cortado texto estranho ao versículo: «Jesus, quando este chamou a Lázaro do sepulcro, e o ressusci…»
+Jo 13,19: cortado texto estranho ao versículo: «Desde agora vo-lo digo, antes que suceda, para que quando su…»
+Jo 13,23: cortado texto estranho ao versículo: «'24 Em verdade, em verdade vos digo, que se o grão de trigo,…»
+Jo 13,25: cortado texto estranho ao versículo: «E o que aborrece a sua vida neste mundo, conserva-la-á para…»
+Jo 13,28: cortado texto estranho ao versículo: «Eu não só o tenho j já glorificado, mas ainda o glorificarei…»
+Jo 13,34: cortado texto estranho ao versículo: «Importa que o Filho do homem seja levantado? Quem é este Fil…»
+Jo 13,35: cortado texto estranho ao versículo: «Andai enquanto tendes luz, para que vos não apanhem as treva…»
+Jo 13,38: cortado texto estranho ao versículo: «E a quem foi revelado o braço do Senhor? Jesus Cristo, que é…»
 Jo 13: faltam os versículos 30
 Jo 14,13: comentário da edição removido; conferir se o versículo ficou completo
-Jo 14: faltam os versículos 19, 26
+Jo 14,7: cortado texto estranho ao versículo: «aflijais, porque nem por isso vos privo da esperança de terd…»
+Jo 14,13: cortado texto estranho ao versículo: «é a vida, vida essencial e infinita como Deus, porque como h…»
+Jo 14,19: separado do versículo 18 (conferir)
+Jo 14: faltam os versículos 26
+Jo 15,24: cortado texto estranho ao versículo: «mundo que ama as riquezas aborrece aos pobres, que com o seu…»
 Jo 16: faltam os versículos 6
-Jo 18: faltam os versículos 35
+Jo 18,35: separado do versículo 34 (conferir)
 Jo 19,35: comentário da edição removido; conferir se o versículo ficou completo
-Jo 19: faltam os versículos 16
-Jo 20: faltam os versículos 15
+Jo 19,16: separado do versículo 15 (conferir)
+Jo 19,20: cortado texto estranho ao versículo: «Por isso o Senhor os pôs depois dos Césares para que os dest…»
+Jo 19,31: cortado texto estranho ao versículo: «O discípulo amado é aos seus olhos divinos, a Igreja inteira…»
+Jo 19,35: cortado texto estranho ao versículo: «vam de ordinário os cadáveres na cruz; os animais ferozes se…»
+Jo 20,11: cortado texto estranho ao versículo: «posita, os lençóis postos. O texto grego é que acrescenta po…»
+Jo 20,15: separado do versículo 14 (conferir)
+Jo 20,25: cortado texto estranho ao versículo: «desligado no Céu. Está pois claramente expresso o poder de r…»
+Jo 20,26: cortado texto estranho ao versículo: «forma que pode com razão dizer-se uma prática universalmente…»
 Jo 21,25: comentário da edição removido; conferir se o versículo ficou completo
 At 2,1: comentário da edição removido; conferir se o versículo ficou completo
-At 2: faltam os versículos 42, 46
+At 2,14: cortado texto estranho ao versículo: «Média ficava também na Ásia, confinava a este com a Pártia,…»
+At 2,42: separado do versículo 41 (conferir)
+At 2: faltam os versículos 46
 At 3: faltam os versículos 17
-At 4: faltam os versículos 29
-At 5: faltam os versículos 4, 14
-At 7: faltam os versículos 26, 55
+At 4,29: separado do versículo 28 (conferir)
+At 5,4: separado do versículo 3 (conferir)
+At 5,9: cortado texto estranho ao versículo: «É certo que era livre a todos os fieis venderem, ou não vend…»
+At 5,14: separado do versículo 13 (conferir)
+At 5,37: cortado texto estranho ao versículo: «A relação autêntica do miraculoso descobrimento das relíquia…»
+At 5,41: cortado texto estranho ao versículo: «Atos, foi uma das numerosas que ensanguentaram a Judéia por…»
+At 6,2: cortado texto estranho ao versículo: «se chamam os que não falavam senão grego, como eram os do Eg…»
+At 7,26: separado do versículo 25 (conferir)
+At 7,54: cortado texto estranho ao versículo: «do Espirito Santo, olhando para o Céu, viu a glória de Deus…»
+At 7: faltam os versículos 55
+At 8,2: cortado texto estranho ao versículo: «antiguidade reputou autêntica, o corpo era posto à voracidad…»
+At 8,3: cortado texto estranho ao versículo: «Esta notícia, que corre autêntica, do achado das reiíquias d…»
+At 8,15: cortado texto estranho ao versículo: «“16 Porque ele ainda não tinha descido sobre nenhum, mas som…»
 At 8: faltam os versículos 17, 33
-At 9: faltam os versículos 16, 18, 19
+At 9,2: cortado texto estranho ao versículo: «data do seu nascimento. S. Lucas apenas nos diz que no tempo…»
+At 9,6: cortado texto estranho ao versículo: «e Pauly ao citado Sardanapalus. Foi neste meio que foi educa…»
+At 9,18: separado do versículo 17 (conferir)
+At 9: faltam os versículos 16, 19
 At 10,6: comentário da edição removido; conferir se o versículo ficou completo
 At 10: faltam os versículos 18
+At 11: faltam os versículos 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30
 At 12,27: comentário da edição removido; conferir se o versículo ficou completo
-At 13: faltam os versículos 21, 46
+At 12,1: cortado texto estranho ao versículo: «E neste mesmo tempo enviou o rei Herodes tropas para maltrat…»
+At 12,12: cortado texto estranho ao versículo: «“13 E nos referiu como tinha visto na sua casa ao Anjo que e…»
+At 12,15: cortado texto estranho ao versículo: «Éles, porém, lhe disseram: Tu estás louca. Mas ela asseverav…»
+At 12,16: cortado texto estranho ao versículo: «João, na verdade, batizou em água, mas vós sereis batizados…»
+At 12,18: cortado texto estranho ao versículo: «Logo também aos gentios participou Deus o dom da penitência,…»
+At 12,22: cortado texto estranho ao versículo: «suadidos os judeus cristãos, que os gentios sim se podiam sa…»
+At 12,24: cortado texto estranho ao versículo: «E se uniu ao Senhor grande número de gente. Entretanto a do…»
+At 13,2: cortado texto estranho ao versículo: «Atos dos Apóstolos 13 que é, que na propriedade e rigor da l…»
+At 13,6: cortado texto estranho ao versículo: «per consercrationem facta sunt corpus et sanguis Christi, un…»
+At 13,46: separado do versículo 45 (conferir)
+At 13: faltam os versículos 21
 At 14,4: comentário da edição removido; conferir se o versículo ficou completo
-At 14: faltam os versículos 12
+At 14,12: separado do versículo 11 (conferir)
+At 14,16: cortado texto estranho ao versículo: «se pela força, e veemencia de dizer, e não o recomendava a f…»
+At 14: faltam os versículos 24, 25, 26, 27
 At 15,3: comentário da edição removido; conferir se o versículo ficou completo
 At 15,30: comentário da edição removido; conferir se o versículo ficou completo
-At 17: faltam os versículos 30
-At 18: faltam os versículos 10
+At 15,25: cortado texto estranho ao versículo: «taram quão grandes coisas havia Deus feito com eles, 'e como…»
+At 15,30: cortado texto estranho ao versículo: «diligências, por averiguar o Dogma, poderão ser feitas por u…»
+At 15,41: cortado texto estranho ao versículo: «CAPÍTULO 16 PAULO CIRCUNCIDA A TIMÓTEO, O ESPÍRITO SANTO O D…»
+At 16,8: cortado texto estranho ao versículo: «tra sorte por Bispo, porque não tinham decretado que ela fos…»
+At 17,30: separado do versículo 29 (conferir)
+At 18,10: separado do versículo 9 (conferir)
+At 18: faltam os versículos 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28
 At 19,1: comentário da edição removido; conferir se o versículo ficou completo
+At 19,17: cortado texto estranho ao versículo: «18$ Mas Paulo havendo permanecido ali ainda muitos dias, des…»
+At 19,20: cortado texto estranho ao versículo: «Deste modo crescia muito, e tomava novas forças a palavra de…»
+At 19,22: cortado texto estranho ao versículo: «23 E havendo estado ali por algum tempo, partiu, atravessand…»
+At 19,25: cortado texto estranho ao versículo: «Aos quais convocando ele e a outros, que trabalhavam em seme…»
+At 19,26: cortado texto estranho ao versículo: «E estais vendo e ouvindo, que não só em Éfeso, mas em quasi…»
+At 21,2: cortado texto estranho ao versículo: «outro Apóstolo, ou por imediata revelação do mesmo Senhor. É…»
+At 21,27: cortado texto estranho ao versículo: «tos faziam com os sacrifícios de várias rezes e de pães asmo…»
+At 22,8: cortado texto estranho ao versículo: «a crítica racionalista não ver nisto mais que um fenômeno me…»
 At 24: faltam os versículos 11
+At 26,32: cortado texto estranho ao versículo: «CAPÍTULO 27 PAULO É REMETIDO PRESO A ROMA. O VENTO CONTRÁRIO…»
 At 26: faltam os versículos 30
-At 27: faltam os versículos 2, 18, 30
+At 27,30: separado do versículo 29 (conferir)
+At 27: faltam os versículos 2, 18, 44
 At 28,17: comentário da edição removido; conferir se o versículo ficou completo
+At 28,20: cortado texto estranho ao versículo: «guns críticos diziam ser as Tres Tabernae, porém o próprio p…»
 At 28: faltam os versículos 11
-Rm 2: faltam os versículos 6, 18
+Rm 2,18: separado do versículo 17 (conferir)
+Rm 2: faltam os versículos 6
 Rm 3,24: comentário da edição removido; conferir se o versículo ficou completo
+Rm 3,24: cortado texto estranho ao versículo: «corrupção do gênero humano, se não devia entender deles, mas…»
+Rm 4,19: cortado texto estranho ao versículo: «castigo, não a graça nem a salvação. Operatur iram occasiona…»
 Rm 4: faltam os versículos 6
-Rm 5: faltam os versículos 16
+Rm 5,12: cortado texto estranho ao versículo: «moso o amor de Deus para com os homens, que sendo estes maus…»
+Rm 5,16: separado do versículo 15 (conferir)
+Rm 5,16: cortado texto estranho ao versículo: «o Apósótolo é a Lei escrita, a lei de Moisés. O dizer, pois,…»
 Rm 6,6: comentário da edição removido; conferir se o versículo ficou completo
+Rm 6,18: cortado texto estranho ao versículo: «mais célebre, nem mais fregiiente em Santo Agostinho. Éle a…»
 Rm 7: faltam os versículos 19
 Rm 8,29: comentário da edição removido; conferir se o versículo ficou completo
-Rm 8: faltam os versículos 9, 18
+Rm 8,8: cortado texto estranho ao versículo: «9º Vós porém não viveis segúndo a carne, mas segundo o espir…»
+Rm 8,18: separado do versículo 17 (conferir)
+Rm 8,18: cortado texto estranho ao versículo: «do Pai, a primeira vez por um nome grego, que é “Abba”, a se…»
+Rm 8,29: cortado texto estranho ao versículo: «Paulo diz que o Espírito Santo ora por nós, é neste sentido,…»
+Rm 8,34: cortado texto estranho ao versículo: «ge, discernir estas coisas distintas, preferir umas às outra…»
+Rm 8: faltam os versículos 9
+Rm 9,10: cortado texto estranho ao versículo: «1 Porque não tendo eles ainda nascido, nem tendo ainda feito…»
+Rm 9,22: cortado texto estranho ao versículo: «Epístola a Xisto, num. 3. Buscamos o merecimento da obduraçã…»
+Rm 9,25: cortado texto estranho ao versículo: «Santos, e reprovação dos impios. Uma geral e absoluta. Donde…»
 Rm 9: faltam os versículos 11, 31
-Rm 11: faltam os versículos 15, 16
-Rm 12: faltam os versículos 19
+Rm 11,15: separado do versículo 14 (conferir)
+Rm 11,35: cortado texto estranho ao versículo: «a A A. a e.36 Porque dele e por ele e nele existem tódas as…»
+Rm 11: faltam os versículos 16, 36
+Rm 12,19: separado do versículo 18 (conferir)
+Rm 13,9: cortado texto estranho ao versículo: «Entende-se porém quando poderes legítimos. MAS TAMBÉM POR OB…»
+Rm 14,5: cortado texto estranho ao versículo: «vertidos, não entre os fieis judeus e os fieis gentios, como…»
+Rm 14,10: cortado texto estranho ao versículo: «para logo o convencer, porque é mais que evidente que S. Pau…»
+Rm 15,33: cortado texto estranho ao versículo: «CAPÍTULO 16 ' RECOMENDA O APÓSTOLO AOS ROMANOS ALGUMAS PESSO…»
+Rm 16,27: cortado texto estranho ao versículo: «Amem. que de S. Pedro e S. Paulo, descreve S. Lucas nos Atos…»
 1Cor 1,16: comentário da edição removido; conferir se o versículo ficou completo
 1Cor 1: faltam os versículos 22
 1Cor 2,11: comentário da edição removido; conferir se o versículo ficou completo
-1Cor 3: faltam os versículos 16
-1Cor 4: faltam os versículos 9
+1Cor 2,11: cortado texto estranho ao versículo: «entende, não qualquer sabedoria das coisas sobrenaturais, ma…»
+1Cor 2,16: cortado texto estranho ao versículo: «se pode deduzir daqui, como pessimamente deduzem os sectário…»
+1Cor 3,12: cortado texto estranho ao versículo: «a santificação reservou-a Deus inteiramente a si, com exclus…»
+1Cor 3,16: separado do versículo 15 (conferir)
+1Cor 3,16: cortado texto estranho ao versículo: «tinho no Livro da Fé, e das obras, cap. 16; no Manual, cap.…»
+1Cor 4,9: separado do versículo 8 (conferir)
 1Cor 5,9: comentário da edição removido; conferir se o versículo ficou completo
-1Cor 7: faltam os versículos 10
+1Cor 5,9: cortado texto estranho ao versículo: «à multidão dos fieis leigos, é que competia o poder de excom…»
+1Cor 5,13: separado do versículo 12 (conferir)
+1Cor 6,20: cortado texto estranho ao versículo: «Cristo os seus membros, etc.”. Porém, como o Apóstolo supõe,…»
+1Cor 7,10: separado do versículo 9 (conferir)
+1Cor 7,29: cortado texto estranho ao versículo: «sidade instante, (que são os termos precisos da Vulgata) ent…»
+1Cor 8,8: cortado texto estranho ao versículo: «visão dos deuses que, segundo a Mitologia dos gentios uns er…»
+1Cor 8,13: cortado texto estranho ao versículo: «CAPÍTULO 9: AINDA QUE O APÓSTOLO TINHA DIREITO DE PEDIR AOS…»
 1Cor 9,16: comentário da edição removido; conferir se o versículo ficou completo
+1Cor 9,5: cortado texto estranho ao versículo: «e bebendo do que ha nela, porque o trabalhador é digno do se…»
 1Cor 9: faltam os versículos 1, 6
 1Cor 10,1: comentário da edição removido; conferir se o versículo ficou completo
-1Cor 11: faltam os versículos 11, 27, 28
-1Cor 13: faltam os versículos 4
+1Cor 10,6: cortado texto estranho ao versículo: «mar foram figuras do Batismo, que Jesus Cristo havia 'de ins…»
+1Cor 11,11: separado do versículo 10 (conferir)
+1Cor 11,27: separado do versículo 26 (conferir)
+1Cor 11,28: separado do versículo 27 (conferir)
+1Cor 13,4: separado do versículo 3 (conferir)
+1Cor 14: faltam os versículos 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40
 1Cor 15,11: comentário da edição removido; conferir se o versículo ficou completo
 1Cor 15,14: comentário da edição removido; conferir se o versículo ficou completo
-1Cor 15: faltam os versículos 54
-2Cor 4: faltam os versículos 16
-2Cor 6: faltam os versículos 10, 11
+1Cor 15,8: cortado texto estranho ao versículo: «alegórico. Contra estes escreve o Santo Apóstqlo o presente…»
+1Cor 15,11: cortado texto estranho ao versículo: «distributivo, enquanto trabalhou mais do que cada um deles.…»
+1Cor 15,16: cortado texto estranho ao versículo: «visto nãa entender ele o que tu dizes. “Porque se os mortos…»
+1Cor 15,19: cortado texto estranho ao versículo: «Do que dez mil palavras em língua estranha, Se nesta vida tã…»
+1Cor 15,20: cortado texto estranho ao versículo: «E sede perfeitos no sentido. Mas agora ressuscitou Cristo de…»
+1Cor 15,21: cortado texto estranho ao versículo: «E nem ainda assim me ouvirão, diz o Senhor. Porque como a mo…»
+1Cor 15,22: cortado texto estranho ao versículo: «Porém as profecias, não aos infiéis, mas E assim como era Ad…»
+1Cor 15,23: cortado texto estranho ao versículo: «Não dirão porventura que estais lou: cos? mas cada um em sua…»
+1Cor 15,25: cortado texto estranho ao versículo: «E assim prostrado com a face em terra adorará a Deus, declar…»
+1Cor 15,26: cortado texto estranho ao versículo: «Faça-se tudo isto para edificação. Ora, o último inimigo des…»
+1Cor 15,27: cortado texto estranho ao versículo: «depois do outro, e haja algum que interprete o que eles diss…»
+1Cor 15,31: cortado texto estranho ao versículo: «32 Se (como homem) eu batalhei com as feras em Éfeso, que me…»
+1Cor 15,33: cortado texto estranho ao versículo: «Como eu também o ensino em tódas as igrejas dos santos. Não…»
+1Cor 15,34: cortado texto estranho ao versículo: «Vigiai, justos, e não pequeis: Porque alguns não têm o conhe…»
+1Cor 15,54: separado do versículo 53 (conferir)
+1Cor 16,24: cortado texto estranho ao versículo: «carta foi ditado pelo Apóstolo, e escrito por amanuense: mas…»
+2Cor 4,16: separado do versículo 15 (conferir)
+2Cor 6,10: separado do versículo 9 (conferir)
+2Cor 6,11: separado do versículo 10 (conferir)
+2Cor 6,18: separado do versículo 17 (conferir)
+2Cor 8,18: cortado texto estranho ao versículo: «ainda natural, (que certamente o é, e ag Escrituras o ensina…»
 2Cor 8: faltam os versículos 19
 2Cor 9: faltam os versículos 13
 2Cor 10,12: comentário da edição removido; conferir se o versículo ficou completo
+2Cor 10,1: cortado texto estranho ao versículo: «'2 Rogo-vos pois que quando estiver presents, não me veja ob…»
 2Cor 10: faltam os versículos 2
 2Cor 11,5: comentário da edição removido; conferir se o versículo ficou completo
-2Cor 11: faltam os versículos 9
-2Cor 12: faltam os versículos 14
-Gl 1: faltam os versículos 11
-Gl 4: faltam os versículos 24
+2Cor 11,9: separado do versículo 8 (conferir)
+2Cor 12,14: separado do versículo 13 (conferir)
+2Cor 13,13: cortado texto estranho ao versículo: «EPÍSTOLA DE S. PAULO AOS GÁLATAS Causa e objeto desta Epísto…»
+Gl 1,11: separado do versículo 10 (conferir)
+Gl 2,13: cortado texto estranho ao versículo: «Jerônimo e de Santo Agostinho a controvérsia, que houve entr…»
+Gl 2,16: cortado texto estranho ao versículo: «o cuncidou a Timóteo, e quando se tosquiou à Nazarena por cu…»
+Gl 3,26: cortado texto estranho ao versículo: «çadas, como explicam S. Jerônimo e S. João Crisóstomo, ou pa…»
+Gl 4,24: separado do versículo 23 (conferir)
+Gl 5,17: cortado texto estranho ao versículo: «padres gregos, e latinos, como advertem Éstio e Amelote, ent…»
+Gl 6,17: cortado texto estranho ao versículo: «18º A graça de Nosso Senhor Jesus Cristo, irmãos, assista no…»
 Gl 6: faltam os versículos 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61
-Ef 2: faltam os versículos 21
-Ef 3: faltam os versículos 16
+Ef 2,21: separado do versículo 20 (conferir)
+Ef 3,10: cortado texto estranho ao versículo: «testemunhos provou o nosso -Apóstolo este mesmo assunto na e…»
+Ef 3,16: separado do versículo 15 (conferir)
+Ef 3,17: cortado texto estranho ao versículo: «quanto a certas particularidades e circunstâncias, não conhe…»
+Ef 4,8: cortado texto estranho ao versículo: «captivitatem: o que tomado à letra soa, levou cativo o cativ…»
 Ef 5: faltam os versículos 22
+Ef 6,24: cortado texto estranho ao versículo: «Amém. EPÍSTOLA DE S. PAULO AOS FILIPENSES A Igreja do Filipo…»
 Ef 6: faltam os versículos 17
-Fl 3: faltam os versículos 13
-Fl 4: faltam os versículos 10, 22
+Fl 3,13: separado do versículo 12 (conferir)
+Fl 4,4: cortado texto estranho ao versículo: «Outra vez digo, alegrai-vos. tinha havido alguma leve divisã…»
+Fl 4,10: separado do versículo 9 (conferir)
+Fl 4,22: separado do versículo 21 (conferir)
+Fl 4,23: cortado texto estranho ao versículo: «Amém. EPÍSTOLA DE S. PAULO AOS COLOSSENSES “- Causa que a pu…»
 Cl 2: faltam os versículos 13
-Cl 3: faltam os versículos 21
+Cl 3,1: cortado texto estranho ao versículo: «condena, é aquele culto que lhes davam os hereges, ou simoni…»
+Cl 3,21: separado do versículo 20 (conferir)
+Cl 3,25: separado do versículo 24 (conferir)
+Cl 3,25: cortado texto estranho ao versículo: «ENCOMENDA-SE PAULO NAS ORAÇÕES DOS COLOSSENSES. DIZ-LHES QUE…»
+Cl 4,16: cortado texto estranho ao versículo: «Demais, que ao tenípo que S. Paulo isto escrevia, estavam em…»
+Cl 4,18: cortado texto estranho ao versículo: «A graça seja convosco. Amém. to se acha hoje em algumas bíbl…»
+1Ts 2,3: cortado texto estranho ao versículo: «4, Mas assim como fomos aprovados de Deus, para que se nos c…»
 1Ts 2: faltam os versículos 4, 6
+1Ts 3,13: cortado texto estranho ao versículo: «Amém., º CAPÍTULO 4 EXORTA O APÓSTOLO AOS TESSALONICENSES A…»
+1Ts 4,17: cortado texto estranho ao versículo: «de achar vivos, e se cita a si mesmo, por exemplo do que suc…»
+1Ts 5,28: cortado texto estranho ao versículo: «SEGUNDA EPÍSTOLA DE S. PAULO AOS TESSALONICENSES Tempo e lug…»
 2Ts 2,7: comentário da edição removido; conferir se o versículo ficou completo
-2Ts 2: faltam os versículos 3
+2Ts 2,3: separado do versículo 2 (conferir)
+2Ts 2,3: cortado texto estranho ao versículo: «não assustem com os ditos daqueles que anunciam o termo, ale…»
+2Ts 2,7: cortado texto estranho ao versículo: «ralidade de apostasia, sempre até o fim do mundo há te subsi…»
+2Ts 2,10: cortado texto estranho ao versículo: «Outros, com Arnault, Sacy e Huré, vertem deste modo: ““Somen…»
 2Ts 3,1: comentário da edição removido; conferir se o versículo ficou completo
+2Ts 3,1: cortado texto estranho ao versículo: «Porquianto temos; “otvido, que andam alguns entre vós-inquie…»
+2Ts 3,18: cortado texto estranho ao versículo: «EPÍSTOLAS PASTORAIS As três Epistolas dirigidas por S. Paulo…»
 2Ts 3: faltam os versículos 11
 1Tm 1: faltam os versículos 3
+1Tm 2,9: cortado texto estranho ao versículo: «os mais, assim quando diz que só há um Mediador entre Deus e…»
 1Tm 3,9: comentário da edição removido; conferir se o versículo ficou completo
-1Tm 3: faltam os versículos 15
+1Tm 3,9: cortado texto estranho ao versículo: «destes, nem os mais santos vivem isentos) mas os pecados gra…»
+1Tm 3,15: separado do versículo 14 (conferir)
+1Tm 4,13: cortado texto estranho ao versículo: «com que a Igreja Católica a pratica, que é o da mortificação…»
 1Tm 5,21: comentário da edição removido; conferir se o versículo ficou completo
 1Tm 5,33: comentário da edição removido; conferir se o versículo ficou completo
-1Tm 5: faltam os versículos 2, 18, 26, 27, 28, 29, 30, 31, 32
-1Tm 6: faltam os versículos 2, 16
-2Tm 1: faltam os versículos 3, 8
+1Tm 5,2: separado do versículo 1 (conferir)
+1Tm 5,17: cortado texto estranho ao versículo: «a Igreja como adulterinas as segundas núpcias (o que é expre…»
+1Tm 5,21: cortado texto estranho ao versículo: «tal manda o Apóstolo que seja o estipêndio, que ele chama do…»
+1Tm 5,25: cortado texto estranho ao versículo: «CAPÍTULO 6, OBRIGAÇÕES DOS QUE SERVEM. DEVE-SE FUGIR AS CON…»
+1Tm 5: faltam os versículos 18, 26, 27, 28, 29, 30, 31, 32
+1Tm 6,16: separado do versículo 15 (conferir)
+1Tm 6: faltam os versículos 2
+2Tm 1,3: separado do versículo 2 (conferir)
+2Tm 1,8: separado do versículo 7 (conferir)
+2Tm 2,1: cortado texto estranho ao versículo: «em Jesus Cristo: guardando o que me ouviste da minha bóca di…»
+2Tm 2,4: cortado texto estranho ao versículo: «com toda a evidência, que afora as coisas que os Apóstolos d…»
 2Tm 2: faltam os versículos 2
 2Tm 3,7: comentário da edição removido; conferir se o versículo ficou completo
-2Tm 3: faltam os versículos 5
-Tt 1: faltam os versículos 10, 14
-Fm 1: faltam os versículos 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14
+2Tm 3,1: cortado texto estranho ao versículo: «Igreja de Cristo; pelos vasos de honra, os escolhidos; pelos…»
+2Tm 3,5: separado do versículo 4 (conferir)
+2Tm 4,4: cortado texto estranho ao versículo: «E como nem neste, nem noutro lugar declara a Escritura os se…»
+2Tm 4,22: cortado texto estranho ao versículo: «Amém. EPÍSTOLA DE S. PAULO A TITO Lugar e data da Composição…»
+Tt 1,14: separado do versículo 13 (conferir)
+Tt 1: faltam os versículos 10
+Tt 2: faltam os versículos 15
+Tt 3,7: cortado texto estranho ao versículo: «Pois tenho tido grande gõzo e consolação na tua caridade: Po…»
+Tt 3,15: cortado texto estranho ao versículo: «— Tíquico, que tinha sido o portador da Epístola aos Colosse…»
+Fm 1,1: cortado texto estranho ao versículo: «14 Mas sem o teu consentimento nada quis fazer, para que o t…»
+Fm 1,3: separado do versículo 2 (conferir)
+Fm 1,20: cortado texto estranho ao versículo: «próprio Onésimo sucede na Sé episcopal de Éfeso a S. Timóteo…»
+Fm 1,25: cortado texto estranho ao versículo: «EPÍSTOLA DE S. PAULO AOS HEBREUS Ocasião, causa, objeto e im…»
+Fm 1: faltam os versículos 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14
+Hb 1,8: cortado texto estranho ao versículo: «ainda, diz Santo Agostinho, porque havia alguns cristãos em…»
+Hb 1,13: separado do versículo 12 (conferir)
+Hb 1,14: separado do versículo 13 (conferir)
+Hb 3,1: cortado texto estranho ao versículo: «'2 O qual é fiel ao que o constituiu, assim como também Mois…»
+Hb 3,19: cortado texto estranho ao versículo: «“CAPÍTULO 4 OS JUDEUS NÃO ENTRARAM NO DESCANSO DE DEUS POR C…»
 Hb 3: faltam os versículos 2, 3, 4
+Hb 4,3: cortado texto estranho ao versículo: «pouso que sucedeu ao complemento das suas obras na criação d…»
 Hb 5,7: comentário da edição removido; conferir se o versículo ficou completo
+Hb 6,8: separado do versículo 7 (conferir)
+Hb 6: faltam os versículos 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+Hb 7,2: cortado texto estranho ao versículo: «1, p. 129. Após a publicação desta Epistola foi obrigatória…»
+Hb 7,8: cortado texto estranho ao versículo: «E aqui certamente tomam dízimos homens que morrem: Mas alios…»
+Hb 7,9: cortado texto estranho ao versículo: «E (para que assim o diga) até o mesmo Levi que recebeu dízim…»
+Hb 7,14: cortado texto estranho ao versículo: «Porque manifesta coisa é que da linhagem de Judá nasceu noss…»
+Hb 7,17: cortado texto estranho ao versículo: «I$ Para que por duas coisas infalíveis, pelas quais é imposs…»
+Hb 7,20: cortado texto estranho ao versículo: «21, Mas este o foi com juramento, por aquele que lhe disse:…»
 Hb 7: faltam os versículos 21
 Hb 9,13: comentário da edição removido; conferir se o versículo ficou completo
-Hb 9: faltam os versículos 5
-Hb 10: faltam os versículos 4, 23, 27
+Hb 9,5: separado do versículo 4 (conferir)
+Hb 10,4: separado do versículo 3 (conferir)
+Hb 10,6: cortado texto estranho ao versículo: «aos Romanos, e na outra aos Gálatas ensina o Apóstolo, que a…»
+Hb 10,39: cortado texto estranho ao versículo: «CAPÍTULO, 11 DEFINIÇÃO DO QUE É A FÉ. PROVA O APÓSTOLO A FOR…»
+Hb 10: faltam os versículos 23, 27
 Hb 11,36: comentário da edição removido; conferir se o versículo ficou completo
 Hb 11,40: comentário da edição removido; conferir se o versículo ficou completo
-Hb 11: faltam os versículos 31
+Hb 11,31: separado do versículo 30 (conferir)
 Hb 12: faltam os versículos 13
-Hb 13: faltam os versículos 5
-Tg 1: faltam os versículos 4, 16, 21
-Tg 3: faltam os versículos 17
+Hb 13,5: separado do versículo 4 (conferir)
+Hb 13,25: cortado texto estranho ao versículo: «Amém. ao EPÍSTOLAS CATÓLICAS Tem esta designação uma série d…»
+Tg 1,4: separado do versículo 3 (conferir)
+Tg 1,20: cortado texto estranho ao versículo: «21, Pelo que, renunciando a tóda a imundícia e abundância de…»
+Tg 1: faltam os versículos 16, 21
+Tg 2,5: cortado texto estranho ao versículo: «um hebraismo, em lugar de Senhor gloriosissimo. Não queirais…»
+Tg 2,21: cortado texto estranho ao versículo: «lhes servirá aquela advertência e conselho vão que lhes dais…»
+Tg 3,17: separado do versículo 16 (conferir)
+Tg 3,18: cortado texto estranho ao versículo: «CAPÍTULO 4 A CONCUPISCÊNCIA É A CAUSA DAS DIVISÕES. O AMIGO…»
+Tg 4,3: cortado texto estranho ao versículo: «í "4 Adúlteros, não sabeis que a amizade deste mundo é inimi…»
 Tg 4: faltam os versículos 4
 Tg 5,17: comentário da edição removido; conferir se o versículo ficou completo
+Tg 5,1: cortado texto estranho ao versículo: «sem. excluir por isso os legisladores e juizes humanos. O qu…»
+Tg 5,7: cortado texto estranho ao versículo: «má fé daquele Heresiarca.. Pot ti recolher o precioso fruto…»
+Tg 5,14: cortado texto estranho ao versículo: «Tiago é o mesmo que Cristo proibira jurare omnino. Digo-vos,…»
+Tg 5,17: cortado texto estranho ao versículo: «mear o Apóstolo Presbiteros no número' plural, ou foi porque…»
+Tg 5,20: cortado texto estranho ao versículo: «O sujeito deste sacramento é pois o homem adulto, tendo uso…»
 Tg 5: faltam os versículos 2
-1Pd 1: faltam os versículos 24
+1Pd 1,24: separado do versículo 23 (conferir)
 1Pd 3,22: comentário da edição removido; conferir se o versículo ficou completo
-1Pd 3: faltam os versículos 8
+1Pd 3,8: separado do versículo 7 (conferir)
+1Pd 3,8: cortado texto estranho ao versículo: «Santo Agostinho na '8 E finalmente sede todos de um mesmo co…»
+1Pd 3,20: cortado texto estranho ao versículo: «estes, e que cárcere e que pregação, é um ponto que todos os…»
+1Pd 3,22: cortado texto estranho ao versículo: «Deus os avisava do castigo iminente, para se arrependerem e…»
 1Pd 5,14: comentário da edição removido; conferir se o versículo ficou completo
-2Pd 1: faltam os versículos 10, 11, 14
-2Pd 3: faltam os versículos 2
-1Jo 3: faltam os versículos 5, 25
+1Pd 5,13: cortado texto estranho ao versículo: «do-se por uma tradição universal e constante, cuja primeira…»
+1Pd 5,14: cortado texto estranho ao versículo: «Amém. respeita da Babilônia dos Caldeus, temos o testemunho…»
+2Pd 1,10: separado do versículo 9 (conferir)
+2Pd 1,11: separado do versículo 10 (conferir)
+2Pd 1,14: separado do versículo 13 (conferir)
+2Pd 3,2: separado do versículo 1 (conferir)
+2Pd 3,18: cortado texto estranho ao versículo: «Amém. EPÍSTOLA PRIMEIRA DE S. JOÃO APÓSTOLO Objeto. — Tem es…»
+1Jo 1,5: cortado texto estranho ao versículo: «pela afirmação completa da sua natureza divina. O primeiro p…»
+1Jo 1,8: cortado texto estranho ao versículo: «é Deus todo cheio de inteligência, conhecendo-se perfeitissi…»
+1Jo 2: faltam os versículos 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29
+1Jo 3,5: separado do versículo 4 (conferir)
+1Jo 3,19: cortado texto estranho ao versículo: «Mas isto é para que se conheça que não são todos. de nós. Po…»
+1Jo 3,21: cortado texto estranho ao versículo: «E sabe que da verdade não vem nenhuma mentira. Caríssimos, s…»
+1Jo 3,23: cortado texto estranho ao versículo: «E esta é a promessa que ele nos fez, de que te riamos a vida…»
+1Jo 3: faltam os versículos 25
+1Jo 4,10: cortado texto estranho ao versículo: «Como este texto, pois, de S. João, destruia todas estas e mu…»
+1Jo 4,21: cortado texto estranho ao versículo: «tende o Apóstolo, não o temor filial com que tememos mais do…»
 1Jo 5,6: comentário da edição removido; conferir se o versículo ficou completo
-1Jo 5: faltam os versículos 3, 7, 11
-2Jo 1: faltam os versículos 8, 13, 14, 15, 16
+1Jo 5,7: separado do versículo 6 (conferir)
+1Jo 5,15: cortado texto estranho ao versículo: «guinte, e entre estes citaremos Rude, Scholtz, Kaulen, Guntn…»
+1Jo 5: faltam os versículos 3, 11, 16, 17, 18, 19, 20, 21
+2Jo 1,1: cortado texto estranho ao versículo: «o seu pecado, para morte: Não digo eu que rogue alguém por e…»
+2Jo 1,8: separado do versículo 7 (conferir)
+2Jo 1: faltam os versículos 13, 14, 15, 16
 3Jo 1: faltam os versículos 2, 3
+Jd 1,13: cortado texto estranho ao versículo: «Outra questão é, que objeto seria o desta alterca ção sobre…»
+Jd 1,23: cortado texto estranho ao versículo: «os primeiros são os que pela obstina ção em seus erros e des…»
 Jd 1: faltam os versículos 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 17, 21
 Ap 1,6: comentário da edição removido; conferir se o versículo ficou completo
 Ap 1,14: comentário da edição removido; conferir se o versículo ficou completo
-Ap 1: faltam os versículos 18
-Ap 2: faltam os versículos 17
-Ap 3: faltam os versículos 3, 8, 18
+Ap 1,6: cortado texto estranho ao versículo: «profecia, e o profeta deve atestar a realidade e a autentici…»
+Ap 1,9: cortado texto estranho ao versículo: «colhida, a ordem dos sacerdotes reis, a gente santa. E no ve…»
+Ap 1,18: separado do versículo 17 (conferir)
+Ap 2,17: separado do versículo 16 (conferir)
+Ap 3,3: separado do versículo 2 (conferir)
+Ap 3,8: separado do versículo 7 (conferir)
+Ap 3,12: cortado texto estranho ao versículo: «Esta sua rebeldia tomou Deus por instrumento, para castigar…»
+Ap 3,15: cortado texto estranho ao versículo: «Porque com efeito não quer dizer outra coisa o que lemos na…»
+Ap 3,18: separado do versículo 17 (conferir)
+Ap 4,3: cortado texto estranho ao versículo: «ta no Céu significa que os grandes segredos de Deus começam…»
+Ap 4,11: separado do versículo 10 (conferir)
+Ap 4,11: cortado texto estranho ao versículo: «A figura humana atribui-se ao princípio do Evangelho de S. M…»
 Ap 4: faltam os versículos 4
-Ap 6: faltam os versículos 14, 15
-Ap 10: faltam os versículos 3
+Ap 5,3: cortado texto estranho ao versículo: «este livro a Sagrada Escritura, e desta principalmente o Ant…»
+Ap 6,5: cortado texto estranho ao versículo: «Isto é, que devemos ouvir tô de cima da terra, e que se mata…»
+Ap 6,14: separado do versículo 13 (conferir)
+Ap 6,17: cortado texto estranho ao versículo: «se segue, é a vingança Divina, última, e irrevogavel, primei…»
+Ap 6: faltam os versículos 15
+Ap 7,3: cortado texto estranho ao versículo: «se fazer delas aplicação à queda do império romano. Mas tant…»
+Ap 7,9: cortado texto estranho ao versículo: «aquela que tinha recebido as promessas especiais sobre o Mes…»
+Ap 8,9: cortado texto estranho ao versículo: «Quanto mais, que falando de Jesus Cristo, sempre S, João o d…»
+Ap 8,12: cortado texto estranho ao versículo: «notável e temível. Talvez o falso profeta Cochebas, cújo nom…»
+Ap 9,3: cortado texto estranho ao versículo: «estrêla ao famoso heresiarca Teodoro de Bizâncio, homem sabi…»
+Ap 9,9: cortado texto estranho ao versículo: «terra, para se denotar o seu oculto veneno, e um veneno que…»
+Ap 10,3: separado do versículo 2 (conferir)
 Ap 11,2: comentário da edição removido; conferir se o versículo ficou completo
+Ap 11,2: cortado texto estranho ao versículo: «“plo de Deus é a Igreja Católica, tomada pela sociedade dos…»
+Ap 11,11: cortado texto estranho ao versículo: «“Aos imperadores Diocleciano e Maximiano, por haverem dilata…»
+Ap 12,4: cortado texto estranho ao versículo: «Assim Bos e pelo luzimento da fé, que acerca toda, tendo deb…»
+Ap 12,6: cortado texto estranho ao versículo: «a: sua cauda e fez cair a muitos Anjos, também o império rom…»
+Ap 12,15: cortado texto estranho ao versículo: «Por estes mesmos termos explicava Dan deus. Porque na frase…»
+Ap 12,18: cortado texto estranho ao versículo: «primeira vez as potestades do mundo socorreram a igreja. Con…»
 Ap 13,1: comentário da edição removido; conferir se o versículo ficou completo
 Ap 13,6: comentário da edição removido; conferir se o versículo ficou completo
 Ap 13,9: comentário da edição removido; conferir se o versículo ficou completo
 Ap 13,17: comentário da edição removido; conferir se o versículo ficou completo
-Ap 13: faltam os versículos 10, 11
+Ap 13,1: cortado texto estranho ao versículo: «de quatro bestas tinha tambem visto Daniel levantarem-se do…»
+Ap 13,2: cortado texto estranho ao versículo: «Roma no fim da primeira epístola de S. Pedro, Os dez cornos…»
+Ap 13,6: cortado texto estranho ao versículo: «brutal, a sua enorme grossura, o seu aspecto carrancudo e fe…»
+Ap 13,10: separado do versículo 9 (conferir)
+Ap 13,11: separado do versículo 10 (conferir)
+Ap 13,15: cortado texto estranho ao versículo: «E os seus dois cornos eram os escritos dos dois filosofos Pl…»
+Ap 13,17: cortado texto estranho ao versículo: «perador, e depois de imperador todo se entregou aos mágicos,…»
 Ap 14,1: comentário da edição removido; conferir se o versículo ficou completo
 Ap 14,3: comentário da edição removido; conferir se o versículo ficou completo
+Ap 14,3: cortado texto estranho ao versículo: «Os antigos usa vam muito a designação numérica para indicar…»
 Ap 14: faltam os versículos 17
 Ap 16,12: comentário da edição removido; conferir se o versículo ficou completo
 Ap 16,14: comentário da edição removido; conferir se o versículo ficou completo
 Ap 16,21: comentário da edição removido; conferir se o versículo ficou completo
+Ap 16,4: cortado texto estranho ao versículo: «pestilência, que grassou por todo o império em tempo de Vale…»
+Ap 16,12: cortado texto estranho ao versículo: «da Besta, é a grandeza e majestade dos imperadores vilipen d…»
+Ap 16,19: cortado texto estranho ao versículo: «Segundo a etimolpgia hebraica, Armageddon, quer dizer “Monte…»
 Ap 17,3: comentário da edição removido; conferir se o versículo ficou completo
 Ap 17,6: comentário da edição removido; conferir se o versículo ficou completo
 Ap 17,16: comentário da edição removido; conferir se o versículo ficou completo
+Ap 17,6: cortado texto estranho ao versículo: «cor do vestido está designando a Roma, aos seus magistrados…»
+Ap 17,9: cortado texto estranho ao versículo: «idolatria, enquanto tinha as sete cabeças, isto é, os sete i…»
+Ap 17,11: cortado texto estranho ao versículo: «veu aos cinco. E o outro ainda não veio: Este era Licínio, o…»
+Ap 17,12: cortado texto estranho ao versículo: «Até aqui não tinha falado S. João senão duma besta de sete c…»
+Ap 17,17: separado do versículo 16 (conferir)
+Ap 17,17: cortado texto estranho ao versículo: «são todos uns reis sem reino, ou ao menos sem algum assento…»
+Ap 17: faltam os versículos 18
 Ap 18,5: comentário da edição removido; conferir se o versículo ficou completo
-Ap 18: faltam os versículos 14, 18
-Ap 19: faltam os versículos 7, 13
-Ap 20: faltam os versículos 4
+Ap 18,5: cortado texto estranho ao versículo: «perdendo o seu império, ficou sendo o jogo das nações, que e…»
+Ap 18,14: separado do versículo 13 (conferir)
+Ap 18,18: separado do versículo 17 (conferir)
+Ap 19,4: cortado texto estranho ao versículo: «Aleluia. cer uns príncipes. A história de Plínio Maior está…»
+Ap 19,7: separado do versículo 6 (conferir)
+Ap 19: faltam os versículos 13
+Ap 20,4: separado do versículo 3 (conferir)
+Ap 20,4: cortado texto estranho ao versículo: «é que estejam de todo acabadas as seduções e as tentações, q…»
+Ap 21,22: cortado texto estranho ao versículo: «'23 E esta cidade não há de mister Sol nem Lua que alumiem n…»
+Ap 21,27: cortado texto estranho ao versículo: «' CAPÍTULO 22 A GLÓRIA ETERNA. QUAIS GOZARÃO DELA E QUAIS DE…»
 Ap 21: faltam os versículos 23, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51
+Ap 22,5: cortado texto estranho ao versículo: «cluir do Apocalipse, relativamente ao fim do mundo, às circu…»
+Ap 22,18: cortado texto estranho ao versículo: «O que mostra em tudo e por tudo a no para excluir para sempr…»

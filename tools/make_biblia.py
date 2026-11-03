@@ -12,10 +12,14 @@ Uso: python3 tools/make_biblia.py
 Saída: data/biblia/livros.json e data/biblia/<livro>.json
 """
 import collections
+import unicodedata
 import json
 import pathlib
 import re
 import sys
+
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+import alinhar  # noqa: E402
 
 RAIZ = pathlib.Path(__file__).resolve().parent.parent
 FONTE = RAIZ / "tools" / "biblia_src" / "figueiredo"
@@ -192,8 +196,10 @@ def tirar_nota(t):
 def limpar_simbolos(t):
     t = SIMBOLOS_SOLTOS.sub(" ", t)
     t = re.sub(r"(\w)-\s+-?(\w)", r"\1-\2", t)                        # "Respondeu- -lhe" -> "Respondeu-lhe"
-    t = re.sub(r"([.:;!?])\s+[A-ZÀ-Ýa-z]$", r"\1", t)          # letra perdida no fim
+    t = re.sub(r"([.:;!?])\s*[A-ZÀ-Ýa-z]$", r"\1", t)          # letra perdida no fim
     t = re.sub(r"(?<=[a-zà-ÿ])\.(?=[a-zà-ÿ]{2,})", " ", t)       # "crêem.no" -> "crêem no"
+    t = re.sub(r"(?<![\wÀ-ÿ])c (?=[a-zà-ú])", "e ", t)                # "c da tarde" -> "e da tarde" (OCR)
+    t = re.sub(r"\b([Pp])rincipio", r"\1rincípio", t)
     t = re.sub(r"\s+([,.;:!?])", r"\1", t)
     t = re.sub(r"\s{2,}", " ", t)
     return t.strip()
@@ -267,6 +273,32 @@ def modernizar(t):
     return t
 
 
+def mapa_acentos(vocab):
+    """Palavras que o OCR escreveu sem acento ("principio") quando a forma acentuada é muito mais comum."""
+    sem = collections.defaultdict(list)
+    for w, n in vocab.items():
+        base = unicodedata.normalize("NFD", w)
+        base = "".join(ch for ch in base if unicodedata.category(ch) != "Mn")
+        if base != w:
+            sem[base].append((n, w))
+    mapa = {}
+    for base, formas in sem.items():
+        n, w = max(formas)
+        if len(base) >= 6 and n >= 10 * max(1, vocab.get(base, 0)) and vocab.get(base, 0) <= 5:
+            mapa[base] = w
+    return mapa
+
+
+def acentuar(t, mapa):
+    def troca(m):
+        p = m.group()
+        nova = mapa.get(p.lower())
+        if not nova:
+            return p
+        return nova.capitalize() if p[0].isupper() else nova
+    return re.sub(r"[A-Za-zÀ-ÿ]+", troca, t)
+
+
 def main():
     if not FONTE.exists():
         sys.exit("Fonte não encontrada. Rode antes: python3 tools/importar_figueiredo.py <pasta do clone>")
@@ -280,6 +312,11 @@ def main():
         for c in brutos[lid]["capitulos"]:
             for _, t in c["v"]:
                 vocab.update(w.lower() for w in PALAVRA.findall(t))
+
+    acentos = mapa_acentos(vocab)
+    referencia = alinhar.carregar_referencia([l[0] for l in LIVROS[46:]])
+    if referencia is None:
+        print("  aviso: sem tools/biblia_src/referencia_tamanhos.json, alinhamento desligado")
 
     SAIDA.mkdir(parents=True, exist_ok=True)
     RELATORIO.parent.mkdir(parents=True, exist_ok=True)
@@ -298,25 +335,34 @@ def main():
                 if cortou:
                     tot["notas"] += 1
                     rel.append(f"{abrev} {c['n']},{n}: comentário da edição removido; conferir se o versículo ficou completo")
-                t2 = modernizar(juntar_quebradas(limpar_simbolos(t), vocab))
+                t2 = acentuar(modernizar(juntar_quebradas(limpar_simbolos(t), vocab)), acentos)
                 limpos.append([n, t2])
                 if len(t2) < 12:
                     rel.append(f"{abrev} {c['n']},{n}: versículo muito curto: {t2!r}")
                     tot["curtos"] += 1
+            if referencia:
+                ref_livro = referencia[lid]
+                if c["n"] == 1:
+                    razao = alinhar.razao_livro(brutos[lid]["capitulos"], ref_livro)
+                antes_al = len(rel)
+                limpos = alinhar.alinhar_capitulo(limpos, ref_livro.get(c["n"]), razao, rel, f"{abrev} {c['n']}")
+                tot["alinhados"] += len(rel) - antes_al
+                faltam_ref = len(ref_livro.get(c["n"], {}))
             ns = [n for n, _ in limpos]
-            faltam = [k for k in range(1, max(ns) + 1) if k not in ns]
+            faltam = [k for k in range(1, max(max(ns), faltam_ref if referencia else 0) + 1) if k not in ns]
             if faltam:
                 tot["faltando"] += len(faltam)
                 rel.append(f"{abrev} {c['n']}: faltam os versículos {', '.join(map(str, faltam))}")
             if len(set(ns)) != len(ns):
                 rel.append(f"{abrev} {c['n']}: número de versículo repetido")
-            caps_out.append({"n": c["n"], "v": limpos})
+            caps_out.append({"n": c["n"], "v": limpos, "total": max(max(ns), faltam_ref if referencia else 0)})
             tot["versiculos"] += len(limpos)
         tot["capitulos"] += len(caps_out)
         (SAIDA / f"{lid}.json").write_text(json.dumps(
-            {"id": lid, "nome": nome, "abrev": abrev, "capitulos": caps_out}, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+            {"id": lid, "nome": nome, "abrev": abrev,
+             "capitulos": [{"n": c["n"], "v": c["v"]} for c in caps_out]}, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
         indice.append({"id": lid, "nome": nome, "abrev": abrev, "testamento": test, "grupo": grupo,
-                       "capitulos": len(caps_out), "versiculos": [len(c["v"]) for c in caps_out], "ordem": ordem})
+                       "capitulos": len(caps_out), "versiculos": [c["total"] for c in caps_out], "ordem": ordem})
 
     ids = [l["id"] for l in indice]
     abrevs = [l["abrev"] for l in indice]
@@ -330,6 +376,7 @@ def main():
     print(f"Bíblia: {len(indice)} livros, {tot['capitulos']} capítulos, {tot['versiculos']} versículos")
     print(f"  versículos separados do anterior: {tot['separados']}")
     print(f"  comentários da edição removidos: {tot['notas']}")
+    print(f"  ajustes pelo alinhamento (separados ou notas cortadas): {tot['alinhados']}")
     print(f"  versículos ainda faltando: {tot['faltando']} | muito curtos: {tot['curtos']}")
     print(f"  relatório: {RELATORIO.relative_to(RAIZ)}")
 
