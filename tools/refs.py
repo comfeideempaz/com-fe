@@ -52,6 +52,8 @@ def ref(texto):
     lid = lv["id"]
     trechos = []
     cap = None
+    if lv["capitulos"] == 1 and "," not in resto:  # livro de um capítulo: "Jd 9" = versículo 9
+        resto = "1," + resto
     if re.fullmatch(r"\d+(\(\d+\))?", resto):  # capítulo inteiro
         c = int(re.match(r"\d+", resto).group())
         trechos.append([c, 1, c, 999])

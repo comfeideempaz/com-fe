@@ -1,0 +1,8 @@
+missa: 28 KB, 0 erro(s), 1 a revisar
+oracoes: 21 KB, 0 erro(s), 1 a revisar
+
+ERROS:
+
+REVISAR:
+missa.ritos[2].partes[3] · Epiclese (invocação do Espírito Santo)
+oracoes.oracoes[5] · Creio (Niceno-Constantinopolitano)
