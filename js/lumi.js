@@ -1,4 +1,4 @@
-// Lumi, a ovelhinha do Catequizando (lembra o Bom Pastor, Jo 10,11).
+// Lumi, a ovelhinha do Com Fé! (lembra o Bom Pastor, Jo 10,11).
 // Desenhada em SVG no código. O lenço usa a cor litúrgica do dia (--liturgia).
 // lumi({ tamanho, humor }) devolve o SVG; humor: "feliz" | "piscando" | "pensando".
 

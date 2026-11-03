@@ -99,7 +99,7 @@ function desenhar(el) {
   });
   el.querySelector("#b-exportar").addEventListener("click", () => {
     const blob = new Blob([exportar()], { type: "application/json" });
-    const a = Object.assign(document.createElement("a"), { href: URL.createObjectURL(blob), download: `catequizando-backup-${hojeISO()}.json` });
+    const a = Object.assign(document.createElement("a"), { href: URL.createObjectURL(blob), download: `com-fe-backup-${hojeISO()}.json` });
     a.click();
     setTimeout(() => URL.revokeObjectURL(a.href), 1000);
     toast("Backup salvo.");

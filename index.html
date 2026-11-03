@@ -1,12 +1,12 @@
 <!doctype html>
-<!-- Catequizando: casca do app. Tela de carregamento, menu (barra inferior no celular,
+<!-- Com Fé!: casca do app. Tela de carregamento, menu (barra inferior no celular,
      lateral no computador), área principal #view, faixa offline e aviso (toast).
      Cada tela é desenhada por um arquivo em js/views/. -->
 <html lang="pt-BR">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <title>Catequizando</title>
+  <title>Com Fé!</title>
   <meta name="description" content="A Bíblia, a liturgia do dia, a missa explicada, os santos e as orações, mesmo sem internet.">
   <meta name="theme-color" content="#1F3A93" media="(prefers-color-scheme: light)">
   <meta name="theme-color" content="#0B1630" media="(prefers-color-scheme: dark)">
@@ -16,7 +16,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Literata:opsz,wght@7..72,400;7..72,600&family=Montserrat:wght@600;700;800&display=swap">
-  <link rel="stylesheet" href="css/app.css?v=1.1.0">
+  <link rel="stylesheet" href="css/app.css?v=1.2.0">
 </head>
 <body>
   <a class="pular" href="#view">Pular para o conteúdo</a>
@@ -24,14 +24,14 @@
   <!-- Carregamento -->
   <div id="carregando" class="carregando" aria-hidden="true">
     <div class="carregando-lumi"></div>
-    <p>Catequizando</p>
+    <p>Com Fé!</p>
   </div>
 
   <!-- Shell do app -->
   <div id="shell" class="shell" hidden>
     <nav class="nav" aria-label="Menu principal">
-      <a class="nav-marca" href="#/inicio" aria-label="Catequizando, início">
-        <span class="nav-marca-lumi"></span><span>Catequizando</span>
+      <a class="nav-marca" href="#/inicio" aria-label="Com Fé!, início">
+        <span class="nav-marca-lumi"></span><span>Com Fé!</span>
       </a>
       <ul id="nav-lista" class="nav-lista"></ul>
     </nav>
@@ -41,6 +41,6 @@
   <div id="offline" class="offline" role="status" hidden>📴 Offline: seu progresso fica salvo no aparelho.</div>
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
 
-  <script type="module" src="js/app.js?v=1.1.0"></script>
+  <script type="module" src="js/app.js?v=1.2.0"></script>
 </body>
 </html>

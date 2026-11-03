@@ -1,6 +1,6 @@
-# Catequizando
+# Com Fé!
 
-App católico em português do Brasil para viver a fé no dia a dia: a Bíblia inteira com projetos de leitura, a liturgia de cada dia (tempo, cor, celebração e evangelho), a missa explicada parte por parte, a história e as curiosidades dos santos e as orações tradicionais.
+Com Fé! (antes chamado Catequizando) é um app católico em português do Brasil para viver a fé no dia a dia: a Bíblia inteira com projetos de leitura, a liturgia de cada dia (tempo, cor, celebração e evangelho), a missa explicada parte por parte, a história e as curiosidades dos santos e as orações tradicionais.
 
 Funciona **sem internet** e **sem conta**: o progresso fica salvo no celular de cada pessoa (com backup em arquivo).
 
@@ -29,7 +29,7 @@ js/lumi.js            mascote (ovelhinha Lumi)
 js/ui.js, js/icons.js utilitários e ícones SVG
 js/views/*.js         uma tela por arquivo
 data/                 JSON lidos pelo app (gerados, não editar à mão)
-tools/                scripts make_*.py e fontes do conteúdo (*_src/); make_icons.mjs gera os ícones
+tools/                scripts make_*.py e fontes do conteúdo (*_src/); make_icons.py gera os ícones
 icons/, img/          ícones PWA e imagens
 ```
 
@@ -41,7 +41,7 @@ python3 -m http.server 8000
 
 Abra http://localhost:8000 (o app usa ES modules, então não funciona abrindo o arquivo direto).
 
-Para refazer os ícones a partir do desenho da Lumi: `node tools/make_icons.mjs` (precisa do Playwright).
+Para refazer os ícones a partir da arte "Com Fé!" (`tools/icone_src/com-fe.jpeg`): `python3 -I tools/make_icons.py` e depois `python3 -I tools/make_sw.py`.
 
 ## Áreas
 

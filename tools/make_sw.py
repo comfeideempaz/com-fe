@@ -36,9 +36,9 @@ VERSAO = f"{versao_app}-{h.hexdigest()[:10]}"
 rel = lambda xs: [("./" if x.name == "index.html" else "") + x.relative_to(RAIZ).as_posix() for x in xs]
 ess = ["./"] + [r for r in rel(ESSENCIAIS) if r != "./index.html"] + ["index.html"]
 
-SW = f"""// Service worker do Catequizando. GERADO por tools/make_sw.py: não edite à mão.
+SW = f"""// Service worker do Com Fé!. GERADO por tools/make_sw.py: não edite à mão.
 const VERSAO = "{VERSAO}";
-const CACHE = "catequizando-" + VERSAO;
+const CACHE = "comfe-" + VERSAO;
 const ESSENCIAIS = {json.dumps(ess, ensure_ascii=False)};
 const EXTRAS = {json.dumps(rel(EXTRAS), ensure_ascii=False)};
 
@@ -49,7 +49,7 @@ self.addEventListener("install", e => {{
 self.addEventListener("activate", e => {{
   e.waitUntil((async () => {{
     const nomes = await caches.keys();
-    await Promise.all(nomes.filter(n => n.startsWith("catequizando-") && n !== CACHE).map(n => caches.delete(n)));
+    await Promise.all(nomes.filter(n => (n.startsWith("comfe-") || n.startsWith("catequizando-")) && n !== CACHE).map(n => caches.delete(n)));
     await self.clients.claim();
   }})());
   // Em segundo plano: o resto do conteúdo, para o app inteiro funcionar offline.

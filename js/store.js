@@ -114,12 +114,13 @@ export function metaHoje() {
   return { tipo: metaTipo, valor: metaValor, feito, frac: Math.min(1, feito / metaValor) };
 }
 
-// Backup: devolve o texto JSON para salvar em arquivo.
+// Backup: devolve o texto JSON para salvar em arquivo. O campo app segue "catequizando"
+// (nome antigo) para que backups feitos antes da troca de nome continuem valendo.
 export function exportar() { return JSON.stringify({ app: "catequizando", ...state }, null, 2); }
 
 export function importar(texto) {
   const dados = JSON.parse(texto);
-  if (dados.app !== "catequizando") throw new Error("Este arquivo não é um backup do Catequizando.");
+  if (dados.app !== "catequizando") throw new Error("Este arquivo não é um backup do app Com Fé!");
   delete dados.app;
   state = mesclar(blankState(), dados);
   salvar();
