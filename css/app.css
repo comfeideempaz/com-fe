@@ -353,7 +353,8 @@ a.chip { text-decoration: none; }
 .dica h3 { font-size: 1.05rem; }
 
 .cal-topo { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-bottom: 10px; }
-.cal-topo h2 { margin: 0; text-transform: capitalize; }
+.cal-topo h2 { margin: 0; }
+.cal-topo h2::first-letter { text-transform: uppercase; }
 .cal-topo .botao { min-height: 40px; padding: 6px 12px; }
 .cal-semana, .cal-grade { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(7, 1fr); gap: 4px; text-align: center; }
 .cal-semana li { font-size: .75rem; font-weight: 700; color: var(--muted); padding: 4px 0; }

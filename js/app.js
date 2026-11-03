@@ -133,6 +133,15 @@ function iniciar() {
   document.getElementById("carregando").remove();
   document.getElementById("shell").hidden = false;
   rotear();
+  registrarSW();
+}
+
+// Offline: registra o service worker (só funciona em https ou localhost).
+function registrarSW() {
+  if (!("serviceWorker" in navigator)) return;
+  addEventListener("load", () => {
+    navigator.serviceWorker.register("sw.js").catch(e => console.warn("Service worker não registrado:", e));
+  });
 }
 
 iniciar();

@@ -53,6 +53,7 @@ export async function trechoHTML(r) {
     if (!vs.length) return `<p class="apoio">Texto indisponível nesta edição.</p>`;
     let capAtual = null;
     const faltam = vs.filter(x => x.t === null).length;
+    if (faltam === vs.length) return `<p class="aviso-texto">Este trecho falta na edição digital de Figueiredo usada pelo app. Leia na sua Bíblia ou na <a href="https://www.cnbb.org.br/liturgia-diaria/" target="_blank" rel="noopener">liturgia diária da CNBB</a>.</p>`;
     return `<p class="texto-biblia">${vs.map(x => {
       const marca = x.cap !== capAtual && vs.length > 1 && r.trechos.some(t => t[0] !== t[2]) ? `<b class="cap-num">${x.cap}</b>` : "";
       capAtual = x.cap;

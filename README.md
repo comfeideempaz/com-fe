@@ -53,24 +53,42 @@ Para refazer os ícones a partir do desenho da Lumi: `node tools/make_icons.mjs`
 | `#/liturgia` | Calendário e dia litúrgico |
 | `#/santos` | Santos |
 | `#/missa` | Missa explicada |
-| `#/oracoes` | Orações e terço |
+| `#/oracoes`, `#/oracoes/terco` | Orações e terço guiado |
+| `#/sacramentos` | Sacramentos, como se confessar, exame de consciência |
+| `#/defesa` | Defesa da Fé |
 | `#/progresso` | Meu progresso |
 | `#/mais`, `#/sobre` | Atalhos e créditos |
 
 ## Cuidados de conteúdo
 
 - Base no Catecismo (com o número, ex.: CIC 1213), Compêndio, IGMR, Martirológio Romano e textos litúrgicos oficiais do Brasil.
-- Texto bíblico: tradução do Pe. Antônio Pereira de Figueiredo (domínio público), com link para a tradução da CNBB.
+- Texto bíblico: tradução do Pe. Antônio Pereira de Figueiredo (domínio público), digitalizada por OCR (repositório ronaldomelofz/abibliasagrada) e revisada por script. Cerca de 3,7% dos versículos faltam na fonte digital e aparecem marcados como ausentes; as leituras do dia têm link para o texto oficial da CNBB.
+- Régua de alinhamento: `tools/biblia_src/referencia_tamanhos.json` guarda só o tamanho de cada versículo da Douay-Rheims (MIT, isaacronan/douay-rheims-json), usado para separar versículos juntados e cortar notas de rodapé misturadas. O texto inglês não entra no app.
 - Tudo que não tiver certeza leva `"revisar": true` e entra na lista de revisão da fase.
 - Calendário litúrgico calculado por script a partir da Páscoa, com as regras do Brasil.
+
+## Gerar o conteúdo
+
+Sempre com `python3 -I`, a partir da raiz:
+
+```
+python3 -I tools/make_biblia.py      # data/biblia/ (+ tools/relatorios/biblia.txt)
+python3 -I tools/make_liturgia.py    # data/calendario/, leituras.json, dicas.json
+python3 -I tools/make_conteudo.py    # oracoes, missa, sacramentos, defesa, liturgia, selos
+python3 -I tools/make_santos.py      # data/santos/
+python3 -I tools/make_planos.py      # data/planos.json
+python3 -I tools/make_sw.py          # sw.js (rode por último, a cada mudança)
+```
+
+Os itens com `"revisar": true` são listados em `tools/relatorios/*.txt`.
 
 ## Fases
 
 - [x] Fase 0: planejamento
 - [x] Fase 1: estrutura e esqueleto
-- [ ] Fase 2: conteúdo (Bíblia, liturgia, orações, missa, primeiro lote de santos)
-- [ ] Fase 3: telas e experiência
-- [ ] Fase 4: constância (sequência, meta, selos, backup)
-- [ ] Fase 5: offline (service worker)
-- [ ] Fase 6: revisão final
+- [x] Fase 2: conteúdo (Bíblia, liturgia, orações, missa, sacramentos, Defesa da Fé, santos, projetos)
+- [x] Fase 3: telas e experiência
+- [x] Fase 4: constância (sequência, meta, selos, backup)
+- [x] Fase 5: offline (service worker)
+- [x] Fase 6: revisão final
 - [ ] Fase 7: subir (GitHub Pages)
