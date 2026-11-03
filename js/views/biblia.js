@@ -118,6 +118,7 @@ async function leitor(el, { livro, cap, v }) {
     <header class="tela-topo leitor-topo"><h1 tabindex="-1">${esc(l.nome)} ${c}</h1>
       <div class="leitor-acoes">
         ${temVoz() ? `<button class="botao secundario" id="ouvir">${ic("volume")} Ouvir</button>` : ""}
+        ${total ? `<a class="botao secundario" href="#/lectio/trecho/${livro}/${c}/1/${total}">${ic("pena")} Lectio Divina</a>` : ""}
       </div>
     </header>
     <article class="cartao leitor" lang="pt-BR"><p class="texto-biblia">${linhas.join("")}</p></article>

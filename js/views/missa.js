@@ -7,6 +7,7 @@ import { refsHTML } from "../biblia.js";
 import { getState, subscribe, marcarVisto } from "../store.js";
 import { esc, cabecalho, progressBar, toast } from "../ui.js";
 import { ic } from "../icons.js";
+import { fontesHTML } from "../catecismo.js";
 
 const TIPOS = { objeto: "Objetos", veste: "Vestes", gesto: "Gestos e posturas", cor: "Cores" };
 
@@ -23,7 +24,7 @@ export async function render(el) {
       <section class="cartao">
         <p>${esc(m.introducao.texto)}</p>
         ${refsHTML(m.introducao.biblia)}
-        <p class="fontes">Fontes: ${m.introducao.fontes.map(esc).join("; ")}</p>
+        <p class="fontes">Fontes: ${fontesHTML(m.introducao.fontes)}</p>
       </section>
       <div class="cartao progresso-biblia"><p><strong>${feitas} de ${todas.length}</strong> partes estudadas</p>${progressBar(feitas / todas.length, "Partes da missa estudadas")}</div>
       ${m.ritos.map((r, i) => `
@@ -39,7 +40,7 @@ export async function render(el) {
               <h3>Por quê?</h3><p>${esc(p.porque)}</p>
               ${p.curiosidade ? `<p class="curiosidade"><strong>Curiosidade:</strong> ${esc(p.curiosidade)}</p>` : ""}
               ${p.biblia?.length ? `<p class="parte-biblia"><strong>Na Bíblia:</strong> ${refsHTML(p.biblia)}</p>` : ""}
-              <p class="fontes">Fonte: ${(p.fontes || []).map(esc).join("; ")}</p>
+              <p class="fontes">Fonte: ${fontesHTML(p.fontes)}</p>
               ${vistas.has(p.id) ? "" : `<button class="botao secundario marcar" data-id="${p.id}" data-nome="${esc(p.nome)}">${ic("planos")} Entendi esta parte</button>`}
             </div>
           </details>`).join("")}`).join("")}
@@ -47,7 +48,7 @@ export async function render(el) {
       <h2 class="secao">Glossário da Missa</h2>
       <div class="abas" role="tablist">${Object.entries(TIPOS).map(([k, v]) => `<button role="tab" aria-selected="${k === tipoGlossario}" data-tipo="${k}">${v}</button>`).join("")}</div>
       <dl class="cartao glossario">${m.glossario.filter(g => g.tipo === tipoGlossario).map(g => `
-        <dt>${esc(g.termo)}</dt><dd>${esc(g.explicacao)} ${refsHTML(g.biblia)}${g.fontes?.length ? `<span class="fontes"> (${g.fontes.map(esc).join("; ")})</span>` : ""}</dd>`).join("")}</dl>
+        <dt>${esc(g.termo)}</dt><dd>${esc(g.explicacao)} ${refsHTML(g.biblia)}${g.fontes?.length ? `<span class="fontes"> (${fontesHTML(g.fontes)})</span>` : ""}</dd>`).join("")}</dl>
 
       <h2 class="secao">Para participar melhor</h2>
       <ul class="cartao lista-simples dicas-missa">${m.dicasParticipar.map(d => `<li>${esc(d)}</li>`).join("")}</ul>`;

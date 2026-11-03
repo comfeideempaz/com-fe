@@ -3,7 +3,7 @@
 // junto com o ?v= do index.html.
 
 export const APP_NAME = "Catequizando";
-export const APP_VERSION = "1.0.0";
+export const APP_VERSION = "1.1.0";
 
 // Chave do progresso no localStorage. Sem login, existe um único perfil por aparelho.
 export const STORAGE_KEY = "catequizando:v1";

@@ -1,9 +1,10 @@
 defesa: 35 KB, 0 erro(s), 3 a revisar
+lectio: 9 KB, 0 erro(s), 0 a revisar
 liturgia: 9 KB, 0 erro(s), 1 a revisar
 missa: 28 KB, 0 erro(s), 1 a revisar
 oracoes: 21 KB, 0 erro(s), 1 a revisar
 sacramentos: 34 KB, 0 erro(s), 3 a revisar
-selos: 4 KB, 0 erro(s), 0 a revisar
+selos: 5 KB, 0 erro(s), 0 a revisar
 
 ERROS:
 

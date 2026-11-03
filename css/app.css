@@ -467,3 +467,43 @@ a.chip { text-decoration: none; }
 .numeros li { background: var(--surface-2); border-radius: 12px; padding: 10px 12px; font-size: .88rem; color: var(--muted); }
 .numeros strong { display: block; font-family: var(--font-titulo); font-size: 1.35rem; color: var(--text); }
 .lista-links a > span:first-child:not(.tile-ic) { flex: 1; display: flex; flex-direction: column; }
+
+/* Catecismo: citações "CIC 1234" com link para o site do Vaticano */
+a.cic { color: var(--primary); font-weight: 600; text-decoration: underline; text-decoration-style: dotted; text-underline-offset: 2px; }
+.lista-cic { list-style: none; padding: 0; margin: 0 0 12px; }
+.lista-cic li { display: flex; gap: 14px; align-items: flex-start; padding: 12px 0; border-bottom: 1px solid var(--line); }
+.lista-cic li:last-child { border-bottom: 0; }
+.lista-cic a.cic { flex: none; min-width: 7.5em; padding: 4px 10px; border-radius: 999px; background: var(--gold-soft); text-decoration: none; font-size: .85rem; text-align: center; }
+.lista-cic p { margin: 2px 0 0; color: var(--muted); font-size: .92rem; }
+
+/* Lectio Divina */
+.lectio-comecar h2 { margin-top: 0; }
+.lectio-comecar .hoje-card { margin-bottom: 14px; box-shadow: none; }
+.lectio-comecar .form input { width: 100%; }
+.sugestoes-lectio li { margin: 6px 0; }
+.historico-lectio a { align-items: flex-start; }
+.lectio-trecho { margin-top: 4px; font-family: var(--font-biblia); font-style: italic; }
+.chip-rascunho { background: var(--gold-soft); color: var(--text); }
+.passos-resumo { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); }
+.passos-resumo li { display: flex; gap: 12px; align-items: flex-start; margin: 0; padding: 14px; }
+.lectio-num { flex: none; display: inline-grid; place-items: center; width: 2rem; height: 2rem; border-radius: 50%; background: var(--primary-soft); color: var(--primary); font-family: var(--font-titulo); font-weight: 800; }
+.passos-nav { position: sticky; top: 0; z-index: 2; background: var(--bg); padding: 8px 0; margin-bottom: 8px; scroll-margin-top: 8px; }
+.passos-nav ol { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(5, 1fr); gap: 6px; }
+.passos-nav button { width: 100%; display: flex; flex-direction: column; align-items: center; gap: 4px; padding: 8px 2px; border: 1px solid var(--line); border-radius: var(--radius-sm); background: var(--surface); cursor: pointer; font-size: .75rem; font-weight: 600; color: var(--muted); }
+.passos-nav button.feito .lectio-num { background: var(--good); color: #fff; }
+.passos-nav button[aria-current="step"] { border-color: var(--primary); color: var(--primary); box-shadow: 0 0 0 2px var(--primary-soft); }
+.passos-nav button[aria-current="step"] .lectio-num { background: var(--primary); color: var(--primary-ink); }
+.lectio-passo h2 { margin: 0 0 6px; }
+.passo-rotulo { margin: 0; color: var(--muted); font-size: .85rem; font-weight: 600; }
+.passo-pergunta { font-family: var(--font-biblia); font-size: 1.15rem; color: var(--primary); margin: 0 0 12px; }
+.campo-meditacao { display: flex; flex-direction: column; gap: 6px; font-weight: 600; margin: 14px 0; }
+.campo-meditacao textarea { width: 100%; min-height: 9em; resize: vertical; padding: 12px 14px; border-radius: var(--radius-sm); border: 1px solid var(--line); background: var(--surface-2); color: var(--text); font: 400 1.02rem/1.6 var(--font-biblia); }
+.campo-meditacao textarea:focus { outline: 2px solid var(--primary); outline-offset: 1px; }
+.passo-botoes { justify-content: space-between; margin: 16px 0 0; }
+.passo-botoes .botao:only-child { margin-left: auto; }
+.lectio-rodape { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px; }
+.lectio-rodape .salvo { margin: 0; }
+.lectio-rodape .botoes { margin: 0; }
+.botao.perigo { color: var(--bad); }
+.preparacao .frase { margin-top: 12px; }
+@media (max-width: 420px) { .passos-nav .passo-nome { font-size: .68rem; } }

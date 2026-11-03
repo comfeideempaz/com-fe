@@ -7,8 +7,9 @@ import { refsHTML } from "../biblia.js";
 import { registrar, setFlag, getState, contarFlag } from "../store.js";
 import { esc, cabecalho, toast } from "../ui.js";
 import { ic } from "../icons.js";
+import { fontesHTML } from "../catecismo.js";
 
-const fontes = f => f?.length ? `<p class="fontes">Fontes: ${f.map(esc).join("; ")}</p>` : "";
+const fontes = f => f?.length ? `<p class="fontes">Fontes: ${fontesHTML(f)}</p>` : "";
 
 export async function render(el, params) {
   const dados = await carregar("sacramentos.json");

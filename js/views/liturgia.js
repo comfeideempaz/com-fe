@@ -8,6 +8,7 @@ import { carregar } from "../content.js";
 import { getState, registrar, contarFlag } from "../store.js";
 import { esc, cabecalho, hojeISO, somaDias, toast } from "../ui.js";
 import { ic } from "../icons.js";
+import { fontesHTML } from "../catecismo.js";
 
 const TIPO_DICA = { norma: "Norma da Igreja", costume: "Costume", sugestao: "Sugestão" };
 const MESES = ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "agosto", "setembro", "outubro", "novembro", "dezembro"];
@@ -79,6 +80,7 @@ async function paginaDia(el, iso) {
       ${blocoLeitura("Evangelho", lt.ev, true)}
       <div class="botoes">
         <button class="botao ${leuEv ? "secundario" : ""}" id="li-ev">${ic("livro")} ${leuEv ? "Evangelho lido hoje" : "Li o Evangelho"}</button>
+        <a class="botao secundario" href="#/lectio/dia/${iso}">${ic("pena")} Rezar com a Lectio Divina</a>
         <a class="botao secundario" href="https://www.cnbb.org.br/liturgia-diaria/" target="_blank" rel="noopener">Texto oficial da CNBB ${ic("seta")}</a>
       </div>
       <p class="aviso-texto">${esc(aviso)} O texto mostrado aqui é da tradução de Figueiredo; na missa se usa a tradução oficial da CNBB.</p>`
@@ -88,16 +90,16 @@ async function paginaDia(el, iso) {
       ${dicas.map(x => `<article class="cartao dica dica-${esc(x.tipo)}">
         <p class="dica-tipo">${esc(TIPO_DICA[x.tipo] || "Dica")}</p>
         <h3>${esc(x.titulo)}</h3><p>${esc(x.texto)}</p>
-        ${refsHTML(x.biblia)}${x.fontes?.length ? `<p class="fontes">Fonte: ${x.fontes.map(esc).join("; ")}</p>` : ""}
+        ${refsHTML(x.biblia)}${x.fontes?.length ? `<p class="fontes">Fonte: ${fontesHTML(x.fontes)}</p>` : ""}
       </article>`).join("")}` : ""}
 
     <h2 class="secao">Entenda</h2>
     ${tempo ? `<details class="cartao explica"><summary><strong>${esc(tempo.nome)}</strong>: ${esc(tempo.resumo)}</summary>
-      ${tempo.texto.map(t => `<p>${esc(t)}</p>`).join("")}${refsHTML(tempo.biblia)}<p class="fontes">Fonte: ${tempo.fontes.map(esc).join("; ")}</p></details>` : ""}
+      ${tempo.texto.map(t => `<p>${esc(t)}</p>`).join("")}${refsHTML(tempo.biblia)}<p class="fontes">Fonte: ${fontesHTML(tempo.fontes)}</p></details>` : ""}
     ${cor ? `<details class="cartao explica"><summary><strong>Cor ${esc(cor.nome.toLowerCase())}</strong></summary><p>${esc(cor.texto)}</p><p class="fontes">Fonte: Instrução Geral do Missal Romano, 346</p></details>` : ""}
     ${grau ? `<details class="cartao explica"><summary><strong>${esc(grau.nome)}</strong></summary><p>${esc(grau.texto)}</p></details>` : ""}
     ${d.preceito ? `<details class="cartao explica"><summary><strong>Dia de preceito</strong></summary><p>${esc(exp.preceito.texto)}</p>${refsHTML(exp.preceito.biblia)}</details>` : ""}
-    <details class="cartao explica"><summary><strong>O Ano Litúrgico</strong></summary>${exp.anoLiturgico.texto.map(t => `<p>${esc(t)}</p>`).join("")}<p class="fontes">Fonte: ${exp.anoLiturgico.fontes.map(esc).join("; ")}</p></details>
+    <details class="cartao explica"><summary><strong>O Ano Litúrgico</strong></summary>${exp.anoLiturgico.texto.map(t => `<p>${esc(t)}</p>`).join("")}<p class="fontes">Fonte: ${fontesHTML(exp.anoLiturgico.fontes)}</p></details>
 
     <nav class="botoes leitor-nav" aria-label="Outros dias">
       <a class="botao secundario" href="#/liturgia/${ontem}">${ic("voltar")} Dia anterior</a>

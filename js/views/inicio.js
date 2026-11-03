@@ -12,6 +12,7 @@ import { hojeISO } from "../ui.js";
 const ATALHOS = [
   { rota: "#/biblia", icone: "livro", titulo: "Bíblia", texto: "Os 73 livros, offline" },
   { rota: "#/planos", icone: "planos", titulo: "Projetos de leitura", texto: "A Bíblia toda em 1 ano" },
+  { rota: "#/lectio", icone: "pena", titulo: "Lectio Divina", texto: "Rezar e escrever com a Palavra" },
   { rota: "#/liturgia", icone: "calendario", titulo: "Liturgia", texto: "Tempo, cor e leituras" },
   { rota: "#/missa", icone: "calice", titulo: "Missa explicada", texto: "Cada parte e o porquê" },
   { rota: "#/santos", icone: "santo", titulo: "Santos", texto: "Histórias e curiosidades" },
@@ -21,7 +22,7 @@ const ATALHOS = [
   { rota: "#/progresso", icone: "selo", titulo: "Meu caminho", texto: "Sequência, selos e backup" },
 ];
 
-const ROTULO_ATIVIDADE = { capitulo: "Leu", evangelho: "Leu o", missa: "Estudou", santo: "Conheceu", oracao: "Rezou", plano: "Projeto:", defesa: "Estudou", sacramento: "Estudou" };
+const ROTULO_ATIVIDADE = { capitulo: "Leu", evangelho: "Leu o", missa: "Estudou", santo: "Conheceu", oracao: "Rezou", plano: "Projeto:", defesa: "Estudou", sacramento: "Estudou", lectio: "Fez a Lectio Divina com" };
 
 function saudacao() {
   const h = new Date().getHours();

@@ -19,6 +19,8 @@
     {"id": "santos-40", "nome": "Comunhão dos santos", "descricao": "Conheceu a vida de 40 santos.", "condicao": {"tipo": "santos", "valor": 40}, "frase": "Vi uma grande multidão que ninguém podia contar.", "biblia": ["Ap 7,9"]},
     {"id": "terco", "nome": "Com Maria", "descricao": "Rezou o terço pelo app.", "condicao": {"tipo": "oracao", "valor": "terco"}, "frase": "Todas as gerações me chamarão bem-aventurada.", "biblia": ["Lc 1,48"]},
     {"id": "exame", "nome": "Coração sincero", "descricao": "Fez um exame de consciência.", "condicao": {"tipo": "flag", "valor": "exame"}, "frase": "Sonda-me, ó Deus, e conhece o meu coração.", "biblia": ["Sl 139(138),23"]},
-    {"id": "defesa", "nome": "Pronto a responder", "descricao": "Estudou 10 temas da Defesa da Fé.", "condicao": {"tipo": "defesa", "valor": 10}, "frase": "Estai sempre prontos a dar a razão da vossa esperança.", "biblia": ["1Pd 3,15"]}
+    {"id": "defesa", "nome": "Pronto a responder", "descricao": "Estudou 10 temas da Defesa da Fé.", "condicao": {"tipo": "defesa", "valor": 10}, "frase": "Estai sempre prontos a dar a razão da vossa esperança.", "biblia": ["1Pd 3,15"]},
+    {"id": "lectio-1", "nome": "Escuta orante", "descricao": "Concluiu a primeira Lectio Divina.", "condicao": {"tipo": "lectio", "valor": 1}, "frase": "Fala, Senhor, que o teu servo escuta.", "biblia": ["1Sm 3,10"]},
+    {"id": "lectio-10", "nome": "Coração ardente", "descricao": "Concluiu 10 Lectio Divina.", "condicao": {"tipo": "lectio", "valor": 10}, "frase": "Não ardia o nosso coração quando nos explicava as Escrituras?", "biblia": ["Lc 24,32"]}
   ]
 }

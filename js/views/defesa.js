@@ -6,6 +6,7 @@ import { refsHTML } from "../biblia.js";
 import { getState, contarFlag, registrar } from "../store.js";
 import { esc, cabecalho } from "../ui.js";
 import { ic } from "../icons.js";
+import { fontesHTML } from "../catecismo.js";
 
 export async function render(el, params) {
   const d = await carregar("defesa.json");
@@ -33,7 +34,7 @@ function tema(el, { temas }, id) {
     <p class="objecao cartao"><strong>Objeção comum:</strong> ${esc(t.objecao)}</p>
     <section class="cartao resposta-curta"><h2>Resposta curta</h2><p>${esc(t.respostaCurta)}</p></section>
     <section class="cartao"><h2>Explicação</h2>${t.explicacao.map(p => `<p>${esc(p)}</p>`).join("")}</section>
-    <section class="cartao"><h2>Na Bíblia</h2>${refsHTML(t.biblia)}<p class="fontes">Catecismo e Igreja: ${t.fontes.map(esc).join("; ")}</p></section>
+    <section class="cartao"><h2>Na Bíblia</h2>${refsHTML(t.biblia)}<p class="fontes">Catecismo e Igreja: ${fontesHTML(t.fontes)}</p></section>
     ${t.padres?.length ? `<h2 class="secao">Os primeiros cristãos</h2>${t.padres.map(p => `
       <blockquote class="cartao frase"><p>“${esc(p.texto)}”</p><cite>${esc(p.autor)}, ${esc(p.obra)}</cite>${p.nota ? `<p class="apoio">${esc(p.nota)}</p>` : ""}</blockquote>`).join("")}
       <p class="fontes">Citações dos Padres da Igreja em tradução livre.</p>` : ""}

@@ -7,6 +7,7 @@ import { registrar, setFlag } from "../store.js";
 import { esc, cabecalho, toast } from "../ui.js";
 import { ic } from "../icons.js";
 import { falar, parar, temVoz } from "../speech.js";
+import { fontesHTML } from "../catecismo.js";
 
 const linhas = t => esc(t).replace(/\n/g, "<br>");
 
@@ -37,7 +38,7 @@ function oracao(el, { oracoes }, id) {
     </article>
     <section class="cartao"><h2>Sobre esta oração</h2><p>${esc(o.sobre)}</p>
       ${o.biblia?.length ? `<p><strong>Na Bíblia:</strong> ${refsHTML(o.biblia)}</p>` : ""}
-      ${o.fontes?.length ? `<p class="fontes">Fontes: ${o.fontes.map(esc).join("; ")}</p>` : ""}
+      ${o.fontes?.length ? `<p class="fontes">Fontes: ${fontesHTML(o.fontes)}</p>` : ""}
       ${o.revisar ? `<p class="fontes">Texto em revisão: confira com o folheto da sua paróquia.</p>` : ""}
     </section>`;
   el.querySelector("#rezei").addEventListener("click", e => {
@@ -108,7 +109,7 @@ async function terco(el, dados) {
       ${temVoz() ? `<button class="botao secundario" id="t-ouvir">${ic("volume")} Ouvir</button>` : ""}
       <button class="botao" id="t-prox"></button>
     </div>
-    <details class="cartao explica"><summary><strong>Sobre o terço</strong></summary><p>${esc(t.sobre)}</p>${t.fontes ? `<p class="fontes">Fontes: ${t.fontes.map(esc).join("; ")}</p>` : ""}</details>`;
+    <details class="cartao explica"><summary><strong>Sobre o terço</strong></summary><p>${esc(t.sobre)}</p>${t.fontes ? `<p class="fontes">Fontes: ${fontesHTML(t.fontes)}</p>` : ""}</details>`;
 
   el.querySelector("#mis").addEventListener("change", e => { chave = e.target.value; ({ passos, nome } = passosDoTerco(dados, chave)); i = 0; conta = 0; desenhar(); });
   el.querySelector("#t-prox").addEventListener("click", () => {

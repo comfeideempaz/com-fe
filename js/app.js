@@ -17,6 +17,7 @@ const MENU = [
   { id: "biblia", rota: "#/biblia", rotulo: "Bíblia", icone: "livro", celular: true, computador: true },
   { id: "planos", rota: "#/planos", rotulo: "Planos", icone: "planos", celular: true, computador: true },
   { id: "liturgia", rota: "#/liturgia", rotulo: "Liturgia", icone: "calendario", celular: true, computador: true },
+  { id: "lectio", rota: "#/lectio", rotulo: "Lectio Divina", icone: "pena", computador: true },
   { id: "santos", rota: "#/santos", rotulo: "Santos", icone: "santo", computador: true },
   { id: "missa", rota: "#/missa", rotulo: "Missa explicada", icone: "calice", computador: true },
   { id: "oracoes", rota: "#/oracoes", rotulo: "Orações", icone: "maos", computador: true },
@@ -37,6 +38,10 @@ const ROUTES = [
   { re: /^\/planos\/([a-z0-9-]+)$/, nav: "planos", title: "Projeto de leitura", view: "planos", params: ["plano"] },
   { re: /^\/liturgia$/, nav: "liturgia", title: "Liturgia", view: "liturgia" },
   { re: /^\/liturgia\/(\d{4}-\d{2}-\d{2})$/, nav: "liturgia", title: "Liturgia do dia", view: "liturgia", params: ["data"] },
+  { re: /^\/lectio$/, nav: "lectio", title: "Lectio Divina", view: "lectio" },
+  { re: /^\/lectio\/dia\/(\d{4}-\d{2}-\d{2})$/, nav: "lectio", title: "Lectio Divina", view: "lectio", params: ["data"] },
+  { re: /^\/lectio\/trecho\/([a-z0-9-]+)\/(\d+)\/(\d+)\/(\d+)$/, nav: "lectio", title: "Lectio Divina", view: "lectio", params: ["livro", "cap", "v1", "v2"] },
+  { re: /^\/lectio\/s\/([a-z0-9]+)$/, nav: "lectio", title: "Lectio Divina", view: "lectio", params: ["id"] },
   { re: /^\/santos$/, nav: "santos", title: "Santos", view: "santos" },
   { re: /^\/santos\/([a-z0-9-]+)$/, nav: "santos", title: "Santo", view: "santos", params: ["id"] },
   { re: /^\/missa$/, nav: "missa", title: "Missa explicada", view: "missa" },
@@ -51,7 +56,7 @@ const ROUTES = [
   { re: /^\/mais$/, nav: "mais", title: "Mais", view: "mais" },
 ];
 
-const MAIS_INCLUI = ["santos", "missa", "oracoes", "sacramentos", "defesa", "progresso", "sobre"];
+const MAIS_INCLUI = ["lectio", "santos", "missa", "oracoes", "sacramentos", "defesa", "progresso", "sobre"];
 
 function montarMenu() {
   document.getElementById("nav-lista").innerHTML = MENU.map(m => {

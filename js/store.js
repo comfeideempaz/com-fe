@@ -21,6 +21,7 @@ export function blankState() {
     selos: {},          // id: data em que ganhou
     flags: {},
     atividades: [],     // { tipo, ref, titulo, quando }
+    lectios: [],        // Lectio Divina: { id, ref, origem, data, titulo, passos: { leitura, meditacao, ... }, criadoEm, atualizadoEm, concluida }
   };
 }
 
@@ -182,4 +183,40 @@ export function ganharSelo(id) {
   state.selos[id] = hojeISO();
   salvar();
   return true;
+}
+
+// ---- Lectio Divina: meditações escritas, guardadas só neste aparelho ----
+
+export const lectio = id => state.lectios.find(l => l.id === id) || null;
+
+// Cria uma Lectio nova para um trecho. ref = { livro, txt, trechos }.
+export function novaLectio({ ref, origem = "livre", data = null, titulo = "" }) {
+  const agora = new Date().toISOString();
+  const l = { id: `l${Date.now().toString(36)}`, ref, origem, data, titulo, passos: {}, criadoEm: agora, atualizadoEm: agora, concluida: null };
+  state.lectios.unshift(l);
+  salvar();
+  return l;
+}
+
+// Guarda o que a pessoa escreveu em um passo (chamado enquanto digita, com espera).
+export function escreverLectio(id, passo, texto) {
+  const l = lectio(id);
+  if (!l) return;
+  l.passos[passo] = texto;
+  l.atualizadoEm = new Date().toISOString();
+  salvar();
+}
+
+export function concluirLectio(id) {
+  const l = lectio(id);
+  if (!l) return;
+  const primeira = !l.concluida;
+  l.concluida = l.concluida || new Date().toISOString();
+  if (primeira) registrar({ tipo: "lectio", ref: id, titulo: l.ref.txt, minutos: 10 });
+  else salvar();
+}
+
+export function apagarLectio(id) {
+  state.lectios = state.lectios.filter(l => l.id !== id);
+  salvar();
 }

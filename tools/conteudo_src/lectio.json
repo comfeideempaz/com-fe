@@ -1,0 +1,106 @@
+{
+  "_comentario": "Lectio Divina: passos, perguntas-guia, base bíblica e referências ao Catecismo (só números e resumos com palavras próprias; o texto do CIC fica no site do Vaticano). Fonte principal dos 5 passos: Bento XVI, Verbum Domini 87.",
+  "introducao": {
+    "texto": [
+      "Lectio Divina quer dizer \"leitura orante\" da Palavra de Deus. Não é estudo nem leitura apressada: é deixar Deus falar pelo texto e responder a Ele com a própria vida.",
+      "A Igreja ensina que a leitura da Sagrada Escritura deve vir acompanhada de oração, \"para que se estabeleça o diálogo entre Deus e o homem\" (Dei Verbum 25, citado no CIC 2653). Os mestres espirituais resumem o caminho assim, a partir de Mt 7,7: procure lendo e encontrará meditando; bata rezando e a porta se abrirá na contemplação (CIC 2654).",
+      "O Papa Bento XVI descreveu os passos que o app segue: leitura, meditação, oração, contemplação e ação (Verbum Domini 87). O modelo é o caminho de Emaús: Jesus explica as Escrituras, o coração arde, os discípulos o reconhecem e voltam correndo para anunciar (Lc 24,13-35)."
+    ],
+    "biblia": ["Mt 7,7", "Lc 24,13-35", "Sl 119(118),105", "Hb 4,12"],
+    "fontes": ["CIC 2653-2654", "CIC 1177", "Concílio Vaticano II, Dei Verbum 25", "Bento XVI, Verbum Domini 86-87"]
+  },
+  "preparacao": {
+    "titulo": "Antes de começar",
+    "texto": "Procure um lugar calmo, deixe o celular no silencioso (o app funciona sem internet) e faça o sinal da cruz. Peça a luz do Espírito Santo: foi Ele quem inspirou a Escritura e é Ele quem nos faz entendê-la (CIC 109-111). Jesus \"abriu-lhes o entendimento para compreenderem as Escrituras\" (Lc 24,45).",
+    "oracao": "Vinde, Espírito Santo, enchei os corações dos vossos fiéis e acendei neles o fogo do vosso amor. Abri o meu coração para escutar a vossa Palavra, compreendê-la e vivê-la. Amém.",
+    "biblia": ["Lc 24,45", "Jo 14,26", "1Sm 3,10"],
+    "fontes": ["CIC 109-111", "CIC 2670-2671"]
+  },
+  "passos": [
+    {
+      "id": "leitura",
+      "nome": "Leitura",
+      "latim": "Lectio",
+      "pergunta": "O que o texto diz em si mesmo?",
+      "explicacao": "Leia o trecho devagar, se possível em voz alta, duas ou três vezes. Repare nas pessoas, nos lugares, nos gestos e nas palavras de Jesus. Ainda não é hora de aplicar à sua vida: primeiro escute o que o texto realmente diz, sem fazê-lo dizer o que gostaríamos.",
+      "dicas": ["Quem está na cena? Onde? O que acontece?", "Qual palavra ou frase chamou sua atenção?", "Há algo que você não entendeu? Anote para perguntar ao catequista ou ao padre."],
+      "campo": "Escreva a palavra ou frase que mais tocou você e o que o texto diz.",
+      "biblia": ["Ne 8,8", "Lc 4,16-21", "At 8,30-31"],
+      "fontes": ["Verbum Domini 87", "CIC 109-114"]
+    },
+    {
+      "id": "meditacao",
+      "nome": "Meditação",
+      "latim": "Meditatio",
+      "pergunta": "O que o texto diz para mim, hoje?",
+      "explicacao": "Agora rumine a Palavra, como Maria, que \"guardava todas estas coisas, meditando-as no seu coração\". Confronte o texto com a sua vida: as alegrias, as dificuldades, as decisões que você tem pela frente. O Catecismo diz que meditar o que se lê é abrir um outro livro, o da própria vida.",
+      "dicas": ["Em qual personagem você se reconhece?", "O que Deus está me mostrando sobre Ele e sobre mim?", "Que situação da minha vida esta Palavra ilumina?"],
+      "campo": "Escreva sua meditação: o que esta Palavra diz à sua vida.",
+      "biblia": ["Lc 2,19", "Sl 1,2", "Js 1,8"],
+      "fontes": ["CIC 2705-2708", "Verbum Domini 87"]
+    },
+    {
+      "id": "oracao",
+      "nome": "Oração",
+      "latim": "Oratio",
+      "pergunta": "O que eu digo a Deus a partir desta Palavra?",
+      "explicacao": "Deus falou; agora é a sua vez de responder. Converse com Ele com simplicidade: agradeça, peça perdão, peça ajuda, interceda por alguém, louve. Você pode usar as próprias palavras do texto para rezar.",
+      "dicas": ["Senhor, eu te agradeço por...", "Senhor, perdoa-me por...", "Senhor, ajuda-me a..."],
+      "campo": "Escreva sua oração: louvor, pedido de perdão, súplica ou agradecimento.",
+      "biblia": ["1Sm 3,10", "Sl 119(118),105", "Fl 4,6"],
+      "fontes": ["CIC 2653-2654", "CIC 2626-2643", "Verbum Domini 87"]
+    },
+    {
+      "id": "contemplacao",
+      "nome": "Contemplação",
+      "latim": "Contemplatio",
+      "pergunta": "Que conversão da mente, do coração e da vida o Senhor me pede?",
+      "explicacao": "Fique um tempo em silêncio diante de Deus, sem pressa e sem muitas palavras, como Maria de Betânia aos pés de Jesus. O Catecismo chama a contemplação de \"olhar da fé fixado em Jesus\": eu olho para Ele e Ele olha para mim. Deixe que Ele transforme seu modo de ver as coisas.",
+      "dicas": ["Fique alguns minutos em silêncio, só na presença de Deus.", "Repita devagar, no coração, a frase que mais tocou você.", "Se vierem distrações, não desanime: volte com calma à presença de Deus (CIC 2729)."],
+      "campo": "Se quiser, anote o que ficou no seu coração depois do silêncio.",
+      "biblia": ["Lc 10,39-42", "Sl 46(45),11", "2Cor 3,18"],
+      "fontes": ["CIC 2709-2719", "CIC 2729-2733", "Verbum Domini 87"]
+    },
+    {
+      "id": "acao",
+      "nome": "Ação",
+      "latim": "Actio",
+      "pergunta": "O que vou fazer, concretamente, para viver esta Palavra?",
+      "explicacao": "A Lectio Divina só termina quando a Palavra vira vida, quando nos leva a fazer da própria vida um dom para os outros na caridade. Escolha um gesto simples e possível para hoje ou para esta semana.",
+      "dicas": ["Seja concreto: \"vou ligar para minha avó\" é melhor do que \"vou ser mais caridoso\".", "Pode ser um perdão, uma visita, uma ajuda, uma renúncia ou uma oração por alguém.", "Leve com você a frase do texto para repetir ao longo do dia."],
+      "campo": "Escreva seu propósito: um gesto concreto para viver esta Palavra.",
+      "biblia": ["Tg 1,22", "Mt 7,24", "Lc 8,21"],
+      "fontes": ["Verbum Domini 87", "CIC 1822-1829"]
+    }
+  ],
+  "conclusao": "Glória ao Pai, ao Filho e ao Espírito Santo, como era no princípio, agora e sempre. Amém.",
+  "catecismo": {
+    "texto": "O Catecismo da Igreja Católica fala da leitura orante da Palavra nestes números. Toque em um número para ler o texto oficial no site do Vaticano (precisa de internet). O app traz só um resumo com palavras próprias, porque o texto integral do Catecismo tem direitos reservados.",
+    "itens": [
+      { "n": "2653-2654", "titulo": "A Palavra de Deus, fonte da oração", "resumo": "A leitura da Escritura deve vir com oração, para que seja um diálogo entre Deus e a pessoa. Os mestres espirituais resumem: procurar lendo, encontrar meditando, bater rezando, abrir-se na contemplação." },
+      { "n": "1177", "titulo": "Lectio divina e liturgia", "resumo": "A Lectio Divina, em que a Palavra é lida e meditada para se tornar oração, está enraizada na liturgia da Igreja, especialmente na Liturgia das Horas." },
+      { "n": "2705-2708", "titulo": "A meditação", "resumo": "Meditar é buscar compreender o porquê e o como da vida cristã. Meditar o que se lê leva a assimilá-lo e a confrontá-lo com a própria vida. Pensamento, imaginação, emoção e desejo são postos a serviço do encontro com Cristo." },
+      { "n": "2709-2719", "titulo": "A oração mental e a contemplação", "resumo": "A contemplação é tratar de amizade com Deus. É olhar de fé fixado em Jesus, escuta da Palavra em obediência e silêncio de amor." },
+      { "n": "2729-2733", "titulo": "Distrações e aridez", "resumo": "As distrações e a secura na oração são dificuldades comuns. O caminho é voltar humildemente ao coração e perseverar na fé." },
+      { "n": "131-133", "titulo": "A Escritura na vida da Igreja", "resumo": "A Palavra de Deus é força e alimento da fé. A Igreja exorta todos os fiéis a lerem com frequência as Escrituras, porque ignorá-las é ignorar Cristo (São Jerônimo)." },
+      { "n": "101-104", "titulo": "Deus fala em palavras humanas", "resumo": "Na Escritura, Deus fala aos homens de modo humano; a Igreja recebe a Escritura como Palavra de Deus e nela encontra sempre o seu alimento." },
+      { "n": "109-114", "titulo": "Como interpretar a Escritura", "resumo": "Ler a Bíblia no mesmo Espírito em que foi escrita: atentos ao conjunto da Escritura, à Tradição viva da Igreja e à harmonia das verdades da fé." }
+    ]
+  },
+  "sugestoes": {
+    "texto": "Trechos muito usados para começar na Lectio Divina.",
+    "itens": [
+      { "titulo": "Os discípulos de Emaús", "biblia": "Lc 24,13-35" },
+      { "titulo": "Marta e Maria", "biblia": "Lc 10,38-42" },
+      { "titulo": "O Bom Pastor", "biblia": "Jo 10,11-18" },
+      { "titulo": "O filho pródigo", "biblia": "Lc 15,11-32" },
+      { "titulo": "A samaritana", "biblia": "Jo 4,5-26" },
+      { "titulo": "As bem-aventuranças", "biblia": "Mt 5,1-12" },
+      { "titulo": "O Senhor é meu pastor", "biblia": "Sl 23(22),1-6" },
+      { "titulo": "O hino da caridade", "biblia": "1Cor 13,1-13" },
+      { "titulo": "A anunciação", "biblia": "Lc 1,26-38" },
+      { "titulo": "Zaqueu", "biblia": "Lc 19,1-10" }
+    ]
+  },
+  "fontesGerais": ["Bento XVI, Exortação Apostólica Verbum Domini (2010), 86-87", "Concílio Vaticano II, Dei Verbum 25", "Catecismo da Igreja Católica 1177, 2653-2654, 2705-2719", "Guigo II, o Cartuxo, Scala claustralium (séc. XII)"]
+}

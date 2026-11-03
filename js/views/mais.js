@@ -4,6 +4,7 @@ import { cabecalho } from "../ui.js";
 import { ic } from "../icons.js";
 
 const ITENS = [
+  { rota: "#/lectio", icone: "pena", titulo: "Lectio Divina", texto: "Leitura orante e minhas meditações" },
   { rota: "#/santos", icone: "santo", titulo: "Santos", texto: "Histórias e curiosidades" },
   { rota: "#/missa", icone: "calice", titulo: "Missa explicada", texto: "Cada parte e o porquê" },
   { rota: "#/oracoes", icone: "maos", titulo: "Orações", texto: "Orações e terço guiado" },

@@ -32,6 +32,7 @@ export function cumpre(cond, st, ctx) {
     case "santos": return st.santosVistos.length >= v;
     case "oracao": return v === "terco" ? !!st.flags.terco : false;
     case "flag": return !!st.flags[v];
+    case "lectio": return (st.lectios || []).filter(l => l.concluida).length >= v;
     case "defesa": return (st.flags.defesa || []).length >= v;
     default: return false;
   }

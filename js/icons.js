@@ -28,6 +28,7 @@ const P = {
   vela: '<path d="M10 10h4v11h-4z"/><path d="M12 3.5c1.3 1.5 1.8 2.6 1.8 3.5a1.8 1.8 0 0 1-3.6 0c0-.9.5-2 1.8-3.5z"/><path d="M8 21h8"/>',
   terco: '<circle cx="12" cy="6" r="3.5"/><circle cx="6.5" cy="12" r="1.2"/><circle cx="17.5" cy="12" r="1.2"/><circle cx="8.5" cy="16" r="1.2"/><circle cx="15.5" cy="16" r="1.2"/><path d="M12 15.5v6M10 18.5h4"/>',
   play: '<path d="M7 4.5v15l12-7.5z"/>',
+  pena: '<path d="M20 4c-6 0-11.5 4.5-13 12l-2 4"/><path d="M20 4c0 6-4 11-11 12"/><path d="M9.5 12.5 13 9"/>',
   subir: '<path d="M12 20V9M7 13.5l5-5 5 5M5 4h14"/>',
 };
 

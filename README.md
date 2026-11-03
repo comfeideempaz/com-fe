@@ -51,6 +51,7 @@ Para refazer os ícones a partir do desenho da Lumi: `node tools/make_icons.mjs`
 | `#/biblia` | Bíblia |
 | `#/planos` | Projetos de leitura |
 | `#/liturgia` | Calendário e dia litúrgico |
+| `#/lectio` | Lectio Divina: 5 passos sobre o Evangelho do dia ou um trecho, meditações escritas salvas no aparelho, com histórico |
 | `#/santos` | Santos |
 | `#/missa` | Missa explicada |
 | `#/oracoes`, `#/oracoes/terco` | Orações e terço guiado |
@@ -61,7 +62,7 @@ Para refazer os ícones a partir do desenho da Lumi: `node tools/make_icons.mjs`
 
 ## Cuidados de conteúdo
 
-- Base no Catecismo (com o número, ex.: CIC 1213), Compêndio, IGMR, Martirológio Romano e textos litúrgicos oficiais do Brasil.
+- Base no Catecismo (com o número, ex.: CIC 1213; toda citação "CIC nº" vira link para a página oficial do Vaticano, em `js/catecismo.js`, sem copiar o texto, que tem direitos reservados), Compêndio, IGMR, Martirológio Romano e textos litúrgicos oficiais do Brasil.
 - Texto bíblico: tradução do Pe. Antônio Pereira de Figueiredo (domínio público), digitalizada por OCR (repositório ronaldomelofz/abibliasagrada) e revisada por script. Cerca de 3,7% dos versículos faltam na fonte digital e aparecem marcados como ausentes; as leituras do dia têm link para o texto oficial da CNBB.
 - Régua de alinhamento: `tools/biblia_src/referencia_tamanhos.json` guarda só o tamanho de cada versículo da Douay-Rheims (MIT, isaacronan/douay-rheims-json), usado para separar versículos juntados e cortar notas de rodapé misturadas. O texto inglês não entra no app.
 - Tudo que não tiver certeza leva `"revisar": true` e entra na lista de revisão da fase.
@@ -74,7 +75,7 @@ Sempre com `python3 -I`, a partir da raiz:
 ```
 python3 -I tools/make_biblia.py      # data/biblia/ (+ tools/relatorios/biblia.txt)
 python3 -I tools/make_liturgia.py    # data/calendario/, leituras.json, dicas.json
-python3 -I tools/make_conteudo.py    # oracoes, missa, sacramentos, defesa, liturgia, selos
+python3 -I tools/make_conteudo.py    # oracoes, missa, sacramentos, defesa, liturgia, selos, lectio
 python3 -I tools/make_santos.py      # data/santos/
 python3 -I tools/make_planos.py      # data/planos.json
 python3 -I tools/make_sw.py          # sw.js (rode por último, a cada mudança)

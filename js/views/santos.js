@@ -8,6 +8,7 @@ import { esc, cabecalho, hojeISO, toast } from "../ui.js";
 import { ic } from "../icons.js";
 import { COR_HEX } from "../liturgia.js";
 import { falar, parar, temVoz } from "../speech.js";
+import { fontesHTML } from "../catecismo.js";
 
 const MESES = ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "agosto", "setembro", "outubro", "novembro", "dezembro"];
 const semAcento = s => s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
@@ -71,7 +72,7 @@ async function vida(el, id) {
     ${s.tradicao?.length ? `<section class="cartao tradicao"><h2>Segundo a tradição</h2><p class="apoio">Relatos antigos e piedosos, que não têm a mesma certeza histórica, mas fazem parte da devoção da Igreja.</p>${s.tradicao.map(p => `<p>${esc(p)}</p>`).join("")}</section>` : ""}
     ${s.curiosidades?.length ? `<section class="cartao"><h2>Curiosidades</h2><ul class="lista-simples">${s.curiosidades.map(c => `<li>${esc(c)}</li>`).join("")}</ul></section>` : ""}
     ${s.biblia?.length ? `<section class="cartao"><h2>Na Bíblia</h2><p class="apoio">Passagens ligadas à vida e à missão ${s.tipo === "maria" ? "desta celebração" : "deste santo"}:</p>${refsHTML(s.biblia)}</section>` : ""}
-    <p class="fontes">Fontes: ${(s.fontes || []).map(esc).join("; ")}${s.revisar ? " · Algumas informações estão em revisão." : ""}</p>
+    <p class="fontes">Fontes: ${fontesHTML(s.fontes)}${s.revisar ? " · Algumas informações estão em revisão." : ""}</p>
     <div class="botoes"><button class="botao" id="conheci"></button></div>`;
 
   const botao = el.querySelector("#conheci");
