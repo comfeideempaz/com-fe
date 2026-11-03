@@ -1,0 +1,235 @@
+# Calendário dos santos (próprio dos santos) do Calendário Romano Geral + próprio do Brasil.
+# Formato: MM-DD | id | nome | grau | cor | observação
+# grau: S = solenidade, FS = festa do Senhor, F = festa, M = memória obrigatória, m = memória facultativa
+# cor: branco, vermelho, verde, roxo, rosa
+# "brasil" na observação = próprio do Brasil; "revisar" = conferir com o Diretório Litúrgico da CNBB.
+# Próprio do Brasil conferido com o calendário do romcal (MIT), que cita o Diretório Litúrgico 2025:
+# https://github.com/romcal/romcal/blob/main/rites/roman1969/src/calendars/countries/brazil/index.ts
+01-01 | maria-mae-de-deus | Santa Maria, Mãe de Deus | S | branco |
+01-02 | basilio-e-gregorio | São Basílio Magno e São Gregório Nazianzeno, bispos e doutores da Igreja | M | branco |
+01-03 | nome-de-jesus | Santíssimo Nome de Jesus | m | branco |
+01-07 | raimundo-de-penyafort | São Raimundo de Penyafort, presbítero | m | branco |
+01-13 | hilario | Santo Hilário, bispo e doutor da Igreja | m | branco |
+01-17 | antao | Santo Antão, abade | M | branco |
+01-20 | fabiano | São Fabiano, papa e mártir | m | vermelho |
+01-20 | sebastiao | São Sebastião, mártir | m | vermelho |
+01-21 | ines | Santa Inês, virgem e mártir | M | vermelho |
+01-22 | vicente-diacono | São Vicente, diácono e mártir | m | vermelho |
+01-24 | francisco-de-sales | São Francisco de Sales, bispo e doutor da Igreja | M | branco |
+01-25 | conversao-de-sao-paulo | Conversão de São Paulo, apóstolo | F | branco |
+01-26 | timoteo-e-tito | São Timóteo e São Tito, bispos | M | branco |
+01-27 | angela-merici | Santa Ângela Merici, virgem | m | branco |
+01-28 | tomas-de-aquino | Santo Tomás de Aquino, presbítero e doutor da Igreja | M | branco |
+01-31 | joao-bosco | São João Bosco, presbítero | M | branco |
+02-02 | apresentacao-do-senhor | Apresentação do Senhor | FS | branco |
+02-03 | bras | São Brás, bispo e mártir | m | vermelho |
+02-03 | oscar | Santo Óscar, bispo | m | branco |
+02-05 | agueda | Santa Águeda, virgem e mártir | M | vermelho |
+02-06 | paulo-miki | São Paulo Miki e companheiros, mártires | M | vermelho |
+02-08 | jeronimo-emiliani | São Jerônimo Emiliani | m | branco |
+02-08 | josefina-bakhita | Santa Josefina Bakhita, virgem | m | branco |
+02-10 | escolastica | Santa Escolástica, virgem | M | branco |
+02-11 | nossa-senhora-de-lourdes | Nossa Senhora de Lourdes | m | branco |
+02-14 | cirilo-e-metodio | São Cirilo, monge, e São Metódio, bispo | M | branco |
+02-17 | fundadores-servitas | Sete Santos Fundadores dos Servitas | m | branco |
+02-21 | pedro-damiao | São Pedro Damião, bispo e doutor da Igreja | m | branco |
+02-22 | catedra-de-sao-pedro | Cátedra de São Pedro, apóstolo | F | branco |
+02-23 | policarpo | São Policarpo, bispo e mártir | M | vermelho |
+02-27 | gregorio-de-narek | São Gregório de Narek, abade e doutor da Igreja | m | branco |
+03-04 | casimiro | São Casimiro | m | branco |
+03-07 | perpetua-e-felicidade | Santas Perpétua e Felicidade, mártires | M | vermelho |
+03-08 | joao-de-deus | São João de Deus, religioso | m | branco |
+03-09 | francisca-romana | Santa Francisca Romana, religiosa | m | branco |
+03-17 | patricio | São Patrício, bispo | m | branco |
+03-18 | cirilo-de-jerusalem | São Cirilo de Jerusalém, bispo e doutor da Igreja | m | branco |
+03-19 | sao-jose | São José, esposo da Virgem Maria | S | branco |
+03-23 | turibio | São Turíbio de Mogrovejo, bispo | m | branco |
+03-25 | anunciacao | Anunciação do Senhor | S | branco |
+04-02 | francisco-de-paula | São Francisco de Paula, eremita | m | branco |
+04-04 | isidoro | Santo Isidoro, bispo e doutor da Igreja | m | branco |
+04-05 | vicente-ferrer | São Vicente Ferrer, presbítero | m | branco |
+04-07 | joao-batista-de-la-salle | São João Batista de La Salle, presbítero | M | branco |
+04-11 | estanislau | Santo Estanislau, bispo e mártir | M | vermelho |
+04-13 | martinho-i | São Martinho I, papa e mártir | m | vermelho |
+04-21 | anselmo | Santo Anselmo, bispo e doutor da Igreja | m | branco |
+04-23 | jorge | São Jorge, mártir | m | vermelho |
+04-23 | adalberto | Santo Adalberto, bispo e mártir | m | vermelho |
+04-24 | fidelis | São Fidélis de Sigmaringa, presbítero e mártir | m | vermelho |
+04-25 | marcos | São Marcos, evangelista | F | vermelho |
+04-28 | pedro-chanel | São Pedro Chanel, presbítero e mártir | m | vermelho |
+04-28 | luis-de-montfort | São Luís Maria Grignion de Montfort, presbítero | m | branco |
+04-29 | catarina-de-sena | Santa Catarina de Sena, virgem e doutora da Igreja | M | branco |
+04-30 | pio-v | São Pio V, papa | m | branco |
+05-01 | jose-operario | São José Operário | m | branco |
+05-02 | atanasio | Santo Atanásio, bispo e doutor da Igreja | M | branco |
+05-03 | filipe-e-tiago | São Filipe e São Tiago, apóstolos | F | vermelho |
+05-10 | joao-de-avila | São João de Ávila, presbítero e doutor da Igreja | m | branco |
+05-12 | nereu-e-aquileu | São Nereu e Santo Aquileu, mártires | m | vermelho |
+05-12 | pancracio | São Pancrácio, mártir | m | vermelho |
+05-13 | nossa-senhora-de-fatima | Nossa Senhora de Fátima | m | branco |
+05-14 | matias | São Matias, apóstolo | F | vermelho |
+05-18 | joao-i | São João I, papa e mártir | m | vermelho |
+05-20 | bernardino-de-sena | São Bernardino de Sena, presbítero | m | branco |
+05-21 | cristovao-magallanes | São Cristóvão Magallanes e companheiros, mártires | m | vermelho |
+05-22 | rita-de-cassia | Santa Rita de Cássia, religiosa | m | branco |
+05-25 | beda | São Beda, o Venerável, presbítero e doutor da Igreja | m | branco |
+05-25 | gregorio-vii | São Gregório VII, papa | m | branco |
+05-25 | maria-madalena-de-pazzi | Santa Maria Madalena de Pazzi, virgem | m | branco |
+05-26 | filipe-neri | São Filipe Néri, presbítero | M | branco |
+05-27 | agostinho-de-cantuaria | Santo Agostinho de Cantuária, bispo | m | branco |
+05-29 | paulo-vi | São Paulo VI, papa | m | branco |
+05-31 | visitacao | Visitação de Nossa Senhora | F | branco |
+06-01 | justino | São Justino, mártir | M | vermelho |
+06-02 | marcelino-e-pedro | São Marcelino e São Pedro, mártires | m | vermelho |
+06-03 | carlos-lwanga | São Carlos Lwanga e companheiros, mártires | M | vermelho |
+06-05 | bonifacio | São Bonifácio, bispo e mártir | M | vermelho |
+06-06 | norberto | São Norberto, bispo | m | branco |
+06-09 | jose-de-anchieta | São José de Anchieta, presbítero | M | branco | brasil
+06-08 | efrem | Santo Efrém, diácono e doutor da Igreja | m | branco |
+06-11 | barnabe | São Barnabé, apóstolo | M | vermelho |
+06-13 | antonio-de-padua | Santo Antônio de Pádua, presbítero e doutor da Igreja | M | branco |
+06-19 | romualdo | São Romualdo, abade | m | branco |
+06-21 | luis-gonzaga | São Luís Gonzaga, religioso | M | branco |
+06-22 | paulino-de-nola | São Paulino de Nola, bispo | m | branco |
+06-22 | joao-fisher-e-tomas-moro | São João Fisher, bispo, e São Tomás Moro, mártires | m | vermelho |
+06-24 | joao-batista-nascimento | Natividade de São João Batista | S | branco |
+06-27 | cirilo-de-alexandria | São Cirilo de Alexandria, bispo e doutor da Igreja | m | branco |
+06-28 | ireneu | Santo Ireneu, bispo, mártir e doutor da Igreja | M | vermelho |
+06-29 | pedro-e-paulo | São Pedro e São Paulo, apóstolos | S | vermelho | no Brasil, transferida para o domingo
+06-30 | protomartires-de-roma | Santos Protomártires da Igreja de Roma | m | vermelho |
+07-03 | tome | São Tomé, apóstolo | F | vermelho |
+07-04 | isabel-de-portugal | Santa Isabel de Portugal | m | branco |
+07-05 | antonio-maria-zaccaria | Santo Antônio Maria Zaccaria, presbítero | m | branco |
+07-06 | maria-goretti | Santa Maria Goretti, virgem e mártir | m | vermelho |
+07-09 | paulina | Santa Paulina do Coração Agonizante de Jesus, virgem | M | branco | brasil
+07-08 | agostinho-zhao-rong | Santo Agostinho Zhao Rong e companheiros, mártires | m | vermelho |
+07-11 | bento | São Bento, abade | M | branco |
+07-13 | henrique | Santo Henrique | m | branco |
+07-14 | camilo-de-lellis | São Camilo de Lellis, presbítero | m | branco |
+07-15 | boaventura | São Boaventura, bispo e doutor da Igreja | M | branco |
+07-16 | nossa-senhora-do-carmo | Nossa Senhora do Carmo | F | branco | brasil
+07-20 | apolinario | Santo Apolinário, bispo e mártir | m | vermelho |
+07-21 | lourenco-de-brindisi | São Lourenço de Brindisi, presbítero e doutor da Igreja | m | branco |
+07-22 | maria-madalena | Santa Maria Madalena | F | branco |
+07-23 | brigida | Santa Brígida, religiosa | m | branco |
+07-24 | sharbel | São Sharbel Makhluf, presbítero | m | branco |
+07-25 | tiago-maior | São Tiago, apóstolo | F | vermelho |
+07-26 | joaquim-e-ana | São Joaquim e Sant'Ana, pais de Nossa Senhora | M | branco |
+07-29 | marta-maria-lazaro | Santa Marta, Santa Maria e São Lázaro | M | branco |
+07-30 | pedro-crisologo | São Pedro Crisólogo, bispo e doutor da Igreja | m | branco |
+07-31 | inacio-de-loyola | Santo Inácio de Loyola, presbítero | M | branco |
+08-01 | afonso-de-ligorio | Santo Afonso Maria de Ligório, bispo e doutor da Igreja | M | branco |
+08-02 | eusebio-de-vercelli | Santo Eusébio de Vercelli, bispo | m | branco |
+08-02 | pedro-juliao-eymard | São Pedro Julião Eymard, presbítero | m | branco |
+08-04 | joao-maria-vianney | São João Maria Vianney, presbítero | M | branco |
+08-05 | santa-maria-maior | Dedicação da Basílica de Santa Maria Maior | m | branco |
+08-06 | transfiguracao | Transfiguração do Senhor | FS | branco |
+08-07 | sisto-ii | São Sisto II, papa, e companheiros, mártires | m | vermelho |
+08-07 | caetano | São Caetano, presbítero | m | branco |
+08-08 | domingos | São Domingos, presbítero | M | branco |
+08-09 | teresa-benedita-da-cruz | Santa Teresa Benedita da Cruz, virgem e mártir | m | vermelho |
+08-10 | lourenco | São Lourenço, diácono e mártir | F | vermelho |
+08-11 | clara | Santa Clara, virgem | M | branco |
+08-12 | joana-de-chantal | Santa Joana Francisca de Chantal, religiosa | m | branco |
+08-13 | dulce-dos-pobres | Santa Dulce dos Pobres, virgem | M | branco | brasil
+08-12 | ponciano-e-hipolito | São Ponciano, papa, e Santo Hipólito, presbítero, mártires | m | vermelho |
+08-14 | maximiliano-kolbe | São Maximiliano Maria Kolbe, presbítero e mártir | M | vermelho |
+08-15 | assuncao | Assunção de Nossa Senhora | S | branco | no Brasil, transferida para o domingo
+08-16 | estevao-da-hungria | Santo Estêvão da Hungria | m | branco |
+08-19 | joao-eudes | São João Eudes, presbítero | m | branco |
+08-20 | bernardo | São Bernardo, abade e doutor da Igreja | M | branco |
+08-21 | pio-x | São Pio X, papa | M | branco |
+08-22 | nossa-senhora-rainha | Nossa Senhora Rainha | M | branco |
+08-23 | rosa-de-lima | Santa Rosa de Lima, virgem | F | branco | brasil
+08-24 | bartolomeu | São Bartolomeu, apóstolo | F | vermelho |
+08-25 | luis-de-franca | São Luís de França | m | branco |
+08-25 | jose-de-calasanz | São José de Calasanz, presbítero | m | branco |
+08-27 | monica | Santa Mônica | M | branco |
+08-28 | agostinho | Santo Agostinho, bispo e doutor da Igreja | M | branco |
+08-29 | martirio-joao-batista | Martírio de São João Batista | M | vermelho |
+09-03 | gregorio-magno | São Gregório Magno, papa e doutor da Igreja | M | branco |
+09-08 | natividade-de-maria | Natividade de Nossa Senhora | F | branco |
+09-09 | pedro-claver | São Pedro Claver, presbítero | m | branco |
+09-12 | nome-de-maria | Santíssimo Nome de Maria | m | branco |
+09-13 | joao-crisostomo | São João Crisóstomo, bispo e doutor da Igreja | M | branco |
+09-14 | exaltacao-da-cruz | Exaltação da Santa Cruz | FS | vermelho |
+09-15 | nossa-senhora-das-dores | Nossa Senhora das Dores | M | branco |
+09-16 | cornelio-e-cipriano | São Cornélio, papa, e São Cipriano, bispo, mártires | M | vermelho |
+09-17 | roberto-belarmino | São Roberto Belarmino, bispo e doutor da Igreja | m | branco |
+09-17 | hildegarda | Santa Hildegarda de Bingen, virgem e doutora da Igreja | m | branco |
+09-19 | januario | São Januário, bispo e mártir | m | vermelho |
+09-20 | andre-kim | Santo André Kim Taegon, presbítero, São Paulo Chong Hasang e companheiros, mártires | M | vermelho |
+09-21 | mateus | São Mateus, apóstolo e evangelista | F | vermelho |
+09-23 | pio-de-pietrelcina | São Pio de Pietrelcina, presbítero | M | branco |
+09-26 | cosme-e-damiao | São Cosme e São Damião, mártires | m | vermelho |
+09-27 | vicente-de-paulo | São Vicente de Paulo, presbítero | M | branco |
+09-28 | venceslau | São Venceslau, mártir | m | vermelho |
+09-28 | lourenco-ruiz | São Lourenço Ruiz e companheiros, mártires | m | vermelho |
+09-29 | arcanjos | São Miguel, São Gabriel e São Rafael, arcanjos | F | branco |
+09-30 | jeronimo | São Jerônimo, presbítero e doutor da Igreja | M | branco |
+10-01 | teresinha | Santa Teresinha do Menino Jesus, virgem e doutora da Igreja | M | branco |
+10-02 | anjos-da-guarda | Santos Anjos da Guarda | M | branco |
+10-03 | martires-de-cunhau-e-uruacu | Santos André de Soveral, Ambrósio Francisco Ferro, presbíteros, Mateus Moreira e companheiros, mártires | M | vermelho | brasil
+10-04 | francisco-de-assis | São Francisco de Assis | M | branco |
+10-06 | faustina | Santa Faustina Kowalska, virgem | m | branco |
+10-06 | bruno | São Bruno, presbítero | m | branco |
+10-07 | nossa-senhora-do-rosario | Nossa Senhora do Rosário | M | branco |
+10-09 | dionisio | São Dionísio, bispo, e companheiros, mártires | m | vermelho |
+10-09 | joao-leonardi | São João Leonardi, presbítero | m | branco |
+10-11 | joao-xxiii | São João XXIII, papa | m | branco |
+10-12 | aparecida | Nossa Senhora da Conceição Aparecida, Padroeira do Brasil | S | branco | brasil
+10-14 | calisto | São Calisto I, papa e mártir | m | vermelho |
+10-15 | teresa-de-avila | Santa Teresa de Jesus, virgem e doutora da Igreja | M | branco |
+10-16 | edwiges | Santa Edwiges, religiosa | m | branco |
+10-16 | margarida-maria-alacoque | Santa Margarida Maria Alacoque, virgem | m | branco |
+10-17 | inacio-de-antioquia | Santo Inácio de Antioquia, bispo e mártir | M | vermelho |
+10-18 | lucas | São Lucas, evangelista | F | vermelho |
+10-19 | martires-norte-americanos | São João de Brébeuf, Santo Isaac Jogues, presbíteros, e companheiros, mártires | m | vermelho |
+10-19 | paulo-da-cruz | São Paulo da Cruz, presbítero | m | branco |
+10-22 | joao-paulo-ii | São João Paulo II, papa | m | branco |
+10-23 | joao-de-capistrano | São João de Capistrano, presbítero | m | branco |
+10-24 | antonio-maria-claret | Santo Antônio Maria Claret, bispo | m | branco |
+10-25 | frei-galvao | Santo Antônio de Sant'Ana Galvão (Frei Galvão), presbítero | M | branco | brasil
+10-28 | simao-e-judas | São Simão e São Judas, apóstolos | F | vermelho |
+11-01 | todos-os-santos | Todos os Santos | S | branco | no Brasil, transferida para o domingo
+11-02 | finados | Comemoração de Todos os Fiéis Defuntos | FD | roxo |
+11-03 | martinho-de-porres | São Martinho de Porres, religioso | m | branco |
+11-04 | carlos-borromeu | São Carlos Borromeu, bispo | M | branco |
+11-09 | latrao | Dedicação da Basílica do Latrão | FS | branco |
+11-10 | leao-magno | São Leão Magno, papa e doutor da Igreja | M | branco |
+11-11 | martinho-de-tours | São Martinho de Tours, bispo | M | branco |
+11-12 | josafa | São Josafá, bispo e mártir | M | vermelho |
+11-15 | alberto-magno | Santo Alberto Magno, bispo e doutor da Igreja | m | branco |
+11-16 | margarida-da-escocia | Santa Margarida da Escócia | m | branco |
+11-16 | gertrudes | Santa Gertrudes, virgem | m | branco |
+11-17 | isabel-da-hungria | Santa Isabel da Hungria, religiosa | M | branco |
+11-18 | basilicas-pedro-paulo | Dedicação das Basílicas de São Pedro e São Paulo | m | branco |
+11-21 | apresentacao-de-maria | Apresentação de Nossa Senhora | M | branco |
+11-22 | cecilia | Santa Cecília, virgem e mártir | M | vermelho |
+11-23 | clemente-i | São Clemente I, papa e mártir | m | vermelho |
+11-23 | columbano | São Columbano, abade | m | branco |
+11-24 | andre-dung-lac | Santo André Dung-Lac, presbítero, e companheiros, mártires | M | vermelho |
+11-25 | catarina-de-alexandria | Santa Catarina de Alexandria, virgem e mártir | m | vermelho |
+11-30 | andre | Santo André, apóstolo | F | vermelho |
+12-03 | francisco-xavier | São Francisco Xavier, presbítero | M | branco |
+12-04 | joao-damasceno | São João Damasceno, presbítero e doutor da Igreja | m | branco |
+12-06 | nicolau | São Nicolau, bispo | m | branco |
+12-07 | ambrosio | Santo Ambrósio, bispo e doutor da Igreja | M | branco |
+12-08 | imaculada-conceicao | Imaculada Conceição de Nossa Senhora | S | branco |
+12-09 | juan-diego | São João Diego Cuauhtlatoatzin | m | branco |
+12-10 | nossa-senhora-de-loreto | Nossa Senhora de Loreto | m | branco |
+12-11 | damaso | São Dâmaso I, papa | m | branco |
+12-12 | guadalupe | Nossa Senhora de Guadalupe, Padroeira da América | F | branco | brasil
+12-13 | luzia | Santa Luzia, virgem e mártir | M | vermelho |
+12-14 | joao-da-cruz | São João da Cruz, presbítero e doutor da Igreja | M | branco |
+12-21 | pedro-canisio | São Pedro Canísio, presbítero e doutor da Igreja | m | branco |
+12-23 | joao-cancio | São João Câncio, presbítero | m | branco |
+12-26 | estevao | Santo Estêvão, primeiro mártir | F | vermelho |
+12-27 | joao-evangelista | São João, apóstolo e evangelista | F | branco |
+12-28 | santos-inocentes | Santos Inocentes, mártires | F | vermelho |
+12-29 | tomas-becket | São Tomás Becket, bispo e mártir | m | vermelho |
+12-31 | silvestre | São Silvestre I, papa | m | branco |
+07-17 | inacio-de-azevedo | Beato Inácio de Azevedo, presbítero, e companheiros, mártires | M | vermelho | brasil
+10-05 | benedito | São Benedito, o Mouro, religioso | M | branco | brasil
+10-19 | pedro-de-alcantara | São Pedro de Alcântara, presbítero | m | branco | brasil
+11-19 | roque-gonzalez | Santos Roque González, Afonso Rodríguez e João del Castillo, presbíteros e mártires | M | vermelho | brasil

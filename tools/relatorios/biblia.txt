@@ -1,0 +1,741 @@
+Pontos da Bíblia para revisar (gerado por make_biblia.py)
+
+Gn 2,17: comentário da edição removido; conferir se o versículo ficou completo
+Gn 2: faltam os versículos 18
+Gn 5: faltam os versículos 24
+Gn 7: faltam os versículos 11
+Gn 8: faltam os versículos 12
+Gn 10: faltam os versículos 6, 21
+Gn 14: faltam os versículos 9
+Gn 17: faltam os versículos 10
+Gn 23: faltam os versículos 13
+Gn 25: faltam os versículos 10
+Gn 29: faltam os versículos 8
+Gn 35: faltam os versículos 18, 19
+Gn 37: faltam os versículos 35
+Gn 39: faltam os versículos 4, 6
+Gn 40: faltam os versículos 11
+Gn 43: faltam os versículos 19
+Gn 46: faltam os versículos 8
+Gn 49,10: comentário da edição removido; conferir se o versículo ficou completo
+Gn 49,13: comentário da edição removido; conferir se o versículo ficou completo
+Gn 49,17: comentário da edição removido; conferir se o versículo ficou completo
+Gn 49,18: comentário da edição removido; conferir se o versículo ficou completo
+Gn 49: faltam os versículos 7
+Gn 50,25: comentário da edição removido; conferir se o versículo ficou completo
+Gn 50: faltam os versículos 22
+Ex 2: faltam os versículos 10
+Ex 3,7: comentário da edição removido; conferir se o versículo ficou completo
+Ex 6: faltam os versículos 14, 15, 27
+Ex 9: faltam os versículos 11
+Ex 14: faltam os versículos 4, 11, 17
+Ex 15: faltam os versículos 6
+Ex 16: faltam os versículos 5, 21, 29
+Ex 21: faltam os versículos 14
+Ex 27: faltam os versículos 10
+Ex 29: faltam os versículos 11
+Ex 30: faltam os versículos 15
+Ex 31: faltam os versículos 10
+Ex 35: faltam os versículos 11, 31
+Ex 39: faltam os versículos 35
+Ex 40: faltam os versículos 5, 11
+Lv 7: faltam os versículos 4, 34
+Lv 13: faltam os versículos 30
+Lv 16: faltam os versículos 18, 19
+Lv 19: faltam os versículos 31, 36
+Lv 20: faltam os versículos 5
+Lv 21: faltam os versículos 5, 20
+Lv 23: faltam os versículos 8, 11, 12, 14
+Lv 24: faltam os versículos 14, 18
+Lv 25: faltam os versículos 11
+Lv 26: faltam os versículos 4
+Lv 27: faltam os versículos 14
+Nm 1: faltam os versículos 2, 30, 47
+Nm 2: faltam os versículos 11
+Nm 3: faltam os versículos 19, 31, 49
+Nm 4: faltam os versículos 12
+Nm 5: faltam os versículos 18, 30
+Nm 6: faltam os versículos 1, 5
+Nm 7: faltam os versículos 7, 9, 10, 25, 41, 42, 55
+Nm 8: faltam os versículos 9
+Nm 10: faltam os versículos 18, 25
+Nm 11: faltam os versículos 8, 17, 31, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79
+Nm 13: faltam os versículos 14
+Nm 19: faltam os versículos 19
+Nm 22: faltam os versículos 4, 11, 14
+Nm 23,10: comentário da edição removido; conferir se o versículo ficou completo
+Nm 24: faltam os versículos 15
+Nm 25: faltam os versículos 15
+Nm 26: faltam os versículos 38
+Nm 29,26: comentário da edição removido; conferir se o versículo ficou completo
+Nm 29: faltam os versículos 3, 30
+Nm 30: faltam os versículos 15
+Nm 33: faltam os versículos 5, 43
+Nm 34: faltam os versículos 16
+Nm 35: faltam os versículos 4
+Nm 36: faltam os versículos 11
+Dt 1: faltam os versículos 42
+Dt 4: faltam os versículos 8
+Dt 6: faltam os versículos 9
+Dt 7: faltam os versículos 6, 14
+Dt 9: faltam os versículos 11
+Dt 11: faltam os versículos 6, 10
+Dt 12: faltam os versículos 10
+Dt 13: faltam os versículos 16
+Dt 15: faltam os versículos 2
+Dt 16: faltam os versículos 2
+Dt 18: faltam os versículos 8
+Dt 19: faltam os versículos 3, 8, 13
+Dt 21: faltam os versículos 21
+Dt 22: faltam os versículos 12
+Dt 23: faltam os versículos 11
+Dt 25: faltam os versículos 14
+Dt 26: faltam os versículos 11
+Dt 28: faltam os versículos 36, 42, 44, 45, 46, 47
+Dt 29: faltam os versículos 11
+Dt 31: faltam os versículos 3, 5
+Dt 32: faltam os versículos 47
+Dt 33,7: comentário da edição removido; conferir se o versículo ficou completo
+Js 1: faltam os versículos 6
+Js 3,17: comentário da edição removido; conferir se o versículo ficou completo
+Js 3: faltam os versículos 13
+Js 6,6: comentário da edição removido; conferir se o versículo ficou completo
+Js 7: faltam os versículos 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+Js 10: faltam os versículos 28, 31
+Js 12: faltam os versículos 11, 15
+Js 13: faltam os versículos 9
+Js 18: faltam os versículos 11
+Js 21: faltam os versículos 2, 20, 21, 26
+Jz 1: faltam os versículos 11
+Jz 2: faltam os versículos 7
+Jz 4,7: comentário da edição removido; conferir se o versículo ficou completo
+Jz 6: faltam os versículos 16, 18
+Jz 8: faltam os versículos 14
+Jz 11: faltam os versículos 3
+Jz 13: faltam os versículos 18
+Jz 15: faltam os versículos 8
+Jz 16: faltam os versículos 10
+Jz 19: faltam os versículos 3, 24
+Jz 21: faltam os versículos 11
+Rt 1: faltam os versículos 9
+1Sm 1: faltam os versículos 11
+1Sm 3: faltam os versículos 8
+1Sm 9: faltam os versículos 4
+1Sm 13: faltam os versículos 4
+1Sm 16: faltam os versículos 11
+1Sm 17: faltam os versículos 7, 11, 12, 50
+1Sm 18: faltam os versículos 11
+1Sm 20: faltam os versículos 8
+1Sm 21: faltam os versículos 9, 14
+1Sm 22: faltam os versículos 9
+1Sm 23: faltam os versículos 3, 11
+1Sm 25,6: comentário da edição removido; conferir se o versículo ficou completo
+1Sm 27: faltam os versículos 4, 9
+2Sm 3: faltam os versículos 33
+2Sm 4: faltam os versículos 3
+2Sm 5: faltam os versículos 18, 19
+2Sm 6: faltam os versículos 5, 9
+2Sm 8: faltam os versículos 16
+2Sm 13: faltam os versículos 9
+2Sm 16: faltam os versículos 10
+2Sm 19: faltam os versículos 4, 13
+2Sm 20: faltam os versículos 5, 14
+2Sm 21: faltam os versículos 9
+2Sm 22: faltam os versículos 10, 41, 45
+2Sm 24: faltam os versículos 14
+1Rs 2: faltam os versículos 48
+1Rs 5: faltam os versículos 17
+1Rs 7: faltam os versículos 15
+1Rs 8: faltam os versículos 65
+1Rs 10: faltam os versículos 6
+1Rs 13: faltam os versículos 32
+1Rs 14: faltam os versículos 13
+1Rs 15: faltam os versículos 4
+1Rs 18: faltam os versículos 41
+1Rs 20: faltam os versículos 18
+1Rs 21: faltam os versículos 30, 31, 32, 33
+2Rs 1: faltam os versículos 14
+2Rs 3: faltam os versículos 11
+2Rs 5: faltam os versículos 6, 10
+2Rs 6: faltam os versículos 11
+2Rs 11: faltam os versículos 9
+2Rs 13: faltam os versículos 7
+2Rs 15: faltam os versículos 11
+2Rs 17,33: comentário da edição removido; conferir se o versículo ficou completo
+2Rs 17: faltam os versículos 7, 9
+2Rs 23: faltam os versículos 14, 24
+1Cr 1: faltam os versículos 11
+1Cr 6: faltam os versículos 2
+1Cr 8: faltam os versículos 23, 30
+1Cr 10: faltam os versículos 5
+1Cr 12: faltam os versículos 5
+1Cr 16: faltam os versículos 30
+1Cr 19: faltam os versículos 5
+1Cr 21: faltam os versículos 28
+1Cr 24: faltam os versículos 11, 14
+1Cr 29: faltam os versículos 5, 9, 10, 11
+2Cr 3,7: comentário da edição removido; conferir se o versículo ficou completo
+2Cr 3: faltam os versículos 16
+2Cr 4: faltam os versículos 9, 14
+2Cr 5: faltam os versículos 2, 7, 8
+2Cr 8: faltam os versículos 8
+2Cr 9: faltam os versículos 5
+2Cr 10: faltam os versículos 15, 18
+2Cr 11: faltam os versículos 10
+2Cr 12,9: comentário da edição removido; conferir se o versículo ficou completo
+2Cr 12: faltam os versículos 11
+2Cr 14: faltam os versículos 2, 5, 6, 7
+2Cr 15: faltam os versículos 1, 3, 4, 5, 6, 7, 8
+2Cr 16: faltam os versículos 17
+2Cr 18: faltam os versículos 14
+2Cr 20: faltam os versículos 9, 21
+2Cr 23: faltam os versículos 11, 17, 18
+2Cr 26: faltam os versículos 7, 18
+2Cr 27: faltam os versículos 5
+2Cr 33: faltam os versículos 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14
+2Cr 35: faltam os versículos 18
+Esd 2: faltam os versículos 6
+Esd 3: faltam os versículos 9
+Esd 4: faltam os versículos 21, 22, 23
+Esd 7: faltam os versículos 19
+Esd 10: faltam os versículos 3
+Ne 3: faltam os versículos 6
+Ne 7: faltam os versículos 34
+Ne 8: faltam os versículos 3
+Ne 11: faltam os versículos 24
+Ne 12: faltam os versículos 11, 45
+Ne 13: faltam os versículos 20
+Tb 8: faltam os versículos 4
+Jt 2: faltam os versículos 14
+Jt 6: faltam os versículos 9
+Est 1: faltam os versículos 9
+Est 3: faltam os versículos 11
+Est 9: faltam os versículos 18, 26
+Est 14: faltam os versículos 8
+Est 16: faltam os versículos 25
+1Mc 1,7: comentário da edição removido; conferir se o versículo ficou completo
+1Mc 2,18: comentário da edição removido; conferir se o versículo ficou completo
+1Mc 2: faltam os versículos 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
+1Mc 3,7: comentário da edição removido; conferir se o versículo ficou completo
+1Mc 4: faltam os versículos 36
+1Mc 6: faltam os versículos 51
+1Mc 7: faltam os versículos 25, 28, 30
+1Mc 9: faltam os versículos 34
+1Mc 10,32: comentário da edição removido; conferir se o versículo ficou completo
+1Mc 12: faltam os versículos 58, 59
+1Mc 14: faltam os versículos 41
+1Mc 16: faltam os versículos 15
+2Mc 2: faltam os versículos 24
+2Mc 4,19: comentário da edição removido; conferir se o versículo ficou completo
+2Mc 6: faltam os versículos 9
+2Mc 9: faltam os versículos 28
+2Mc 10: faltam os versículos 28
+2Mc 14,3: comentário da edição removido; conferir se o versículo ficou completo
+2Mc 15,2: comentário da edição removido; conferir se o versículo ficou completo
+2Mc 15: faltam os versículos 18, 28, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52
+Jó 1: faltam os versículos 14
+Jó 2,10: comentário da edição removido; conferir se o versículo ficou completo
+Jó 4: faltam os versículos 13
+Jó 9: faltam os versículos 23
+Jó 11: faltam os versículos 8
+Jó 12: faltam os versículos 10
+Jó 13: faltam os versículos 18
+Jó 14,22: comentário da edição removido; conferir se o versículo ficou completo
+Jó 15: faltam os versículos 14
+Jó 24,12: comentário da edição removido; conferir se o versículo ficou completo
+Jó 31: faltam os versículos 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
+Jó 36,22: comentário da edição removido; conferir se o versículo ficou completo
+Jó 37: faltam os versículos 8
+Jó 38: faltam os versículos 25
+Jó 40: faltam os versículos 13, 19
+Jó 42: faltam os versículos 10
+Sl 1,6: comentário da edição removido; conferir se o versículo ficou completo
+Sl 3,1: comentário da edição removido; conferir se o versículo ficou completo
+Sl 3: faltam os versículos 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56
+Sl 6,11: comentário da edição removido; conferir se o versículo ficou completo
+Sl 6: faltam os versículos 8
+Sl 7,3: comentário da edição removido; conferir se o versículo ficou completo
+Sl 9,21: comentário da edição removido; conferir se o versículo ficou completo
+Sl 10: faltam os versículos 9
+Sl 14,5: comentário da edição removido; conferir se o versículo ficou completo
+Sl 14: faltam os versículos 4
+Sl 19: faltam os versículos 5
+Sl 20,12: comentário da edição removido; conferir se o versículo ficou completo
+Sl 21,13: comentário da edição removido; conferir se o versículo ficou completo
+Sl 21,17: comentário da edição removido; conferir se o versículo ficou completo
+Sl 21: faltam os versículos 14
+Sl 29: faltam os versículos 14, 15
+Sl 37: faltam os versículos 6
+Sl 41: faltam os versículos 2, 3, 4, 5
+Sl 42,4: comentário da edição removido; conferir se o versículo ficou completo
+Sl 42: faltam os versículos 7
+Sl 47,3: comentário da edição removido; conferir se o versículo ficou completo
+Sl 49: faltam os versículos 7
+Sl 50: faltam os versículos 5, 11
+Sl 53: faltam os versículos 8
+Sl 55: faltam os versículos 5
+Sl 56: faltam os versículos 2
+Sl 57: faltam os versículos 5
+Sl 59,9: comentário da edição removido; conferir se o versículo ficou completo
+Sl 65,3: comentário da edição removido; conferir se o versículo ficou completo
+Sl 67,8: comentário da edição removido; conferir se o versículo ficou completo
+Sl 68,1: comentário da edição removido; conferir se o versículo ficou completo
+Sl 70: faltam os versículos 5, 11
+Sl 71,10: comentário da edição removido; conferir se o versículo ficou completo
+Sl 71,15: comentário da edição removido; conferir se o versículo ficou completo
+Sl 71: faltam os versículos 5, 16
+Sl 77: faltam os versículos 55, 62
+Sl 89: faltam os versículos 11, 18, 19
+Sl 94,11: comentário da edição removido; conferir se o versículo ficou completo
+Sl 101,28: comentário da edição removido; conferir se o versículo ficou completo
+Sl 101: faltam os versículos 11, 23
+Sl 104: faltam os versículos 27
+Sl 107: faltam os versículos 1, 11
+Sl 109,7: comentário da edição removido; conferir se o versículo ficou completo
+Sl 109,8: comentário da edição removido; conferir se o versículo ficou completo
+Sl 115: faltam os versículos 10, 12
+Sl 118: faltam os versículos 25, 118, 153
+Sl 119: faltam os versículos 6
+Sl 120,1: comentário da edição removido; conferir se o versículo ficou completo
+Sl 121: faltam os versículos 3
+Sl 131,13: comentário da edição removido; conferir se o versículo ficou completo
+Sl 135: faltam os versículos 19
+Sl 136,7: comentário da edição removido; conferir se o versículo ficou completo
+Sl 138,23: comentário da edição removido; conferir se o versículo ficou completo
+Sl 143: faltam os versículos 11
+Sl 147: faltam os versículos 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12
+Sl 148,13: comentário da edição removido; conferir se o versículo ficou completo
+Sl 150,1: comentário da edição removido; conferir se o versículo ficou completo
+Pr 1: faltam os versículos 4
+Pr 6: faltam os versículos 18
+Pr 9,2: comentário da edição removido; conferir se o versículo ficou completo
+Pr 9,11: comentário da edição removido; conferir se o versículo ficou completo
+Pr 10: faltam os versículos 10
+Pr 11: faltam os versículos 19
+Pr 12: faltam os versículos 3
+Pr 14,15: comentário da edição removido; conferir se o versículo ficou completo
+Pr 15: faltam os versículos 19
+Pr 18: faltam os versículos 4
+Pr 20,26: comentário da edição removido; conferir se o versículo ficou completo
+Pr 22,6: comentário da edição removido; conferir se o versículo ficou completo
+Pr 22: faltam os versículos 4
+Pr 26: faltam os versículos 11, 12, 15
+Pr 29: faltam os versículos 7, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69
+Ecl 10,8: comentário da edição removido; conferir se o versículo ficou completo
+Ecl 12,4: comentário da edição removido; conferir se o versículo ficou completo
+Ecl 12,6: comentário da edição removido; conferir se o versículo ficou completo
+Ct 2,7: comentário da edição removido; conferir se o versículo ficou completo
+Ct 2,14: comentário da edição removido; conferir se o versículo ficou completo
+Ct 4,8: comentário da edição removido; conferir se o versículo ficou completo
+Ct 6,3: comentário da edição removido; conferir se o versículo ficou completo
+Ct 6,7: comentário da edição removido; conferir se o versículo ficou completo
+Ct 7,7: comentário da edição removido; conferir se o versículo ficou completo
+Ct 8,13: comentário da edição removido; conferir se o versículo ficou completo
+Sb 8,21: comentário da edição removido; conferir se o versículo ficou completo
+Sb 17,8: comentário da edição removido; conferir se o versículo ficou completo
+Sb 17: faltam os versículos 10
+Sb 18: faltam os versículos 6
+Sb 19,15: comentário da edição removido; conferir se o versículo ficou completo
+Eclo 1,6: comentário da edição removido; conferir se o versículo ficou completo
+Eclo 2: faltam os versículos 7
+Eclo 4,26: comentário da edição removido; conferir se o versículo ficou completo
+Eclo 7: faltam os versículos 18
+Eclo 14,15: comentário da edição removido; conferir se o versículo ficou completo
+Eclo 16: faltam os versículos 16
+Eclo 17: faltam os versículos 30
+Eclo 18: faltam os versículos 3
+Eclo 24,17: comentário da edição removido; conferir se o versículo ficou completo
+Eclo 24,23: comentário da edição removido; conferir se o versículo ficou completo
+Eclo 27: faltam os versículos 9, 18
+Eclo 31,30: comentário da edição removido; conferir se o versículo ficou completo
+Eclo 33,17: comentário da edição removido; conferir se o versículo ficou completo
+Eclo 35: faltam os versículos 9
+Eclo 38,12: comentário da edição removido; conferir se o versículo ficou completo
+Eclo 45: faltam os versículos 29
+Eclo 48,6: comentário da edição removido; conferir se o versículo ficou completo
+Eclo 48,11: comentário da edição removido; conferir se o versículo ficou completo
+Eclo 49: faltam os versículos 10
+Eclo 50: faltam os versículos 10
+Eclo 51: faltam os versículos 29
+Is 1,1: comentário da edição removido; conferir se o versículo ficou completo
+Is 1,2: comentário da edição removido; conferir se o versículo ficou completo
+Is 1,10: comentário da edição removido; conferir se o versículo ficou completo
+Is 3,6: comentário da edição removido; conferir se o versículo ficou completo
+Is 3,22: comentário da edição removido; conferir se o versículo ficou completo
+Is 3,26: comentário da edição removido; conferir se o versículo ficou completo
+Is 4,3: comentário da edição removido; conferir se o versículo ficou completo
+Is 5,5: comentário da edição removido; conferir se o versículo ficou completo
+Is 6,3: comentário da edição removido; conferir se o versículo ficou completo
+Is 7,16: comentário da edição removido; conferir se o versículo ficou completo
+Is 7: faltam os versículos 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64
+Is 8: faltam os versículos 17
+Is 9,7: comentário da edição removido; conferir se o versículo ficou completo
+Is 11,9: comentário da edição removido; conferir se o versículo ficou completo
+Is 11,11: comentário da edição removido; conferir se o versículo ficou completo
+Is 11,15: comentário da edição removido; conferir se o versículo ficou completo
+Is 11,16: comentário da edição removido; conferir se o versículo ficou completo
+Is 13,3: comentário da edição removido; conferir se o versículo ficou completo
+Is 15,9: comentário da edição removido; conferir se o versículo ficou completo
+Is 18,2: comentário da edição removido; conferir se o versículo ficou completo
+Is 18,3: comentário da edição removido; conferir se o versículo ficou completo
+Is 19,2: comentário da edição removido; conferir se o versículo ficou completo
+Is 19,8: comentário da edição removido; conferir se o versículo ficou completo
+Is 19,20: comentário da edição removido; conferir se o versículo ficou completo
+Is 20,4: comentário da edição removido; conferir se o versículo ficou completo
+Is 21,5: comentário da edição removido; conferir se o versículo ficou completo
+Is 22,2: comentário da edição removido; conferir se o versículo ficou completo
+Is 22: faltam os versículos 11
+Is 23,4: comentário da edição removido; conferir se o versículo ficou completo
+Is 24,5: comentário da edição removido; conferir se o versículo ficou completo
+Is 25,7: comentário da edição removido; conferir se o versículo ficou completo
+Is 28,4: comentário da edição removido; conferir se o versículo ficou completo
+Is 28: faltam os versículos 2
+Is 29,3: comentário da edição removido; conferir se o versículo ficou completo
+Is 29,29: comentário da edição removido; conferir se o versículo ficou completo
+Is 30,23: comentário da edição removido; conferir se o versículo ficou completo
+Is 33,8: comentário da edição removido; conferir se o versículo ficou completo
+Is 35,2: comentário da edição removido; conferir se o versículo ficou completo
+Is 35: faltam os versículos 11
+Is 37: faltam os versículos 6
+Is 38,1: comentário da edição removido; conferir se o versículo ficou completo
+Is 40,10: comentário da edição removido; conferir se o versículo ficou completo
+Is 43,27: comentário da edição removido; conferir se o versículo ficou completo
+Is 45,4: comentário da edição removido; conferir se o versículo ficou completo
+Is 45,8: comentário da edição removido; conferir se o versículo ficou completo
+Is 45,13: comentário da edição removido; conferir se o versículo ficou completo
+Is 46,1: comentário da edição removido; conferir se o versículo ficou completo
+Is 47,4: comentário da edição removido; conferir se o versículo ficou completo
+Is 48,20: comentário da edição removido; conferir se o versículo ficou completo
+Is 48: faltam os versículos 16
+Is 49,10: comentário da edição removido; conferir se o versículo ficou completo
+Is 52,5: comentário da edição removido; conferir se o versículo ficou completo
+Is 53,3: comentário da edição removido; conferir se o versículo ficou completo
+Is 53,11: comentário da edição removido; conferir se o versículo ficou completo
+Is 54,1: comentário da edição removido; conferir se o versículo ficou completo
+Is 55,1: comentário da edição removido; conferir se o versículo ficou completo
+Is 56,6: comentário da edição removido; conferir se o versículo ficou completo
+Is 57,4: comentário da edição removido; conferir se o versículo ficou completo
+Is 63,3: comentário da edição removido; conferir se o versículo ficou completo
+Is 63,7: comentário da edição removido; conferir se o versículo ficou completo
+Is 63,11: comentário da edição removido; conferir se o versículo ficou completo
+Is 66,5: comentário da edição removido; conferir se o versículo ficou completo
+Is 66,20: comentário da edição removido; conferir se o versículo ficou completo
+Is 66,23: comentário da edição removido; conferir se o versículo ficou completo
+Jr 1,11: comentário da edição removido; conferir se o versículo ficou completo
+Jr 1,15: comentário da edição removido; conferir se o versículo ficou completo
+Jr 2,11: comentário da edição removido; conferir se o versículo ficou completo
+Jr 4,15: comentário da edição removido; conferir se o versículo ficou completo
+Jr 4,18: comentário da edição removido; conferir se o versículo ficou completo
+Jr 5,1: comentário da edição removido; conferir se o versículo ficou completo
+Jr 6: faltam os versículos 17
+Jr 7: faltam os versículos 8
+Jr 12,10: comentário da edição removido; conferir se o versículo ficou completo
+Jr 13: faltam os versículos 11
+Jr 14: faltam os versículos 9
+Jr 16,3: comentário da edição removido; conferir se o versículo ficou completo
+Jr 16: faltam os versículos 7
+Jr 17,2: comentário da edição removido; conferir se o versículo ficou completo
+Jr 18: faltam os versículos 6
+Jr 20: faltam os versículos 2
+Jr 27,12: comentário da edição removido; conferir se o versículo ficou completo
+Jr 31,40: comentário da edição removido; conferir se o versículo ficou completo
+Jr 33: faltam os versículos 9, 11
+Jr 49,17: comentário da edição removido; conferir se o versículo ficou completo
+Jr 49: faltam os versículos 34
+Lm 4: faltam os versículos 14
+Br 3: faltam os versículos 11
+Br 6: faltam os versículos 66
+Ez 1,4: comentário da edição removido; conferir se o versículo ficou completo
+Ez 1,5: comentário da edição removido; conferir se o versículo ficou completo
+Ez 2,5: comentário da edição removido; conferir se o versículo ficou completo
+Ez 4,4: comentário da edição removido; conferir se o versículo ficou completo
+Ez 6,14: comentário da edição removido; conferir se o versículo ficou completo
+Ez 9,4: comentário da edição removido; conferir se o versículo ficou completo
+Ez 11: faltam os versículos 18
+Ez 16,4: comentário da edição removido; conferir se o versículo ficou completo
+Ez 16,31: comentário da edição removido; conferir se o versículo ficou completo
+Ez 16,48: comentário da edição removido; conferir se o versículo ficou completo
+Ez 16: faltam os versículos 38
+Ez 18: faltam os versículos 19
+Ez 19: faltam os versículos 15, 16, 17, 18, 19, 20, 21, 22
+Ez 20: faltam os versículos 36
+Ez 21: faltam os versículos 18
+Ez 23: faltam os versículos 15
+Ez 24: faltam os versículos 20
+Ez 27: faltam os versículos 23
+Ez 28,17: comentário da edição removido; conferir se o versículo ficou completo
+Ez 28: faltam os versículos 18
+Ez 29,20: comentário da edição removido; conferir se o versículo ficou completo
+Ez 31,17: comentário da edição removido; conferir se o versículo ficou completo
+Ez 32: faltam os versículos 11
+Ez 33: faltam os versículos 24
+Ez 34: faltam os versículos 14
+Ez 38,4: comentário da edição removido; conferir se o versículo ficou completo
+Ez 40: faltam os versículos 9, 47
+Ez 43: faltam os versículos 9
+Ez 44: faltam os versículos 9
+Ez 45: faltam os versículos 12
+Dn 2: faltam os versículos 10
+Dn 6: faltam os versículos 4
+Dn 7,6: comentário da edição removido; conferir se o versículo ficou completo
+Dn 7,8: comentário da edição removido; conferir se o versículo ficou completo
+Dn 8,5: comentário da edição removido; conferir se o versículo ficou completo
+Dn 8: faltam os versículos 1
+Dn 9,25: comentário da edição removido; conferir se o versículo ficou completo
+Dn 10,1: comentário da edição removido; conferir se o versículo ficou completo
+Dn 10,13: comentário da edição removido; conferir se o versículo ficou completo
+Dn 13: faltam os versículos 48, 54
+Os 1,6: comentário da edição removido; conferir se o versículo ficou completo
+Jl 1: faltam os versículos 4, 18, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39
+Am 1,7: comentário da edição removido; conferir se o versículo ficou completo
+Am 1: faltam os versículos 9
+Am 3: faltam os versículos 11, 12
+Am 5: faltam os versículos 3
+Am 7,6: comentário da edição removido; conferir se o versículo ficou completo
+Am 8,10: comentário da edição removido; conferir se o versículo ficou completo
+Ab 1: faltam os versículos 14
+Mq 1: faltam os versículos 4
+Hab 3: faltam os versículos 1
+Zc 2,7: comentário da edição removido; conferir se o versículo ficou completo
+Zc 4: faltam os versículos 11
+Zc 9,2: comentário da edição removido; conferir se o versículo ficou completo
+Zc 9,14: comentário da edição removido; conferir se o versículo ficou completo
+Zc 10,7: comentário da edição removido; conferir se o versículo ficou completo
+Ml 2: faltam os versículos 1
+Ml 3: faltam os versículos 5
+Mt 1,17: comentário da edição removido; conferir se o versículo ficou completo
+Mt 2,1: comentário da edição removido; conferir se o versículo ficou completo
+Mt 2,2: comentário da edição removido; conferir se o versículo ficou completo
+Mt 3,4: comentário da edição removido; conferir se o versículo ficou completo
+Mt 3,11: comentário da edição removido; conferir se o versículo ficou completo
+Mt 3: faltam os versículos 5
+Mt 5,7: comentário da edição removido; conferir se o versículo ficou completo
+Mt 5,10: comentário da edição removido; conferir se o versículo ficou completo
+Mt 5: faltam os versículos 47
+Mt 6: faltam os versículos 3, 25
+Mt 7: faltam os versículos 6
+Mt 8,6: comentário da edição removido; conferir se o versículo ficou completo
+Mt 8: faltam os versículos 11
+Mt 9,4: comentário da edição removido; conferir se o versículo ficou completo
+Mt 10: faltam os versículos 3
+Mt 11,22: comentário da edição removido; conferir se o versículo ficou completo
+Mt 12,5: comentário da edição removido; conferir se o versículo ficou completo
+Mt 12,27: comentário da edição removido; conferir se o versículo ficou completo
+Mt 14,9: comentário da edição removido; conferir se o versículo ficou completo
+Mt 14: faltam os versículos 47, 49
+Mt 15: faltam os versículos 17
+Mt 17: faltam os versículos 4
+Mt 18: faltam os versículos 2, 16, 22
+Mt 20,3: comentário da edição removido; conferir se o versículo ficou completo
+Mt 20: faltam os versículos 7, 26
+Mt 21: faltam os versículos 18
+Mt 22: faltam os versículos 43
+Mt 23,10: comentário da edição removido; conferir se o versículo ficou completo
+Mt 24: faltam os versículos 20
+Mt 25: faltam os versículos 25, 28
+Mt 26: faltam os versículos 2, 24, 69
+Mt 27,29: comentário da edição removido; conferir se o versículo ficou completo
+Mt 27,61: comentário da edição removido; conferir se o versículo ficou completo
+Mt 27: faltam os versículos 10, 39
+Mt 28,9: comentário da edição removido; conferir se o versículo ficou completo
+Mc 2: faltam os versículos 36
+Mc 3: faltam os versículos 2, 16
+Mc 4: faltam os versículos 18, 31
+Mc 6: faltam os versículos 54
+Mc 7: faltam os versículos 21
+Mc 8: faltam os versículos 19, 32
+Mc 9: faltam os versículos 7, 38, 41
+Mc 10,35: comentário da edição removido; conferir se o versículo ficou completo
+Mc 10: faltam os versículos 24
+Mc 11: faltam os versículos 28
+Mc 12: faltam os versículos 7
+Mc 13: faltam os versículos 3, 6, 10, 11, 32
+Mc 14: faltam os versículos 4, 19
+Mc 15: faltam os versículos 19
+Lc 1: faltam os versículos 40, 45
+Lc 3,13: comentário da edição removido; conferir se o versículo ficou completo
+Lc 3,34: comentário da edição removido; conferir se o versículo ficou completo
+Lc 3: faltam os versículos 2, 3, 24
+Lc 4,3: comentário da edição removido; conferir se o versículo ficou completo
+Lc 4: faltam os versículos 42
+Lc 5: faltam os versículos 8, 31
+Lc 6: faltam os versículos 13, 21
+Lc 7: faltam os versículos 18
+Lc 8: faltam os versículos 5
+Lc 9: faltam os versículos 44
+Lc 10,1: comentário da edição removido; conferir se o versículo ficou completo
+Lc 11: faltam os versículos 37
+Lc 12: faltam os versículos 3
+Lc 13: faltam os versículos 11, 22
+Lc 19,18: comentário da edição removido; conferir se o versículo ficou completo
+Lc 19,43: comentário da edição removido; conferir se o versículo ficou completo
+Lc 19: faltam os versículos 10
+Lc 20: faltam os versículos 27
+Lc 22,29: comentário da edição removido; conferir se o versículo ficou completo
+Lc 22,35: comentário da edição removido; conferir se o versículo ficou completo
+Lc 23: faltam os versículos 50
+Lc 24,1: comentário da edição removido; conferir se o versículo ficou completo
+Lc 24: faltam os versículos 37
+Jo 1,7: comentário da edição removido; conferir se o versículo ficou completo
+Jo 2: faltam os versículos 12
+Jo 3,23: comentário da edição removido; conferir se o versículo ficou completo
+Jo 5: faltam os versículos 11, 24
+Jo 6: faltam os versículos 20
+Jo 7: faltam os versículos 34, 45
+Jo 8: faltam os versículos 8, 14, 24, 53
+Jo 9: faltam os versículos 4, 19
+Jo 11: faltam os versículos 7, 13, 17
+Jo 12: faltam os versículos 8
+Jo 13: faltam os versículos 30
+Jo 14,13: comentário da edição removido; conferir se o versículo ficou completo
+Jo 14: faltam os versículos 19, 26
+Jo 16: faltam os versículos 6
+Jo 18: faltam os versículos 35
+Jo 19,35: comentário da edição removido; conferir se o versículo ficou completo
+Jo 19: faltam os versículos 16
+Jo 20: faltam os versículos 15
+Jo 21,25: comentário da edição removido; conferir se o versículo ficou completo
+At 2,1: comentário da edição removido; conferir se o versículo ficou completo
+At 2: faltam os versículos 42, 46
+At 3: faltam os versículos 17
+At 4: faltam os versículos 29
+At 5: faltam os versículos 4, 14
+At 7: faltam os versículos 26, 55
+At 8: faltam os versículos 17, 33
+At 9: faltam os versículos 16, 18, 19
+At 10,6: comentário da edição removido; conferir se o versículo ficou completo
+At 10: faltam os versículos 18
+At 12,27: comentário da edição removido; conferir se o versículo ficou completo
+At 13: faltam os versículos 21, 46
+At 14,4: comentário da edição removido; conferir se o versículo ficou completo
+At 14: faltam os versículos 12
+At 15,3: comentário da edição removido; conferir se o versículo ficou completo
+At 15,30: comentário da edição removido; conferir se o versículo ficou completo
+At 17: faltam os versículos 30
+At 18: faltam os versículos 10
+At 19,1: comentário da edição removido; conferir se o versículo ficou completo
+At 24: faltam os versículos 11
+At 26: faltam os versículos 30
+At 27: faltam os versículos 2, 18, 30
+At 28,17: comentário da edição removido; conferir se o versículo ficou completo
+At 28: faltam os versículos 11
+Rm 2: faltam os versículos 6, 18
+Rm 3,24: comentário da edição removido; conferir se o versículo ficou completo
+Rm 4: faltam os versículos 6
+Rm 5: faltam os versículos 16
+Rm 6,6: comentário da edição removido; conferir se o versículo ficou completo
+Rm 7: faltam os versículos 19
+Rm 8,29: comentário da edição removido; conferir se o versículo ficou completo
+Rm 8: faltam os versículos 9, 18
+Rm 9: faltam os versículos 11, 31
+Rm 11: faltam os versículos 15, 16
+Rm 12: faltam os versículos 19
+1Cor 1,16: comentário da edição removido; conferir se o versículo ficou completo
+1Cor 1: faltam os versículos 22
+1Cor 2,11: comentário da edição removido; conferir se o versículo ficou completo
+1Cor 3: faltam os versículos 16
+1Cor 4: faltam os versículos 9
+1Cor 5,9: comentário da edição removido; conferir se o versículo ficou completo
+1Cor 7: faltam os versículos 10
+1Cor 9,16: comentário da edição removido; conferir se o versículo ficou completo
+1Cor 9: faltam os versículos 1, 6
+1Cor 10,1: comentário da edição removido; conferir se o versículo ficou completo
+1Cor 11: faltam os versículos 11, 27, 28
+1Cor 13: faltam os versículos 4
+1Cor 15,11: comentário da edição removido; conferir se o versículo ficou completo
+1Cor 15,14: comentário da edição removido; conferir se o versículo ficou completo
+1Cor 15: faltam os versículos 54
+2Cor 4: faltam os versículos 16
+2Cor 6: faltam os versículos 10, 11
+2Cor 8: faltam os versículos 19
+2Cor 9: faltam os versículos 13
+2Cor 10,12: comentário da edição removido; conferir se o versículo ficou completo
+2Cor 10: faltam os versículos 2
+2Cor 11,5: comentário da edição removido; conferir se o versículo ficou completo
+2Cor 11: faltam os versículos 9
+2Cor 12: faltam os versículos 14
+Gl 1: faltam os versículos 11
+Gl 4: faltam os versículos 24
+Gl 6: faltam os versículos 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61
+Ef 2: faltam os versículos 21
+Ef 3: faltam os versículos 16
+Ef 5: faltam os versículos 22
+Ef 6: faltam os versículos 17
+Fl 3: faltam os versículos 13
+Fl 4: faltam os versículos 10, 22
+Cl 2: faltam os versículos 13
+Cl 3: faltam os versículos 21
+1Ts 2: faltam os versículos 4, 6
+2Ts 2,7: comentário da edição removido; conferir se o versículo ficou completo
+2Ts 2: faltam os versículos 3
+2Ts 3,1: comentário da edição removido; conferir se o versículo ficou completo
+2Ts 3: faltam os versículos 11
+1Tm 1: faltam os versículos 3
+1Tm 3,9: comentário da edição removido; conferir se o versículo ficou completo
+1Tm 3: faltam os versículos 15
+1Tm 5,21: comentário da edição removido; conferir se o versículo ficou completo
+1Tm 5,33: comentário da edição removido; conferir se o versículo ficou completo
+1Tm 5: faltam os versículos 2, 18, 26, 27, 28, 29, 30, 31, 32
+1Tm 6: faltam os versículos 2, 16
+2Tm 1: faltam os versículos 3, 8
+2Tm 2: faltam os versículos 2
+2Tm 3,7: comentário da edição removido; conferir se o versículo ficou completo
+2Tm 3: faltam os versículos 5
+Tt 1: faltam os versículos 10, 14
+Fm 1: faltam os versículos 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14
+Hb 3: faltam os versículos 2, 3, 4
+Hb 5,7: comentário da edição removido; conferir se o versículo ficou completo
+Hb 7: faltam os versículos 21
+Hb 9,13: comentário da edição removido; conferir se o versículo ficou completo
+Hb 9: faltam os versículos 5
+Hb 10: faltam os versículos 4, 23, 27
+Hb 11,36: comentário da edição removido; conferir se o versículo ficou completo
+Hb 11,40: comentário da edição removido; conferir se o versículo ficou completo
+Hb 11: faltam os versículos 31
+Hb 12: faltam os versículos 13
+Hb 13: faltam os versículos 5
+Tg 1: faltam os versículos 4, 16, 21
+Tg 3: faltam os versículos 17
+Tg 4: faltam os versículos 4
+Tg 5,17: comentário da edição removido; conferir se o versículo ficou completo
+Tg 5: faltam os versículos 2
+1Pd 1: faltam os versículos 24
+1Pd 3,22: comentário da edição removido; conferir se o versículo ficou completo
+1Pd 3: faltam os versículos 8
+1Pd 5,14: comentário da edição removido; conferir se o versículo ficou completo
+2Pd 1: faltam os versículos 10, 11, 14
+2Pd 3: faltam os versículos 2
+1Jo 3: faltam os versículos 5, 25
+1Jo 5,6: comentário da edição removido; conferir se o versículo ficou completo
+1Jo 5: faltam os versículos 3, 7, 11
+2Jo 1: faltam os versículos 8, 13, 14, 15, 16
+3Jo 1: faltam os versículos 2, 3
+Jd 1: faltam os versículos 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 17, 21
+Ap 1,6: comentário da edição removido; conferir se o versículo ficou completo
+Ap 1,14: comentário da edição removido; conferir se o versículo ficou completo
+Ap 1: faltam os versículos 18
+Ap 2: faltam os versículos 17
+Ap 3: faltam os versículos 3, 8, 18
+Ap 4: faltam os versículos 4
+Ap 6: faltam os versículos 14, 15
+Ap 10: faltam os versículos 3
+Ap 11,2: comentário da edição removido; conferir se o versículo ficou completo
+Ap 13,1: comentário da edição removido; conferir se o versículo ficou completo
+Ap 13,6: comentário da edição removido; conferir se o versículo ficou completo
+Ap 13,9: comentário da edição removido; conferir se o versículo ficou completo
+Ap 13,17: comentário da edição removido; conferir se o versículo ficou completo
+Ap 13: faltam os versículos 10, 11
+Ap 14,1: comentário da edição removido; conferir se o versículo ficou completo
+Ap 14,3: comentário da edição removido; conferir se o versículo ficou completo
+Ap 14: faltam os versículos 17
+Ap 16,12: comentário da edição removido; conferir se o versículo ficou completo
+Ap 16,14: comentário da edição removido; conferir se o versículo ficou completo
+Ap 16,21: comentário da edição removido; conferir se o versículo ficou completo
+Ap 17,3: comentário da edição removido; conferir se o versículo ficou completo
+Ap 17,6: comentário da edição removido; conferir se o versículo ficou completo
+Ap 17,16: comentário da edição removido; conferir se o versículo ficou completo
+Ap 18,5: comentário da edição removido; conferir se o versículo ficou completo
+Ap 18: faltam os versículos 14, 18
+Ap 19: faltam os versículos 7, 13
+Ap 20: faltam os versículos 4
+Ap 21: faltam os versículos 23, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51

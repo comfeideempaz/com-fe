@@ -1,0 +1,3 @@
+Texto: Bíblia Sagrada, trad. Pe. Antônio Pereira de Figueiredo (domínio público), edição de 1950.
+Extração OCR: https://github.com/ronaldomelofz/abibliasagrada (commit 233ac4ad6bde31a3c328c03fcad3ed1c6fbafe45).
+Só o texto dos versículos foi importado; notas e títulos de capítulo ficaram de fora.
