@@ -3,7 +3,7 @@
 // junto com o ?v= do index.html.
 
 export const APP_NAME = "Com Fé!";
-export const APP_VERSION = "1.3.0";
+export const APP_VERSION = "1.4.0";
 
 // Chave do progresso no localStorage de antes do login (e do modo sem nuvem).
 // Continua "catequizando:v1" (nome antigo do app); no primeiro login ele vai para a conta.

@@ -82,6 +82,18 @@ self.addEventListener("fetch", e => {{
     }}));
     return;
   }}
+  // Fotos dos santos (Wikimedia Commons): guardadas num cache próprio, que não some
+  // quando o app atualiza, para aparecerem também sem internet depois da primeira vez.
+  if (url.hostname === "upload.wikimedia.org") {{
+    e.respondWith(caches.open("fotos-santos").then(async c => {{
+      const salvo = await c.match(req);
+      if (salvo) return salvo;
+      const r = await fetch(req);
+      if (r.ok || r.type === "opaque") c.put(req, r.clone());
+      return r;
+    }}));
+    return;
+  }}
   if (url.origin !== location.origin) return;
 
   const conteudo = url.pathname.includes("/data/") || url.pathname.includes("/icons/");
