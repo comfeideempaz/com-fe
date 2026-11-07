@@ -42,6 +42,15 @@ def main():
         santoral.append({"id": sid, "nome": nome, "dia": dia, "grau": grau,
                          "grauNome": GRAUS.get(grau, grau), "cor": cor, "tipo": tipo(sid, nome)})
     por_id = {s["id"]: s for s in santoral}
+    # Título do artigo na Wikipédia (en) de cada santo: o app busca a foto livre no Commons.
+    wiki = json.loads((RAIZ / "tools" / "liturgia_src" / "santos_wiki.json").read_text(encoding="utf-8"))
+    for sid, titulo in wiki.items():
+        if sid.startswith("_"):
+            continue
+        if sid not in por_id:
+            mc.erros.append(f"santos_wiki.json: id '{sid}' não está no santoral")
+            continue
+        por_id[sid]["wiki"] = titulo
 
     vidas = {}
     for arq in sorted((RAIZ / "tools" / "conteudo_src" / "santos").glob("*.json")):

@@ -4,10 +4,11 @@ import { cabecalho } from "../ui.js";
 import { ic } from "../icons.js";
 
 const ITENS = [
+  { rota: "#/planos", icone: "planos", titulo: "Projetos de leitura", texto: "A Bíblia toda em 1 ano e outros caminhos" },
   { rota: "#/lectio", icone: "pena", titulo: "Lectio Divina", texto: "Leitura orante e minhas meditações" },
   { rota: "#/santos", icone: "santo", titulo: "Santos", texto: "Histórias e curiosidades" },
   { rota: "#/missa", icone: "calice", titulo: "Missa explicada", texto: "Cada parte e o porquê" },
-  { rota: "#/oracoes", icone: "maos", titulo: "Orações", texto: "Orações e terço guiado" },
+  { rota: "#/oracoes", icone: "maos", titulo: "Orações", texto: "As orações da fé católica" },
   { rota: "#/sacramentos", icone: "cruz", titulo: "Sacramentos", texto: "Confissão e exame de consciência" },
   { rota: "#/defesa", icone: "escudo", titulo: "Defesa da Fé", texto: "Respostas com a Bíblia e o Catecismo" },
   { rota: "#/progresso", icone: "progresso", titulo: "Meu progresso", texto: "Sequência, selos, meta e conta" },

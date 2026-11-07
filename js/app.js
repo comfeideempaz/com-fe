@@ -4,7 +4,6 @@
 
 import { APP_NAME } from "./config.js";
 import { ic } from "./icons.js";
-import { lumi } from "./lumi.js";
 import { getState, subscribe } from "./store.js";
 import { verificar as verificarSelos } from "./selos.js";
 import { dia as diaLiturgico, aplicarCor } from "./liturgia.js";
@@ -16,8 +15,9 @@ import { iniciarConta, getModo, aoMudarConta, lembrarRota } from "./conta.js";
 const MENU = [
   { id: "inicio", rota: "#/inicio", rotulo: "Início", icone: "casa", celular: true, computador: true },
   { id: "biblia", rota: "#/biblia", rotulo: "Bíblia", icone: "livro", celular: true, computador: true },
-  { id: "planos", rota: "#/planos", rotulo: "Planos", icone: "planos", celular: true, computador: true },
+  { id: "terco", rota: "#/terco", rotulo: "Terço", icone: "terco", celular: true, computador: true },
   { id: "liturgia", rota: "#/liturgia", rotulo: "Liturgia", icone: "calendario", celular: true, computador: true },
+  { id: "planos", rota: "#/planos", rotulo: "Projetos de leitura", icone: "planos", computador: true },
   { id: "lectio", rota: "#/lectio", rotulo: "Lectio Divina", icone: "pena", computador: true },
   { id: "santos", rota: "#/santos", rotulo: "Santos", icone: "santo", computador: true },
   { id: "missa", rota: "#/missa", rotulo: "Missa explicada", icone: "calice", computador: true },
@@ -46,6 +46,7 @@ const ROUTES = [
   { re: /^\/santos$/, nav: "santos", title: "Santos", view: "santos" },
   { re: /^\/santos\/([a-z0-9-]+)$/, nav: "santos", title: "Santo", view: "santos", params: ["id"] },
   { re: /^\/missa$/, nav: "missa", title: "Missa explicada", view: "missa" },
+  { re: /^\/terco$/, nav: "terco", title: "Terço", view: "terco" },
   { re: /^\/oracoes$/, nav: "oracoes", title: "Orações", view: "oracoes" },
   { re: /^\/oracoes\/([a-z0-9-]+)$/, nav: "oracoes", title: "Orações", view: "oracoes", params: ["id"] },
   { re: /^\/sacramentos$/, nav: "sacramentos", title: "Sacramentos", view: "sacramentos" },
@@ -59,14 +60,13 @@ const ROUTES = [
   { re: /^\/entrar\/(criar|esqueci|nova-senha)$/, nav: "", title: "Entrar", view: "entrar", params: ["etapa"], livre: true, semMenu: true },
 ];
 
-const MAIS_INCLUI = ["lectio", "santos", "missa", "oracoes", "sacramentos", "defesa", "progresso", "sobre"];
+const MAIS_INCLUI = ["planos", "lectio", "santos", "missa", "oracoes", "sacramentos", "defesa", "progresso", "sobre"];
 
 function montarMenu() {
   document.getElementById("nav-lista").innerHTML = MENU.map(m => {
     const classes = [m.celular ? "nav-celular" : "", m.computador ? "nav-computador" : ""].join(" ");
     return `<li class="${classes}"><a href="${m.rota}" data-nav="${m.id}">${ic(m.icone)}<span>${m.rotulo}</span></a></li>`;
   }).join("");
-  document.querySelector(".nav-marca-lumi").innerHTML = lumi({ tamanho: 36, rotulo: "" });
 }
 
 function marcarMenu(nav) {

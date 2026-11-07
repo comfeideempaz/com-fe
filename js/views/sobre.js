@@ -21,6 +21,7 @@ export function render(el) {
         <li>Bíblia Sagrada, tradução do Pe. Antônio Pereira de Figueiredo (domínio público), digitalizada de uma edição de 1950 e revisada automaticamente; alguns versículos ainda faltam e estão marcados</li>
         <li>Referências das leituras do Lecionário Romano, com as próprias do Brasil</li>
         <li>Padres da Igreja (Inácio de Antioquia, Justino, Ireneu, Agostinho e outros), em tradução livre</li>
+        <li>Imagens dos santos: Wikimedia Commons, só obras em domínio público ou com licença livre; o autor e a licença de cada uma aparecem na página do santo</li>
       </ul>
       <p class="apoio">Encontrou algo para corrigir? Avise a sua paróquia ou o responsável pelo app.</p>
     </section>

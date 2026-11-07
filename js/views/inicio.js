@@ -9,15 +9,17 @@ import { dia, leiturasDe, COR_NOME, aplicarCor } from "../liturgia.js";
 import { carregar } from "../content.js";
 import { hojeISO } from "../ui.js";
 import { getModo } from "../conta.js";
+import { retrato, aplicarFotos, fotoDe } from "../fotos.js";
 
 const ATALHOS = [
+  { rota: "#/terco", icone: "terco", titulo: "Rezar o terço", texto: "Rosário interativo, conta por conta", destaque: true },
   { rota: "#/biblia", icone: "livro", titulo: "Bíblia", texto: "Os 73 livros, offline" },
   { rota: "#/planos", icone: "planos", titulo: "Projetos de leitura", texto: "A Bíblia toda em 1 ano" },
   { rota: "#/lectio", icone: "pena", titulo: "Lectio Divina", texto: "Rezar e escrever com a Palavra" },
   { rota: "#/liturgia", icone: "calendario", titulo: "Liturgia", texto: "Tempo, cor e leituras" },
   { rota: "#/missa", icone: "calice", titulo: "Missa explicada", texto: "Cada parte e o porquê" },
   { rota: "#/santos", icone: "santo", titulo: "Santos", texto: "Histórias e curiosidades" },
-  { rota: "#/oracoes", icone: "maos", titulo: "Orações", texto: "Orações e terço guiado" },
+  { rota: "#/oracoes", icone: "maos", titulo: "Orações", texto: "Orações da fé católica" },
   { rota: "#/sacramentos", icone: "cruz", titulo: "Sacramentos", texto: "Confissão e exame de consciência" },
   { rota: "#/defesa", icone: "escudo", titulo: "Defesa da Fé", texto: "Respostas com a Bíblia" },
   { rota: "#/progresso", icone: "selo", titulo: "Meu caminho", texto: "Sequência, selos e backup" },
@@ -53,7 +55,6 @@ function heroHTML(h) {
     <p>${d.diaTempo && d.diaTempo !== d.nome ? esc(d.diaTempo) + " · " : ""}Cor ${esc((COR_NOME[d.cor] || d.cor).toLowerCase())}${d.preceito ? " · dia de preceito" : ""}</p>
     <div class="chips">
       ${ev.length ? `<a class="chip" href="#/liturgia/${d.data}">${ic("livro")} Evangelho: ${esc(ev[0].txt)}</a>` : ""}
-      ${santo && santo.id !== d.santo ? `<a class="chip" href="${santo.vida ? `#/santos/${santo.id}` : `#/liturgia/${d.data}`}">${ic("santo")} ${esc(santo.nome.split(",")[0])}</a>` : ""}
       <a class="chip" href="#/liturgia/${d.data}">${ic("calendario")} Leituras e dicas</a>
     </div>`;
 }
@@ -82,6 +83,11 @@ function desenhar(el, hoje) {
       </div>
     </section>
 
+    ${hoje?.santo && hoje.santo.tipo !== "celebracao" ? `<a class="cartao santo-dia" href="#/santos/${hoje.santo.id}">
+      ${retrato(hoje.santo, "grande")}
+      <span><span class="kicker">Santo do dia</span><strong>${esc(hoje.santo.nome.split(",")[0])}</strong>
+      <small>${esc((hoje.santo.patrono || []).slice(0, 3).join(" · ") || hoje.santo.grauNome)}</small></span>${ic("seta", "seta")}</a>` : ""}
+
     ${getModo() === "visitante" ? `<section class="cartao faixa-visitante">
       <p><strong>Você está como visitante.</strong> Pode usar tudo, mas o seu progresso some ao fechar o app.</p>
       <a class="botao secundario" href="#/entrar/criar">Criar conta e salvar</a>
@@ -104,7 +110,7 @@ function desenhar(el, hoje) {
 
     <h2 class="secao">Para hoje</h2>
     <nav class="tiles" aria-label="Áreas do app">
-      ${ATALHOS.map(a => `<a class="tile" href="${a.rota}"><span class="tile-ic">${ic(a.icone)}</span><span class="tile-t">${a.titulo}</span><span class="tile-x">${a.texto}</span></a>`).join("")}
+      ${ATALHOS.map(a => `<a class="tile${a.destaque ? " destaque" : ""}" href="${a.rota}"><span class="tile-ic">${ic(a.icone)}</span><span class="tile-t">${a.titulo}</span><span class="tile-x">${a.texto}</span></a>`).join("")}
     </nav>
 
     <h2 class="secao">Últimas atividades</h2>
@@ -116,6 +122,9 @@ function desenhar(el, hoje) {
 
 export async function render(el) {
   const hoje = await hojeNaIgreja();
-  desenhar(el, hoje);
-  return subscribe(() => desenhar(el, hoje));
+  let fotos = {};
+  const tudo = () => { desenhar(el, hoje); aplicarFotos(el, fotos); };
+  tudo();
+  if (hoje?.santo) fotoDe(hoje.santo).then(f => { if (f) { fotos = { [hoje.santo.id]: f }; aplicarFotos(el, fotos); } }).catch(() => {});
+  return subscribe(tudo);
 }
