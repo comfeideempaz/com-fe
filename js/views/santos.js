@@ -54,13 +54,13 @@ async function indice(el) {
   };
   const comVida = visiveis.filter(s => s.vida).length;
   el.innerHTML = `<header class="tela-topo"><p class="kicker">Comunhão dos santos</p><h1 tabindex="-1">Santos</h1>
-      <p class="apoio">${visiveis.length} celebrações do calendário no Brasil, ${comVida} com a vida completa. “Rodeados de tão grande nuvem de testemunhas” (Hb 12,1).</p></header>
+      <p class="apoio">${comVida === visiveis.length ? `As ${visiveis.length} celebrações de santos e de Nossa Senhora do calendário no Brasil, cada uma com a sua história.` : `${visiveis.length} celebrações do calendário no Brasil, ${comVida} com a vida completa.`} “Rodeados de tão grande nuvem de testemunhas” (Hb 12,1).</p></header>
     <label class="busca"><span class="sr">Buscar santo</span>${ic("busca")}<input type="search" id="busca-santo" placeholder="Buscar por nome ou padroeiro (ex.: médicos)" autocomplete="off"></label>
-    <label class="alternar"><input type="checkbox" id="so-vidas"> Mostrar só os que têm a vida completa</label>
+    ${comVida < visiveis.length ? `<label class="alternar"><input type="checkbox" id="so-vidas"> Mostrar só os que têm a vida completa</label>` : ""}
     <div id="santos-corpo"></div>
     <p class="fontes">Imagens: Wikimedia Commons (obras em domínio público ou com licença livre; o crédito de cada uma aparece na página do santo).</p>`;
   el.querySelector("#busca-santo").addEventListener("input", e => { filtro = e.target.value; desenhar(); });
-  el.querySelector("#so-vidas").addEventListener("change", e => { soVidas = e.target.checked; desenhar(); });
+  el.querySelector("#so-vidas")?.addEventListener("change", e => { soVidas = e.target.checked; desenhar(); });
   desenhar();
   // Fotos: primeiro as de hoje e dos próximos dias, depois o resto.
   const ordem = [...visiveis.filter(s => s.dia >= hoje), ...visiveis.filter(s => s.dia < hoje)];
@@ -88,7 +88,7 @@ async function vida(el, id) {
       <div class="santo-capa-texto">
         <p class="kicker">${esc(diaTexto(s.dia))} · ${esc(s.grauNome)}</p>
         <h1 tabindex="-1">${esc(s.nome)}</h1>
-        <div class="chips"><span class="chip">${esc(s.titulo)}</span><span class="chip">${esc(s.viveu)}</span>${s.local && s.local !== "—" ? `<span class="chip">${esc(s.local)}</span>` : ""}</div>
+        <div class="chips"><span class="chip">${esc(s.titulo)}</span>${s.viveu && s.viveu !== "—" ? `<span class="chip">${esc(s.viveu)}</span>` : ""}${s.local && s.local !== "—" ? `<span class="chip">${esc(s.local)}</span>` : ""}</div>
         ${temVoz() ? `<p class="santo-ouvir"><button class="botao secundario pequeno" id="ouvir">${ic("volume")} Ouvir a história</button></p>` : ""}
       </div>
     </header>

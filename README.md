@@ -55,9 +55,10 @@ Para refazer os ícones a partir da arte "Com Fé!" (`tools/icone_src/com-fe.jpe
 | `#/planos` | Projetos de leitura |
 | `#/liturgia` | Calendário e dia litúrgico |
 | `#/lectio` | Lectio Divina: 5 passos sobre o Evangelho do dia ou um trecho, meditações escritas salvas no aparelho, com histórico |
-| `#/santos` | Santos |
+| `#/terco` | Terço interativo (rosário em SVG que acende conta por conta) |
+| `#/santos` | Santos (217 vidas, com foto do Wikimedia Commons) |
 | `#/missa` | Missa explicada |
-| `#/oracoes`, `#/oracoes/terco` | Orações e terço guiado |
+| `#/oracoes` | Orações (o antigo `#/oracoes/terco` leva ao `#/terco`) |
 | `#/sacramentos` | Sacramentos, como se confessar, exame de consciência |
 | `#/defesa` | Defesa da Fé |
 | `#/progresso` | Meu progresso |
@@ -79,7 +80,7 @@ Sempre com `python3 -I`, a partir da raiz:
 python3 -I tools/make_biblia.py      # data/biblia/ (+ tools/relatorios/biblia.txt)
 python3 -I tools/make_liturgia.py    # data/calendario/, leituras.json, dicas.json
 python3 -I tools/make_conteudo.py    # oracoes, missa, sacramentos, defesa, liturgia, selos, lectio
-python3 -I tools/make_santos.py      # data/santos/
+python3 -I tools/make_santos.py      # data/santos/ (vidas em tools/conteudo_src/santos/*.json; foto: título da Wikipédia em tools/liturgia_src/santos_wiki.json)
 python3 -I tools/make_planos.py      # data/planos.json
 python3 -I tools/make_sw.py          # sw.js (rode por último, a cada mudança)
 ```

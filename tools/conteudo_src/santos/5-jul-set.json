@@ -1,0 +1,893 @@
+{
+  "_comentario": "Vidas que faltavam (julho a setembro), escritas em 07/11/2026.",
+  "isabel-de-portugal": {
+    "titulo": "Rainha",
+    "viveu": "1271 – 1336",
+    "local": "Aragão (Espanha) e Coimbra (Portugal)",
+    "patrono": ["Coimbra", "a paz", "rainhas"],
+    "historia": [
+      "Isabel era filha do rei de Aragão e sobrinha-neta de Santa Isabel da Hungria, de quem recebeu o nome. Aos 12 anos foi dada em casamento ao rei D. Dinis de Portugal.",
+      "O marido lhe foi muitas vezes infiel, mas ela respondeu com paciência, oração e até cuidou dos filhos que ele teve fora do casamento. Ficou conhecida pela caridade: fundou hospitais, albergues e um abrigo para mulheres abandonadas.",
+      "Foi pacificadora: interveio várias vezes entre o marido e o filho, D. Afonso, que estavam em guerra, e entre reis da Península. Viúva, viveu como terciária franciscana junto ao convento das clarissas em Coimbra. Morreu em Estremoz, a caminho de mais uma missão de paz."
+    ],
+    "tradicao": [
+      "No “milagre das rosas”, ao ser surpreendida levando pão aos pobres escondido no regaço, ela teria dito que eram rosas, e o pão se transformou em rosas, em pleno inverno."
+    ],
+    "curiosidades": [
+      "Em Portugal é chamada de “Rainha Santa”.",
+      "Seu corpo, incorrupto, é venerado no Mosteiro de Santa Clara-a-Nova, em Coimbra."
+    ],
+    "biblia": ["Mt 5,9", "Pr 31,20"],
+    "fontes": ["Martirológio Romano, 4 de julho"]
+  },
+  "antonio-maria-zaccaria": {
+    "titulo": "Presbítero",
+    "viveu": "1502 – 1539",
+    "local": "Cremona e Milão (Itália)",
+    "patrono": [],
+    "historia": [
+      "Antônio Maria ficou órfão de pai muito cedo e foi educado pela mãe com fé e caridade. Formou-se em medicina em Pádua, mas, cuidando dos doentes, percebeu que eles precisavam também de cura espiritual.",
+      "Foi ordenado sacerdote e, em Milão, fundou três comunidades: os Clérigos Regulares de São Paulo (barnabitas), as irmãs angélicas e um grupo de leigos casados, todos inspirados no apóstolo Paulo.",
+      "Promoveu a adoração das Quarenta Horas diante do Santíssimo, o toque dos sinos às sextas-feiras às 15h em memória da morte de Jesus e a renovação do clero. Morreu aos 36 anos."
+    ],
+    "curiosidades": [
+      "Os barnabitas receberam esse nome por causa da igreja de São Barnabé, em Milão.",
+      "Foi canonizado em 1897, por Leão XIII."
+    ],
+    "biblia": ["Gl 2,19-20", "1Cor 9,22"],
+    "fontes": ["Martirológio Romano, 5 de julho"]
+  },
+  "agostinho-zhao-rong": {
+    "titulo": "Presbítero e companheiros, mártires",
+    "viveu": "séc. XVII – XX",
+    "local": "China",
+    "patrono": ["China"],
+    "historia": [
+      "Nesta memória a Igreja recorda 120 mártires da China, mortos entre 1648 e 1930: bispos, padres, religiosos e, sobretudo, leigos chineses, entre eles crianças e idosos.",
+      "Agostinho Zhao Rong era soldado e acompanhou um missionário preso até a prisão. Tocado pela coragem dele, pediu o Batismo, foi ordenado padre e mais tarde morreu na prisão, depois de torturas, em 1815.",
+      "Muitos dos mártires morreram durante a revolta dos Boxers, em 1900, quando milhares de cristãos foram mortos. São João Paulo II os canonizou em 1º de outubro de 2000."
+    ],
+    "curiosidades": [
+      "Entre eles está Ana Wang, uma menina de 14 anos que não quis renegar a fé.",
+      "São 87 chineses e 33 missionários estrangeiros."
+    ],
+    "biblia": ["Mt 5,10-12", "Ap 7,13-14"],
+    "fontes": ["Martirológio Romano, 9 de julho"]
+  },
+  "henrique": {
+    "titulo": "Imperador",
+    "viveu": "973 – 1024",
+    "local": "Baviera (Alemanha)",
+    "patrono": ["Baviera", "oblatos beneditinos"],
+    "historia": [
+      "Henrique era duque da Baviera e foi educado por São Volfgango, bispo de Ratisbona. Tornou-se rei da Alemanha em 1002 e foi coroado imperador em Roma em 1014.",
+      "Governou procurando a justiça e a paz, protegeu os pobres e ajudou a Igreja a se renovar: apoiou a reforma dos mosteiros, fundou a diocese de Bamberg e construiu a sua catedral.",
+      "Casou-se com Santa Cunegundes, também canonizada. Não tiveram filhos. Henrique foi canonizado em 1146, raro exemplo de governante leigo declarado santo."
+    ],
+    "tradicao": [
+      "Conta-se que quis ser monge na abadia de Verdun, mas o abade lhe ordenou, por obediência, que continuasse governando."
+    ],
+    "curiosidades": [
+      "Foi o último imperador da dinastia saxônica.",
+      "Ele e Cunegundes estão sepultados juntos na catedral de Bamberg."
+    ],
+    "biblia": ["Sb 6,1-11", "Mt 6,33"],
+    "fontes": ["Martirológio Romano, 13 de julho"]
+  },
+  "camilo-de-lellis": {
+    "titulo": "Presbítero",
+    "viveu": "1550 – 1614",
+    "local": "Abruzos e Roma (Itália)",
+    "patrono": ["doentes", "hospitais", "enfermeiros"],
+    "historia": [
+      "Camilo foi soldado mercenário e jogador compulsivo, perdeu tudo nas cartas e trabalhou como operário num convento capuchinho. Em 1575, depois de uma conversa com um frade, converteu-se.",
+      "Tinha uma ferida crônica na perna e, tratando-se no hospital São Tiago, em Roma, viu como os doentes eram mal cuidados. Ficou lá como enfermeiro e depois como administrador.",
+      "Ordenado sacerdote, fundou os Ministros dos Enfermos (camilianos), que fazem um voto especial de servir os doentes mesmo com risco de vida. Dizia: “Mais coração nessas mãos!”."
+    ],
+    "curiosidades": [
+      "A cruz vermelha no hábito dos camilianos é considerada a primeira “cruz vermelha” usada no socorro a feridos de guerra.",
+      "Leão XIII o declarou padroeiro dos doentes e dos hospitais, e Pio XI, dos enfermeiros."
+    ],
+    "biblia": ["Mt 25,36-40", "Jo 15,13"],
+    "fontes": ["Martirológio Romano, 14 de julho"]
+  },
+  "boaventura": {
+    "titulo": "Bispo e Doutor da Igreja",
+    "viveu": "c. 1217 – 1274",
+    "local": "Bagnoregio, Paris e Lyon",
+    "patrono": [],
+    "historia": [
+      "João de Fidanza nasceu em Bagnoregio, na Itália. Segundo a tradição, curado de uma doença grave na infância pela intercessão de São Francisco, recebeu o nome de Boaventura.",
+      "Entrou para os franciscanos e foi professor na Universidade de Paris, ao mesmo tempo que Santo Tomás de Aquino. Em 1257 foi eleito ministro-geral da ordem, que governou por 17 anos, ajudando-a a manter o espírito de São Francisco.",
+      "Escreveu a vida oficial de São Francisco e obras de mística, como o “Itinerário da mente para Deus”. Foi feito cardeal e bispo de Albano e morreu durante o II Concílio de Lyon. É chamado o “Doutor Seráfico”."
+    ],
+    "tradicao": [
+      "Conta-se que, quando lhe levaram o chapéu de cardeal, estava lavando pratos e pediu que o pendurassem numa árvore até terminar."
+    ],
+    "curiosidades": [
+      "Foi declarado Doutor da Igreja em 1588, por Sisto V.",
+      "Bento XVI estudou a sua teologia na tese de habilitação."
+    ],
+    "biblia": ["Ef 3,14-19", "Gl 6,14"],
+    "fontes": ["Martirológio Romano, 15 de julho", "Bento XVI, Audiências gerais sobre São Boaventura (2010)"]
+  },
+  "nossa-senhora-do-carmo": {
+    "titulo": "Festa de Nossa Senhora",
+    "viveu": "séc. XII – XIII",
+    "local": "Monte Carmelo (Terra Santa)",
+    "patrono": ["carmelitas", "devotos do escapulário"],
+    "historia": [
+      "O Monte Carmelo, na Terra Santa, é o lugar onde o profeta Elias defendeu a fé no Deus verdadeiro. No século XII, eremitas cristãos se estabeleceram ali e construíram uma capela dedicada a Nossa Senhora. Assim nasceu a Ordem do Carmo.",
+      "Os carmelitas se consideram irmãos de Maria e a veem como modelo de escuta da Palavra e de oração. Mais tarde, a ordem passou para a Europa e deu à Igreja grandes santos, como Teresa d'Ávila, João da Cruz e Teresinha.",
+      "A festa de 16 de julho celebra a proteção de Maria sobre a ordem e sobre todos os que se consagram a ela."
+    ],
+    "tradicao": [
+      "Segundo a tradição carmelita, em 1251 Nossa Senhora apareceu a São Simão Stock e lhe entregou o escapulário marrom como sinal da sua proteção."
+    ],
+    "curiosidades": [
+      "O escapulário é um sacramental: lembra a consagração a Maria e o compromisso de viver como cristão, não é um amuleto.",
+      "No Brasil, Nossa Senhora do Carmo é padroeira de muitas cidades e igrejas antigas."
+    ],
+    "biblia": ["1Rs 18,41-45", "Lc 11,27-28", "Zc 2,14-17"],
+    "fontes": ["Missal Romano, 16 de julho", "Diretório sobre a piedade popular e a liturgia, 205"]
+  },
+  "inacio-de-azevedo": {
+    "titulo": "Presbítero e companheiros, mártires",
+    "viveu": "1526 – 1570",
+    "local": "Porto (Portugal) e Atlântico (Canárias)",
+    "patrono": ["missionários no Brasil"],
+    "historia": [
+      "Inácio de Azevedo nasceu no Porto, de família nobre, e entrou na Companhia de Jesus. Em 1566 foi enviado ao Brasil como visitador das missões jesuítas e conheceu de perto o trabalho de Nóbrega e Anchieta.",
+      "Voltou à Europa para buscar mais missionários. Em 1570 partiu de Lisboa com mais de 70 jesuítas, a maioria jovens, rumo ao Brasil.",
+      "Em 15 de julho de 1570, perto das ilhas Canárias, o navio Santiago, onde estavam Inácio e 39 companheiros, foi atacado por corsários calvinistas franceses. Todos foram mortos por serem católicos e lançados ao mar. Pio IX os beatificou em 1854."
+    ],
+    "tradicao": [
+      "Conta-se que Inácio morreu segurando uma imagem de Nossa Senhora, cópia da imagem de Santa Maria Maior que o papa São Pio V lhe permitira levar."
+    ],
+    "curiosidades": [
+      "São chamados “os 40 mártires do Brasil”, embora não tenham chegado a pisar no Brasil.",
+      "Sua memória é própria do calendário do Brasil."
+    ],
+    "biblia": ["Mt 28,19-20", "Ap 7,13-14"],
+    "fontes": ["Diretório Litúrgico da CNBB", "Martirológio Romano, 15 de julho"]
+  },
+  "apolinario": {
+    "titulo": "Bispo e mártir",
+    "viveu": "séc. II?",
+    "local": "Ravena (Itália)",
+    "patrono": ["Ravena"],
+    "historia": [
+      "Apolinário foi o primeiro bispo de Ravena, na Itália, e o seu culto é muito antigo: São Pedro Crisólogo, bispo de Ravena no século V, já o chama de mártir.",
+      "Sabemos com segurança pouco da sua vida. Ensinou a fé em Ravena e na região de Classe, o porto da cidade, sofrendo perseguições.",
+      "No século VI foi construída em sua honra a basílica de Santo Apolinário em Classe, com belos mosaicos que mostram o bispo de braços abertos em oração, no meio de ovelhas."
+    ],
+    "tradicao": [
+      "Uma tradição tardia diz que era de Antioquia e foi enviado a Ravena pelo próprio São Pedro."
+    ],
+    "curiosidades": [
+      "Os mosaicos da sua basílica são Patrimônio Mundial da UNESCO.",
+      "É celebrado também pelas Igrejas orientais."
+    ],
+    "biblia": ["Jo 10,11-16", "2Tm 4,5-8"],
+    "fontes": ["Martirológio Romano, 20 de julho"],
+    "revisar": true,
+    "obs": "Datas incertas."
+  },
+  "lourenco-de-brindisi": {
+    "titulo": "Presbítero e Doutor da Igreja",
+    "viveu": "1559 – 1619",
+    "local": "Brindisi (Itália), Europa central e Lisboa",
+    "patrono": [],
+    "historia": [
+      "Júlio César Russo nasceu em Brindisi e entrou para os capuchinhos com o nome de Lourenço. Tinha uma memória extraordinária e falava várias línguas, inclusive hebraico, o que o ajudava a estudar a Bíblia no original.",
+      "Foi pregador em toda a Itália e na Europa central e ministro-geral da ordem. Levou os capuchinhos para a Áustria, a Boêmia e a Alemanha.",
+      "Também atuou como diplomata a serviço da paz entre príncipes católicos. Em 1601, como capelão, animou as tropas cristãs na batalha de Székesfehérvár, na Hungria, à frente com um crucifixo. Morreu em Lisboa, durante uma missão diplomática. Foi declarado Doutor da Igreja em 1959."
+    ],
+    "curiosidades": [
+      "É chamado “Doutor Apostólico”.",
+      "Escreveu uma obra inteira sobre Nossa Senhora, o “Mariale”."
+    ],
+    "biblia": ["2Tm 4,1-2", "Is 61,1"],
+    "fontes": ["Martirológio Romano, 21 de julho", "Bento XVI, Audiência geral sobre São Lourenço de Brindisi (2011)"]
+  },
+  "brigida": {
+    "titulo": "Religiosa",
+    "viveu": "1303 – 1373",
+    "local": "Suécia e Roma (Itália)",
+    "patrono": ["Europa", "Suécia", "viúvas"],
+    "historia": [
+      "Brígida era de uma família nobre da Suécia e aos 13 anos se casou com Ulf Gudmarsson. Tiveram oito filhos, entre eles Santa Catarina da Suécia. O casal vivia uma fé profunda e fez uma peregrinação a Santiago de Compostela.",
+      "Viúva em 1344, dedicou-se à oração e teve muitas revelações, que foram escritas em livros. Fundou a Ordem do Santíssimo Salvador (brigidinas).",
+      "Em 1349 foi para Roma, onde viveu até a morte, rezando, servindo os pobres e insistindo com os papas para que voltassem de Avignon para Roma. Peregrinou à Terra Santa e morreu em Roma, em 1373."
+    ],
+    "curiosidades": [
+      "São João Paulo II a proclamou copadroeira da Europa em 1999, com Catarina de Sena e Edith Stein.",
+      "As orações de Santa Brígida sobre a Paixão foram muito populares."
+    ],
+    "biblia": ["Jo 15,1-8", "Gl 2,19-20"],
+    "fontes": ["Martirológio Romano, 23 de julho", "São João Paulo II, Carta apostólica Spes aedificandi (1999)"]
+  },
+  "sharbel": {
+    "titulo": "Presbítero",
+    "viveu": "1828 – 1898",
+    "local": "Líbano",
+    "patrono": ["Líbano", "doentes (devoção popular)"],
+    "historia": [
+      "Youssef Makhlouf nasceu numa aldeia nas montanhas do Líbano, numa família cristã maronita. Aos 23 anos entrou na Ordem Libanesa Maronita com o nome de Charbel (Sharbel).",
+      "Foi ordenado sacerdote e viveu 16 anos no mosteiro de São Maron, em Annaya. Depois pediu para viver como eremita, numa ermida próxima, onde passou 23 anos em silêncio, oração, trabalho e penitência.",
+      "Morreu na véspera do Natal de 1898. Depois da sua morte, uma luz foi vista sobre o túmulo e muitos milagres foram atribuídos à sua intercessão. Foi canonizado por São Paulo VI em 1977."
+    ],
+    "curiosidades": [
+      "É o santo mais popular do Líbano e muito venerado também no Brasil, pela grande comunidade libanesa.",
+      "Celebrava a Missa todos os dias com grande devoção, num rito em siríaco."
+    ],
+    "biblia": ["Sl 92(91),13-16", "Mt 6,6"],
+    "fontes": ["Martirológio Romano, 24 de julho"]
+  },
+  "marta-maria-lazaro": {
+    "titulo": "Amigos do Senhor",
+    "viveu": "séc. I",
+    "local": "Betânia (Judeia)",
+    "patrono": ["donas de casa e cozinheiros (Marta)", "hospitalidade"],
+    "historia": [
+      "Marta, Maria e Lázaro eram irmãos e moravam em Betânia, perto de Jerusalém. Os Evangelhos dizem que Jesus os amava, e a casa deles era um lugar onde Ele descansava com os discípulos.",
+      "Numa visita, Marta se ocupava com o serviço enquanto Maria ficava aos pés de Jesus ouvindo-o. Jesus disse a Marta que Maria tinha escolhido a melhor parte. Quando Lázaro morreu, Marta professou a sua fé: “Tu és o Cristo, o Filho de Deus”, e Jesus ressuscitou Lázaro.",
+      "Seis dias antes da Páscoa, Maria ungiu os pés de Jesus com perfume. Em 2021, o papa Francisco mudou a memória de Santa Marta para incluir os três irmãos, como testemunhas da hospitalidade e da amizade com o Senhor."
+    ],
+    "tradicao": [
+      "Uma tradição da Provença (França) diz que os três foram para lá depois da Ascensão, e que Marta venceu um dragão em Tarascon."
+    ],
+    "curiosidades": [
+      "Foi junto ao túmulo de Lázaro que Jesus chorou e disse: “Eu sou a ressurreição e a vida”.",
+      "Betânia hoje se chama al-Azariya, “o lugar de Lázaro”."
+    ],
+    "biblia": ["Lc 10,38-42", "Jo 11,1-45", "Jo 12,1-8"],
+    "fontes": ["Dicastério para o Culto Divino, Decreto sobre a memória de Marta, Maria e Lázaro (2021)"]
+  },
+  "pedro-crisologo": {
+    "titulo": "Bispo e Doutor da Igreja",
+    "viveu": "c. 380 – c. 450",
+    "local": "Ímola e Ravena (Itália)",
+    "patrono": ["Ímola"],
+    "historia": [
+      "Pedro nasceu em Ímola e foi bispo de Ravena a partir de cerca de 431, quando a cidade era a capital do Império Romano do Ocidente.",
+      "Era um pregador tão bom que recebeu o apelido de Crisólogo, “palavra de ouro”. Seus sermões, curtos e claros, explicavam os Evangelhos, o Credo e o Pai-Nosso ao povo.",
+      "Defendeu a autoridade do papa e a fé sobre a Encarnação. Também cuidou dos pobres e lutou contra costumes pagãos. Bento XIII o declarou Doutor da Igreja em 1729."
+    ],
+    "curiosidades": [
+      "Restam cerca de 180 sermões seus.",
+      "Escreveu ao herege Êutiques que, “no interesse da paz e da fé”, devia obedecer ao bispo de Roma."
+    ],
+    "biblia": ["Mt 6,9-13", "Lc 15,11-24"],
+    "fontes": ["Martirológio Romano, 30 de julho"]
+  },
+  "afonso-de-ligorio": {
+    "titulo": "Bispo e Doutor da Igreja",
+    "viveu": "1696 – 1787",
+    "local": "Nápoles (Itália)",
+    "patrono": ["confessores", "moralistas"],
+    "historia": [
+      "Afonso foi um advogado brilhante em Nápoles: doutorou-se aos 16 anos. Em 1723, depois de perder uma causa por causa de uma fraude, deixou a advocacia e decidiu servir somente a Deus.",
+      "Ordenado sacerdote, pregou missões entre os pobres das montanhas e, em 1732, fundou a Congregação do Santíssimo Redentor (redentoristas). Foi um grande confessor, conhecido pela misericórdia, e escreveu uma Teologia Moral muito equilibrada.",
+      "Escreveu também livros de devoção muito populares, como “As glórias de Maria” e “Visitas ao Santíssimo Sacramento”, e compôs cânticos, como o famoso canto de Natal italiano “Tu scendi dalle stelle”. Foi bispo de Sant'Agata dei Goti e morreu aos 90 anos."
+    ],
+    "curiosidades": [
+      "Pio XII o proclamou padroeiro dos confessores e moralistas em 1950.",
+      "Os redentoristas estão no Brasil desde 1893 e cuidam do Santuário Nacional de Aparecida."
+    ],
+    "frase": { "texto": "Quem reza se salva; quem não reza se condena.", "fonte": "Santo Afonso Maria de Ligório, O grande meio da oração (CIC 2744)" },
+    "biblia": ["Lc 15,1-7", "Mt 11,28-30"],
+    "fontes": ["Martirológio Romano, 1º de agosto", "CIC 2744", "Bento XVI, Audiência geral sobre Santo Afonso (2011)"]
+  },
+  "eusebio-de-vercelli": {
+    "titulo": "Bispo",
+    "viveu": "c. 283 – 371",
+    "local": "Sardenha e Vercelli (Itália)",
+    "patrono": ["Piemonte"],
+    "historia": [
+      "Eusébio nasceu na Sardenha e foi o primeiro bispo de Vercelli, no norte da Itália, por volta de 345.",
+      "Teve uma ideia nova: viver em comunidade com os seus padres, em pobreza e oração, unindo a vida monástica ao ministério. Santo Ambrósio elogiou muito esse modelo.",
+      "Defendeu a fé de Niceia contra os arianos e, por recusar-se a condenar Santo Atanásio, foi exilado pelo imperador para a Palestina, a Capadócia e o Egito. Voltou depois de anos e continuou a lutar pela unidade da fé."
+    ],
+    "curiosidades": [
+      "É considerado um dos pais da vida comum do clero no Ocidente.",
+      "Atribui-se a ele um antigo manuscrito dos Evangelhos em latim, o “Codex Vercellensis”."
+    ],
+    "biblia": ["At 2,42-47", "2Tm 1,8-14"],
+    "fontes": ["Martirológio Romano, 2 de agosto", "Bento XVI, Audiência geral sobre Santo Eusébio de Vercelli (2007)"]
+  },
+  "pedro-juliao-eymard": {
+    "titulo": "Presbítero",
+    "viveu": "1811 – 1868",
+    "local": "La Mure e Paris (França)",
+    "patrono": [],
+    "historia": [
+      "Pedro Julião nasceu nos Alpes franceses, filho de um artesão. Superou a oposição do pai e problemas de saúde para ser padre. Depois entrou para os maristas.",
+      "Seu grande amor era a Eucaristia. Em 1856 fundou a Congregação do Santíssimo Sacramento (sacramentinos), dedicada à adoração e à pregação sobre a Eucaristia, e depois as Servas do Santíssimo Sacramento.",
+      "Preparava para a Primeira Comunhão adultos que viviam nas ruas de Paris e incentivava a comunhão frequente. Morreu em 1868 e foi canonizado em 1962, durante o Concílio Vaticano II."
+    ],
+    "curiosidades": [
+      "É chamado “apóstolo da Eucaristia”.",
+      "Os sacramentinos têm casas no Brasil."
+    ],
+    "biblia": ["Jo 6,51-58", "1Cor 11,23-26"],
+    "fontes": ["Martirológio Romano, 2 de agosto"]
+  },
+  "sisto-ii": {
+    "titulo": "Papa e companheiros, mártires",
+    "viveu": "séc. III – 258",
+    "local": "Roma (Itália)",
+    "patrono": [],
+    "historia": [
+      "Sisto II foi papa por cerca de um ano. Ajudou a restabelecer a paz com as Igrejas da África e da Ásia, depois de uma discussão sobre o batismo dos hereges.",
+      "Na perseguição do imperador Valeriano, que proibia as reuniões cristãs, foi surpreendido enquanto celebrava nas catacumbas de São Calisto e decapitado ali mesmo, em 6 de agosto de 258, junto com quatro diáconos.",
+      "Outros dois diáconos foram mortos no mesmo dia. Quatro dias depois foi martirizado o diácono São Lourenço, que, segundo a tradição, quis acompanhar o papa no martírio."
+    ],
+    "curiosidades": [
+      "Seu nome está no Cânon Romano, a Oração Eucarística I.",
+      "São Cipriano, em carta, narra a morte de Sisto poucos dias depois do fato."
+    ],
+    "biblia": ["2Cor 4,7-15", "Jo 12,24-26"],
+    "fontes": ["Martirológio Romano, 7 de agosto", "São Cipriano, Carta 80"]
+  },
+  "caetano": {
+    "titulo": "Presbítero",
+    "viveu": "1480 – 1547",
+    "local": "Vicenza, Roma e Nápoles (Itália)",
+    "patrono": ["pão e trabalho", "desempregados"],
+    "historia": [
+      "Caetano de Thiene era um nobre de Vicenza, formado em direito, que trabalhou na cúria de Roma. Ordenado sacerdote, entrou numa confraria que unia oração e serviço aos doentes incuráveis.",
+      "Preocupado com a renovação da Igreja numa época de corrupção, fundou em 1524, com Gian Pietro Carafa (futuro Paulo IV), a Ordem dos Clérigos Regulares, os teatinos, padres que viviam em pobreza e confiavam só na Providência.",
+      "Fundou os “Montes de Piedade”, uma espécie de banco que emprestava aos pobres sem juros, para livrá-los da usura. Morreu em Nápoles."
+    ],
+    "curiosidades": [
+      "Na Argentina e no Brasil, multidões vão aos seus santuários no dia 7 de agosto pedir pão e trabalho.",
+      "É chamado de “santo da Providência”."
+    ],
+    "biblia": ["Mt 6,25-34", "Lc 12,32-34"],
+    "fontes": ["Martirológio Romano, 7 de agosto"]
+  },
+  "domingos": {
+    "titulo": "Presbítero",
+    "viveu": "c. 1170 – 1221",
+    "local": "Caleruega (Espanha), Toulouse (França) e Bolonha (Itália)",
+    "patrono": ["astrônomos", "República Dominicana"],
+    "historia": [
+      "Domingos de Gusmão nasceu em Caleruega, na Espanha. Estudante em Palência, vendeu os livros para ajudar os pobres numa grande fome. Foi cônego em Osma.",
+      "Viajando pelo sul da França, viu como a heresia albigense se espalhava e percebeu que só pregadores pobres e bem preparados poderiam convencer as pessoas. Começou a pregar com essa simplicidade e a debater com paciência.",
+      "Em 1216 o papa aprovou a Ordem dos Pregadores (dominicanos), dedicada ao estudo, à oração e à pregação. Domingos enviou os frades às universidades e às cidades. Morreu em Bolonha, em 1221."
+    ],
+    "tradicao": [
+      "A tradição diz que Nossa Senhora entregou o rosário a Domingos. Historicamente, os dominicanos foram os grandes divulgadores do rosário."
+    ],
+    "curiosidades": [
+      "O lema dos dominicanos é “Contemplar e dar aos outros o que se contemplou”.",
+      "Era conhecido por falar “com Deus ou de Deus”."
+    ],
+    "biblia": ["2Tm 4,1-5", "Mt 10,7-10"],
+    "fontes": ["Martirológio Romano, 8 de agosto", "Beato Jordão da Saxônia, Libellus sobre as origens da Ordem"]
+  },
+  "teresa-benedita-da-cruz": {
+    "titulo": "Virgem e mártir",
+    "viveu": "1891 – 1942",
+    "local": "Breslau (Alemanha, hoje Polônia), Colônia e Auschwitz",
+    "patrono": ["Europa"],
+    "historia": [
+      "Edith Stein nasceu numa família judia em Breslau. Na juventude perdeu a fé e tornou-se uma filósofa brilhante, assistente de Edmund Husserl. Buscava a verdade com toda a inteligência.",
+      "Em 1921, lendo durante uma noite a autobiografia de Santa Teresa d'Ávila, exclamou: “Isto é a verdade!”. Foi batizada em 1922, ensinou e fez conferências sobre a mulher e, em 1933, entrou no Carmelo de Colônia como Teresa Benedita da Cruz.",
+      "Por causa da perseguição nazista, foi transferida para o Carmelo de Echt, na Holanda. Em 1942, depois que os bispos holandeses protestaram contra o nazismo, judeus convertidos foram presos. Edith foi levada com a irmã Rosa para Auschwitz, onde morreu na câmara de gás em 9 de agosto."
+    ],
+    "curiosidades": [
+      "Ao ser presa, disse à irmã: “Vem, vamos pelo nosso povo”.",
+      "São João Paulo II a canonizou em 1998 e a proclamou copadroeira da Europa em 1999."
+    ],
+    "biblia": ["Os 2,16-22", "Jo 18,37", "Gl 6,14"],
+    "fontes": ["Martirológio Romano, 9 de agosto", "São João Paulo II, Homilia da canonização (11 de outubro de 1998)"]
+  },
+  "joana-de-chantal": {
+    "titulo": "Religiosa",
+    "viveu": "1572 – 1641",
+    "local": "Dijon e Annecy (França)",
+    "patrono": ["mães que perderam filhos", "viúvas"],
+    "historia": [
+      "Joana Frémyot nasceu em Dijon, casou-se com o barão de Chantal e teve seis filhos. Aos 28 anos ficou viúva, quando o marido morreu num acidente de caça.",
+      "Em 1604 conheceu São Francisco de Sales, que se tornou seu diretor espiritual. Juntos, em 1610, fundaram a Ordem da Visitação, para mulheres que, por idade ou saúde, não podiam entrar em ordens muito austeras.",
+      "Depois de cuidar dos filhos, dedicou-se à ordem, que chegou a 87 mosteiros enquanto ela viveu. Sofreu muitas perdas e longas provações interiores, mas permaneceu firme na fé e na caridade."
+    ],
+    "curiosidades": [
+      "Foi avó da escritora Madame de Sévigné.",
+      "São Vicente de Paulo foi seu confessor nos últimos anos."
+    ],
+    "biblia": ["Pr 31,10-31", "Rm 8,28"],
+    "fontes": ["Martirológio Romano, 12 de agosto"]
+  },
+  "ponciano-e-hipolito": {
+    "titulo": "Papa e presbítero, mártires",
+    "viveu": "séc. III – 235",
+    "local": "Roma (Itália) e Sardenha",
+    "patrono": [],
+    "historia": [
+      "Hipólito era um presbítero sábio de Roma, autor de muitas obras, como a “Tradição Apostólica”, que mostra como era a liturgia no século III. Discordou do papa Calisto e foi eleito antipapa por um grupo, provocando um cisma.",
+      "Ponciano era o papa legítimo. Em 235, o imperador Maximino Trácio exilou os dois para trabalhar nas minas da Sardenha, onde as condições eram terríveis.",
+      "Lá, Ponciano renunciou ao cargo para que a Igreja de Roma pudesse eleger um sucessor, e Hipólito se reconciliou com a Igreja. Os dois morreram no exílio e seus corpos foram levados para Roma e venerados como mártires."
+    ],
+    "curiosidades": [
+      "Ponciano foi o primeiro papa a renunciar.",
+      "A Oração Eucarística II da Missa de hoje se inspira num texto da “Tradição Apostólica” atribuída a Hipólito."
+    ],
+    "biblia": ["Ef 4,1-6", "Jo 17,20-23"],
+    "fontes": ["Martirológio Romano, 13 de agosto", "Diretório Litúrgico da CNBB (no Brasil, 12 de agosto, porque 13 é Santa Dulce dos Pobres)"]
+  },
+  "assuncao": {
+    "titulo": "Solenidade de Nossa Senhora",
+    "viveu": "séc. I",
+    "local": "Jerusalém ou Éfeso",
+    "patrono": [],
+    "historia": [
+      "A Igreja crê que a Virgem Maria, terminado o curso da sua vida terrena, foi levada em corpo e alma à glória do céu. Ela, que não conheceu o pecado, participa já da Ressurreição do Filho.",
+      "Essa fé é muito antiga: no Oriente, a festa da “Dormição” de Maria era celebrada desde o século V ou VI. Em 1º de novembro de 1950, o papa Pio XII proclamou a Assunção como dogma, na constituição apostólica “Munificentissimus Deus”.",
+      "A Assunção é sinal de esperança para todos nós: o que aconteceu com Maria é o que Deus prometeu a quem segue Jesus, a ressurreição da carne."
+    ],
+    "curiosidades": [
+      "No Brasil, quando 15 de agosto cai durante a semana, a solenidade é celebrada no domingo seguinte.",
+      "O dogma não diz se Maria morreu antes de ser elevada ao céu; a tradição oriental fala da sua “dormição”."
+    ],
+    "biblia": ["Ap 11,19a;12,1-6a.10ab", "1Cor 15,20-27a", "Lc 1,39-56"],
+    "fontes": ["Pio XII, Munificentissimus Deus (1950)", "CIC 966", "Lumen gentium 59"]
+  },
+  "estevao-da-hungria": {
+    "titulo": "Rei",
+    "viveu": "c. 975 – 1038",
+    "local": "Hungria",
+    "patrono": ["Hungria", "reis"],
+    "historia": [
+      "Vajk era filho do príncipe dos húngaros, um povo recém-chegado à Europa central. Foi batizado ainda jovem com o nome de Estêvão.",
+      "Por volta do ano 1000 foi coroado rei com a coroa enviada pelo papa Silvestre II. Organizou o reino e a Igreja: fundou dioceses e mosteiros, deu leis justas e cuidou dos pobres.",
+      "Escreveu para o filho, Santo Américo, conselhos sobre como governar com fé, humildade e misericórdia. O filho morreu jovem, o que causou grande dor ao rei. Estêvão consagrou a Hungria a Nossa Senhora antes de morrer."
+    ],
+    "curiosidades": [
+      "A “Santa Coroa” da Hungria, associada a ele, é guardada no parlamento húngaro.",
+      "Sua mão direita incorrupta é venerada em Budapeste."
+    ],
+    "biblia": ["Sb 9,1-12", "Mt 20,25-28"],
+    "fontes": ["Martirológio Romano, 16 de agosto"]
+  },
+  "joao-eudes": {
+    "titulo": "Presbítero",
+    "viveu": "1601 – 1680",
+    "local": "Normandia (França)",
+    "patrono": [],
+    "historia": [
+      "João Eudes nasceu na Normandia e entrou no Oratório francês, onde foi ordenado padre. Dedicou-se a cuidar de doentes de peste e a pregar missões populares, mais de cem ao longo da vida.",
+      "Preocupado com a formação dos padres, fundou a Congregação de Jesus e Maria (eudistas), dedicada aos seminários. Fundou também a Ordem de Nossa Senhora da Caridade, para acolher mulheres que queriam deixar a prostituição.",
+      "Foi o primeiro a compor uma Missa e um ofício litúrgico em honra do Sagrado Coração de Jesus e do Coração de Maria. São Pio X o chamou de “pai, doutor e apóstolo” dessa devoção."
+    ],
+    "curiosidades": [
+      "Das irmãs que fundou nasceram as Irmãs do Bom Pastor, presentes no Brasil.",
+      "Foi canonizado em 1925."
+    ],
+    "biblia": ["Ez 36,25-28", "Jo 19,33-37"],
+    "fontes": ["Martirológio Romano, 19 de agosto"]
+  },
+  "bernardo": {
+    "titulo": "Abade e Doutor da Igreja",
+    "viveu": "1090 – 1153",
+    "local": "Borgonha e Claraval (França)",
+    "patrono": ["apicultores", "Gibraltar"],
+    "historia": [
+      "Bernardo nasceu numa família nobre da Borgonha. Aos 22 anos entrou na pobre abadia de Cîteaux (Cister), levando consigo cerca de 30 parentes e amigos, e deu nova vida à ordem cisterciense.",
+      "Em 1115 fundou a abadia de Claraval, de onde nasceram dezenas de outros mosteiros. Foi um grande místico e escreveu sobre o amor de Deus, o Cântico dos Cânticos e Nossa Senhora.",
+      "Contra a vontade, foi chamado a resolver conflitos da Igreja: ajudou a acabar com um cisma, aconselhou papas e pregou a Segunda Cruzada, que fracassou e lhe trouxe muito sofrimento. Foi declarado Doutor da Igreja em 1830 e é chamado “Doutor Melífluo” (de palavras doces como mel)."
+    ],
+    "curiosidades": [
+      "Dante o escolhe como último guia no Paraíso, porque ele leva a Nossa Senhora.",
+      "A oração “Lembrai-vos” (Memorare) é tradicionalmente atribuída a ele."
+    ],
+    "frase": { "texto": "Olha a estrela, invoca Maria.", "fonte": "São Bernardo, Homilia sobre o “Missus est” II,17" },
+    "biblia": ["Ct 1,2-4", "1Jo 4,16-19"],
+    "fontes": ["Martirológio Romano, 20 de agosto", "Bento XVI, Audiência geral sobre São Bernardo (2009)"]
+  },
+  "pio-x": {
+    "titulo": "Papa",
+    "viveu": "1835 – 1914",
+    "local": "Riese, Veneza e Roma (Itália)",
+    "patrono": ["catequistas", "primeira comunhão"],
+    "historia": [
+      "Giuseppe Sarto era filho de um carteiro e de uma costureira de Riese, perto de Veneza. Foi vigário e pároco de aldeia, bispo de Mântua e patriarca de Veneza, sempre com simplicidade e grande cuidado pastoral.",
+      "Eleito papa em 1903, tomou como lema “Instaurar todas as coisas em Cristo”. Permitiu que as crianças recebessem a Primeira Comunhão a partir da idade da razão, por volta dos 7 anos, e incentivou a comunhão frequente.",
+      "Promoveu o catecismo, a reforma do canto gregoriano e da música sacra, iniciou o Código de Direito Canônico e combateu os erros do modernismo. Morreu no começo da Primeira Guerra Mundial, entristecido por não ter conseguido evitá-la."
+    ],
+    "curiosidades": [
+      "Foi o primeiro papa canonizado desde São Pio V, em 1954.",
+      "Recusou-se a usar as riquezas da família pontifícia e dizia: “Nasci pobre, vivi pobre e quero morrer pobre”."
+    ],
+    "frase": { "texto": "Instaurar todas as coisas em Cristo.", "fonte": "Lema de São Pio X (Ef 1,10)" },
+    "biblia": ["Ef 1,10", "Mc 10,13-16", "Jo 6,51"],
+    "fontes": ["Martirológio Romano, 21 de agosto", "São Pio X, Quam singulari (1910)"]
+  },
+  "nossa-senhora-rainha": {
+    "titulo": "Memória de Nossa Senhora",
+    "viveu": "—",
+    "local": "—",
+    "patrono": [],
+    "historia": [
+      "Oito dias depois da Assunção, a Igreja celebra Maria como Rainha do céu e da terra. Ela é rainha porque é Mãe do Rei, Jesus, e porque está unida a Ele de modo único na obra da salvação.",
+      "Seu reinado não é de poder, mas de serviço e intercessão: ela, que se chamou “serva do Senhor”, agora reina com o Filho e cuida dos seus filhos.",
+      "Pio XII instituiu a festa em 1954, com a encíclica “Ad caeli Reginam”. Depois do Concílio Vaticano II, a memória passou para o oitavo dia depois da Assunção."
+    ],
+    "curiosidades": [
+      "A Salve-Rainha e o “Regina caeli” (Rainha do céu, alegrai-vos) celebram esse título.",
+      "O quinto mistério glorioso do terço é a coroação de Maria como Rainha."
+    ],
+    "biblia": ["Is 9,1-6", "Lc 1,26-38", "Sl 45(44),10-12"],
+    "fontes": ["Pio XII, Ad caeli Reginam (1954)", "Lumen gentium 59", "CIC 966"]
+  },
+  "rosa-de-lima": {
+    "titulo": "Virgem",
+    "viveu": "1586 – 1617",
+    "local": "Lima (Peru)",
+    "patrono": ["América Latina", "Peru", "Filipinas"],
+    "historia": [
+      "Isabel Flores de Oliva nasceu em Lima. Era tão bonita que a chamavam de Rosa, e esse nome ficou. Desde criança quis consagrar-se a Deus e recusou o casamento que os pais queriam.",
+      "Tornou-se terciária dominicana e viveu numa pequena cela no jardim da casa da família, com muita oração e penitência, inspirada em Santa Catarina de Sena. Ajudava a família costurando e cultivando flores.",
+      "Acolhia em casa doentes pobres, indígenas e escravos, cuidando deles. Morreu aos 31 anos. Foi a primeira santa canonizada das Américas, em 1671."
+    ],
+    "curiosidades": [
+      "Foi crismada por São Turíbio de Mogrovejo e era amiga de São Martinho de Porres.",
+      "É padroeira da América Latina e das Filipinas."
+    ],
+    "biblia": ["2Cor 10,17-11,2", "Mt 13,44-46"],
+    "fontes": ["Martirológio Romano, 23 de agosto"]
+  },
+  "bartolomeu": {
+    "titulo": "Apóstolo",
+    "viveu": "séc. I",
+    "local": "Caná (Galileia)",
+    "patrono": ["Armênia", "açougueiros e curtidores"],
+    "historia": [
+      "Bartolomeu aparece nas listas dos Doze Apóstolos. Muitos estudiosos o identificam com Natanael, de Caná da Galileia, que Filipe levou até Jesus.",
+      "Quando Filipe disse que tinham encontrado o Messias, Jesus de Nazaré, Natanael duvidou: “De Nazaré pode vir algo de bom?”. Jesus o viu chegar e disse: “Eis um verdadeiro israelita, em quem não há falsidade”. Natanael então confessou: “Rabi, tu és o Filho de Deus, tu és o Rei de Israel!”.",
+      "Ele estava entre os discípulos a quem Jesus ressuscitado apareceu às margens do lago de Tiberíades."
+    ],
+    "tradicao": [
+      "Segundo a tradição, pregou na Índia e na Armênia, onde morreu mártir, esfolado vivo. Por isso Michelangelo o pintou no Juízo Final segurando a própria pele."
+    ],
+    "curiosidades": [
+      "Bartolomeu significa “filho de Tolomai”, um sobrenome; Natanael seria o nome próprio.",
+      "Suas relíquias são veneradas na igreja de São Bartolomeu na Ilha Tiberina, em Roma."
+    ],
+    "biblia": ["Jo 1,45-51", "Jo 21,1-2", "Ap 21,9-14"],
+    "fontes": ["Martirológio Romano, 24 de agosto", "Bento XVI, Audiência geral sobre São Bartolomeu (2006)"]
+  },
+  "luis-de-franca": {
+    "titulo": "Rei",
+    "viveu": "1214 – 1270",
+    "local": "França e Túnis",
+    "patrono": ["França", "terciários franciscanos"],
+    "historia": [
+      "Luís IX tornou-se rei da França aos 12 anos, sob a regência da mãe, Branca de Castela, que lhe ensinou: “Preferia ver-te morto a ver-te cometer um pecado mortal”.",
+      "Foi um rei justo, que fazia questão de ouvir pessoalmente as queixas do povo, proibiu duelos e jogos de azar e fundou hospitais. Pai de 11 filhos, rezava diariamente o ofício e servia os pobres à sua mesa.",
+      "Mandou construir a Sainte-Chapelle, em Paris, para guardar a coroa de espinhos. Participou de duas cruzadas; na segunda, morreu de doença perto de Túnis, em 1270."
+    ],
+    "curiosidades": [
+      "A cidade de St. Louis, nos EUA, e São Luís do Maranhão levam o seu nome.",
+      "Deixou por escrito belos conselhos ao filho sobre como governar."
+    ],
+    "biblia": ["Mq 6,8", "Mt 25,35-40"],
+    "fontes": ["Martirológio Romano, 25 de agosto", "Liturgia das Horas, Ofício das Leituras de 25 de agosto (Testamento espiritual ao filho)"]
+  },
+  "jose-de-calasanz": {
+    "titulo": "Presbítero",
+    "viveu": "1557 – 1648",
+    "local": "Aragão (Espanha) e Roma (Itália)",
+    "patrono": ["escolas populares cristãs"],
+    "historia": [
+      "José nasceu em Aragão e foi ordenado padre na Espanha. Em 1592 foi para Roma, onde viu muitas crianças pobres nas ruas, sem escola e sem futuro.",
+      "Em 1597 abriu, na paróquia de Santa Doroteia, uma escola pública e gratuita, considerada a primeira escola popular gratuita da Europa. Para isso fundou a Ordem dos Clérigos Regulares Pobres da Mãe de Deus das Escolas Pias (escolápios).",
+      "Já idoso, sofreu calúnias e intrigas, e a sua ordem chegou a ser suprimida. Suportou tudo com paciência e morreu aos 90 anos. A ordem foi restaurada depois e se espalhou pelo mundo."
+    ],
+    "curiosidades": [
+      "Foi amigo de Galileu Galilei e enviou professores escolápios para estudar com ele.",
+      "Pio XII o declarou padroeiro das escolas populares cristãs."
+    ],
+    "biblia": ["Mt 18,1-5", "Mc 10,13-16"],
+    "fontes": ["Martirológio Romano, 25 de agosto"]
+  },
+  "martirio-joao-batista": {
+    "titulo": "Memória do Martírio",
+    "viveu": "séc. I a.C. – c. 29",
+    "local": "Maqueronte (Jordânia)",
+    "patrono": [],
+    "historia": [
+      "João Batista, o precursor de Jesus, denunciou abertamente Herodes Antipas, que tinha tomado como mulher Herodíades, esposa de seu irmão. Por isso Herodes o mandou prender.",
+      "Herodes temia João e gostava de ouvi-lo, sabendo que era um homem justo. Mas, no seu aniversário, a filha de Herodíades dançou, e o rei prometeu dar-lhe o que pedisse. A mãe a mandou pedir a cabeça de João num prato, e Herodes, para não voltar atrás diante dos convidados, mandou decapitá-lo.",
+      "João morreu pela verdade, como testemunha de Cristo antes mesmo da cruz. O historiador judeu Flávio Josefo também registra a sua morte na fortaleza de Maqueronte."
+    ],
+    "curiosidades": [
+      "É o único santo de quem a Igreja celebra o nascimento (24 de junho) e o martírio.",
+      "Jesus disse que, entre os nascidos de mulher, ninguém é maior do que João (Mt 11,11)."
+    ],
+    "biblia": ["Mc 6,17-29", "Jr 1,17-19"],
+    "fontes": ["Martirológio Romano, 29 de agosto", "Flávio Josefo, Antiguidades Judaicas XVIII,5,2"]
+  },
+  "gregorio-magno": {
+    "titulo": "Papa e Doutor da Igreja",
+    "viveu": "c. 540 – 604",
+    "local": "Roma (Itália) e Constantinopla",
+    "patrono": ["músicos", "cantores", "professores"],
+    "historia": [
+      "Gregório era de família nobre e chegou a prefeito de Roma, o cargo civil mais alto da cidade. Depois deu seus bens, transformou a casa num mosteiro e tornou-se monge. Foi representante do papa em Constantinopla.",
+      "Em 590, numa Roma devastada pela peste, pela fome e pelas invasões dos lombardos, foi eleito papa contra a sua vontade. Organizou a ajuda aos pobres, negociou a paz e reformou a liturgia.",
+      "Enviou Santo Agostinho de Cantuária para evangelizar a Inglaterra. Escreveu a “Regra pastoral”, sobre como ser um bom pastor, os “Diálogos” e comentários à Bíblia. Chamava a si mesmo de “servo dos servos de Deus”."
+    ],
+    "curiosidades": [
+      "O canto gregoriano leva o seu nome, embora tenha se desenvolvido ao longo de séculos.",
+      "Os papas usam até hoje o título “servo dos servos de Deus”, criado por ele."
+    ],
+    "biblia": ["Ez 33,7-9", "1Pd 5,1-4"],
+    "fontes": ["Martirológio Romano, 3 de setembro", "Bento XVI, Audiências gerais sobre São Gregório Magno (2008)"]
+  },
+  "natividade-de-maria": {
+    "titulo": "Festa de Nossa Senhora",
+    "viveu": "séc. I a.C.",
+    "local": "Jerusalém ou Nazaré",
+    "patrono": [],
+    "historia": [
+      "A Igreja celebra o nascimento de apenas três pessoas: Jesus, João Batista e Maria. O nascimento de Maria é a aurora da salvação: nela começa a cumprir-se a promessa de Deus.",
+      "A Bíblia não narra o nascimento de Maria. A data e os nomes dos pais, Joaquim e Ana, vêm de uma tradição antiga, registrada no escrito chamado Protoevangelho de Tiago, do século II.",
+      "A festa nasceu em Jerusalém, provavelmente ligada à dedicação de uma igreja junto à piscina de Betesda, e foi levada para Roma no século VII. Foi fixada em 8 de setembro, nove meses depois da Imaculada Conceição."
+    ],
+    "curiosidades": [
+      "Em Jerusalém, a Igreja de Santa Ana fica no lugar que a tradição aponta como casa de Joaquim e Ana.",
+      "Muitas cidades brasileiras celebram nesta data Nossa Senhora da Natividade ou da Luz."
+    ],
+    "biblia": ["Mq 5,1-4a", "Rm 8,28-30", "Mt 1,1-16.18-23"],
+    "fontes": ["Missal Romano, 8 de setembro", "CIC 489"]
+  },
+  "pedro-claver": {
+    "titulo": "Presbítero",
+    "viveu": "1580 – 1654",
+    "local": "Catalunha (Espanha) e Cartagena (Colômbia)",
+    "patrono": ["escravos", "missões entre os negros", "Colômbia"],
+    "historia": [
+      "Pedro Claver nasceu na Catalunha e entrou para os jesuítas. Em Maiorca, conheceu o irmão Afonso Rodríguez, porteiro do colégio, que o incentivou a ir às missões da América.",
+      "Em 1610 chegou a Cartagena das Índias, o maior porto de comércio de escravos africanos. Quando um navio chegava, ele descia aos porões para levar água, comida, remédios e consolo aos africanos acorrentados, doentes e apavorados.",
+      "Com intérpretes, ensinava-lhes a fé e batizou, segundo os registros, cerca de 300 mil pessoas. Assinou os votos como “escravo dos negros para sempre”. Passou os últimos anos doente e abandonado, e morreu em 1654."
+    ],
+    "curiosidades": [
+      "Leão XIII o declarou padroeiro das missões entre os povos africanos.",
+      "Seu amigo e mestre, Santo Afonso Rodríguez, foi canonizado no mesmo dia, em 1888."
+    ],
+    "biblia": ["Is 58,6-11", "Mt 25,35-40", "Gl 3,26-28"],
+    "fontes": ["Martirológio Romano, 9 de setembro"]
+  },
+  "nome-de-maria": {
+    "titulo": "Memória de Nossa Senhora",
+    "viveu": "—",
+    "local": "—",
+    "patrono": [],
+    "historia": [
+      "Assim como se celebra o Santo Nome de Jesus, a Igreja honra o nome de Maria, que o anjo Gabriel pronunciou na Anunciação: “Não temas, Maria”.",
+      "A festa começou na Espanha em 1513 e foi estendida a toda a Igreja pelo papa Inocêncio XI em 1683, em ação de graças pela vitória dos cristãos sobre os otomanos em Viena, depois que muitos tinham invocado o nome de Maria.",
+      "Retirada do calendário em 1969, foi restaurada como memória facultativa por São João Paulo II em 2002."
+    ],
+    "curiosidades": [
+      "O nome Maria vem do hebraico Miriam, nome da irmã de Moisés.",
+      "São Bernardo e muitos santos escreveram sobre a doçura de invocar o nome de Maria."
+    ],
+    "biblia": ["Lc 1,26-38", "Gl 4,4-7"],
+    "fontes": ["Missal Romano, 12 de setembro"]
+  },
+  "joao-crisostomo": {
+    "titulo": "Bispo e Doutor da Igreja",
+    "viveu": "c. 349 – 407",
+    "local": "Antioquia (Síria) e Constantinopla",
+    "patrono": ["pregadores", "Constantinopla"],
+    "historia": [
+      "João nasceu em Antioquia e foi educado pela mãe, Antusa, viúva aos 20 anos. Estudou retórica, viveu alguns anos como monge e eremita e voltou a Antioquia, onde foi ordenado padre e pregou por 12 anos.",
+      "Era um pregador tão extraordinário que o povo o chamou de Crisóstomo, “boca de ouro”. Seus sermões comentavam livros inteiros da Bíblia e falavam com clareza da Eucaristia, da família e da caridade com os pobres.",
+      "Em 398 foi feito bispo de Constantinopla, onde criticou o luxo da corte e o relaxamento do clero. Por isso foi perseguido pela imperatriz Eudóxia e exilado duas vezes. Morreu no caminho do exílio, dizendo: “Glória a Deus por tudo”."
+    ],
+    "curiosidades": [
+      "A Divina Liturgia mais usada nas Igrejas orientais leva o seu nome.",
+      "Ensinava: se não reconheces Cristo no pobre à porta, não o reconhecerás no cálice."
+    ],
+    "biblia": ["Ef 4,1-7.11-13", "Mt 25,40"],
+    "fontes": ["Martirológio Romano, 13 de setembro", "Bento XVI, Audiências gerais sobre São João Crisóstomo (2007)"]
+  },
+  "nossa-senhora-das-dores": {
+    "titulo": "Memória de Nossa Senhora",
+    "viveu": "séc. I",
+    "local": "Jerusalém",
+    "patrono": ["os que sofrem", "Eslováquia"],
+    "historia": [
+      "No dia seguinte à Exaltação da Santa Cruz, a Igreja contempla Maria de pé junto à cruz de Jesus, unida ao sofrimento do Filho. O velho Simeão tinha anunciado: “Uma espada traspassará a tua alma”.",
+      "A devoção às “sete dores de Maria” recorda: a profecia de Simeão, a fuga para o Egito, a perda do Menino no Templo, o encontro no caminho do Calvário, a crucifixão, a descida da cruz e a sepultura de Jesus.",
+      "A festa foi muito difundida pelos servitas e estendida a toda a Igreja em 1814 por Pio VII. Maria, Mãe das Dores, ensina a permanecer fiel quando tudo parece perdido."
+    ],
+    "curiosidades": [
+      "O hino “Stabat Mater” (De pé a Mãe dolorosa), do século XIII, é cantado nesta memória.",
+      "Na arte, Maria aparece com o coração atravessado por sete espadas."
+    ],
+    "biblia": ["Jo 19,25-27", "Lc 2,33-35", "Hb 5,7-9"],
+    "fontes": ["Missal Romano, 15 de setembro"]
+  },
+  "cornelio-e-cipriano": {
+    "titulo": "Papa e bispo, mártires",
+    "viveu": "séc. III – 253 e c. 200 – 258",
+    "local": "Roma (Itália) e Cartago (Tunísia)",
+    "patrono": ["África do Norte"],
+    "historia": [
+      "Depois da perseguição de Décio, muitos cristãos que tinham renegado a fé por medo pediam para voltar à Igreja. Alguns, como Novaciano, diziam que eles nunca poderiam ser perdoados.",
+      "O papa Cornélio (251-253) e Cipriano, bispo de Cartago, defenderam juntos que os arrependidos podiam ser readmitidos depois de penitência. Cornélio morreu no exílio em Civitavecchia, em 253.",
+      "Cipriano, advogado convertido, foi um grande pastor e escreveu “A unidade da Igreja”. Na perseguição de Valeriano foi decapitado em Cartago, em 258. Ao ouvir a sentença, disse: “Graças a Deus!”."
+    ],
+    "curiosidades": [
+      "Os dois estão no Cânon Romano.",
+      "As atas do martírio de Cipriano, escritas logo depois, estão entre os documentos mais antigos desse tipo."
+    ],
+    "frase": { "texto": "Não pode ter a Deus por Pai quem não tem a Igreja por Mãe.", "fonte": "São Cipriano, A unidade da Igreja 6 (CIC 181)" },
+    "biblia": ["Jo 17,11-21", "2Cor 4,7-15"],
+    "fontes": ["Martirológio Romano, 16 de setembro", "CIC 181", "Bento XVI, Audiência geral sobre São Cipriano (2007)"]
+  },
+  "roberto-belarmino": {
+    "titulo": "Bispo e Doutor da Igreja",
+    "viveu": "1542 – 1621",
+    "local": "Montepulciano e Roma (Itália) e Lovaina (Bélgica)",
+    "patrono": ["catequistas", "canonistas"],
+    "historia": [
+      "Roberto nasceu em Montepulciano, sobrinho do papa Marcelo II, e entrou para os jesuítas. Foi professor em Lovaina e no Colégio Romano.",
+      "Sua obra “Controvérsias” explicou com clareza e respeito a fé católica diante das objeções dos protestantes. Escreveu também dois catecismos, um para crianças e outro para professores, usados por séculos e traduzidos em dezenas de línguas.",
+      "Foi feito cardeal e arcebispo de Cápua, mas viveu sempre de modo pobre, dando o que tinha aos pobres. Participou das discussões sobre as ideias de Galileu. Pio XI o declarou Doutor da Igreja em 1931."
+    ],
+    "curiosidades": [
+      "Foi diretor espiritual de São Luís Gonzaga e pediu para ser sepultado ao lado dele.",
+      "Seus catecismos influenciaram catecismos usados no Brasil."
+    ],
+    "biblia": ["Sb 7,7-10", "Mt 7,21-29"],
+    "fontes": ["Martirológio Romano, 17 de setembro", "Bento XVI, Audiência geral sobre São Roberto Belarmino (2011)"]
+  },
+  "hildegarda": {
+    "titulo": "Virgem e Doutora da Igreja",
+    "viveu": "1098 – 1179",
+    "local": "Renânia (Alemanha)",
+    "patrono": ["músicos", "cientistas (devoção)"],
+    "historia": [
+      "Hildegarda foi entregue ainda criança a um mosteiro beneditino, onde foi educada pela monja Jutta. Desde pequena tinha visões espirituais, que guardou em segredo por muito tempo.",
+      "Já abadessa, aos 42 anos, recebeu de Deus a ordem de escrever o que via. Com a aprovação de São Bernardo e do papa, escreveu “Scivias” (Conhece os caminhos) e outras obras de teologia. Fundou os mosteiros de Rupertsberg e Eibingen.",
+      "Foi também compositora, poetisa, escreveu sobre medicina e natureza e trocou cartas com papas e imperadores, a quem não hesitava em corrigir. Pregou em público, algo raríssimo para uma mulher da época. Bento XVI a declarou Doutora da Igreja em 2012."
+    ],
+    "curiosidades": [
+      "Suas composições musicais são gravadas e cantadas até hoje.",
+      "Inventou uma “língua desconhecida” com alfabeto próprio."
+    ],
+    "biblia": ["Sl 150", "Sb 7,22-30"],
+    "fontes": ["Martirológio Romano, 17 de setembro", "Bento XVI, Carta apostólica de proclamação como Doutora da Igreja (2012)"]
+  },
+  "januario": {
+    "titulo": "Bispo e mártir",
+    "viveu": "séc. III – c. 305",
+    "local": "Benevento e Pozzuoli (Itália)",
+    "patrono": ["Nápoles", "doadores de sangue"],
+    "historia": [
+      "Januário (Gennaro) foi bispo de Benevento, no sul da Itália. Durante a perseguição de Diocleciano, foi visitar cristãos presos e acabou ele mesmo preso.",
+      "Foi decapitado com alguns companheiros perto de Pozzuoli, por volta de 305. Seu corpo foi levado para Nápoles, onde é venerado na catedral.",
+      "Desde o século XIV registra-se em Nápoles um fato impressionante: o sangue do santo, conservado seco em duas ampolas, se liquefaz em algumas datas do ano, especialmente em 19 de setembro."
+    ],
+    "curiosidades": [
+      "Quando o sangue não se liquefaz, o povo de Nápoles considera um mau presságio.",
+      "A Igreja permite a devoção, mas nunca declarou oficialmente o fenômeno como milagre."
+    ],
+    "biblia": ["Ap 7,13-14", "Jo 15,18-21"],
+    "fontes": ["Martirológio Romano, 19 de setembro"]
+  },
+  "andre-kim": {
+    "titulo": "Presbítero e companheiros, mártires",
+    "viveu": "1821 – 1846 (André Kim)",
+    "local": "Coreia",
+    "patrono": ["Coreia"],
+    "historia": [
+      "O cristianismo chegou à Coreia no fim do século XVIII de modo único: leigos coreanos leram livros cristãos vindos da China e, em 1784, um deles foi batizado em Pequim. A Igreja nasceu assim, sem missionários.",
+      "André Kim Taegon, filho de cristãos mártires, estudou em Macau e, em 1845, tornou-se o primeiro padre coreano. Um ano depois foi preso e decapitado, com 25 anos. Paulo Chong Hasang era um leigo que trabalhou para trazer padres ao país e também morreu mártir.",
+      "Nas perseguições do século XIX morreram cerca de 10 mil cristãos. São João Paulo II canonizou 103 mártires coreanos em Seul, em 1984."
+    ],
+    "curiosidades": [
+      "Foi a primeira canonização celebrada fora de Roma em séculos.",
+      "Antes de morrer, André Kim escreveu uma carta animando os cristãos a permanecerem firmes."
+    ],
+    "biblia": ["Rm 8,31-39", "Lc 9,23-26"],
+    "fontes": ["Martirológio Romano, 20 de setembro"]
+  },
+  "mateus": {
+    "titulo": "Apóstolo e evangelista",
+    "viveu": "séc. I",
+    "local": "Cafarnaum (Galileia)",
+    "patrono": ["contadores", "bancários", "fiscais e cobradores"],
+    "historia": [
+      "Mateus, também chamado Levi, era cobrador de impostos em Cafarnaum, uma profissão desprezada pelos judeus porque servia aos romanos e muitas vezes explorava o povo.",
+      "Jesus o viu sentado no posto de cobrança e disse: “Segue-me”. Ele se levantou e o seguiu. Depois ofereceu um banquete em casa a Jesus, com muitos publicanos e pecadores. Aos fariseus que criticavam, Jesus respondeu: “Não vim chamar os justos, mas os pecadores”.",
+      "A tradição atribui a ele o primeiro Evangelho, escrito para cristãos vindos do judaísmo, que mostra Jesus como o Messias que cumpre as Escrituras."
+    ],
+    "tradicao": [
+      "Segundo a tradição, pregou na Etiópia ou na Pérsia e morreu mártir. Suas relíquias estão em Salerno, na Itália."
+    ],
+    "curiosidades": [
+      "O lema do papa Francisco, “Miserando atque eligendo”, vem de um comentário de São Beda sobre a vocação de Mateus.",
+      "Seu símbolo é o homem (ou anjo), porque o Evangelho começa com a genealogia humana de Jesus."
+    ],
+    "biblia": ["Mt 9,9-13", "Ef 4,1-7.11-13"],
+    "fontes": ["Martirológio Romano, 21 de setembro"]
+  },
+  "vicente-de-paulo": {
+    "titulo": "Presbítero",
+    "viveu": "1581 – 1660",
+    "local": "Gasconha e Paris (França)",
+    "patrono": ["obras de caridade", "vicentinos"],
+    "historia": [
+      "Vicente nasceu numa família pobre de camponeses no sul da França. Ordenou-se padre jovem, inicialmente buscando uma vida confortável. Aos poucos, tocado pela miséria dos pobres do campo e por uma confissão que ouviu, entregou-se totalmente a eles.",
+      "Fundou a Congregação da Missão (lazaristas ou vicentinos), para pregar missões aos pobres e formar padres, e, com Santa Luísa de Marillac, as Filhas da Caridade, primeiras religiosas que viviam fora do claustro, servindo nas ruas e hospitais.",
+      "Organizou grupos de senhoras para ajudar os pobres, cuidou de crianças abandonadas, presos condenados às galés e vítimas de guerra. Dizia que os pobres são “nossos senhores e mestres”."
+    ],
+    "curiosidades": [
+      "A Sociedade de São Vicente de Paulo, fundada em 1833 pelo beato Frederico Ozanam, leva o seu nome.",
+      "Leão XIII o declarou padroeiro de todas as obras de caridade."
+    ],
+    "biblia": ["Lc 4,16-21", "1Cor 1,26-31"],
+    "fontes": ["Martirológio Romano, 27 de setembro"]
+  },
+  "venceslau": {
+    "titulo": "Mártir",
+    "viveu": "c. 907 – 935",
+    "local": "Boêmia (República Tcheca)",
+    "patrono": ["República Tcheca", "Boêmia"],
+    "historia": [
+      "Venceslau era duque da Boêmia e foi educado na fé cristã pela avó, Santa Ludmila, que foi assassinada por causa disso.",
+      "Assumiu o governo jovem e procurou governar com justiça e caridade: ajudou os pobres, construiu igrejas e apoiou a evangelização do povo, enfrentando a oposição de nobres pagãos.",
+      "Em 28 de setembro de 935, foi assassinado por ordem do próprio irmão, Boleslau, quando ia para a igreja. Logo foi venerado como mártir."
+    ],
+    "curiosidades": [
+      "A praça Venceslau, em Praga, tem uma grande estátua equestre dele.",
+      "É o “bom rei Venceslau” de uma famosa canção de Natal inglesa."
+    ],
+    "biblia": ["Sb 3,1-9", "Mt 10,34-39"],
+    "fontes": ["Martirológio Romano, 28 de setembro"]
+  },
+  "lourenco-ruiz": {
+    "titulo": "Mártires",
+    "viveu": "c. 1600 – 1637 (Lourenço Ruiz)",
+    "local": "Manila (Filipinas) e Nagasaki (Japão)",
+    "patrono": ["Filipinas", "trabalhadores filipinos no exterior"],
+    "historia": [
+      "Lourenço Ruiz era um leigo filipino, filho de pai chinês e mãe filipina, casado e pai de três filhos. Era calígrafo e ajudante numa paróquia dominicana em Manila.",
+      "Acusado injustamente de um crime, embarcou com missionários dominicanos que iam para o Japão, onde os cristãos eram perseguidos. Foram presos em Okinawa e levados a Nagasaki.",
+      "Depois de torturas, foi morto em 1637, junto com outros companheiros. Disse: “Sou cristão e morro por Deus; se tivesse mil vidas, todas as daria por Ele”. Com 15 companheiros, foi canonizado por São João Paulo II em 1987."
+    ],
+    "curiosidades": [
+      "É o primeiro santo filipino.",
+      "Os 16 mártires eram filipinos, japoneses, espanhóis, um francês e um italiano."
+    ],
+    "biblia": ["Mt 10,32-33", "Rm 8,35-39"],
+    "fontes": ["Martirológio Romano, 28 de setembro"]
+  },
+  "jeronimo": {
+    "titulo": "Presbítero e Doutor da Igreja",
+    "viveu": "c. 347 – 420",
+    "local": "Dalmácia, Roma e Belém",
+    "patrono": ["biblistas", "tradutores", "bibliotecários"],
+    "historia": [
+      "Jerônimo nasceu em Estridão, na Dalmácia, e estudou em Roma, onde foi batizado. Viveu como eremita no deserto da Síria, onde aprendeu hebraico, e foi ordenado padre.",
+      "Em Roma, foi secretário do papa São Dâmaso, que lhe pediu uma revisão da tradução latina da Bíblia. Depois mudou-se para Belém, onde viveu 35 anos junto à gruta do Nascimento, estudando, rezando e traduzindo.",
+      "Traduziu quase toda a Bíblia diretamente do hebraico e do grego para o latim: é a “Vulgata”, usada pela Igreja do Ocidente por mais de mil anos. Tinha temperamento forte, mas um amor imenso pelas Escrituras."
+    ],
+    "tradicao": [
+      "Conta-se que tirou um espinho da pata de um leão, que passou a viver com ele no mosteiro. Por isso é pintado com um leão."
+    ],
+    "curiosidades": [
+      "O mês de setembro, por causa da sua festa, é dedicado à Bíblia no Brasil.",
+      "O papa Francisco escreveu sobre ele a carta “Scripturae sacrae affectus” (2020), nos 1600 anos da sua morte."
+    ],
+    "frase": { "texto": "Ignorar as Escrituras é ignorar Cristo.", "fonte": "São Jerônimo, Comentário a Isaías, prólogo (CIC 133)" },
+    "biblia": ["2Tm 3,14-17", "Ne 8,1-10", "Sl 119(118),105"],
+    "fontes": ["Martirológio Romano, 30 de setembro", "CIC 133", "Papa Francisco, Scripturae sacrae affectus (2020)"]
+  }
+}

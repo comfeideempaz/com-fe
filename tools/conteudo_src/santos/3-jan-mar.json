@@ -1,0 +1,454 @@
+{
+  "_comentario": "Vidas que faltavam (janeiro a março), escritas em 07/11/2026. Mesmo padrão: historia = o que é seguro; tradicao = relatos piedosos; datas aproximadas com 'c.'; dúvida: revisar.",
+  "maria-mae-de-deus": {
+    "titulo": "Solenidade de Nossa Senhora",
+    "viveu": "séc. I a.C. – séc. I",
+    "local": "Nazaré, Belém e Jerusalém",
+    "patrono": ["a paz (Dia Mundial da Paz)", "as mães"],
+    "historia": [
+      "No primeiro dia do ano, oitava do Natal, a Igreja celebra a mais antiga e a mais importante verdade sobre Maria: ela é verdadeiramente Mãe de Deus, porque o Filho que concebeu e deu à luz é o próprio Filho eterno de Deus feito homem.",
+      "No século V, Nestório, patriarca de Constantinopla, dizia que Maria era só “mãe de Cristo”, como se em Jesus houvesse duas pessoas. O Concílio de Éfeso, em 431, proclamou que Maria é Theotókos, “Mãe de Deus”, e o povo da cidade acompanhou os bispos com tochas pelas ruas, cantando de alegria.",
+      "O título não coloca Maria acima de Deus: ele protege a verdade sobre Jesus, uma só Pessoa, verdadeiro Deus e verdadeiro homem. Em 1968, São Paulo VI ligou este dia ao Dia Mundial da Paz, confiando à Mãe do Príncipe da Paz o ano que começa."
+    ],
+    "curiosidades": [
+      "A oração mais antiga a Maria que se conhece, o “Sob a vossa proteção” (Sub tuum praesidium), já a chama de Mãe de Deus, num papiro egípcio do século III.",
+      "A segunda parte da Ave-Maria, “Santa Maria, Mãe de Deus”, ecoa exatamente a definição de Éfeso."
+    ],
+    "biblia": ["Lc 2,16-21", "Gl 4,4-7", "Lc 1,43"],
+    "fontes": ["Concílio de Éfeso (431)", "CIC 495", "CIC 466", "São Paulo VI, Marialis cultus 5 (1974)"]
+  },
+  "basilio-e-gregorio": {
+    "titulo": "Bispos e Doutores da Igreja",
+    "viveu": "c. 329 – 379 e c. 329 – c. 390",
+    "local": "Capadócia (atual Turquia) e Constantinopla",
+    "patrono": ["monges do Oriente", "amizade cristã"],
+    "historia": [
+      "Basílio e Gregório nasceram na Capadócia e se tornaram amigos inseparáveis quando estudavam em Atenas. Gregório escreveu que tinham “uma só alma em dois corpos” e que conheciam apenas dois caminhos: o da igreja e o da escola.",
+      "Basílio, bispo de Cesareia, defendeu a divindade do Filho e do Espírito Santo contra os arianos, organizou a vida dos monges com regras que até hoje guiam o monaquismo oriental e construiu, nas portas da cidade, um grande complexo para pobres, doentes e viajantes, chamado pelo povo de “Basilíade”.",
+      "Gregório, de temperamento contemplativo, foi chamado a Constantinopla, onde a fé de Niceia estava quase apagada. Ali pregou os famosos “Discursos teológicos” sobre a Santíssima Trindade e por isso a Igreja do Oriente o chama de “o Teólogo”. Presidiu por pouco tempo o Concílio de Constantinopla, em 381, e depois voltou para a vida de oração."
+    ],
+    "curiosidades": [
+      "Junto com Gregório de Nissa, irmão de Basílio, são chamados de “Padres Capadócios”.",
+      "A Divina Liturgia de São Basílio ainda é celebrada nas Igrejas orientais em alguns dias do ano."
+    ],
+    "frase": { "texto": "Tínhamos uma só alma em dois corpos.", "fonte": "São Gregório Nazianzeno, Discurso 43, sobre São Basílio" },
+    "biblia": ["Mt 25,35-40", "Jo 15,13-15"],
+    "fontes": ["Martirológio Romano, 2 de janeiro", "Liturgia das Horas, Ofício das Leituras de 2 de janeiro", "Bento XVI, catequeses sobre os Padres da Igreja (Audiências gerais, 2007)"]
+  },
+  "raimundo-de-penyafort": {
+    "titulo": "Presbítero",
+    "viveu": "c. 1175 – 1275",
+    "local": "Barcelona (Espanha) e Roma",
+    "patrono": ["advogados", "canonistas"],
+    "historia": [
+      "Raimundo nasceu perto de Barcelona e foi um jurista brilhante, professor de Direito em Bolonha. Já sacerdote, entrou na Ordem dos Pregadores (dominicanos) com cerca de 45 anos.",
+      "O papa Gregório IX o chamou a Roma e lhe pediu que reunisse as leis da Igreja, espalhadas em muitas coleções. Assim nasceram os “Decretais” (1234), que foram a base do direito da Igreja por quase sete séculos. Também escreveu um manual muito usado pelos confessores.",
+      "Eleito mestre-geral dos dominicanos, renunciou depois de dois anos e voltou a Barcelona, onde viveu até quase 100 anos, pregando, aconselhando reis e incentivando o diálogo com judeus e muçulmanos. Foi ele quem pediu a São Tomás de Aquino que escrevesse a “Suma contra os gentios”, segundo antiga tradição dominicana."
+    ],
+    "tradicao": [
+      "Conta-se que, para fugir de uma corte onde não queria compactuar com o pecado do rei, estendeu o manto sobre o mar e navegou nele de Maiorca até Barcelona."
+    ],
+    "curiosidades": [
+      "É padroeiro dos advogados especializados em direito canônico.",
+      "Ajudou São Pedro Nolasco a fundar os mercedários, que resgatavam cristãos escravizados."
+    ],
+    "biblia": ["Sl 119(118),105", "Mt 13,52"],
+    "fontes": ["Martirológio Romano, 7 de janeiro"],
+    "revisar": true,
+    "obs": "Conferir a tradição sobre o pedido da Suma contra os gentios."
+  },
+  "hilario": {
+    "titulo": "Bispo e Doutor da Igreja",
+    "viveu": "c. 315 – 367",
+    "local": "Poitiers (França)",
+    "patrono": ["Poitiers"],
+    "historia": [
+      "Hilário nasceu numa família pagã e rica da Gália. Estudando filosofia, buscava o sentido da vida e o encontrou lendo a Bíblia, especialmente o início do Evangelho de São João. Foi batizado já adulto, junto com a esposa e a filha.",
+      "Por volta de 350 foi escolhido bispo de Poitiers. Defendeu com firmeza a fé do Concílio de Niceia, que proclama que o Filho é Deus como o Pai, contra o arianismo, apoiado então pelo imperador. Por isso foi exilado na Frígia (Ásia Menor).",
+      "No exílio escreveu sua grande obra, “A Trindade”, e conheceu a teologia do Oriente. Voltou à Gália e continuou a trabalhar pela unidade da fé. Por sua coragem, foi chamado de “Atanásio do Ocidente”. Pio IX o declarou Doutor da Igreja em 1851."
+    ],
+    "curiosidades": [
+      "São Martinho de Tours foi seu discípulo e fundou, com seu apoio, o primeiro mosteiro da Gália, em Ligugé.",
+      "Escreveu hinos para a liturgia, sendo um dos primeiros autores de hinos cristãos em latim."
+    ],
+    "biblia": ["Jo 1,1-14", "Mt 28,19"],
+    "fontes": ["Martirológio Romano, 13 de janeiro", "Bento XVI, Audiência geral sobre Santo Hilário (2007)"]
+  },
+  "antao": {
+    "titulo": "Abade",
+    "viveu": "c. 251 – 356",
+    "local": "Egito",
+    "patrono": ["monges", "animais domésticos", "contra doenças de pele"],
+    "historia": [
+      "Antão era um jovem cristão rico do Egito. Por volta dos 20 anos, ouviu na igreja o Evangelho: “Se queres ser perfeito, vai, vende o que tens, dá aos pobres”. Sentiu que a palavra era para ele: vendeu tudo, cuidou da irmã e foi viver na solidão, rezando e trabalhando.",
+      "Passou décadas no deserto, enfrentando duras tentações e combatendo o mal com oração, jejum e confiança em Cristo. Muitos foram atrás dele para aprender a viver para Deus, e assim nasceram as primeiras comunidades de monges. Por isso é chamado “pai dos monges”.",
+      "Saiu do deserto poucas vezes: para animar os cristãos perseguidos em Alexandria e para apoiar Santo Atanásio contra os arianos. Morreu com mais de 100 anos. Atanásio escreveu sua vida, que se espalhou pelo mundo e ajudou na conversão de Santo Agostinho."
+    ],
+    "curiosidades": [
+      "É representado com um porquinho e um sino; na Idade Média, os monges antonianos criavam porcos para alimentar doentes, e por isso Antão virou protetor dos animais domésticos.",
+      "A “Vida de Antão”, de Santo Atanásio, é considerada a primeira biografia de um monge."
+    ],
+    "biblia": ["Mt 19,21", "Mt 6,34", "Ef 6,10-11"],
+    "fontes": ["Martirológio Romano, 17 de janeiro", "Santo Atanásio, Vida de Santo Antão", "Santo Agostinho, Confissões VIII,6"]
+  },
+  "fabiano": {
+    "titulo": "Papa e mártir",
+    "viveu": "séc. III – 250",
+    "local": "Roma (Itália)",
+    "patrono": [],
+    "historia": [
+      "Fabiano era um leigo que estava em Roma quando a comunidade se reuniu para escolher um novo bispo, em 236. Segundo o historiador Eusébio de Cesareia, uma pomba pousou sobre a sua cabeça e todos viram nisso um sinal do Espírito Santo. Foi eleito por aclamação.",
+      "Governou a Igreja por cerca de 14 anos, num período de relativa paz. Organizou Roma em sete regiões confiadas a diáconos, cuidou das catacumbas onde se enterravam os cristãos e enviou missionários para a Gália.",
+      "Na perseguição do imperador Décio, foi um dos primeiros a ser presos e morreu mártir em janeiro de 250. São Cipriano elogiou a sua firmeza em carta. Foi sepultado na cripta dos papas, nas catacumbas de São Calisto, onde a lápide com o seu nome ainda pode ser vista."
+    ],
+    "curiosidades": [
+      "Divide o dia 20 de janeiro com São Sebastião, outro mártir romano.",
+      "Sua lápide original, em grego, foi encontrada no século XIX nas catacumbas de São Calisto."
+    ],
+    "biblia": ["Jo 21,15-17", "At 1,24-26"],
+    "fontes": ["Martirológio Romano, 20 de janeiro", "Eusébio de Cesareia, História Eclesiástica VI,29"]
+  },
+  "vicente-diacono": {
+    "titulo": "Diácono e mártir",
+    "viveu": "séc. III – 304",
+    "local": "Saragoça e Valência (Espanha)",
+    "patrono": ["Lisboa", "vinicultores", "diáconos"],
+    "historia": [
+      "Vicente era diácono do bispo Valério de Saragoça, que tinha dificuldade para falar; por isso o jovem diácono pregava em seu lugar. Na perseguição do imperador Diocleciano, os dois foram presos e levados a Valência.",
+      "O bispo foi exilado, mas Vicente foi torturado de muitas formas, inclusive numa grelha de ferro em brasa. Segundo os relatos antigos, permaneceu sereno e firme na fé, e morreu na prisão, deitado sobre cacos, por volta de 304.",
+      "Seu martírio foi muito conhecido na Igreja antiga: Santo Agostinho pregou vários sermões em sua festa e o poeta Prudêncio compôs um hino em sua honra."
+    ],
+    "tradicao": [
+      "Conta-se que corvos protegeram o seu corpo, lançado ao campo. Séculos depois, quando as relíquias foram levadas para Lisboa (1173), corvos teriam acompanhado o barco. Por isso a cidade de Lisboa tem um barco com dois corvos em seu brasão."
+    ],
+    "curiosidades": [
+      "É padroeiro de Lisboa, onde suas relíquias são veneradas na Sé.",
+      "É o mártir mais famoso da Espanha antiga."
+    ],
+    "biblia": ["2Cor 4,7-11", "Jo 12,24-26"],
+    "fontes": ["Martirológio Romano, 22 de janeiro", "Santo Agostinho, Sermões 274-277", "Prudêncio, Peristephanon 5"]
+  },
+  "timoteo-e-tito": {
+    "titulo": "Bispos",
+    "viveu": "séc. I",
+    "local": "Éfeso (atual Turquia) e Creta (Grécia)",
+    "patrono": ["bispos", "Creta"],
+    "historia": [
+      "Timóteo e Tito foram os colaboradores mais próximos de São Paulo. Celebrados no dia seguinte à Conversão de São Paulo, lembram que o apóstolo não trabalhava sozinho.",
+      "Timóteo era de Listra, filho de pai grego e mãe judia cristã. Desde a infância aprendeu as Escrituras com a mãe Eunice e a avó Loide. Acompanhou Paulo nas viagens e foi enviado a Tessalônica, Corinto e Éfeso. Paulo o chamava de “meu filho amado” e escreveu-lhe duas cartas.",
+      "Tito era grego, de família pagã. Paulo o levou ao Concílio de Jerusalém e lhe confiou missões delicadas em Corinto. Depois o deixou em Creta para organizar a Igreja e escolher presbíteros em cada cidade, como lemos na Carta a Tito."
+    ],
+    "tradicao": [
+      "Segundo a tradição, Timóteo foi o primeiro bispo de Éfeso e morreu apedrejado por se opor a uma festa pagã; Tito foi bispo de Creta e morreu idoso."
+    ],
+    "curiosidades": [
+      "As cartas a Timóteo e a Tito são chamadas “cartas pastorais”, porque falam do cuidado com a comunidade.",
+      "“Ninguém despreze a tua juventude” (1Tm 4,12) foi escrito para Timóteo."
+    ],
+    "biblia": ["2Tm 1,1-8", "Tt 1,1-5", "1Tm 4,12", "At 16,1-3"],
+    "fontes": ["Martirológio Romano, 26 de janeiro", "Cartas de São Paulo a Timóteo e a Tito"]
+  },
+  "angela-merici": {
+    "titulo": "Virgem",
+    "viveu": "1474 – 1540",
+    "local": "Desenzano e Bréscia (Itália)",
+    "patrono": ["educadoras", "órfãos"],
+    "historia": [
+      "Ângela nasceu às margens do lago de Garda e ficou órfã ainda menina. Tornou-se terciária franciscana e dedicou a vida a Deus, ensinando a fé às meninas pobres, que naquele tempo quase não tinham acesso à educação.",
+      "Mudou-se para Bréscia, onde muitos a procuravam para pedir conselho. Peregrinou à Terra Santa e a Roma. Em 1535 reuniu um grupo de jovens consagradas sob a proteção de Santa Úrsula: era a Companhia de Santa Úrsula, as ursulinas.",
+      "A grande novidade era que essas mulheres viviam consagradas a Deus em suas próprias casas, servindo na educação e na catequese. Mais tarde as ursulinas se tornaram uma ordem com conventos e escolas espalhadas pelo mundo."
+    ],
+    "curiosidades": [
+      "Foi canonizada em 1807, por Pio VII.",
+      "As ursulinas foram uma das primeiras congregações femininas dedicadas ao ensino."
+    ],
+    "biblia": ["Mt 19,13-15", "1Cor 7,34"],
+    "fontes": ["Martirológio Romano, 27 de janeiro"]
+  },
+  "oscar": {
+    "titulo": "Bispo",
+    "viveu": "801 – 865",
+    "local": "Hamburgo e Bremen (Alemanha), Dinamarca e Suécia",
+    "patrono": ["Dinamarca", "Escandinávia"],
+    "historia": [
+      "Óscar (Ansgário) nasceu na França e foi educado no mosteiro beneditino de Corbie. Sentiu o chamado para levar o Evangelho aos povos do norte da Europa, que ainda não conheciam Cristo.",
+      "Pregou na Dinamarca e na Suécia, onde fundou a primeira igreja cristã. Foi nomeado arcebispo de Hamburgo, mas a cidade foi destruída pelos vikings em 845; então passou a governar a partir de Bremen.",
+      "Enfrentou muitos fracassos, mas não desanimou: resgatava escravos, fundava escolas e cuidava dos pobres. Por isso é chamado de “apóstolo do Norte”. Dizia que o maior milagre que poderia pedir a Deus era tornar-se um homem bom."
+    ],
+    "curiosidades": [
+      "Seu nome em latim é Ansgarius; em português também aparece como Anscário.",
+      "A semente que plantou só deu fruto completo cerca de um século depois da sua morte."
+    ],
+    "biblia": ["Mt 28,19-20", "Rm 10,14-15"],
+    "fontes": ["Martirológio Romano, 3 de fevereiro", "São Rimberto, Vida de Santo Anscário"]
+  },
+  "agueda": {
+    "titulo": "Virgem e mártir",
+    "viveu": "séc. III – c. 251",
+    "local": "Catânia (Sicília, Itália)",
+    "patrono": ["Catânia", "doentes de câncer de mama", "contra incêndios e erupções"],
+    "historia": [
+      "Águeda é uma das mártires mais antigas e veneradas da Igreja: seu nome está no Cânon Romano, a primeira Oração Eucarística da Missa.",
+      "Era uma jovem cristã da Sicília que tinha consagrado a sua virgindade a Cristo. Na perseguição do imperador Décio, foi presa por recusar o casamento com um governador romano e negar-se a oferecer sacrifício aos deuses.",
+      "Segundo os Atos do seu martírio, foi cruelmente torturada, inclusive com a mutilação dos seios, e morreu na prisão em Catânia, por volta de 251."
+    ],
+    "tradicao": [
+      "Conta-se que São Pedro apareceu a ela na prisão e curou suas feridas. Um ano depois da sua morte, o véu do seu túmulo teria detido a lava do Etna, e por isso é invocada contra erupções e incêndios."
+    ],
+    "curiosidades": [
+      "É lembrada no Cânon Romano junto com Felicidade, Perpétua, Luzia, Inês, Cecília e Anastácia.",
+      "A festa de Santa Águeda em Catânia é uma das maiores festas religiosas da Itália."
+    ],
+    "biblia": ["1Cor 1,26-31", "Mt 10,28-33"],
+    "fontes": ["Martirológio Romano, 5 de fevereiro", "Missal Romano, Oração Eucarística I"]
+  },
+  "paulo-miki": {
+    "titulo": "Mártires",
+    "viveu": "c. 1564 – 1597",
+    "local": "Nagasaki (Japão)",
+    "patrono": ["Japão"],
+    "historia": [
+      "O Evangelho chegou ao Japão em 1549, com São Francisco Xavier, e em poucas décadas havia milhares de cristãos. Mas o governante Toyotomi Hideyoshi passou a ver os missionários como ameaça e mandou prender cristãos.",
+      "Paulo Miki era japonês, filho de um nobre, educado pelos jesuítas e famoso pregador. Foi preso com outros 25 cristãos: missionários franciscanos e jesuítas, catequistas e leigos, entre eles crianças. Tiveram a orelha cortada e foram obrigados a caminhar centenas de quilômetros até Nagasaki.",
+      "Em 5 de fevereiro de 1597 foram crucificados numa colina. Da cruz, Paulo Miki pregou: disse que morria por ter anunciado Jesus, que perdoava os seus algozes e pedia que todos se tornassem cristãos. Os 26 foram canonizados por Pio IX em 1862."
+    ],
+    "curiosidades": [
+      "Entre os mártires estavam três meninos; o mais novo, Luís Ibaraki, tinha 12 anos e cantou salmos a caminho da cruz.",
+      "Os cristãos japoneses viveram escondidos por mais de 200 anos e mantiveram a fé sem padres, batizando e rezando em segredo."
+    ],
+    "biblia": ["Gl 2,19-20", "Lc 23,34", "Mt 10,32"],
+    "fontes": ["Martirológio Romano, 6 de fevereiro", "Liturgia das Horas, Ofício das Leituras de 6 de fevereiro"]
+  },
+  "jeronimo-emiliani": {
+    "titulo": "Religioso",
+    "viveu": "1486 – 1537",
+    "local": "Veneza e Somasca (Itália)",
+    "patrono": ["órfãos", "juventude abandonada"],
+    "historia": [
+      "Jerônimo era um nobre de Veneza e foi soldado. Em 1511, durante uma guerra, foi preso e acorrentado numa fortaleza. Na prisão, voltou-se para Deus e, depois de libertado, mudou completamente de vida.",
+      "Ordenado sacerdote, dedicou-se aos que ninguém queria: órfãos, doentes e mulheres que deixavam a prostituição. Numa época de fome e peste, recolhia crianças abandonadas, dava-lhes casa, comida, ensino da fé e um ofício.",
+      "Fundou a Companhia dos Servos dos Pobres, que se tornou a Ordem dos Clérigos Regulares de Somasca (somascos). Morreu em 1537, contagiado pela peste enquanto cuidava dos doentes."
+    ],
+    "tradicao": [
+      "Conta-se que foi libertado da prisão depois de rezar a Nossa Senhora, e deixou as correntes como oferta num santuário mariano em Treviso."
+    ],
+    "curiosidades": [
+      "Pio XI o declarou padroeiro universal dos órfãos e da juventude abandonada, em 1928.",
+      "Usava perguntas e respostas para ensinar o catecismo, um método novo para a época."
+    ],
+    "biblia": ["Mt 18,5", "Tg 1,27"],
+    "fontes": ["Martirológio Romano, 8 de fevereiro"]
+  },
+  "escolastica": {
+    "titulo": "Virgem",
+    "viveu": "c. 480 – c. 547",
+    "local": "Núrsia e Monte Cassino (Itália)",
+    "patrono": ["monjas beneditinas", "contra tempestades"],
+    "historia": [
+      "Escolástica era irmã de São Bento, o pai do monaquismo do Ocidente. Desde jovem consagrou-se a Deus e viveu com uma comunidade de mulheres perto de Monte Cassino, onde Bento tinha o seu mosteiro.",
+      "Quase tudo o que sabemos dela vem de São Gregório Magno, nos “Diálogos”. Os irmãos se encontravam uma vez por ano numa casa entre os dois mosteiros, para conversar sobre as coisas de Deus.",
+      "No último encontro, Escolástica pediu que Bento ficasse a noite toda conversando. Ele recusou, para não quebrar a regra. Ela rezou com lágrimas e caiu uma tempestade tão forte que ele não pôde sair. São Gregório comenta: “pôde mais aquela que amou mais”. Três dias depois, Bento viu a alma da irmã subir ao céu como uma pomba."
+    ],
+    "curiosidades": [
+      "Bento a sepultou no túmulo que preparara para si mesmo; os dois irmãos repousam juntos em Monte Cassino.",
+      "A tradição diz que eram gêmeos, mas os “Diálogos” não afirmam isso."
+    ],
+    "biblia": ["1Jo 4,16", "Ct 8,6-7"],
+    "fontes": ["Martirológio Romano, 10 de fevereiro", "São Gregório Magno, Diálogos II,33-34"]
+  },
+  "nossa-senhora-de-lourdes": {
+    "titulo": "Memória de Nossa Senhora",
+    "viveu": "Aparições em 1858",
+    "local": "Lourdes (França)",
+    "patrono": ["os doentes (Dia Mundial do Enfermo)"],
+    "historia": [
+      "Em 11 de fevereiro de 1858, Bernadette Soubirous, uma menina pobre e doente de 14 anos, foi buscar lenha perto da gruta de Massabielle, em Lourdes. Ali viu uma senhora vestida de branco, com uma faixa azul e um terço nas mãos. Foi a primeira de 18 aparições.",
+      "A senhora pediu oração e penitência pelos pecadores e que se construísse ali uma capela. Num dos encontros, indicou a Bernadette um lugar onde cavar: brotou uma fonte, que corre até hoje. Em 25 de março, quando Bernadette perguntou o seu nome, ela respondeu: “Eu sou a Imaculada Conceição”, dogma proclamado quatro anos antes.",
+      "Depois de investigações cuidadosas, o bispo reconheceu as aparições em 1862. Bernadette tornou-se religiosa em Nevers e foi canonizada em 1933. Lourdes recebe milhões de peregrinos, especialmente doentes; a Igreja já reconheceu oficialmente mais de 70 curas como milagrosas."
+    ],
+    "curiosidades": [
+      "São João Paulo II instituiu, em 1992, o Dia Mundial do Enfermo, celebrado em 11 de fevereiro.",
+      "Bernadette não sabia o que significava “Imaculada Conceição” e repetiu as palavras pelo caminho para não esquecê-las."
+    ],
+    "biblia": ["Jo 2,1-11", "Is 66,10-14", "Ap 12,1"],
+    "fontes": ["Missal Romano, 11 de fevereiro", "São João Paulo II, Carta instituindo o Dia Mundial do Enfermo (1992)", "Santuário de Lourdes (lourdes-france.org)"],
+    "revisar": true,
+    "obs": "O número de curas reconhecidas muda com o tempo; conferir antes de cada atualização."
+  },
+  "cirilo-e-metodio": {
+    "titulo": "Monge e bispo",
+    "viveu": "c. 827 – 869 e c. 815 – 885",
+    "local": "Tessalônica (Grécia), Morávia e Roma",
+    "patrono": ["Europa", "povos eslavos", "ecumenismo"],
+    "historia": [
+      "Cirilo (Constantino) e Metódio eram irmãos, nascidos em Tessalônica, onde se falava grego e também a língua dos eslavos. Cirilo era um sábio, professor em Constantinopla; Metódio foi governador e depois monge.",
+      "Em 863, o príncipe da Grande Morávia pediu missionários que pregassem na língua do povo. Os irmãos foram enviados e, para isso, Cirilo criou um alfabeto, o glagolítico, e traduziu os Evangelhos e a liturgia para o eslavo antigo. Isso despertou oposição de quem achava que só se podia rezar em hebraico, grego ou latim.",
+      "Foram a Roma, onde o papa Adriano II aprovou a liturgia em eslavo. Cirilo morreu em Roma, em 869. Metódio foi ordenado arcebispo e continuou a missão, apesar de perseguições e até prisão, até morrer em 885."
+    ],
+    "curiosidades": [
+      "São João Paulo II os declarou copadroeiros da Europa, ao lado de São Bento, em 1980.",
+      "O alfabeto cirílico, usado hoje no russo e no búlgaro, recebeu o nome em homenagem a Cirilo."
+    ],
+    "biblia": ["Mc 16,15", "At 2,8-11"],
+    "fontes": ["Martirológio Romano, 14 de fevereiro", "São João Paulo II, Carta apostólica Egregiae virtutis (1980)", "São João Paulo II, Encíclica Slavorum Apostoli (1985)"]
+  },
+  "fundadores-servitas": {
+    "titulo": "Religiosos",
+    "viveu": "séc. XIII",
+    "local": "Florença e Monte Senário (Itália)",
+    "patrono": ["servitas"],
+    "historia": [
+      "Na rica e dividida Florença do século XIII, sete comerciantes leigos se reuniam numa confraria dedicada a Nossa Senhora. Por volta de 1233, decidiram deixar os negócios e viver juntos em pobreza, oração e penitência.",
+      "Retiraram-se para o Monte Senário, perto de Florença, onde viveram como eremitas. Pouco a pouco formaram uma ordem religiosa, os Servos de Maria (servitas), dedicada a contemplar as dores de Nossa Senhora junto à cruz e a servir o próximo.",
+      "Sua devoção ajudou a difundir a festa de Nossa Senhora das Dores. O último deles, Aleixo Falconieri, morreu em 1310, com mais de 100 anos. Os sete foram canonizados juntos por Leão XIII em 1888."
+    ],
+    "curiosidades": [
+      "É raro na Igreja: sete fundadores canonizados juntos, com uma única festa.",
+      "A Ordem dos Servos de Maria está presente no Brasil, especialmente no Acre e em São Paulo."
+    ],
+    "biblia": ["Jo 19,25-27", "At 4,32"],
+    "fontes": ["Martirológio Romano, 17 de fevereiro"]
+  },
+  "pedro-damiao": {
+    "titulo": "Bispo e Doutor da Igreja",
+    "viveu": "1007 – 1072",
+    "local": "Ravena e Fonte Avellana (Itália)",
+    "patrono": [],
+    "historia": [
+      "Pedro nasceu em Ravena, numa família numerosa e pobre, e ficou órfão cedo. Um irmão mais velho, Damião, pagou os seus estudos; por gratidão, Pedro acrescentou o nome dele ao seu.",
+      "Tornou-se professor famoso, mas largou tudo para ser monge no eremitério de Fonte Avellana, onde depois foi prior. Unia uma vida de oração e penitência muito exigente a uma grande produção de cartas e escritos.",
+      "Numa época em que a Igreja sofria com a compra de cargos (simonia) e a corrupção do clero, trabalhou pela reforma ao lado de vários papas. Foi feito cardeal bispo de Óstia e enviado em missões de paz, mas sempre voltava ao seu eremitério. Leão XII o declarou Doutor da Igreja em 1828."
+    ],
+    "curiosidades": [
+      "Dante o coloca no Paraíso da Divina Comédia, no céu dos contemplativos.",
+      "Escreveu muito sobre o amor à cruz e sobre a vida dos eremitas."
+    ],
+    "biblia": ["Gl 6,14", "Jo 2,13-17"],
+    "fontes": ["Martirológio Romano, 21 de fevereiro", "Bento XVI, Audiência geral sobre São Pedro Damião (2009)"]
+  },
+  "gregorio-de-narek": {
+    "titulo": "Abade e Doutor da Igreja",
+    "viveu": "c. 950 – c. 1005",
+    "local": "Narek (Armênia histórica, atual Turquia)",
+    "patrono": ["Armênia"],
+    "historia": [
+      "Gregório foi monge no mosteiro de Narek, às margens do lago Van, e passou a vida em oração, estudo e ensino. É um dos maiores poetas e místicos da tradição armênia.",
+      "Sua obra principal é o “Livro das Lamentações”, 95 orações em que fala a Deus “do fundo do coração”, reconhecendo a própria fraqueza e confiando na misericórdia divina. Escreveu também comentários sobre o Cântico dos Cânticos e hinos a Nossa Senhora.",
+      "Na Armênia, o seu livro é guardado em muitas casas como um livro de oração ao lado da Bíblia. Em 2015, no centenário do genocídio armênio, o papa Francisco o declarou Doutor da Igreja."
+    ],
+    "curiosidades": [
+      "O papa Francisco incluiu sua memória no Calendário Romano Geral em 2021.",
+      "É venerado pela Igreja Apostólica Armênia e pela Igreja Católica Armênia."
+    ],
+    "biblia": ["Sl 51(50),3-4", "Lc 18,13"],
+    "fontes": ["Papa Francisco, proclamação como Doutor da Igreja (21 de fevereiro de 2015)", "Dicastério para o Culto Divino, Decreto de inscrição no Calendário Romano Geral (2021)"]
+  },
+  "casimiro": {
+    "titulo": "Príncipe",
+    "viveu": "1458 – 1484",
+    "local": "Cracóvia (Polônia) e Vilnius (Lituânia)",
+    "patrono": ["Lituânia", "Polônia", "jovens"],
+    "historia": [
+      "Casimiro era filho do rei da Polônia e grão-duque da Lituânia. Educado com rigor, cresceu com fé profunda, simplicidade e grande amor aos pobres, mesmo vivendo na corte.",
+      "Aos 13 anos foi enviado pelo pai para tentar ocupar o trono da Hungria, mas a expedição fracassou. Depois disso, ajudou o pai a governar com prudência e justiça, especialmente quando ele estava ausente.",
+      "Recusou um casamento arranjado para guardar a castidade que tinha oferecido a Deus. Muito devoto da Eucaristia e de Nossa Senhora, morreu de tuberculose aos 25 anos, em Grodno."
+    ],
+    "tradicao": [
+      "Diz-se que foi sepultado com o hino “Omni die dic Mariae” (“Todo dia canta a Maria”), que ele rezava diariamente; por isso o hino ficou conhecido como “hino de São Casimiro”."
+    ],
+    "curiosidades": [
+      "Seu túmulo está na catedral de Vilnius, capital da Lituânia.",
+      "Pio XII o proclamou padroeiro especial da juventude lituana."
+    ],
+    "biblia": ["Mt 5,8", "Sb 4,7-14"],
+    "fontes": ["Martirológio Romano, 4 de março"]
+  },
+  "joao-de-deus": {
+    "titulo": "Religioso",
+    "viveu": "1495 – 1550",
+    "local": "Montemor-o-Novo (Portugal) e Granada (Espanha)",
+    "patrono": ["hospitais", "doentes", "enfermeiros", "bombeiros"],
+    "historia": [
+      "João Cidade nasceu em Montemor-o-Novo, em Portugal, e ainda menino foi parar na Espanha. Foi pastor, soldado e vendedor de livros. Já com 42 anos, em Granada, ouviu um sermão de São João de Ávila e sofreu uma conversão tão forte que o tomaram por louco e o internaram num hospital.",
+      "Lá viu como os doentes mentais eram maltratados e decidiu dedicar a vida a eles. Ao sair, alugou uma casa e começou a recolher doentes pobres, andando pelas ruas à noite com um cesto e pedindo: “Fazei o bem, irmãos, a vós mesmos”.",
+      "Cuidava de cada um com carinho, separava os doentes por tipo de enfermidade e mantinha tudo limpo, algo novo para a época. Morreu em 1550, depois de se jogar num rio para salvar um jovem que se afogava. Seus companheiros formaram a Ordem Hospitaleira de São João de Deus."
+    ],
+    "curiosidades": [
+      "Leão XIII o declarou padroeiro dos hospitais e dos doentes, e Pio XI, dos enfermeiros.",
+      "Conta-se que salvou doentes de um incêndio no Hospital Real de Granada sem se queimar, por isso também é padroeiro dos bombeiros."
+    ],
+    "biblia": ["Mt 25,36-40", "Lc 10,33-35"],
+    "fontes": ["Martirológio Romano, 8 de março", "Ordem Hospitaleira de São João de Deus"]
+  },
+  "francisca-romana": {
+    "titulo": "Religiosa",
+    "viveu": "1384 – 1440",
+    "local": "Roma (Itália)",
+    "patrono": ["motoristas", "viúvas", "Roma"],
+    "historia": [
+      "Francisca nasceu numa família nobre de Roma e queria ser religiosa, mas aos 12 anos foi dada em casamento. Viveu 40 anos de matrimônio feliz com Lourenço Ponziani e foi mãe de três filhos, dois dos quais morreram crianças.",
+      "Unia os deveres de esposa e mãe a uma intensa vida de oração e caridade. Numa Roma devastada por guerras, peste e fome, transformou a própria casa em hospital e distribuía comida aos pobres, junto com a cunhada Vanozza.",
+      "Em 1425 reuniu mulheres que queriam servir a Deus no mundo: as Oblatas de Maria, com casa em Tor de' Specchi. Depois de viúva, entrou na comunidade e morreu em 1440."
+    ],
+    "tradicao": [
+      "Segundo seus biógrafos, via o seu anjo da guarda ao seu lado, que a guiava com uma luz; por isso Pio XI a declarou padroeira dos motoristas, em 1925."
+    ],
+    "curiosidades": [
+      "Dizia: “Uma mulher casada deve deixar Deus no altar para encontrá-lo nos afazeres da casa”.",
+      "Seu corpo repousa na igreja de Santa Francisca Romana, no Fórum Romano."
+    ],
+    "biblia": ["Pr 31,10-31", "Sl 91(90),11-12"],
+    "fontes": ["Martirológio Romano, 9 de março"]
+  },
+  "cirilo-de-jerusalem": {
+    "titulo": "Bispo e Doutor da Igreja",
+    "viveu": "c. 315 – 387",
+    "local": "Jerusalém",
+    "patrono": [],
+    "historia": [
+      "Cirilo foi bispo de Jerusalém num tempo de muita confusão causada pela heresia ariana. Por causa das disputas, foi exilado três vezes e passou cerca de 16 anos longe da sua Igreja.",
+      "É conhecido sobretudo pelas suas “Catequeses”: 24 instruções feitas na Basílica do Santo Sepulcro aos que iam ser batizados na Páscoa e aos recém-batizados. Explicam o Credo e os sacramentos do Batismo, da Crisma e da Eucaristia.",
+      "Essas catequeses são um tesouro, porque mostram como era a iniciação cristã no século IV, e são usadas até hoje pela Igreja. Participou do Concílio de Constantinopla, em 381. Leão XIII o declarou Doutor da Igreja em 1883."
+    ],
+    "curiosidades": [
+      "Nas catequeses mistagógicas ensina: quando receberes o Corpo de Cristo, faz da mão esquerda um trono para a direita, que vai receber o Rei.",
+      "O Catecismo da Igreja Católica cita as suas catequeses várias vezes."
+    ],
+    "biblia": ["1Cor 11,23-26", "Rm 6,3-5"],
+    "fontes": ["Martirológio Romano, 18 de março", "São Cirilo de Jerusalém, Catequeses mistagógicas", "Bento XVI, Audiência geral sobre São Cirilo de Jerusalém (2007)"]
+  },
+  "turibio": {
+    "titulo": "Bispo",
+    "viveu": "1538 – 1606",
+    "local": "Mayorga (Espanha) e Lima (Peru)",
+    "patrono": ["bispos da América Latina", "direitos dos povos indígenas"],
+    "historia": [
+      "Turíbio era um jurista leigo, juiz em Granada, quando o rei Filipe II o indicou para arcebispo de Lima, no Peru. Recebeu as ordens sacras e a ordenação episcopal em pouco tempo e chegou a Lima em 1581.",
+      "Sua diocese era imensa. Percorreu-a por anos, muitas vezes a pé ou em mula, por montanhas e florestas, para visitar e crismar o povo. Aprendeu o quíchua para falar com os indígenas e defendeu-os contra os abusos dos colonizadores.",
+      "Convocou concílios e sínodos, fundou o primeiro seminário da América e mandou publicar um catecismo em espanhol, quíchua e aimará. Morreu em 1606, durante uma visita pastoral."
+    ],
+    "curiosidades": [
+      "Crismou Santa Rosa de Lima.",
+      "São João Paulo II o proclamou padroeiro do episcopado latino-americano em 1983."
+    ],
+    "biblia": ["Jo 10,11-16", "1Pd 5,2-4"],
+    "fontes": ["Martirológio Romano, 23 de março"]
+  },
+  "anunciacao": {
+    "titulo": "Solenidade do Senhor",
+    "viveu": "c. 7–6 a.C.",
+    "local": "Nazaré (Galileia)",
+    "patrono": ["a vida nascente"],
+    "historia": [
+      "Nove meses antes do Natal, a Igreja celebra o dia em que o anjo Gabriel foi enviado a uma virgem de Nazaré chamada Maria e anunciou que ela seria a mãe do Filho do Altíssimo. Maria perguntou como isso seria possível e ouviu que o Espírito Santo viria sobre ela.",
+      "Então Maria disse o seu “sim”: “Eis aqui a serva do Senhor, faça-se em mim segundo a tua palavra”. Naquele instante, o Filho eterno de Deus se fez homem no seu seio: é o mistério da Encarnação.",
+      "Por isso esta é uma festa ao mesmo tempo do Senhor e de Nossa Senhora. No Credo, nos ajoelhamos (ou nos inclinamos) nas palavras “e se encarnou pelo Espírito Santo, no seio da Virgem Maria”."
+    ],
+    "curiosidades": [
+      "A oração do Ângelus, rezada ao meio-dia, recorda a Anunciação.",
+      "Em Nazaré, a Basílica da Anunciação guarda a gruta onde, segundo a tradição, Maria morava."
+    ],
+    "biblia": ["Lc 1,26-38", "Is 7,10-14", "Hb 10,4-10"],
+    "fontes": ["CIC 484-494", "Missal Romano, 25 de março"]
+  }
+}
