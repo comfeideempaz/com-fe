@@ -3,10 +3,10 @@
 // junto com o ?v= do index.html.
 
 export const APP_NAME = "Com Fé!";
-export const APP_VERSION = "1.2.0";
+export const APP_VERSION = "1.3.0";
 
-// Chave do progresso no localStorage. Sem login, existe um único perfil por aparelho.
-// Continua "catequizando:v1" (nome antigo do app) para ninguém perder o progresso.
+// Chave do progresso no localStorage de antes do login (e do modo sem nuvem).
+// Continua "catequizando:v1" (nome antigo do app); no primeiro login ele vai para a conta.
 export const STORAGE_KEY = "catequizando:v1";
 
 // Meta diária: a pessoa escolhe o tipo e o valor em Meu progresso.

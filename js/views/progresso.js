@@ -1,5 +1,5 @@
 // Tela "Meu progresso": sequência e recorde, selos, números do caminho, meta do dia, aparência (tema e letra)
-// e o backup do progresso (exportar e importar arquivo), já que não há conta.
+// a conta (e-mail, sincronização, sair) ou o aviso de visitante, e o backup em arquivo.
 
 import { getState, subscribe, setPerfil, sequenciaAtual, exportar, importar, apagarTudo } from "../store.js";
 import { cabecalho, esc, formatNumber, toast, hojeISO } from "../ui.js";
@@ -7,6 +7,38 @@ import { META } from "../config.js";
 import { ic } from "../icons.js";
 import { definicoes } from "../selos.js";
 import { refsHTML } from "../biblia.js";
+import { getModo, getUsuario, getStatusSync, aoMudarConta, sair, enviarAgora, ondeFicaSalvo } from "../conta.js";
+
+const SYNC_TEXTO = {
+  ok: "✓ Tudo salvo na sua conta.",
+  enviando: "Enviando para a sua conta…",
+  pendente: "Guardado no aparelho. Vai para a sua conta quando houver internet.",
+  erro: "Não consegui enviar agora. Tento de novo sozinho.",
+};
+
+function contaHTML() {
+  const modo = getModo();
+  if (modo === "conta") {
+    const st = getStatusSync();
+    return `<section class="cartao" aria-labelledby="t-conta">
+      <h2 id="t-conta">Sua conta</h2>
+      <p class="conta-linha"><span class="conta-email">${esc(getUsuario()?.email || "")}</span></p>
+      <p class="sync ${st === "erro" ? "erro" : ""}" id="sync" role="status">${SYNC_TEXTO[st]}</p>
+      <div class="botoes">
+        ${st !== "ok" ? `<button class="botao secundario" id="b-enviar">Enviar agora</button>` : ""}
+        <a class="botao secundario" href="#/entrar/nova-senha">Trocar senha</a>
+        <button class="botao secundario" id="b-sair">Sair da conta</button>
+      </div>
+    </section>`;
+  }
+  if (modo === "visitante") {
+    return `<section class="cartao faixa-visitante" aria-labelledby="t-conta">
+      <p><strong id="t-conta">Você está como visitante.</strong> O que aparece aqui some ao fechar o app. Crie uma conta para guardar o seu caminho.</p>
+      <div class="botoes"><a class="botao" href="#/entrar/criar">Criar conta</a><a class="botao secundario" href="#/entrar">Entrar</a><button class="botao secundario" id="b-sair">Sair do modo visitante</button></div>
+    </section>`;
+  }
+  return "";
+}
 
 let selosDef = null;
 
@@ -17,7 +49,7 @@ function opcoes(lista, atual) {
 function desenhar(el) {
   const st = getState();
   const p = st.perfil;
-  el.innerHTML = cabecalho("Meu progresso", "Tudo fica salvo neste aparelho.") + `
+  el.innerHTML = cabecalho("Meu progresso", ondeFicaSalvo()) + contaHTML() + `
     <section class="painel tres">
       <div class="cartao estat"><div class="estat-ic chama">${ic("chama")}</div><div><p class="estat-num">${formatNumber(sequenciaAtual())}</p><p class="estat-rot">sequência atual</p></div></div>
       <div class="cartao estat"><div class="estat-ic ouro">${ic("selo")}</div><div><p class="estat-num">${formatNumber(st.sequencia.recorde)}</p><p class="estat-rot">maior sequência</p></div></div>
@@ -75,12 +107,12 @@ function desenhar(el) {
 
     <section class="cartao" aria-labelledby="t-bk">
       <h2 id="t-bk">Backup do progresso</h2>
-      <p>Como o app não usa conta, salve um arquivo de backup para não perder nada ao trocar de celular.</p>
+      <p>${getModo() === "conta" ? "Sua conta já guarda tudo. Se quiser, salve também uma cópia em arquivo." : getModo() === "visitante" ? "Quer levar o que fez agora? Salve um arquivo e restaure depois de criar a sua conta." : "Salve um arquivo de backup para não perder nada ao trocar de celular."}</p>
       <div class="botoes">
         <button class="botao" id="b-exportar">${ic("baixar")} Salvar backup</button>
         <label class="botao secundario">${ic("subir")} Restaurar backup<input type="file" id="b-importar" accept="application/json,.json" hidden></label>
       </div>
-      <button class="link-perigo" id="b-apagar">Apagar todo o progresso deste aparelho</button>
+      <button class="link-perigo" id="b-apagar">${getModo() === "conta" ? "Apagar todo o meu progresso (aqui e na conta)" : "Apagar todo o progresso"}</button>
     </section>`;
 
   el.querySelector("#f-perfil").addEventListener("change", e => {
@@ -111,7 +143,16 @@ function desenhar(el) {
     catch (err) { toast(err.message.startsWith("Este arquivo") ? err.message : "Não consegui ler este arquivo."); }
   });
   el.querySelector("#b-apagar").addEventListener("click", () => {
-    if (confirm("Apagar todo o progresso deste aparelho? Isso não pode ser desfeito.")) { apagarTudo(); toast("Progresso apagado."); }
+    if (confirm("Apagar todo o progresso? Isso não pode ser desfeito.")) { apagarTudo(); toast("Progresso apagado."); }
+  });
+  el.querySelector("#b-enviar")?.addEventListener("click", async () => { toast((await enviarAgora()) ? "Enviado." : "Ainda sem conexão."); });
+  el.querySelector("#b-sair")?.addEventListener("click", async () => {
+    if (getModo() === "visitante") {
+      if (confirm("Sair do modo visitante? O que você fez agora será apagado.")) await sair();
+      return;
+    }
+    if (await sair()) { toast("Você saiu da conta."); return; }
+    if (confirm("Ainda há progresso que não chegou à sua conta (sem internet). Se sair agora, ele se perde. Sair mesmo assim?")) await sair({ forcar: true });
   });
 }
 
@@ -119,5 +160,12 @@ export async function render(el) {
   try { selosDef = await definicoes(); } catch { selosDef = null; }
   desenhar(el);
   // Redesenha só quando algo mudou fora desta tela (ex.: restaurar backup), mantendo o foco.
-  return subscribe(() => { if (!el.contains(document.activeElement) || document.activeElement.type === "file") desenhar(el); });
+  const redesenhar = () => { if (!el.contains(document.activeElement) || document.activeElement.type === "file" || document.activeElement.tagName === "BUTTON") desenhar(el); };
+  const a = subscribe(redesenhar);
+  // O status da sincronização muda sozinho: atualiza só a linha dele, sem perder o foco.
+  const b = aoMudarConta(() => {
+    const s = el.querySelector("#sync");
+    if (s && getModo() === "conta") { s.textContent = SYNC_TEXTO[getStatusSync()]; s.classList.toggle("erro", getStatusSync() === "erro"); }
+  });
+  return () => { a(); b(); };
 }

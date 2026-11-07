@@ -1,7 +1,9 @@
-// Progresso de quem usa o app, guardado só neste aparelho (localStorage).
-// Não há conta: um perfil por aparelho. Para trocar de celular, use
-// exportar() e importar() (arquivo de backup em Meu progresso).
-// As telas chamam subscribe() para se redesenhar quando o estado muda.
+// Progresso de quem usa o app. Onde ele fica depende de quem está usando:
+// - conta (login): cópia no aparelho, por usuário, e na nuvem (js/conta.js sincroniza);
+// - visitante: só na memória da aba (sessionStorage), some ao fechar o app;
+// - sem nuvem configurada: só no aparelho, como nas versões antigas.
+// js/conta.js escolhe o lugar com usarArmazenamento(). Backup em arquivo continua em
+// exportar() e importar(). As telas chamam subscribe() para se redesenhar.
 
 import { STORAGE_KEY, META, SEQUENCIA, MAX_ATIVIDADES } from "./config.js";
 import { hojeISO, somaDias, diasEntre } from "./ui.js";
@@ -10,6 +12,7 @@ export function blankState() {
   return {
     versao: 1,
     criadoEm: new Date().toISOString(),
+    atualizadoEm: null, // última mudança feita neste aparelho (usado na sincronização)
     perfil: { nome: "", metaTipo: META.padrao.tipo, metaValor: META.padrao.valor, tema: "auto", tamanhoLetra: 1 },
     sequencia: { atual: 0, recorde: 0, ultimoDia: null, ultimoDescanso: null },
     hoje: { data: hojeISO(), minutos: 0, capitulos: 0 },
@@ -25,17 +28,49 @@ export function blankState() {
   };
 }
 
+// Onde salvar: { area: localStorage | sessionStorage, chave, aoSalvar(state) }.
+let destino = { area: safeArea("localStorage"), chave: STORAGE_KEY, aoSalvar: null };
 let state = carregar();
 const ouvintes = new Set();
 
+function safeArea(nome) { try { return window[nome]; } catch { return null; } }
+
 function carregar() {
   try {
-    const bruto = localStorage.getItem(STORAGE_KEY);
+    const bruto = destino.area?.getItem(destino.chave);
     if (!bruto) return blankState();
     return mesclar(blankState(), JSON.parse(bruto));
   } catch {
     return blankState();
   }
+}
+
+// Troca o lugar do progresso (login, sair, visitante) e recarrega o estado de lá.
+// area: "local" | "sessao"; aoSalvar é chamado depois de cada mudança (sincronizar).
+export function usarArmazenamento({ area = "local", chave = STORAGE_KEY, aoSalvar = null } = {}) {
+  destino = { area: safeArea(area === "sessao" ? "sessionStorage" : "localStorage"), chave, aoSalvar };
+  state = carregar();
+  avisar();
+}
+
+// Lê um progresso salvo em outra chave do aparelho (ex.: o de antes do login), ou null.
+export function lerSalvo(chave) {
+  try { const b = localStorage.getItem(chave); return b ? mesclar(blankState(), JSON.parse(b)) : null; } catch { return null; }
+}
+
+// Substitui o estado inteiro (veio da nuvem). Não dispara aoSalvar para não reenviar.
+export function substituirEstado(novo, { enviar = false } = {}) {
+  state = mesclar(blankState(), novo);
+  gravar();
+  if (enviar) destino.aoSalvar?.(state);
+  avisar();
+}
+
+export function apagarChave(chave) { try { localStorage.removeItem(chave); } catch { /* bloqueado */ } }
+
+export function estaVazio(st = state) {
+  return !Object.keys(st.lidos).length && !Object.keys(st.planos).length && !st.atividades.length &&
+    !st.lectios.length && !st.favoritos.length && !st.perfil.nome;
 }
 
 // Garante que campos novos (de versões futuras do app) existam em estados antigos.
@@ -45,9 +80,19 @@ function mesclar(base, salvo) {
   return out;
 }
 
-function salvar() {
-  try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); } catch { /* armazenamento cheio ou bloqueado */ }
+function gravar() {
+  try { destino.area?.setItem(destino.chave, JSON.stringify(state)); } catch { /* armazenamento cheio ou bloqueado */ }
+}
+
+function avisar() {
   ouvintes.forEach(fn => { try { fn(state); } catch (e) { console.error(e); } });
+}
+
+function salvar() {
+  state.atualizadoEm = new Date().toISOString();
+  gravar();
+  destino.aoSalvar?.(state);
+  avisar();
 }
 
 // Zera o contador de "hoje" quando o dia virou.

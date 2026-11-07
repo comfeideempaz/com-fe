@@ -507,3 +507,25 @@ a.cic { color: var(--primary); font-weight: 600; text-decoration: underline; tex
 .botao.perigo { color: var(--bad); }
 .preparacao .frase { margin-top: 12px; }
 @media (max-width: 420px) { .passos-nav .passo-nome { font-size: .68rem; } }
+
+/* Entrar (login), sem o menu */
+body.sem-menu .nav { display: none; }
+body.sem-menu .view { margin-left: auto; padding-bottom: 32px; }
+.entrar { max-width: 440px; margin: 0 auto; }
+.entrar-topo { text-align: center; margin: 8px 0 14px; }
+.entrar-topo .lumi { display: block; margin: 0 auto 4px; }
+.entrar-marca { font-family: var(--font-titulo); font-weight: 800; font-size: 1.4rem; color: var(--primary); margin: 0; }
+.entrar .form input { width: 100%; }
+.entrar-botao { width: 100%; margin-top: 4px; }
+.entrar-links { text-align: center; margin: 14px 0 0; font-size: .92rem; }
+.entrar-msg { margin: 0 0 12px; padding: 10px 12px; border-radius: 12px; background: var(--surface-2); font-size: .92rem; }
+.entrar-msg.erro { background: color-mix(in srgb, var(--bad) 12%, transparent); color: var(--bad); }
+.entrar-msg.ok { background: color-mix(in srgb, var(--good) 12%, transparent); }
+.entrar-visitante { text-align: center; }
+.entrar-visitante .botao { width: 100%; }
+.faixa-visitante { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; border-left: 5px solid var(--gold); }
+.faixa-visitante p { flex: 1; min-width: 200px; margin: 0; }
+.conta-linha { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.conta-email { font-weight: 700; word-break: break-all; }
+.sync { font-size: .85rem; color: var(--muted); }
+.sync.erro { color: var(--bad); }

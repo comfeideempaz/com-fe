@@ -9,6 +9,7 @@ import { getState, subscribe } from "./store.js";
 import { verificar as verificarSelos } from "./selos.js";
 import { dia as diaLiturgico, aplicarCor } from "./liturgia.js";
 import { hojeISO } from "./ui.js";
+import { iniciarConta, getModo, aoMudarConta, lembrarRota } from "./conta.js";
 
 // Itens do menu. "celular" = aparece na barra inferior (5 itens).
 // "computador" = aparece no menu lateral (classe nav-desktop quando não está no celular).
@@ -54,6 +55,8 @@ const ROUTES = [
   { re: /^\/progresso$/, nav: "progresso", title: "Meu progresso", view: "progresso" },
   { re: /^\/sobre$/, nav: "sobre", title: "Sobre", view: "sobre" },
   { re: /^\/mais$/, nav: "mais", title: "Mais", view: "mais" },
+  { re: /^\/entrar$/, nav: "", title: "Entrar", view: "entrar", livre: true, semMenu: true },
+  { re: /^\/entrar\/(criar|esqueci|nova-senha)$/, nav: "", title: "Entrar", view: "entrar", params: ["etapa"], livre: true, semMenu: true },
 ];
 
 const MAIS_INCLUI = ["lectio", "santos", "missa", "oracoes", "sacramentos", "defesa", "progresso", "sobre"];
@@ -84,8 +87,15 @@ let limpar = null;
 let geracao = 0;
 
 async function rotear() {
-  const caminho = (location.hash || "#/inicio").slice(1);
+  // "#/rota?x=1": a parte depois do ? vira params.query (URLSearchParams).
+  const [caminho, busca = ""] = (location.hash || "#/inicio").slice(1).split("?");
   let rota = ROUTES.find(r => r.re.test(caminho));
+  // Sem login e sem ter escolhido "visitante": primeiro a tela de entrar.
+  if (getModo() === "fora" && !rota?.livre) {
+    if (rota && location.hash) lembrarRota(location.hash);
+    location.replace("#/entrar");
+    return;
+  }
   if (!rota) {
     if (!location.hash || caminho === "/") { location.replace("#/inicio"); return; }
     rota = { nav: "", title: "Página não encontrada", view: "nao-encontrada" };
@@ -93,6 +103,8 @@ async function rotear() {
   const params = {};
   const m = rota.re ? caminho.match(rota.re) : null;
   (rota.params || []).forEach((nome, i) => { if (m[i + 1] !== undefined) params[nome] = decodeURIComponent(m[i + 1]); });
+  params.query = new URLSearchParams(busca);
+  document.body.classList.toggle("sem-menu", !!rota.semMenu);
 
   const minha = ++geracao;
   if (typeof limpar === "function") { try { limpar(); } catch (e) { console.error(e); } }
@@ -118,13 +130,23 @@ async function rotear() {
 
 function faixaOffline() {
   const f = document.getElementById("offline");
-  const atualizar = () => { f.hidden = navigator.onLine; };
+  const TEXTO = {
+    conta: "📴 Offline: seu progresso fica no aparelho e vai para a sua conta quando a internet voltar.",
+    visitante: "📴 Offline: o app funciona normalmente.",
+  };
+  const atualizar = () => { f.hidden = navigator.onLine; f.textContent = TEXTO[getModo()] || "📴 Offline: seu progresso fica salvo no aparelho."; };
+  aoMudarConta(atualizar);
   addEventListener("online", atualizar);
   addEventListener("offline", atualizar);
   atualizar();
 }
 
-function iniciar() {
+async function iniciar() {
+  let primeira = null;
+  try { primeira = await iniciarConta(); } catch (e) { console.error(e); }
+  if (primeira) history.replaceState(null, "", primeira);
+  // Ao sair da conta (ou a sessão vencer), volta para a tela de entrar.
+  aoMudarConta(() => { if (getModo() === "fora" && !location.hash.startsWith("#/entrar")) location.hash = "#/entrar"; });
   aplicarTema();
   subscribe(aplicarTema);
   montarMenu();

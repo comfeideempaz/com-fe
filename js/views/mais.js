@@ -10,7 +10,7 @@ const ITENS = [
   { rota: "#/oracoes", icone: "maos", titulo: "Orações", texto: "Orações e terço guiado" },
   { rota: "#/sacramentos", icone: "cruz", titulo: "Sacramentos", texto: "Confissão e exame de consciência" },
   { rota: "#/defesa", icone: "escudo", titulo: "Defesa da Fé", texto: "Respostas com a Bíblia e o Catecismo" },
-  { rota: "#/progresso", icone: "progresso", titulo: "Meu progresso", texto: "Sequência, selos, meta e backup" },
+  { rota: "#/progresso", icone: "progresso", titulo: "Meu progresso", texto: "Sequência, selos, meta e conta" },
   { rota: "#/sobre", icone: "info", titulo: "Sobre", texto: "Fontes e créditos" },
 ];
 

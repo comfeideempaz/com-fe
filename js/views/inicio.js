@@ -8,6 +8,7 @@ import { lumi } from "../lumi.js";
 import { dia, leiturasDe, COR_NOME, aplicarCor } from "../liturgia.js";
 import { carregar } from "../content.js";
 import { hojeISO } from "../ui.js";
+import { getModo } from "../conta.js";
 
 const ATALHOS = [
   { rota: "#/biblia", icone: "livro", titulo: "Bíblia", texto: "Os 73 livros, offline" },
@@ -80,6 +81,11 @@ function desenhar(el, hoje) {
         <div class="hero-lumi">${lumi({ tamanho: 112 })}</div>
       </div>
     </section>
+
+    ${getModo() === "visitante" ? `<section class="cartao faixa-visitante">
+      <p><strong>Você está como visitante.</strong> Pode usar tudo, mas o seu progresso some ao fechar o app.</p>
+      <a class="botao secundario" href="#/entrar/criar">Criar conta e salvar</a>
+    </section>` : ""}
 
     <section class="painel" aria-label="Sua constância">
       <div class="cartao estat">

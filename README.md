@@ -2,15 +2,15 @@
 
 Com Fé! (antes chamado Catequizando) é um app católico em português do Brasil para viver a fé no dia a dia: a Bíblia inteira com projetos de leitura, a liturgia de cada dia (tempo, cor, celebração e evangelho), a missa explicada parte por parte, a história e as curiosidades dos santos e as orações tradicionais.
 
-Funciona **sem internet** e **sem conta**: o progresso fica salvo no celular de cada pessoa (com backup em arquivo).
+Funciona **sem internet**. A pessoa entra com e-mail e senha (Supabase) e o progresso fica salvo na conta, ou usa o app como **visitante**, sem salvar nada depois de fechar.
 
 ## Padrão técnico
 
 - Site estático: HTML + CSS + JavaScript puro (ES modules), sem framework e sem etapa de build.
 - PWA instalável e 100% offline (`manifest.json` + `sw.js`).
 - Conteúdo em `data/*.json`, gerado e validado pelos scripts Python em `tools/`.
-- Hospedagem no GitHub Pages (`.nojekyll`).
-- Supabase só no futuro, se houver login.
+- Hospedagem na Vercel (site estático, sem build). Também funciona no GitHub Pages (`.nojekyll`).
+- Login e progresso na nuvem: Supabase Auth + tabela `comfe_progresso` (ver abaixo).
 
 ## Estrutura
 
@@ -21,7 +21,10 @@ sw.js                 service worker (versão e lista geradas por tools/make_sw.
 css/app.css           visual inteiro, variáveis no :root
 js/app.js             inicialização, menu e roteador por hash (ROUTES)
 js/config.js          APP_NAME, APP_VERSION, regras de sequência, meta e selos
-js/store.js           progresso no localStorage, exportar/importar
+js/store.js           progresso (aparelho, conta ou só a sessão do visitante), exportar/importar
+js/conta.js           login, visitante e sincronização com o Supabase (fetch puro, sem biblioteca)
+js/nuvem.js           URL e chave pública (publishable) do Supabase
+supabase/schema.sql   tabela comfe_progresso com RLS (rodar uma vez no SQL Editor)
 js/content.js         leitura dos JSON de data/
 js/liturgia.js        dia litúrgico a partir do calendário gerado
 js/speech.js          voz pt-BR do aparelho
@@ -93,3 +96,13 @@ Os itens com `"revisar": true` são listados em `tools/relatorios/*.txt`.
 - [x] Fase 5: offline (service worker)
 - [x] Fase 6: revisão final
 - [ ] Fase 7: subir (GitHub Pages)
+
+
+## Login e sincronização
+
+- `#/entrar`: entrar, criar conta (`/criar`), esqueci a senha (`/esqueci`) e nova senha (`/nova-senha`, volta do e-mail). Sem login e sem escolher visitante, qualquer rota leva para lá.
+- **Conta:** o progresso fica no aparelho (`comfe:conta:<id>`) e sobe para `comfe_progresso` 2,5 s depois de cada mudança. Ao abrir o app, ao voltar a internet e ao voltar para a aba, baixa da nuvem. Se os dois lados mudaram (dois aparelhos offline), `juntar()` soma os dois.
+- **Visitante:** progresso só no `sessionStorage` da aba; some ao fechar. Se criar conta depois, o que fez vai para a conta.
+- No primeiro login, o progresso de antes do login (`catequizando:v1`) vai para a conta.
+- No Supabase, em Authentication → URL Configuration, o **Site URL** e as **Redirect URLs** precisam ter o endereço do app (ex.: `https://com-fe.vercel.app`), senão os links de confirmação e de senha nova voltam para o lugar errado.
+- `js/nuvem.js` vazio = app sem login, tudo só no aparelho (como até a versão 1.2).

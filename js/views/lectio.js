@@ -1,6 +1,6 @@
 // Lectio Divina: leitura orante da Palavra em 5 passos (leitura, meditação, oração,
 // contemplação e ação, como em Verbum Domini 87), sobre o Evangelho do dia ou
-// um trecho escolhido da Bíblia. O que a pessoa escreve fica só neste aparelho.
+// um trecho escolhido da Bíblia. O que a pessoa escreve vai para o progresso (conta, aparelho ou só a sessão do visitante).
 //
 // Rotas: #/lectio (início e histórico), #/lectio/dia/AAAA-MM-DD (Evangelho do dia),
 // #/lectio/trecho/livro/cap/v1/v2 (trecho escolhido), #/lectio/s/:id (uma meditação).
@@ -12,6 +12,7 @@ import { getState, subscribe, lectio, novaLectio, escreverLectio, concluirLectio
 import { linkCIC, fonteHTML, fontesHTML, CIC_INDICE } from "../catecismo.js";
 import { esc, cabecalho, hojeISO, toast, plural } from "../ui.js";
 import { ic } from "../icons.js";
+import { getModo, ondeFicaSalvo } from "../conta.js";
 
 export async function render(el, params) {
   const dados = await carregar("lectio.json");
@@ -66,7 +67,7 @@ async function inicio(el, dados) {
   const historicoHTML = () => {
     const todas = getState().lectios.filter(l => Object.values(l.passos).some(t => t?.trim()) || l.concluida);
     const lst = filtro === "concluidas" ? todas.filter(l => l.concluida) : filtro === "rascunhos" ? todas.filter(l => !l.concluida) : todas;
-    if (!todas.length) return `<div class="cartao vazio"><p>Suas meditações aparecem aqui. Elas ficam guardadas só neste aparelho (entram no arquivo de backup em <a href="#/progresso">Meu progresso</a>).</p></div>`;
+    if (!todas.length) return `<div class="cartao vazio"><p>Suas meditações aparecem aqui. ${esc(ondeFicaSalvo())}</p></div>`;
     return `<div class="abas" role="tablist">${[["todas", "Todas"], ["concluidas", "Concluídas"], ["rascunhos", "Em andamento"]].map(([k, v]) =>
       `<button role="tab" aria-selected="${k === filtro}" data-filtro="${k}">${v}</button>`).join("")}</div>
       ${lst.length ? `<ul class="cartao lista-links historico-lectio">${lst.map(l => {
@@ -161,7 +162,7 @@ async function inicio(el, dados) {
 // ---------- Uma meditação, passo a passo ----------
 async function sessao(el, dados, id) {
   const l = lectio(id);
-  if (!l) { el.innerHTML = cabecalho("Meditação não encontrada", "Ela pode ter sido apagada neste aparelho.") + `<p><a class="botao" href="#/lectio">Voltar à Lectio Divina</a></p>`; return; }
+  if (!l) { el.innerHTML = cabecalho("Meditação não encontrada", "Ela pode ter sido apagada.") + `<p><a class="botao" href="#/lectio">Voltar à Lectio Divina</a></p>`; return; }
   const { preparacao, passos, conclusao } = dados;
   const preenchido = () => passos.findIndex(p => !(l.passos[p.id] || "").trim());
   let atual = l.concluida ? 0 : Math.max(0, preenchido());
@@ -194,7 +195,7 @@ async function sessao(el, dados, id) {
         <button class="botao secundario pequeno perigo" id="apagar">Apagar</button>
       </div>
     </div>
-    <p class="aviso-texto">O que você escreve fica guardado só neste aparelho, sem internet e sem conta. Para não perder, faça o backup em <a href="#/progresso">Meu progresso</a>.</p>`;
+    <p class="aviso-texto">${esc(ondeFicaSalvo())}</p>`;
 
   trechoHTML(l.ref).then(h => { const t = el.querySelector("#texto"); if (t) t.innerHTML = h; });
 
@@ -246,7 +247,7 @@ async function sessao(el, dados, id) {
     escreverLectio(id, passo, texto);
     marcarNav();
     const s = el.querySelector("#salvo");
-    if (s) s.textContent = "✓ Salvo neste aparelho";
+    if (s) s.textContent = (getModo() === "visitante" ? "✓ Guardado até fechar o app" : "✓ Salvo");
   };
   // Grava na hora o que ainda está esperando (ao trocar de passo ou sair).
   const guardarAgora = () => {

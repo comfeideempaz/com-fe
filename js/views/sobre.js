@@ -8,7 +8,7 @@ export function render(el) {
   el.innerHTML = cabecalho("Sobre o Com Fé!") + `
     <section class="cartao sobre">
       <div class="sobre-lumi">${lumi({ tamanho: 96, humor: "piscando" })}</div>
-      <p>O Com Fé! ajuda você a conhecer e viver a fé católica no dia a dia: a Bíblia, a liturgia de cada dia, a missa explicada, os sacramentos, a Defesa da Fé, a vida dos santos e as orações. Funciona sem internet e sem conta.</p>
+      <p>O Com Fé! ajuda você a conhecer e viver a fé católica no dia a dia: a Bíblia, a liturgia de cada dia, a missa explicada, os sacramentos, a Defesa da Fé, a vida dos santos e as orações. Funciona sem internet. Com uma conta, o seu progresso fica salvo e volta em qualquer aparelho; como visitante, você usa tudo sem salvar.</p>
       <p>A Lumi, nossa ovelhinha, lembra o Bom Pastor, que conhece cada uma das suas ovelhas (Jo 10,14).</p>
     </section>
     <section class="cartao">
