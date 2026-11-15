@@ -1,0 +1,144 @@
+{
+ "modulo": "historia",
+ "aula": "idade-media",
+ "titulo": "A Idade Média: luzes e sombras",
+ "moduloTitulo": "História da Igreja e das Religiões",
+ "n": 5,
+ "emoji": "🏛️",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "🏛️",
+   "modulo": "Módulo 5 · História da Igreja e das Religiões",
+   "titulo": "A Idade Média: luzes e sombras",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 5, História da Igreja e das Religiões, vamos estudar: A Idade Média: luzes e sombras."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "A Idade Média, de cerca de 500 a 1500, é muitas vezes chamada injustamente de \"idade das trevas\". Foi um período de grandes santos, catedrais, universidades e evangelização, mas também de pecados e divisões. A história da Igreja deve ser contada com verdade: a Igreja é santa, mas seus membros são pecadores e precisam sempre de conversão.",
+   "destaques": [],
+   "refs": [
+    {
+     "pos": 339,
+     "txt": "CIC 827"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "Algumas marcas do período: no Natal de 800, Carlos Magno é coroado imperador pelo Papa. Em 910 nasce a abadia de Cluny, que impulsiona a reforma da Igreja. Em 1054 acontece o Cisma do Oriente, a separação entre Roma e Constantinopla, que deu origem às Igrejas ortodoxas. As excomunhões mútuas daquele ano foram retiradas em 1965 pelo Papa Paulo sexto e pelo Patriarca Atenágoras, e o diálogo continua.",
+   "destaques": [
+    {
+     "pos": 113,
+     "txt": "Cluny"
+    },
+    {
+     "pos": 160,
+     "txt": "1054"
+    },
+    {
+     "pos": 176,
+     "txt": "Cisma do Oriente"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "As Cruzadas, de 1095 a 1291, começaram como tentativa de proteger peregrinos e recuperar os lugares santos, mas também tiveram violências graves, como o saque de Constantinopla em 1204. A Inquisição, criada para julgar heresias, cometeu injustiças. No Jubileu do ano 2000, São João Paulo segundo pediu perdão publicamente pelos pecados cometidos por filhos da Igreja ao longo da história.",
+   "destaques": [
+    {
+     "pos": 3,
+     "txt": "Cruzadas"
+    },
+    {
+     "pos": 190,
+     "txt": "Inquisição"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "Ao mesmo tempo, Deus suscitou grandes santos. São Francisco de Assis, por volta de 1209, e São Domingos, em 1216, fundam as ordens mendicantes, voltadas à pobreza e à pregação. Surgem as universidades, Bolonha, Paris, Oxford, nascidas em grande parte da Igreja. Santo Tomás de Aquino, de 1225 a 1274, escreve a Suma Teológica, síntese entre fé e razão. Santa Clara, Santa Catarina de Sena, São Bernardo e Santa Hildegarda são outros nomes marcantes.",
+   "destaques": [
+    {
+     "pos": 45,
+     "txt": "São Francisco de Assis"
+    },
+    {
+     "pos": 90,
+     "txt": "São Domingos"
+    },
+    {
+     "pos": 186,
+     "txt": "universidades"
+    },
+    {
+     "pos": 262,
+     "txt": "Santo Tomás de Aquino"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "No fim do período, a Igreja vive o doloroso Grande Cisma do Ocidente, de 1378 a 1417, com dois e até três homens se dizendo papa. O Concílio de Constança resolveu a crise. A sede de reforma, porém, ficou no ar e prepararia o século dezesseis.",
+   "destaques": [
+    {
+     "pos": 44,
+     "txt": "Grande Cisma do Ocidente"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Cisma",
+     "origem": "grego schísma, \"rasgo, divisão\"",
+     "sentido": "ruptura da comunhão com a Igreja e com o Papa"
+    },
+    {
+     "termo": "Heresia",
+     "origem": "grego haíresis, \"escolha\"",
+     "sentido": "negação obstinada de uma verdade de fé, depois do Batismo"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Cisma vem do grego schísma, \"rasgo, divisão\", e quer dizer: ruptura da comunhão com a Igreja e com o Papa. A palavra Heresia vem do grego haíresis, \"escolha\", e quer dizer: negação obstinada de uma verdade de fé, depois do Batismo."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Jo 17,21",
+    "Mt 5,14-16",
+    "2Cor 4,7"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

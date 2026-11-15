@@ -1,0 +1,186 @@
+{
+ "modulo": "sociedade",
+ "aula": "doutrina-social",
+ "titulo": "A Doutrina Social da Igreja",
+ "moduloTitulo": "Fé, pessoa e sociedade",
+ "n": 7,
+ "emoji": "🤝",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "🤝",
+   "modulo": "Módulo 7 · Sociologia e Psicologia da Religião",
+   "titulo": "A Doutrina Social da Igreja",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 7, Sociologia e Psicologia da Religião, vamos estudar: A Doutrina Social da Igreja."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "A Doutrina Social da Igreja é o ensinamento da Igreja sobre a vida em sociedade: trabalho, economia, política, família, paz e meio ambiente. Ela nasce do Evangelho e da lei natural, e busca construir uma sociedade justa. Seu marco moderno é a encíclica Rerum Novarum, em 1891, de Leão treze, sobre a condição dos operários. Em 2004 foi publicado o Compêndio da Doutrina Social da Igreja.",
+   "destaques": [
+    {
+     "pos": 2,
+     "txt": "Doutrina Social da Igreja"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 221,
+     "txt": "CIC 2419-2423"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "Ela se apoia em alguns princípios. 1. Dignidade da pessoa humana: a pessoa é o fundamento e o fim de toda a vida social. 2. Bem comum: o conjunto das condições que permitem a todos e a cada um alcançar a própria perfeição. 3. Destinação universal dos bens: Deus criou a terra para todos; a propriedade privada é legítima, mas tem uma função social.",
+   "destaques": [
+    {
+     "pos": 23,
+     "txt": "princípios"
+    },
+    {
+     "pos": 35,
+     "txt": "1. Dignidade da pessoa humana"
+    },
+    {
+     "pos": 121,
+     "txt": "2. Bem comum"
+    },
+    {
+     "pos": 223,
+     "txt": "3. Destinação universal dos bens"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 223,
+     "txt": "CIC 1905-1912"
+    },
+    {
+     "pos": 348,
+     "txt": "CIC 2402-2406"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "4. Subsidiariedade: o que uma pessoa, família ou comunidade menor pode fazer, não deve ser tirado dela pela instância maior; o Estado ajuda, mas não substitui. 5. Solidariedade: a determinação firme de se empenhar pelo bem comum, porque somos todos responsáveis por todos. A Igreja fala também da opção preferencial pelos pobres, que não é exclusão de ninguém, mas atenção especial a quem mais precisa.",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "4. Subsidiariedade"
+    },
+    {
+     "pos": 160,
+     "txt": "5. Solidariedade"
+    },
+    {
+     "pos": 297,
+     "txt": "opção preferencial pelos pobres"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 158,
+     "txt": "CIC 1883-1885"
+    },
+    {
+     "pos": 271,
+     "txt": "CIC 1939-1942"
+    },
+    {
+     "pos": 402,
+     "txt": "CIC 2448"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "A Bíblia é cheia dessa preocupação: os profetas denunciam quem explora o pobre; Tiago critica a fé que diz \"vai em paz, aquece-te\" sem dar o necessário; e Jesus se identifica com o faminto, o estrangeiro, o doente e o preso. O trabalho é visto como participação na obra criadora de Deus e caminho de santificação, e o trabalhador tem direito a um salário justo.",
+   "destaques": [
+    {
+     "pos": 227,
+     "txt": "trabalho"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 78,
+     "txt": "Am 8,4-7"
+    },
+    {
+     "pos": 150,
+     "txt": "Tg 2,15-17"
+    },
+    {
+     "pos": 221,
+     "txt": "Mt 25,35-40"
+    },
+    {
+     "pos": 361,
+     "txt": "CIC 2427-2436"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "A Doutrina Social não é ideologia de direita nem de esquerda: ela julga todos os sistemas à luz do Evangelho. Ela pede dos cristãos leigos que participem da vida pública com honestidade, buscando o bem comum.",
+   "destaques": [],
+   "refs": [
+    {
+     "pos": 208,
+     "txt": "CIC 2442"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Subsidiariedade",
+     "origem": "latim subsidium, \"ajuda, reforço\"",
+     "sentido": "a instância maior ajuda a menor sem substituí-la"
+    },
+    {
+     "termo": "Solidariedade",
+     "origem": "latim solidus, \"inteiro, firme\"",
+     "sentido": "compromisso firme com o bem de todos"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Subsidiariedade vem do latim subsidium, \"ajuda, reforço\", e quer dizer: a instância maior ajuda a menor sem substituí-la. A palavra Solidariedade vem do latim solidus, \"inteiro, firme\", e quer dizer: compromisso firme com o bem de todos."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Am 8,4-7",
+    "Tg 2,14-17",
+    "Tg 5,1-6",
+    "Mt 25,31-46",
+    "At 4,32-35"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

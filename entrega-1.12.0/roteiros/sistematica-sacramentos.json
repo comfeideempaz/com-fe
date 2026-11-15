@@ -1,0 +1,182 @@
+{
+ "modulo": "sistematica",
+ "aula": "sacramentos",
+ "titulo": "Os sacramentos",
+ "moduloTitulo": "Teologia Sistemática",
+ "n": 4,
+ "emoji": "✝️",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "✝️",
+   "modulo": "Módulo 4 · Teologia Sistemática (Dogmática)",
+   "titulo": "Os sacramentos",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 4, Teologia Sistemática, Dogmática, vamos estudar: Os sacramentos."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "Os sacramentos são sinais eficazes da graça, instituídos por Cristo e confiados à Igreja, pelos quais a vida divina nos é dada. Eles não são só lembranças ou símbolos: realizam aquilo que significam. A água do Batismo não só lembra a purificação, ela purifica de verdade pela ação de Cristo.",
+   "destaques": [
+    {
+     "pos": 3,
+     "txt": "sacramentos"
+    },
+    {
+     "pos": 19,
+     "txt": "sinais eficazes da graça"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 131,
+     "txt": "CIC 1131"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "São sete, e o Catecismo os agrupa em três. Iniciação cristã: Batismo, Confirmação, Crisma, e Eucaristia. Cura: Penitência, Confissão, e Unção dos Enfermos. Serviço da comunhão e da missão: Ordem e Matrimônio. Eles tocam todas as etapas da vida, do nascimento à morte.",
+   "destaques": [
+    {
+     "pos": 4,
+     "txt": "sete"
+    },
+    {
+     "pos": 43,
+     "txt": "Iniciação cristã"
+    },
+    {
+     "pos": 105,
+     "txt": "Cura"
+    },
+    {
+     "pos": 156,
+     "txt": "Serviço da comunhão e da missão"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 43,
+     "txt": "CIC 1210-1211"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "Cada sacramento tem um sinal sensível, com elementos, a \"matéria\", como a água, o óleo, o pão e o vinho, e palavras, a \"forma\". O sacramento age pelo próprio fato de ser celebrado, ex opere operato: sua força vem de Cristo, e não da santidade do ministro. Mas os frutos dependem também das disposições de quem recebe.",
+   "destaques": [
+    {
+     "pos": 22,
+     "txt": "sinal sensível"
+    },
+    {
+     "pos": 145,
+     "txt": "pelo próprio fato de ser celebrado"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 258,
+     "txt": "CIC 1128"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "Alguns textos bíblicos: \"quem não nascer da água e do Espírito não pode entrar no Reino de Deus\"; \"quem come a minha carne e bebe o meu sangue tem a vida eterna\"; \"a quem perdoardes os pecados, serão perdoados\"; \"está alguém doente? Chame os presbíteros da Igreja\".",
+   "destaques": [],
+   "refs": [
+    {
+     "pos": 97,
+     "txt": "Jo 3,5"
+    },
+    {
+     "pos": 162,
+     "txt": "Jo 6,54"
+    },
+    {
+     "pos": 211,
+     "txt": "Jo 20,23"
+    },
+    {
+     "pos": 265,
+     "txt": "Tg 5,14"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "A Eucaristia é \"fonte e ápice de toda a vida cristã\": nela está o próprio Cristo, presente de modo verdadeiro, real e substancial, com seu Corpo, Sangue, alma e divindade. A Igreja chama essa mudança do pão e do vinho de transubstanciação. Para estudar cada sacramento em detalhe, o app tem a área Sacramentos.",
+   "destaques": [
+    {
+     "pos": 2,
+     "txt": "Eucaristia"
+    },
+    {
+     "pos": 221,
+     "txt": "transubstanciação"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 55,
+     "txt": "CIC 1324"
+    },
+    {
+     "pos": 240,
+     "txt": "CIC 1373-1377"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Sacramento",
+     "origem": "latim sacramentum, tradução do grego mystérion",
+     "sentido": "sinal eficaz da graça instituído por Cristo"
+    },
+    {
+     "termo": "Transubstanciação",
+     "origem": "latim trans (além) + substantia",
+     "sentido": "a mudança de toda a substância do pão e do vinho no Corpo e Sangue de Cristo"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Sacramento vem do latim sacramentum, tradução do grego mystérion, e quer dizer: sinal eficaz da graça instituído por Cristo. A palavra Transubstanciação vem do latim trans, além, e substantia, e quer dizer: a mudança de toda a substância do pão e do vinho no Corpo e Sangue de Cristo."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Jo 3,5",
+    "Jo 6,51-58",
+    "Jo 20,21-23",
+    "At 8,14-17",
+    "Tg 5,14-15"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

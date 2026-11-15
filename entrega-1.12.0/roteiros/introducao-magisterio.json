@@ -1,0 +1,159 @@
+{
+ "modulo": "introducao",
+ "aula": "magisterio",
+ "titulo": "O Magistério da Igreja",
+ "moduloTitulo": "Introdução à Teologia",
+ "n": 1,
+ "emoji": "🕯️",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "🕯️",
+   "modulo": "Módulo 1 · Fundamentos: Revelação, Escritura, Tradição e Magistério",
+   "titulo": "O Magistério da Igreja",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 1, Fundamentos: Revelação, Escritura, Tradição e Magistério, vamos estudar: O Magistério da Igreja."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "Se a Bíblia e a Tradição são o tesouro, quem garante que ele seja interpretado corretamente? Jesus confiou essa missão aos Apóstolos e aos seus sucessores: \"Quem vos ouve, a mim ouve\". Esse serviço de ensinar com autoridade se chama Magistério e é exercido pelo Papa e pelos bispos em comunhão com ele.",
+   "destaques": [
+    {
+     "pos": 233,
+     "txt": "Magistério"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 181,
+     "txt": "Lc 10,16"
+    },
+    {
+     "pos": 302,
+     "txt": "CIC 85"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "O Magistério não está acima da Palavra de Deus, mas a serve. Ele não inventa verdades novas: ouve, guarda e explica fielmente o que foi recebido. Escritura, Tradição e Magistério estão tão unidos que um não se sustenta sem os outros.",
+   "destaques": [
+    {
+     "pos": 13,
+     "txt": "não está acima da Palavra de Deus"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 146,
+     "txt": "CIC 86"
+    },
+    {
+     "pos": 233,
+     "txt": "CIC 95"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "Às vezes, para proteger a fé contra erros, a Igreja define solenemente uma verdade revelada: é o dogma. Os dogmas são como luzes no caminho, não grades. Exemplos: a divindade de Cristo, Niceia, 325, Maria Mãe de Deus, Éfeso, 431, a Imaculada Conceição, em 1854, e a Assunção de Maria, em 1950.",
+   "destaques": [
+    {
+     "pos": 96,
+     "txt": "dogma"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 103,
+     "txt": "CIC 88-89"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "A Igreja ensina também a infalibilidade: quando o Papa, como pastor de todos os fiéis, define de modo definitivo uma doutrina de fé ou de moral, ou quando os bispos unidos a ele o fazem, como num concílio ecumênico, o Espírito Santo os preserva do erro. Isso não quer dizer que o Papa nunca erre ou que seja impecável, mas que Deus não deixa a Igreja inteira se afastar da verdade revelada. Fora desses atos solenes, o ensino ordinário dos pastores pede dos fiéis uma adesão religiosa e respeitosa.",
+   "destaques": [
+    {
+     "pos": 24,
+     "txt": "infalibilidade"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 254,
+     "txt": "CIC 889-891"
+    },
+    {
+     "pos": 498,
+     "txt": "CIC 892"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Por fim, nem toda verdade tem o mesmo peso: existe uma hierarquia das verdades, conforme a ligação de cada uma com o centro da fé, que é o mistério de Cristo e da Trindade.",
+   "destaques": [
+    {
+     "pos": 55,
+     "txt": "hierarquia das verdades"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 172,
+     "txt": "CIC 90"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Magistério",
+     "origem": "latim magister (mestre)",
+     "sentido": "a missão de ensinar confiada ao Papa e aos bispos em comunhão com ele"
+    },
+    {
+     "termo": "Concílio ecumênico",
+     "origem": "latim concilium (assembleia) + grego oikouméne (terra habitada)",
+     "sentido": "reunião dos bispos do mundo inteiro com o Papa"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Magistério vem do latim magister, mestre, e quer dizer: a missão de ensinar confiada ao Papa e aos bispos em comunhão com ele. A palavra Concílio ecumênico vem do latim concilium, assembleia, e grego oikouméne, terra habitada, e quer dizer: reunião dos bispos do mundo inteiro com o Papa."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Lc 10,16",
+    "Mt 16,18-19",
+    "Mt 28,18-20",
+    "Jo 16,13",
+    "1Tm 3,15"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

@@ -1,0 +1,163 @@
+{
+ "modulo": "pastoral",
+ "aula": "o-que-e-liturgia",
+ "titulo": "O que é a liturgia",
+ "moduloTitulo": "Liturgia e Prática Pastoral",
+ "n": 8,
+ "emoji": "⛪",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "⛪",
+   "modulo": "Módulo 8 · Prática Pastoral e Liturgia",
+   "titulo": "O que é a liturgia",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 8, Prática Pastoral e Liturgia, vamos estudar: O que é a liturgia."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "Liturgia vem do grego leitourgía, \"obra pública\", \"serviço em favor do povo\". Na tradição cristã, quer dizer que o povo de Deus toma parte na obra de Deus. A liturgia é, antes de tudo, ação de Cristo: Ele, sumo sacerdote, continua na Igreja a obra da nossa redenção.",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "Liturgia"
+    },
+    {
+     "pos": 144,
+     "txt": "obra de Deus"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 160,
+     "txt": "CIC 1069"
+    },
+    {
+     "pos": 268,
+     "txt": "Hb 8,1-2; CIC 1066-1070"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "O Concílio Vaticano segundo ensinou que a liturgia é \"o cume para o qual tende a ação da Igreja e, ao mesmo tempo, a fonte de onde emana toda a sua força\". A catequese, a caridade e a missão nascem da liturgia e voltam para ela, sobretudo para a Eucaristia.",
+   "destaques": [
+    {
+     "pos": 48,
+     "txt": "o cume para o qual tende a ação da Igreja e, ao mesmo tempo, a fonte de onde emana toda a sua força"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 153,
+     "txt": "Sacrosanctum Concilium 10"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "Quem celebra? Cristo todo, cabeça e corpo: a liturgia do céu, com os anjos e os santos, e a Igreja na terra, onde cada um tem seu papel. Por isso a participação dos fiéis deve ser plena, consciente e ativa: não é ver um espetáculo, mas rezar com o coração e com o corpo, responder, cantar, ouvir, oferecer a própria vida.",
+   "destaques": [
+    {
+     "pos": 14,
+     "txt": "Cristo todo, cabeça e corpo"
+    },
+    {
+     "pos": 180,
+     "txt": "plena, consciente e ativa"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 136,
+     "txt": "CIC 1136-1144"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "A liturgia fala por sinais e símbolos: gestos, ajoelhar, levantar, fazer o sinal da cruz, elementos, água, óleo, pão, vinho, luz, incenso, palavras, música, cores e o próprio espaço sagrado. Ela envolve a pessoa inteira, porque somos corpo e alma.",
+   "destaques": [
+    {
+     "pos": 19,
+     "txt": "sinais e símbolos"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 190,
+     "txt": "CIC 1145-1162"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Há uma ligação antiga entre o que rezamos e o que cremos: lex orandi, lex credendi. A liturgia é uma grande escola de teologia. O app tem a área Missa explicada, que mostra cada parte da celebração com sua base bíblica.",
+   "destaques": [
+    {
+     "pos": 58,
+     "txt": "lex orandi, lex credendi"
+    },
+    {
+     "pos": 147,
+     "txt": "Missa explicada"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 85,
+     "txt": "\"a lei da oração é a lei da fé\", CIC 1124"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Liturgia",
+     "origem": "grego leitourgía: láos (povo) + érgon (obra)",
+     "sentido": "o culto público da Igreja, obra de Cristo e do seu povo"
+    },
+    {
+     "termo": "Rito",
+     "origem": "latim ritus, \"costume, cerimônia\"",
+     "sentido": "conjunto ordenado de gestos e palavras de uma celebração"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Liturgia vem do grego leitourgía: láos, povo, e érgon, obra, e quer dizer: o culto público da Igreja, obra de Cristo e do seu povo. A palavra Rito vem do latim ritus, \"costume, cerimônia\", e quer dizer: conjunto ordenado de gestos e palavras de uma celebração."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Hb 8,1-2",
+    "Ap 4,8-11",
+    "Lc 22,19-20",
+    "At 2,42.46",
+    "Jo 4,23-24"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

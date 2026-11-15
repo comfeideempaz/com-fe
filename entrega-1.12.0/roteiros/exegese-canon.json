@@ -1,0 +1,133 @@
+{
+ "modulo": "exegese",
+ "aula": "canon",
+ "titulo": "O cânon: os 73 livros",
+ "moduloTitulo": "Hermenêutica e Exegese Bíblica",
+ "n": 2,
+ "emoji": "📜",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "📜",
+   "modulo": "Módulo 2 · Hermenêutica e Exegese Bíblica",
+   "titulo": "O cânon: os 73 livros",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 2, Hermenêutica e Exegese Bíblica, vamos estudar: O cânon: os 73 livros."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "A Bíblia não caiu pronta do céu. É uma biblioteca de 73 livros, escritos ao longo de mais de mil anos: 46 no Antigo Testamento e 27 no Novo. A lista oficial desses livros se chama cânon.",
+   "destaques": [
+    {
+     "pos": 53,
+     "txt": "73 livros"
+    },
+    {
+     "pos": 103,
+     "txt": "46 no Antigo Testamento e 27 no Novo"
+    },
+    {
+     "pos": 180,
+     "txt": "cânon"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 186,
+     "txt": "CIC 120"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "Foi a Igreja, guiada pelo Espírito Santo, que reconheceu quais livros eram inspirados. Concílios regionais em Roma, em 382, Hipona, em 393, e Cartago, em 397, já apresentavam a lista que usamos hoje. O Concílio de Florença, em 1442, a confirmou, e o Concílio de Trento, em 1546, a definiu solenemente.",
+   "destaques": [
+    {
+     "pos": 250,
+     "txt": "Concílio de Trento"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "Por que a Bíblia católica tem mais livros que a protestante? Nos tempos de Jesus circulava uma tradução grega das Escrituras judaicas, a Septuaginta, usada pelos Apóstolos e pelos primeiros cristãos. Ela incluía livros que a Igreja chama de deuterocanônicos: Tobias, Judite, Sabedoria, Eclesiástico, Sirácida, Baruc, 1 e 2 Macabeus, além de partes de Ester e de Daniel. No século dezesseis, os reformadores protestantes passaram a seguir uma lista judaica mais curta e deixaram esses livros de fora.",
+   "destaques": [
+    {
+     "pos": 138,
+     "txt": "Septuaginta"
+    },
+    {
+     "pos": 243,
+     "txt": "deuterocanônicos"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "O Novo Testamento traz 4 Evangelhos, os Atos dos Apóstolos, 21 cartas e o Apocalipse. Católicos, ortodoxos e protestantes concordam nesses 27 livros.",
+   "destaques": [],
+   "refs": []
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Um exemplo de como os deuterocanônicos importam: a oração pelos mortos aparece claramente em segundo Macabeus capítulo 12, versículos 43 a 46, texto que a Tradição relaciona com a fé no purgatório.",
+   "destaques": [],
+   "refs": [
+    {
+     "pos": 197,
+     "txt": "CIC 1032"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Cânon",
+     "origem": "grego kanón, \"vara de medir, régua\"",
+     "sentido": "a lista oficial dos livros inspirados, que servem de régua da fé"
+    },
+    {
+     "termo": "Testamento",
+     "origem": "latim testamentum, tradução do hebraico berit (aliança)",
+     "sentido": "Antigo e Novo Testamento = Antiga e Nova Aliança"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Cânon vem do grego kanón, \"vara de medir, régua\", e quer dizer: a lista oficial dos livros inspirados, que servem de régua da fé. A palavra Testamento vem do latim testamentum, tradução do hebraico berit, aliança, e quer dizer: Antigo e Novo Testamento, ou seja, Antiga e Nova Aliança."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "2Mc 12,43-46",
+    "Sb 3,1-9",
+    "Lc 24,27",
+    "2Pd 3,15-16"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

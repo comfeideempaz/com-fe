@@ -1,0 +1,177 @@
+{
+ "modulo": "etica",
+ "aula": "virtudes",
+ "titulo": "As virtudes",
+ "moduloTitulo": "Filosofia e Ética Cristã",
+ "n": 6,
+ "emoji": "⚖️",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "⚖️",
+   "modulo": "Módulo 6 · Filosofia e Ética Cristã",
+   "titulo": "As virtudes",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 6, Filosofia e Ética Cristã, vamos estudar: As virtudes."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "Virtude é uma disposição habitual e firme para fazer o bem. A palavra vem do latim virtus, \"força\". Com a virtude, fazer o bem fica mais fácil e até alegre, como um músico que, de tanto praticar, toca com naturalidade.",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "Virtude"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 61,
+     "txt": "CIC 1803"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "As virtudes humanas são adquiridas pela educação, pelo esforço e pela repetição de bons atos, sempre com a ajuda da graça. Quatro delas são chamadas de cardeais, do latim cardo, dobradiça, porque as outras giram em torno delas: a prudência, escolher os meios certos para o bem, a justiça, dar a Deus e ao próximo o que lhes é devido, a fortaleza, firmeza nas dificuldades, e a temperança, equilíbrio no uso dos prazeres.",
+   "destaques": [
+    {
+     "pos": 2,
+     "txt": "virtudes humanas"
+    },
+    {
+     "pos": 150,
+     "txt": "cardeais"
+    },
+    {
+     "pos": 230,
+     "txt": "prudência"
+    },
+    {
+     "pos": 281,
+     "txt": "justiça"
+    },
+    {
+     "pos": 337,
+     "txt": "fortaleza"
+    },
+    {
+     "pos": 378,
+     "txt": "temperança"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 222,
+     "txt": "CIC 1805-1809; Sb 8,7"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "As virtudes teologais têm Deus como origem, motivo e objeto, e são infundidas por Ele na alma: a fé, pela qual cremos em Deus e em tudo o que Ele revelou; a esperança, pela qual desejamos o céu e confiamos nas promessas de Cristo; e a caridade, pela qual amamos a Deus sobre todas as coisas e o próximo por amor a Deus. \"Agora permanecem fé, esperança e caridade; mas a maior delas é a caridade\".",
+   "destaques": [
+    {
+     "pos": 3,
+     "txt": "virtudes teologais"
+    },
+    {
+     "pos": 97,
+     "txt": "fé"
+    },
+    {
+     "pos": 157,
+     "txt": "esperança"
+    },
+    {
+     "pos": 235,
+     "txt": "caridade"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 94,
+     "txt": "CIC 1812-1829"
+    },
+    {
+     "pos": 396,
+     "txt": "1Cor 13,13"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "Os vícios são o contrário das virtudes: hábitos maus, gerados pela repetição do pecado. A Tradição fala dos sete vícios capitais, porque são \"cabeça\" de outros pecados: soberba, avareza, inveja, ira, luxúria, gula e preguiça, acídia. Contra cada um, uma virtude: humildade, generosidade, caridade, paciência, castidade, temperança e diligência.",
+   "destaques": [
+    {
+     "pos": 2,
+     "txt": "vícios"
+    },
+    {
+     "pos": 107,
+     "txt": "sete vícios capitais"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 132,
+     "txt": "CIC 1866"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Dica prática: escolha uma virtude por mês para trabalhar, com pequenos atos concretos, e examine-se à noite. É assim que os santos cresceram.",
+   "destaques": [],
+   "refs": []
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Virtude",
+     "origem": "latim virtus, \"força, valor\"",
+     "sentido": "disposição firme e habitual para fazer o bem"
+    },
+    {
+     "termo": "Cardeal",
+     "origem": "latim cardo, \"dobradiça, eixo\"",
+     "sentido": "as quatro virtudes principais: prudência, justiça, fortaleza e temperança"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Virtude vem do latim virtus, \"força, valor\", e quer dizer: disposição firme e habitual para fazer o bem. A palavra Cardeal vem do latim cardo, \"dobradiça, eixo\", e quer dizer: as quatro virtudes principais: prudência, justiça, fortaleza e temperança."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Sb 8,7",
+    "1Cor 13,1-13",
+    "Fl 4,8",
+    "2Pd 1,5-7",
+    "Gl 5,19-23"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

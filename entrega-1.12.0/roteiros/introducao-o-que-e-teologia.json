@@ -1,0 +1,134 @@
+{
+ "modulo": "introducao",
+ "aula": "o-que-e-teologia",
+ "titulo": "O que é teologia",
+ "moduloTitulo": "Introdução à Teologia",
+ "n": 1,
+ "emoji": "🕯️",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "🕯️",
+   "modulo": "Módulo 1 · Fundamentos: Revelação, Escritura, Tradição e Magistério",
+   "titulo": "O que é teologia",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 1, Fundamentos: Revelação, Escritura, Tradição e Magistério, vamos estudar: O que é teologia."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "A palavra teologia vem do grego: theós, Deus, e lógos, palavra, discurso, razão. Teologia é, portanto, \"falar de Deus com a razão\". Mas não é um falar qualquer: é a fé que pensa sobre aquilo que crê. Santo Anselmo de Cantuária, século onze, resumiu isso numa frase famosa: a fé que busca compreender, fides quaerens intellectum.",
+   "destaques": [
+    {
+     "pos": 10,
+     "txt": "teologia"
+    },
+    {
+     "pos": 275,
+     "txt": "a fé que busca compreender"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "O teólogo não começa do zero, como quem inventa uma religião. Ele parte do que Deus revelou e a Igreja acolheu, e procura entender melhor, explicar com clareza, mostrar a ligação entre as verdades e responder às perguntas de cada época. É isso que São Pedro pede a todos os cristãos: estar prontos a dar a razão da nossa esperança, com mansidão e respeito.",
+   "destaques": [],
+   "refs": [
+    {
+     "pos": 356,
+     "txt": "1Pd 3,15"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "Por isso a teologia não é só para padres e professores. Todo batizado que lê a Bíblia, estuda o Catecismo e reza sobre o que aprendeu já está fazendo um pouco de teologia. A diferença do estudo organizado é o método: ir às fontes, usar as palavras com precisão e pensar em comunhão com a Igreja.",
+   "destaques": [],
+   "refs": []
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "A teologia costuma ser dividida em áreas, que são as matérias deste curso: teologia bíblica e exegese, o estudo da Escritura, teologia sistemática ou dogmática, as verdades da fé organizadas, teologia moral, como viver a fé, história da Igreja, liturgia e teologia pastoral, como anunciar e cuidar das pessoas. Todas estão a serviço de uma coisa só: conhecer e amar mais a Deus.",
+   "destaques": [
+    {
+     "pos": 74,
+     "txt": "teologia bíblica"
+    },
+    {
+     "pos": 93,
+     "txt": "exegese"
+    },
+    {
+     "pos": 125,
+     "txt": "teologia sistemática ou dogmática"
+    },
+    {
+     "pos": 191,
+     "txt": "teologia moral"
+    },
+    {
+     "pos": 225,
+     "txt": "história da Igreja"
+    },
+    {
+     "pos": 245,
+     "txt": "liturgia"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Uma regra de ouro acompanha o curso inteiro: a teologia nasce da oração e volta para a oração. Quem estuda Deus sem rezar acaba sabendo coisas sobre Deus, mas sem conhecê-lo.",
+   "destaques": [],
+   "refs": []
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Teologia",
+     "origem": "grego theós (Deus) + lógos (palavra, razão)",
+     "sentido": "estudo de Deus e das coisas de Deus à luz da fé"
+    },
+    {
+     "termo": "Dogma",
+     "origem": "grego dógma, \"o que parece certo\", decisão",
+     "sentido": "verdade revelada que a Igreja propõe de modo definitivo para ser crida"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Teologia vem do grego theós, Deus, e lógos, palavra, razão, e quer dizer: estudo de Deus e das coisas de Deus à luz da fé. A palavra Dogma vem do grego dógma, \"o que parece certo\", decisão, e quer dizer: verdade revelada que a Igreja propõe de modo definitivo para ser crida."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "1Pd 3,15",
+    "Jo 17,3",
+    "Rm 12,2"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

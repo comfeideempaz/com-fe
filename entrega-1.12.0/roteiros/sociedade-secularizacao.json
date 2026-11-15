@@ -1,0 +1,157 @@
+{
+ "modulo": "sociedade",
+ "aula": "secularizacao",
+ "titulo": "Secularização e o mundo de hoje",
+ "moduloTitulo": "Fé, pessoa e sociedade",
+ "n": 7,
+ "emoji": "🤝",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "🤝",
+   "modulo": "Módulo 7 · Sociologia e Psicologia da Religião",
+   "titulo": "Secularização e o mundo de hoje",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 7, Sociologia e Psicologia da Religião, vamos estudar: Secularização e o mundo de hoje."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "Secularização é o processo pelo qual a religião perde espaço na vida pública e pessoal. Em parte, ela é legítima: o Estado não deve ser confundido com a Igreja, e as ciências, a política e a economia têm sua justa autonomia. O próprio Jesus disse: \"dai a César o que é de César e a Deus o que é de Deus\".",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "Secularização"
+    },
+    {
+     "pos": 208,
+     "txt": "justa autonomia"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 226,
+     "txt": "Gaudium et Spes 36"
+    },
+    {
+     "pos": 304,
+     "txt": "Mt 22,21"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "O problema é o secularismo: a ideia de que Deus não importa, de que a vida deve ser organizada \"como se Deus não existisse\". Daí vêm atitudes que o Catecismo e o Concílio analisam: o ateísmo, que nega Deus; o agnosticismo, que diz que não se pode saber se Deus existe; e sobretudo a indiferença religiosa, que nem se pergunta.",
+   "destaques": [
+    {
+     "pos": 15,
+     "txt": "secularismo"
+    },
+    {
+     "pos": 183,
+     "txt": "ateísmo"
+    },
+    {
+     "pos": 209,
+     "txt": "agnosticismo"
+    },
+    {
+     "pos": 283,
+     "txt": "indiferença religiosa"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 326,
+     "txt": "CIC 2123-2128; Gaudium et Spes 19-21"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "O Concílio reconheceu com humildade que os próprios crentes podem ter culpa no ateísmo, quando escondem o rosto de Deus por uma fé mal ensinada ou por uma vida incoerente. Outro desafio é o relativismo, a ideia de que não existe verdade, só opiniões. O então cardeal Ratzinger, antes de ser eleito papa em 2005, alertou para uma \"ditadura do relativismo\".",
+   "destaques": [
+    {
+     "pos": 190,
+     "txt": "relativismo"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 169,
+     "txt": "Gaudium et Spes 19"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "Ao mesmo tempo, a sociologia mostra que a busca espiritual não desapareceu: muitas pessoas dizem \"acredito em Deus, mas não tenho religião\". É um campo aberto para o anúncio. No Brasil, o quadro religioso mudou muito nas últimas décadas, com a diminuição da porcentagem de católicos e o crescimento dos evangélicos e dos \"sem religião\".",
+   "destaques": [],
+   "refs": []
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Como responder? Não com medo nem com agressividade, mas com o testemunho: cristãos coerentes, alegres e caridosos, que vivem a fé por inteiro, em casa, no trabalho e na sociedade. \"Brilhe a vossa luz diante dos homens, para que vejam as vossas boas obras e glorifiquem o vosso Pai\".",
+   "destaques": [
+    {
+     "pos": 62,
+     "txt": "testemunho"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 282,
+     "txt": "Mt 5,16"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Secular",
+     "origem": "latim saeculum, \"século, mundo, época\"",
+     "sentido": "relativo ao mundo, à vida civil"
+    },
+    {
+     "termo": "Agnóstico",
+     "origem": "grego a (sem) + gnósis (conhecimento)",
+     "sentido": "quem diz que não se pode saber se Deus existe"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Secular vem do latim saeculum, \"século, mundo, época\", e quer dizer: relativo ao mundo, à vida civil. A palavra Agnóstico vem do grego a, sem, e gnósis, conhecimento, e quer dizer: quem diz que não se pode saber se Deus existe."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Mt 22,15-22",
+    "Mt 5,13-16",
+    "Jo 17,14-18",
+    "Rm 12,2",
+    "1Pd 2,11-12"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

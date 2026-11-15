@@ -1,0 +1,174 @@
+{
+ "modulo": "historia",
+ "aula": "reforma-e-trento",
+ "titulo": "A Reforma e o Concílio de Trento",
+ "moduloTitulo": "História da Igreja e das Religiões",
+ "n": 5,
+ "emoji": "🏛️",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "🏛️",
+   "modulo": "Módulo 5 · História da Igreja e das Religiões",
+   "titulo": "A Reforma e o Concílio de Trento",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 5, História da Igreja e das Religiões, vamos estudar: A Reforma e o Concílio de Trento."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "No começo do século dezesseis, havia muita necessidade de reforma na Igreja: abusos, ignorância religiosa, comércio de indulgências e falta de preparo do clero. Em 1517, o frade agostiniano Martinho Lutero publicou suas 95 teses contra a pregação das indulgências. O debate cresceu e terminou em ruptura: Lutero passou a defender que a salvação é \"só pela fé\" e que a autoridade é \"só a Escritura\".",
+   "destaques": [
+    {
+     "pos": 160,
+     "txt": "1517"
+    },
+    {
+     "pos": 186,
+     "txt": "Martinho Lutero"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "Outros reformadores seguiram caminhos próprios: Ulrico Zuínglio, em Zurique, e João Calvino, em Genebra. Na Inglaterra, o rei Henrique oitavo, que queria anular seu casamento, rompeu com Roma em 1534. São Tomás Moro e São João Fisher morreram mártires por fidelidade ao Papa. Assim nasceram as diferentes comunidades protestantes.",
+   "destaques": [
+    {
+     "pos": 48,
+     "txt": "Ulrico Zuínglio"
+    },
+    {
+     "pos": 79,
+     "txt": "João Calvino"
+    },
+    {
+     "pos": 126,
+     "txt": "Henrique oitavo"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "A resposta católica foi o Concílio de Trento, de 1545 a 1563. Ele reafirmou a fé e reformou a disciplina: confirmou que a Revelação chega pela Escritura e pela Tradição; definiu o cânon dos 73 livros; ensinou a doutrina da justificação pela graça, que renova o homem por dentro; confirmou os sete sacramentos e a presença real de Cristo na Eucaristia; mandou criar seminários para formar bem os padres; e deu origem ao Catecismo Romano, em 1566, e ao Missal de São Pio quinto, em 1570.",
+   "destaques": [
+    {
+     "pos": 26,
+     "txt": "Concílio de Trento"
+    },
+    {
+     "pos": 182,
+     "txt": "cânon"
+    },
+    {
+     "pos": 225,
+     "txt": "justificação"
+    },
+    {
+     "pos": 294,
+     "txt": "sete sacramentos"
+    },
+    {
+     "pos": 368,
+     "txt": "seminários"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "Foi também um tempo de grandes santos da chamada Reforma Católica: Santo Inácio de Loyola fundou os jesuítas, em 1540; Santa Teresa de Ávila e São João da Cruz renovaram o Carmelo; São Carlos Borromeu aplicou Trento em Milão; São Filipe Néri evangelizou Roma com alegria; São Francisco de Sales pregou com mansidão aos calvinistas.",
+   "destaques": [
+    {
+     "pos": 48,
+     "txt": "Reforma Católica"
+    },
+    {
+     "pos": 66,
+     "txt": "Santo Inácio de Loyola"
+    },
+    {
+     "pos": 119,
+     "txt": "Santa Teresa de Ávila"
+    },
+    {
+     "pos": 143,
+     "txt": "São João da Cruz"
+    },
+    {
+     "pos": 181,
+     "txt": "São Carlos Borromeu"
+    },
+    {
+     "pos": 226,
+     "txt": "São Filipe Néri"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Ao mesmo tempo, a Igreja chegou a novos continentes. São Francisco Xavier evangelizou a Índia e o Japão; missionários chegaram às Américas, inclusive ao Brasil. Hoje, depois de séculos de separação, católicos e protestantes buscam a unidade pelo ecumenismo, reconhecendo que todos os batizados são irmãos em Cristo.",
+   "destaques": [
+    {
+     "pos": 246,
+     "txt": "ecumenismo"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 315,
+     "txt": "CIC 818"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Indulgência",
+     "origem": "latim indulgentia, \"bondade, perdão\"",
+     "sentido": "remissão da pena temporal dos pecados já perdoados (CIC 1471)"
+    },
+    {
+     "termo": "Protestante",
+     "origem": "latim protestari, \"declarar publicamente, protestar\"",
+     "sentido": "nome dado aos cristãos que surgiram da Reforma do séc. XVI"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Indulgência vem do latim indulgentia, \"bondade, perdão\", e quer dizer: remissão da pena temporal dos pecados já perdoados. A palavra Protestante vem do latim protestari, \"declarar publicamente, protestar\", e quer dizer: nome dado aos cristãos que surgiram da Reforma do século dezesseis."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Jo 17,20-23",
+    "Ef 4,1-6",
+    "Rm 3,28",
+    "Tg 2,24"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

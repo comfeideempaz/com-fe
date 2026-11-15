@@ -1,0 +1,153 @@
+{
+ "modulo": "introducao",
+ "aula": "escritura-e-tradicao",
+ "titulo": "Escritura e Tradição",
+ "moduloTitulo": "Introdução à Teologia",
+ "n": 1,
+ "emoji": "🕯️",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "🕯️",
+   "modulo": "Módulo 1 · Fundamentos: Revelação, Escritura, Tradição e Magistério",
+   "titulo": "Escritura e Tradição",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 1, Fundamentos: Revelação, Escritura, Tradição e Magistério, vamos estudar: Escritura e Tradição."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "Como a Revelação de Cristo chega até nós, dois mil anos depois? Jesus não escreveu nenhum livro. Ele formou os Apóstolos e os enviou a pregar. A Revelação foi transmitida de dois modos, que vêm da mesma fonte: a Tradição e a Sagrada Escritura.",
+   "destaques": [
+    {
+     "pos": 212,
+     "txt": "Tradição"
+    },
+    {
+     "pos": 225,
+     "txt": "Sagrada Escritura"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 137,
+     "txt": "Mt 28,19-20"
+    },
+    {
+     "pos": 243,
+     "txt": "CIC 74-80"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "A Tradição, com T maiúsculo, é a transmissão viva do Evangelho pela pregação, pelo exemplo, pela liturgia e pela vida da Igreja, desde os Apóstolos. São Paulo pede aos tessalonicenses que guardem \"as tradições que aprendestes, seja por palavra, seja por carta nossa\". Antes de existir o Novo Testamento escrito, a Igreja já existia, rezava e celebrava a Eucaristia.",
+   "destaques": [
+    {
+     "pos": 2,
+     "txt": "Tradição"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 268,
+     "txt": "2Ts 2,15"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "A Sagrada Escritura é a Palavra de Deus posta por escrito sob a inspiração do Espírito Santo. Foi a própria Tradição que reconheceu quais livros eram inspirados, formando o cânon da Bíblia.",
+   "destaques": [
+    {
+     "pos": 2,
+     "txt": "Sagrada Escritura"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "Escritura e Tradição não são rivais nem duas fontes separadas: são como dois rios que brotam da mesma nascente. Por isso a Igreja recebe e venera ambas \"com igual afeto e reverência\". O próprio São João termina seu Evangelho dizendo que Jesus fez muitas outras coisas que não foram escritas.",
+   "destaques": [],
+   "refs": [
+    {
+     "pos": 183,
+     "txt": "CIC 82; Dei Verbum 9"
+    },
+    {
+     "pos": 291,
+     "txt": "Jo 21,25"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Atenção à diferença: a Tradição apostólica é parte da Revelação e não muda. Já as tradições com t minúsculo, costumes, devoções, regras de disciplina, são formas que nasceram ao longo da história e podem ser adaptadas ou mudadas pela Igreja. O jejum de uma hora antes da comunhão, por exemplo, é disciplina; a presença real de Cristo na Eucaristia é fé.",
+   "destaques": [
+    {
+     "pos": 23,
+     "txt": "Tradição apostólica"
+    },
+    {
+     "pos": 82,
+     "txt": "tradições"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 243,
+     "txt": "CIC 83"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Tradição",
+     "origem": "latim traditio, de tradere: entregar, passar adiante",
+     "sentido": "a entrega viva da fé, de geração em geração, desde os Apóstolos"
+    },
+    {
+     "termo": "Depósito da fé",
+     "origem": "latim depositum fidei (1Tm 6,20)",
+     "sentido": "o conjunto da Revelação confiado à Igreja para ser guardado e transmitido"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Tradição vem do latim traditio, de tradere: entregar, passar adiante, e quer dizer: a entrega viva da fé, de geração em geração, desde os Apóstolos. A palavra Depósito da fé vem do latim depositum fidei, e quer dizer: o conjunto da Revelação confiado à Igreja para ser guardado e transmitido."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "2Ts 2,15",
+    "2Tm 2,2",
+    "Jo 21,25",
+    "1Cor 11,23",
+    "Mt 28,19-20"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

@@ -1,0 +1,207 @@
+{
+ "modulo": "sistematica",
+ "aula": "igreja",
+ "titulo": "A Igreja: povo, corpo e templo",
+ "moduloTitulo": "Teologia Sistemática",
+ "n": 4,
+ "emoji": "✝️",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "✝️",
+   "modulo": "Módulo 4 · Teologia Sistemática (Dogmática)",
+   "titulo": "A Igreja: povo, corpo e templo",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 4, Teologia Sistemática, Dogmática, vamos estudar: A Igreja: povo, corpo e templo."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "A palavra Igreja vem do grego ekklesía, \"assembleia dos convocados\". A Igreja é o povo que Deus reúne de todos os cantos da terra. Ela nasce do coração de Cristo na cruz e se manifesta em Pentecostes.",
+   "destaques": [
+    {
+     "pos": 10,
+     "txt": "Igreja"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 72,
+     "txt": "CIC 751"
+    },
+    {
+     "pos": 202,
+     "txt": "CIC 763-768"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "O Novo Testamento usa muitas imagens para a Igreja: rebanho e redil, campo de Deus, edifício cujos alicerces são os Apóstolos, esposa de Cristo, família de Deus. Três imagens se destacam: a Igreja é Povo de Deus, Corpo de Cristo, do qual Ele é a cabeça e nós os membros, e Templo do Espírito Santo.",
+   "destaques": [
+    {
+     "pos": 199,
+     "txt": "Povo de Deus"
+    },
+    {
+     "pos": 213,
+     "txt": "Corpo de Cristo"
+    },
+    {
+     "pos": 273,
+     "txt": "Templo do Espírito Santo"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 49,
+     "txt": "CIC 753-757"
+    },
+    {
+     "pos": 207,
+     "txt": "1Pd 2,9-10"
+    },
+    {
+     "pos": 267,
+     "txt": "1Cor 12,12-27"
+    },
+    {
+     "pos": 298,
+     "txt": "1Cor 3,16; CIC 781-801"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "No Credo dizemos que a Igreja é una, santa, católica e apostólica: são as quatro \"notas\" da Igreja. Una: um só Senhor, uma só fé, um só Batismo. Santa: porque Cristo a santifica, embora seus membros sejam pecadores. Católica: universal, porque tem a plenitude dos meios de salvação e é enviada a todos os povos. Apostólica: fundada sobre os Apóstolos e conduzida por seus sucessores, os bispos, em comunhão com o sucessor de Pedro, o Papa.",
+   "destaques": [
+    {
+     "pos": 32,
+     "txt": "una, santa, católica e apostólica"
+    },
+    {
+     "pos": 100,
+     "txt": "Una"
+    },
+    {
+     "pos": 145,
+     "txt": "Santa"
+    },
+    {
+     "pos": 216,
+     "txt": "Católica"
+    },
+    {
+     "pos": 312,
+     "txt": "Apostólica"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 98,
+     "txt": "CIC 811-870"
+    },
+    {
+     "pos": 145,
+     "txt": "Ef 4,5"
+    },
+    {
+     "pos": 439,
+     "txt": "Mt 16,18-19"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "O Concílio Vaticano segundo ensinou que a única Igreja de Cristo subsiste na Igreja Católica, embora fora dela se encontrem muitos elementos de santificação e verdade. E a frase antiga \"fora da Igreja não há salvação\" é explicada positivamente: toda salvação vem de Cristo pela Igreja; quem conhece que a Igreja foi fundada por Cristo como necessária e recusa entrar nela não pode se salvar, mas quem, sem culpa, não conhece o Evangelho e busca a Deus com sinceridade pode alcançar a salvação.",
+   "destaques": [
+    {
+     "pos": 60,
+     "txt": "subsiste na Igreja Católica"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 165,
+     "txt": "Lumen Gentium 8; CIC 816, 819"
+    },
+    {
+     "pos": 493,
+     "txt": "CIC 846-848"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "A Igreja é, ao mesmo tempo, visível e espiritual, humana e divina. Ela é como um sacramento: sinal e instrumento da união com Deus e da unidade de todo o gênero humano. E inclui a Igreja peregrina na terra, a que se purifica no purgatório e a gloriosa no céu: é a comunhão dos santos.",
+   "destaques": [
+    {
+     "pos": 28,
+     "txt": "visível e espiritual"
+    },
+    {
+     "pos": 264,
+     "txt": "comunhão dos santos"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 167,
+     "txt": "CIC 775"
+    },
+    {
+     "pos": 284,
+     "txt": "CIC 954-959"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Católico",
+     "origem": "grego kath'hólou, \"segundo o todo\", universal",
+     "sentido": "uma das quatro notas da Igreja"
+    },
+    {
+     "termo": "Eclesiologia",
+     "origem": "ekklesía + lógos",
+     "sentido": "a parte da teologia que estuda a Igreja"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Católico vem do grego kath'hólou, \"segundo o todo\", universal, e quer dizer: uma das quatro notas da Igreja. A palavra Eclesiologia vem do ekklesía e lógos, e quer dizer: a parte da teologia que estuda a Igreja."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Mt 16,18-19",
+    "1Cor 12,12-27",
+    "1Pd 2,9-10",
+    "Ef 4,4-6",
+    "Ef 5,25-27"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

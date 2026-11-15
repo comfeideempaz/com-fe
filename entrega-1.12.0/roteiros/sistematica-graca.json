@@ -1,0 +1,179 @@
+{
+ "modulo": "sistematica",
+ "aula": "graca",
+ "titulo": "Graça, justificação e salvação",
+ "moduloTitulo": "Teologia Sistemática",
+ "n": 4,
+ "emoji": "✝️",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "✝️",
+   "modulo": "Módulo 4 · Teologia Sistemática (Dogmática)",
+   "titulo": "Graça, justificação e salvação",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 4, Teologia Sistemática, Dogmática, vamos estudar: Graça, justificação e salvação."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "Graça é um favor, um dom gratuito de Deus: é a ajuda que Ele nos dá para respondermos ao seu chamado de nos tornarmos filhos de Deus e participantes da vida divina. Não a merecemos nem a compramos: \"pela graça fostes salvos, por meio da fé; e isto não vem de vós, é dom de Deus\".",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "Graça"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 165,
+     "txt": "CIC 1996"
+    },
+    {
+     "pos": 279,
+     "txt": "Ef 2,8"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "A teologia distingue: a graça santificante, ou habitual, é o dom estável que nos torna santos e agradáveis a Deus, recebido no Batismo e perdido pelo pecado mortal; as graças atuais são os auxílios de Deus em cada momento, que iluminam e movem a vontade. Há também as graças de estado, para cumprir a própria missão.",
+   "destaques": [
+    {
+     "pos": 24,
+     "txt": "graça santificante"
+    },
+    {
+     "pos": 168,
+     "txt": "graças atuais"
+    },
+    {
+     "pos": 268,
+     "txt": "graças de estado"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 252,
+     "txt": "CIC 1999-2000"
+    },
+    {
+     "pos": 316,
+     "txt": "CIC 2004"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "A justificação é a obra pela qual Deus nos tira do pecado e nos faz justos: não só nos \"declara\" justos por fora, mas nos renova por dentro. Ela é obra da graça e, ao mesmo tempo, pede a nossa resposta livre: Deus, que nos criou sem nós, não nos salva sem nós, como dizia Santo Agostinho. O Concílio de Trento tratou disso em 1547, diante da Reforma; em 1999, católicos e luteranos assinaram uma Declaração Conjunta sobre a Justificação, reconhecendo um consenso em verdades básicas.",
+   "destaques": [
+    {
+     "pos": 2,
+     "txt": "justificação"
+    },
+    {
+     "pos": 118,
+     "txt": "nos renova por dentro"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 145,
+     "txt": "CIC 1987-1995"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "E as obras? Não somos salvos por obras feitas sem a graça, mas a fé verdadeira age pela caridade. São Tiago diz que \"a fé sem obras é morta\". Com a graça, nossas boas obras se tornam méritos: não porque Deus nos deva algo, mas porque Ele quis associar a nossa liberdade à sua obra. \"Coroando os vossos méritos, coroais os vossos próprios dons\".",
+   "destaques": [
+    {
+     "pos": 79,
+     "txt": "age pela caridade"
+    },
+    {
+     "pos": 183,
+     "txt": "méritos"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 98,
+     "txt": "Gl 5,6"
+    },
+    {
+     "pos": 141,
+     "txt": "Tg 2,26"
+    },
+    {
+     "pos": 344,
+     "txt": "CIC 2006-2011"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "O fim de tudo é a santidade: \"todos os fiéis, de qualquer estado ou condição, são chamados à plenitude da vida cristã e à perfeição da caridade\". A salvação não é só escapar do inferno: é viver desde já como filhos de Deus, até vê-lo face a face.",
+   "destaques": [
+    {
+     "pos": 18,
+     "txt": "santidade"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 146,
+     "txt": "CIC 2013; Lumen Gentium 40"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Graça",
+     "origem": "latim gratia; grego cháris: favor gratuito",
+     "sentido": "dom de Deus que nos faz participar da vida divina"
+    },
+    {
+     "termo": "Justificação",
+     "origem": "latim iustum facere, \"tornar justo\"",
+     "sentido": "a passagem do pecado à vida da graça"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Graça vem do latim gratia; grego cháris: favor gratuito, e quer dizer: dom de Deus que nos faz participar da vida divina. A palavra Justificação vem do latim iustum facere, \"tornar justo\", e quer dizer: a passagem do pecado à vida da graça."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Ef 2,4-10",
+    "Rm 3,21-26",
+    "Rm 5,1-5",
+    "Gl 5,6",
+    "Tg 2,14-26"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

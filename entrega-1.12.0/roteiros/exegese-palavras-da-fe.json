@@ -1,0 +1,160 @@
+{
+ "modulo": "exegese",
+ "aula": "palavras-da-fe",
+ "titulo": "Palavras da fé: de onde vêm",
+ "moduloTitulo": "Hermenêutica e Exegese Bíblica",
+ "n": 2,
+ "emoji": "📜",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "📜",
+   "modulo": "Módulo 2 · Hermenêutica e Exegese Bíblica",
+   "titulo": "Palavras da fé: de onde vêm",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 2, Hermenêutica e Exegese Bíblica, vamos estudar: Palavras da fé: de onde vêm."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "A Bíblia foi escrita em três línguas: hebraico, quase todo o Antigo Testamento, aramaico, alguns trechos, e a língua do dia a dia de Jesus, e grego, o Novo Testamento e alguns livros do Antigo. Depois, São Jerônimo traduziu tudo para o latim, a Vulgata, por volta do ano 400. Muitas palavras da nossa fé carregam essa história.",
+   "destaques": [
+    {
+     "pos": 37,
+     "txt": "hebraico"
+    },
+    {
+     "pos": 80,
+     "txt": "aramaico"
+    },
+    {
+     "pos": 141,
+     "txt": "grego"
+    },
+    {
+     "pos": 235,
+     "txt": "latim"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "Do hebraico: Amém vem de uma raiz que significa firmeza: \"é verdade, assim seja\". Aleluia é hallelu-Yah, \"louvai o Senhor\". Hosana era um pedido, \"salva, por favor!\", que virou aclamação. Messias, mashiach, significa \"ungido\". Jesus, Yeshua, quer dizer \"Deus salva\" e Emanuel, \"Deus conosco\". Páscoa vem de Pesach, \"passagem\". Satanás significa \"adversário\".",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "Do hebraico"
+    },
+    {
+     "pos": 269,
+     "txt": "Deus salva"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 284,
+     "txt": "Mt 1,21"
+    },
+    {
+     "pos": 311,
+     "txt": "Mt 1,23"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "Do aramaico, palavras que os Evangelhos guardaram da boca de Jesus: Abbá, Pai, com carinho, Marcos capítulo 14, versículo 36, Talitá cum, menina, levanta-te, Marcos capítulo 5, versículo 41, Efatá, abre-te, Marcos capítulo 7, versículo 34, e o grito da cruz Eloí, Eloí, lemá sabactâni. Os primeiros cristãos rezavam Maranatá, \"vem, Senhor\".",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "Do aramaico"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 280,
+     "txt": "Mc 15,34"
+    },
+    {
+     "pos": 352,
+     "txt": "1Cor 16,22; Ap 22,20"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "Do grego: Cristo, christós, é a tradução de Messias: ungido. Evangelho, euangélion, é \"boa notícia\". Igreja, ekklesía, é \"assembleia dos convocados\". Eucaristia é \"ação de graças\". Batismo vem de baptízein, \"mergulhar\". Católico, kath'hólou, significa \"segundo o todo\", universal: Santo Inácio de Antioquia, por volta do ano 107, é o primeiro a falar da \"Igreja católica\". Apóstolo é \"enviado\", bispo, epískopos, é \"o que vigia\", presbítero é \"ancião\", é o padre; mas a palavra \"padre\" vem do latim pater, pai, e diácono é \"servidor\". Diabo, diábolos, é \"o caluniador\", o que acusa e divide. Paráclito é \"chamado para junto\": advogado, consolador.",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "Do grego"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Um símbolo antigo junta tudo isso: o peixe, em grego Ichthys, formava as iniciais de \"Jesus Cristo, Filho de Deus, Salvador\". Todas essas palavras e muitas outras estão no Dicionário Bíblico do curso.",
+   "destaques": [
+    {
+     "pos": 37,
+     "txt": "peixe"
+    },
+    {
+     "pos": 174,
+     "txt": "Dicionário Bíblico"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Amém",
+     "origem": "hebraico amen, de uma raiz que significa firmeza",
+     "sentido": "é verdade, assim seja"
+    },
+    {
+     "termo": "Evangelho",
+     "origem": "grego euangélion: eu (bom) + angélion (anúncio)",
+     "sentido": "a boa notícia da salvação em Jesus"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Amém vem do hebraico amen, de uma raiz que significa firmeza, e quer dizer: é verdade, assim seja. A palavra Evangelho vem do grego euangélion: eu, bom, e angélion, anúncio, e quer dizer: a boa notícia da salvação em Jesus."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Mt 1,21-23",
+    "Mc 5,41",
+    "Mc 7,34",
+    "Mc 14,36",
+    "1Cor 16,22"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

@@ -1,0 +1,201 @@
+{
+ "modulo": "exegese",
+ "aula": "passo-a-passo",
+ "titulo": "Estudando um texto passo a passo",
+ "moduloTitulo": "Hermenêutica e Exegese Bíblica",
+ "n": 2,
+ "emoji": "📜",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "📜",
+   "modulo": "Módulo 2 · Hermenêutica e Exegese Bíblica",
+   "titulo": "Estudando um texto passo a passo",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 2, Hermenêutica e Exegese Bíblica, vamos estudar: Estudando um texto passo a passo."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 9,
+   "fala": "Agora vamos à prática da exegese. Escolha um trecho, por exemplo a parábola dos talentos, e siga estes passos:",
+   "destaques": [
+    {
+     "pos": 25,
+     "txt": "exegese"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 89,
+     "txt": "Mt 25,14-30"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 9,
+   "fala": "1. Reze. Peça ao Espírito Santo que abra sua inteligência.",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "1. Reze"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 58,
+     "txt": "Lc 24,45"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 9,
+   "fala": "2. Delimite o texto. Onde começa e termina a passagem? Os talentos vêm entre a parábola das dez virgens e o juízo final: três textos sobre a vigilância enquanto esperamos o Senhor.",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "2. Delimite o texto"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 180,
+     "txt": "Mt 25"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 9,
+   "fala": "3. Leia várias vezes, se possível em mais de uma tradução. O app traz a Figueiredo e um atalho para a Matos Soares. Anote palavras repetidas e palavras-chave, servo, talento, fiel, alegria.",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "3. Leia várias vezes"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 9,
+   "fala": "4. Veja o contexto histórico. Quem fala, para quem, em que situação? Aqui entra o \"mundo da Bíblia\": quanto valia um talento?, Veja a próxima aula: era uma fortuna!,",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "4. Veja o contexto histórico"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p6",
+   "tipo": "ponto",
+   "n": 6,
+   "total": 9,
+   "fala": "5. Procure paralelos. Lucas tem uma parábola parecida, a das minas. Comparar os Evangelhos ajuda a ver o que cada um destaca.",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "5. Procure paralelos"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 68,
+     "txt": "Lc 19,11-27"
+    }
+   ]
+  },
+  {
+   "id": "p7",
+   "tipo": "ponto",
+   "n": 7,
+   "total": 9,
+   "fala": "6. Escute a Tradição. O que dizem o Catecismo, os Padres, a liturgia? Os talentos são lidos como os dons de Deus que devemos fazer frutificar, e a parábola deu à nossa língua a palavra \"talento\" no sentido de dom de Deus.",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "6. Escute a Tradição"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p8",
+   "tipo": "ponto",
+   "n": 8,
+   "total": 9,
+   "fala": "7. Atualize. O que o texto diz para mim hoje? Que dons recebi e estou enterrando por medo?",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "7. Atualize"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p9",
+   "tipo": "ponto",
+   "n": 9,
+   "total": 9,
+   "fala": "Esse caminho se completa com a oração: a Lectio Divina, leitura, meditação, oração, contemplação, é o jeito orante de fazer o mesmo percurso. São Jerônimo dizia: \"Desconhecer as Escrituras é desconhecer Cristo\".",
+   "destaques": [
+    {
+     "pos": 41,
+     "txt": "Lectio Divina"
+    },
+    {
+     "pos": 162,
+     "txt": "Desconhecer as Escrituras é desconhecer Cristo"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 211,
+     "txt": "CIC 133"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Sinóticos",
+     "origem": "grego sýn (junto) + ópsis (visão)",
+     "sentido": "Mateus, Marcos e Lucas, que podem ser lidos lado a lado"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Sinóticos vem do grego sýn, junto, e ópsis, visão, e quer dizer: Mateus, Marcos e Lucas, que podem ser lidos lado a lado."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Mt 25,14-30",
+    "Lc 19,11-27",
+    "Lc 24,45",
+    "Ne 8,8"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

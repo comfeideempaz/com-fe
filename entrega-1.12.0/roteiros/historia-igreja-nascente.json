@@ -1,0 +1,149 @@
+{
+ "modulo": "historia",
+ "aula": "igreja-nascente",
+ "titulo": "A Igreja nascente e os mártires (séculos I a III)",
+ "moduloTitulo": "História da Igreja e das Religiões",
+ "n": 5,
+ "emoji": "🏛️",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "🏛️",
+   "modulo": "Módulo 5 · História da Igreja e das Religiões",
+   "titulo": "A Igreja nascente e os mártires (séculos I a III)",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 5, História da Igreja e das Religiões, vamos estudar: A Igreja nascente e os mártires, séculos primeiro a terceiro."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "Depois de Pentecostes, a comunidade de Jerusalém \"perseverava no ensinamento dos Apóstolos, na comunhão fraterna, na fração do pão e nas orações\". Logo vieram a pregação aos samaritanos e aos pagãos, a conversão de Paulo e, por volta do ano 49, o Concílio de Jerusalém, que decidiu que os pagãos convertidos não precisavam seguir toda a lei de Moisés.",
+   "destaques": [
+    {
+     "pos": 247,
+     "txt": "Concílio de Jerusalém"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 144,
+     "txt": "At 2,42"
+    },
+    {
+     "pos": 269,
+     "txt": "At 15"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "O Evangelho se espalhou pelas estradas do Império Romano. Em Antioquia, os discípulos foram chamados pela primeira vez de cristãos. Pedro e Paulo morreram mártires em Roma, por volta dos anos 64 a 67, durante a perseguição de Nero. Desde então, a Igreja de Roma, onde Pedro foi bispo e mártir, ocupa um lugar especial na comunhão das Igrejas.",
+   "destaques": [
+    {
+     "pos": 122,
+     "txt": "cristãos"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 133,
+     "txt": "At 11,26"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "Por quase 250 anos, os cristãos sofreram perseguições, intermitentes, mas às vezes terríveis, como as dos imperadores Décio, em 250, e Diocleciano, a partir de 303. Eles eram acusados de \"ateus\" por não adorarem os deuses do Império nem o imperador. Os mártires, do grego, \"testemunhas\", preferiram morrer a negar Cristo: Santo Inácio de Antioquia, São Policarpo, Santas Perpétua e Felicidade, Santa Inês, São Lourenço e tantos outros. Tertuliano escreveu: \"o sangue dos cristãos é semente\".",
+   "destaques": [
+    {
+     "pos": 40,
+     "txt": "perseguições"
+    },
+    {
+     "pos": 253,
+     "txt": "mártires"
+    },
+    {
+     "pos": 457,
+     "txt": "o sangue dos cristãos é semente"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "Desse tempo vêm escritos preciosos: a Didaqué, \"Ensinamento\", um pequeno catecismo do século primeiro ou início do segundo; as cartas de Santo Inácio de Antioquia, por volta de 107, que já falam do bispo, dos presbíteros e dos diáconos, da Eucaristia e da \"Igreja católica\"; e a Primeira Apologia de São Justino, por volta de 155, que descreve a Missa de domingo de modo muito parecido com a nossa.",
+   "destaques": [
+    {
+     "pos": 38,
+     "txt": "Didaqué"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 400,
+     "txt": "CIC 1345"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "As catacumbas de Roma, cemitérios subterrâneos, guardam pinturas desse tempo: o Bom Pastor, o peixe, a pomba, a Virgem com o Menino. Elas mostram que a fé que professamos hoje é a mesma dos primeiros cristãos.",
+   "destaques": [
+    {
+     "pos": 3,
+     "txt": "catacumbas"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Mártir",
+     "origem": "grego mártys, \"testemunha\"",
+     "sentido": "quem dá a vida por Cristo, testemunhando a fé"
+    },
+    {
+     "termo": "Cristão",
+     "origem": "grego christianós, \"seguidor de Cristo\"",
+     "sentido": "nome dado aos discípulos em Antioquia (At 11,26)"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Mártir vem do grego mártys, \"testemunha\", e quer dizer: quem dá a vida por Cristo, testemunhando a fé. A palavra Cristão vem do grego christianós, \"seguidor de Cristo\", e quer dizer: nome dado aos discípulos em Antioquia."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "At 2,42-47",
+    "At 11,26",
+    "At 15,1-29",
+    "2Tm 4,6-8",
+    "Ap 7,9-14"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

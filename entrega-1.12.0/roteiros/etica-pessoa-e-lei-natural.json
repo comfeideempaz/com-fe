@@ -1,0 +1,175 @@
+{
+ "modulo": "etica",
+ "aula": "pessoa-e-lei-natural",
+ "titulo": "A pessoa humana e a lei natural",
+ "moduloTitulo": "Filosofia e Ética Cristã",
+ "n": 6,
+ "emoji": "⚖️",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "⚖️",
+   "modulo": "Módulo 6 · Filosofia e Ética Cristã",
+   "titulo": "A pessoa humana e a lei natural",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 6, Filosofia e Ética Cristã, vamos estudar: A pessoa humana e a lei natural."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "A ética cristã começa por uma afirmação: a dignidade da pessoa humana vem de ter sido criada à imagem e semelhança de Deus. Cada pessoa, desde a concepção até a morte natural, tem um valor infinito, que não depende de idade, saúde, riqueza ou utilidade.",
+   "destaques": [
+    {
+     "pos": 41,
+     "txt": "a dignidade da pessoa humana"
+    },
+    {
+     "pos": 93,
+     "txt": "à imagem e semelhança de Deus"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 126,
+     "txt": "Gn 1,27; CIC 1700-1702"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "O ser humano é unidade de corpo e alma. Dotado de inteligência e vontade livre, ele é capaz de conhecer a verdade, escolher o bem e amar. Por isso a moral não é um conjunto de proibições, mas o caminho para a felicidade verdadeira, que Jesus apresenta nas Bem-aventuranças.",
+   "destaques": [
+    {
+     "pos": 15,
+     "txt": "unidade de corpo e alma"
+    },
+    {
+     "pos": 256,
+     "txt": "Bem-aventuranças"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 273,
+     "txt": "Mt 5,3-12; CIC 1716-1724"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "Deus inscreveu no coração humano uma lei natural: a luz da razão pela qual sabemos o que é bom e o que é mau. São Paulo diz que os pagãos, sem conhecer a Lei de Moisés, mostram que \"a obra da lei está escrita em seus corações\". O primeiro princípio da lei natural é simples: fazer o bem e evitar o mal.",
+   "destaques": [
+    {
+     "pos": 37,
+     "txt": "lei natural"
+    },
+    {
+     "pos": 275,
+     "txt": "fazer o bem e evitar o mal"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 110,
+     "txt": "CIC 1954-1960"
+    },
+    {
+     "pos": 225,
+     "txt": "Rm 2,14-15"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "A lei natural é universal, vale para todos os povos, imutável no essencial e serve de base para as leis humanas justas e para os direitos humanos. Os Dez Mandamentos são uma expressão privilegiada da lei natural. Por isso o cristão pode dialogar sobre ética com quem não tem fé: muitas verdades morais podem ser conhecidas pela razão.",
+   "destaques": [
+    {
+     "pos": 15,
+     "txt": "universal"
+    },
+    {
+     "pos": 53,
+     "txt": "imutável"
+    },
+    {
+     "pos": 150,
+     "txt": "Dez Mandamentos"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 216,
+     "txt": "CIC 2070"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "A lei natural se completa na Lei nova do Evangelho, que é a graça do Espírito Santo dada pela fé em Cristo e que age pela caridade. O resumo de toda a moral cristã é o duplo mandamento do amor: amar a Deus sobre todas as coisas e o próximo como a si mesmo.",
+   "destaques": [
+    {
+     "pos": 29,
+     "txt": "Lei nova"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 132,
+     "txt": "CIC 1965-1974"
+    },
+    {
+     "pos": 256,
+     "txt": "Mt 22,37-40"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Ética",
+     "origem": "grego éthos, \"costume, caráter\"",
+     "sentido": "reflexão sobre o bem e o modo correto de agir"
+    },
+    {
+     "termo": "Moral",
+     "origem": "latim mos, moris, \"costume\"",
+     "sentido": "o modo de agir de acordo com o bem"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Ética vem do grego éthos, \"costume, caráter\", e quer dizer: reflexão sobre o bem e o modo correto de agir. A palavra Moral vem do latim mos, moris, \"costume\", e quer dizer: o modo de agir de acordo com o bem."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Gn 1,26-27",
+    "Sl 8,4-7",
+    "Rm 2,14-15",
+    "Mt 5,3-12",
+    "Mt 22,37-40"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

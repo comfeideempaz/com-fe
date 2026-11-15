@@ -1,0 +1,190 @@
+{
+ "modulo": "etica",
+ "aula": "pecado-e-conversao",
+ "titulo": "Pecado e conversão",
+ "moduloTitulo": "Filosofia e Ética Cristã",
+ "n": 6,
+ "emoji": "⚖️",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "⚖️",
+   "modulo": "Módulo 6 · Filosofia e Ética Cristã",
+   "titulo": "Pecado e conversão",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 6, Filosofia e Ética Cristã, vamos estudar: Pecado e conversão."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "O pecado é uma falta contra a razão, a verdade e a reta consciência; é uma ofensa a Deus e uma ferida no amor ao próximo. No fundo, é preferir a si mesmo a Deus. A palavra grega usada no Novo Testamento, hamartía, quer dizer \"errar o alvo\": o pecado nos desvia do fim para o qual fomos feitos.",
+   "destaques": [
+    {
+     "pos": 2,
+     "txt": "pecado"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 123,
+     "txt": "CIC 1849-1850"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "Existem pecados mais e menos graves. O pecado mortal destrói a caridade no coração e afasta de Deus. Para que seja mortal, são necessárias três condições ao mesmo tempo: matéria grave, pleno conhecimento e deliberado consentimento. O pecado venial não rompe a aliança com Deus, mas enfraquece a caridade e, se não for combatido, prepara o caminho para o pecado mortal.",
+   "destaques": [
+    {
+     "pos": 39,
+     "txt": "pecado mortal"
+    },
+    {
+     "pos": 139,
+     "txt": "três condições ao mesmo tempo"
+    },
+    {
+     "pos": 170,
+     "txt": "matéria grave"
+    },
+    {
+     "pos": 185,
+     "txt": "pleno conhecimento"
+    },
+    {
+     "pos": 206,
+     "txt": "deliberado consentimento"
+    },
+    {
+     "pos": 234,
+     "txt": "pecado venial"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 33,
+     "txt": "1Jo 5,16-17"
+    },
+    {
+     "pos": 235,
+     "txt": "CIC 1857-1859"
+    },
+    {
+     "pos": 368,
+     "txt": "CIC 1862-1863"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "A Bíblia e a Tradição falam também de pecados que \"bradam ao céu\", como o homicídio e a injustiça contra os pobres e os trabalhadores, e da estrutura de pecado: quando pecados pessoais se acumulam em situações sociais injustas.",
+   "destaques": [
+    {
+     "pos": 140,
+     "txt": "estrutura de pecado"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 131,
+     "txt": "CIC 1867"
+    },
+    {
+     "pos": 227,
+     "txt": "CIC 1869"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "Mas a última palavra não é do pecado, é da misericórdia. \"Onde abundou o pecado, superabundou a graça\". A conversão, metánoia, \"mudança de mente\", é voltar para o Pai, como o filho pródigo. Ela começa com o arrependimento sincero, a contrição, passa pela confissão e pela reparação, e se renova a cada dia.",
+   "destaques": [
+    {
+     "pos": 42,
+     "txt": "misericórdia"
+    },
+    {
+     "pos": 105,
+     "txt": "conversão"
+    },
+    {
+     "pos": 234,
+     "txt": "contrição"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 102,
+     "txt": "Rm 5,20"
+    },
+    {
+     "pos": 190,
+     "txt": "Lc 15,11-32"
+    },
+    {
+     "pos": 306,
+     "txt": "CIC 1427-1433"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "\"Se confessarmos os nossos pecados, Ele é fiel e justo para nos perdoar\". O sacramento da Penitência é o encontro pessoal com essa misericórdia. O app tem um guia para preparar a confissão, sem salvar nada no aparelho.",
+   "destaques": [],
+   "refs": [
+    {
+     "pos": 73,
+     "txt": "1Jo 1,9"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Pecado",
+     "origem": "grego hamartía, \"errar o alvo\"",
+     "sentido": "ofensa a Deus e ferida no amor"
+    },
+    {
+     "termo": "Conversão",
+     "origem": "grego metánoia, \"mudança de mente\"; latim conversio, \"virar-se\"",
+     "sentido": "voltar-se para Deus de todo o coração"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Pecado vem do grego hamartía, \"errar o alvo\", e quer dizer: ofensa a Deus e ferida no amor. A palavra Conversão vem do grego metánoia, \"mudança de mente\"; latim conversio, \"virar-se\", e quer dizer: voltar-se para Deus de todo o coração."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "1Jo 1,8-9",
+    "1Jo 5,16-17",
+    "Lc 15,11-32",
+    "Rm 5,20",
+    "Sl 51(50),3-14"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

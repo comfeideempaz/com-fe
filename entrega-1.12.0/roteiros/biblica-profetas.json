@@ -1,0 +1,164 @@
+{
+ "modulo": "biblica",
+ "aula": "profetas",
+ "titulo": "Os profetas",
+ "moduloTitulo": "Teologia Bíblica",
+ "n": 3,
+ "emoji": "📖",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "📖",
+   "modulo": "Módulo 3 · Teologia Bíblica",
+   "titulo": "Os profetas",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 3, Teologia Bíblica, vamos estudar: Os profetas."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "Profeta não é um adivinho do futuro. O profeta é alguém chamado por Deus para falar em nome dele: denunciar o pecado, consolar o povo, lembrar a Aliança e anunciar o que Deus vai fazer. A palavra grega prophétes quer dizer \"o que fala diante\" ou \"em lugar de\".",
+   "destaques": [
+    {
+     "pos": 39,
+     "txt": "profeta"
+    },
+    {
+     "pos": 78,
+     "txt": "falar em nome dele"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "A Bíblia tem quatro profetas maiores, por terem livros longos: Isaías, Jeremias, Ezequiel e Daniel, além de Lamentações e Baruc, ligados a Jeremias. E doze profetas menores: Oseias, Joel, Amós, Abdias, Jonas, Miqueias, Naum, Habacuc, Sofonias, Ageu, Zacarias e Malaquias. Houve também profetas que não deixaram livros, como Elias e Eliseu.",
+   "destaques": [
+    {
+     "pos": 12,
+     "txt": "quatro profetas maiores"
+    },
+    {
+     "pos": 151,
+     "txt": "doze profetas menores"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "Os profetas denunciam a idolatria e a injustiça contra os pobres, Amós é o grande profeta da justiça, Amós capítulo 5, versículo 24, e anunciam a esperança: um Messias, uma nova Aliança, um coração novo. Alguns anúncios que os cristãos veem cumpridos em Jesus: a virgem que conceberá o Emanuel, o menino que é \"Deus forte\", o Servo sofredor \"ferido por nossas faltas\", o nascimento em Belém, o rei que entra montado num jumentinho, a nova Aliança escrita nos corações e o coração novo e o Espírito novo.",
+   "destaques": [
+    {
+     "pos": 12,
+     "txt": "denunciam"
+    },
+    {
+     "pos": 118,
+     "txt": "anunciam a esperança"
+    },
+    {
+     "pos": 430,
+     "txt": "nova Aliança"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 285,
+     "txt": "Is 7,14"
+    },
+    {
+     "pos": 315,
+     "txt": "Is 9,6"
+    },
+    {
+     "pos": 361,
+     "txt": "Is 53,5"
+    },
+    {
+     "pos": 384,
+     "txt": "Mq 5,2"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "O último e maior dos profetas é João Batista, que aponta Jesus: \"Eis o Cordeiro de Deus\". E Jesus é mais que profeta: Ele é a própria Palavra que os profetas anunciavam.",
+   "destaques": [
+    {
+     "pos": 32,
+     "txt": "João Batista"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 90,
+     "txt": "Jo 1,29"
+    },
+    {
+     "pos": 169,
+     "txt": "CIC 523, 719"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "No Credo dizemos que o Espírito Santo \"falou pelos profetas\". Hoje, pelo Batismo, todo cristão participa da missão profética de Cristo: anunciar a verdade e denunciar o mal, com caridade.",
+   "destaques": [],
+   "refs": [
+    {
+     "pos": 187,
+     "txt": "CIC 904"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Profeta",
+     "origem": "grego prophétes, \"o que fala diante/em nome de\"; hebraico nabi",
+     "sentido": "porta-voz de Deus"
+    },
+    {
+     "termo": "Emanuel",
+     "origem": "hebraico Immanu-El, \"Deus conosco\"",
+     "sentido": "nome do menino anunciado em Is 7,14, cumprido em Jesus (Mt 1,23)"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Profeta vem do grego prophétes, \"o que fala diante/em nome de\"; hebraico nabi, e quer dizer: porta-voz de Deus. A palavra Emanuel vem do hebraico Immanu-El, \"Deus conosco\", e quer dizer: nome do menino anunciado em Isaías capítulo 7, versículo 14, cumprido em Jesus."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Is 6,1-8",
+    "Is 7,14",
+    "Is 9,6-7",
+    "Is 52,13-53,12",
+    "Jr 31,31-34"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

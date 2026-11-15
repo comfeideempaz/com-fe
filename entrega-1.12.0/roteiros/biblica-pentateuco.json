@@ -1,0 +1,165 @@
+{
+ "modulo": "biblica",
+ "aula": "pentateuco",
+ "titulo": "O Pentateuco: os cinco livros da Lei",
+ "moduloTitulo": "Teologia Bíblica",
+ "n": 3,
+ "emoji": "📖",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "📖",
+   "modulo": "Módulo 3 · Teologia Bíblica",
+   "titulo": "O Pentateuco: os cinco livros da Lei",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 3, Teologia Bíblica, vamos estudar: O Pentateuco: os cinco livros da Lei."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "Os cinco primeiros livros da Bíblia formam o Pentateuco, do grego \"cinco estojos\", onde se guardavam os rolos. Os judeus os chamam de Torá, palavra que significa \"instrução\", mais do que só \"lei\". A tradição os atribui a Moisés, e a pesquisa bíblica estuda como foram reunidas, ao longo dos séculos, as tradições que eles contêm.",
+   "destaques": [
+    {
+     "pos": 44,
+     "txt": "Pentateuco"
+    },
+    {
+     "pos": 134,
+     "txt": "Torá"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "Gênesis, \"origem\": os capítulos 1 a 11 falam das origens do mundo e da humanidade, com linguagem simbólica e verdades profundas, criação, pecado, dilúvio, Babel. Os capítulos 12 a 50 contam a história dos patriarcas. Em Gênesis capítulo 3, versículo 15 está o Protoevangelho, o \"primeiro anúncio\" da vitória sobre o mal, que a Tradição lê como promessa do Redentor e de sua Mãe.",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "Gênesis"
+    },
+    {
+     "pos": 252,
+     "txt": "Protoevangelho"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 377,
+     "txt": "CIC 410-411"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "Êxodo, \"saída\": a libertação do Egito, a Páscoa, a travessia do mar e a Aliança no Sinai com os Dez Mandamentos. É o grande modelo da salvação: Deus liberta para que o povo possa servi-lo em liberdade. Levítico: as leis do culto e da santidade, \"sede santos, porque eu sou santo\", Levítico capítulo 19, versículo 2. Números: os quarenta anos no deserto, com suas murmurações e a fidelidade de Deus. Deuteronômio, \"segunda lei\": os discursos de Moisés antes de entrar na terra.",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "Êxodo"
+    },
+    {
+     "pos": 213,
+     "txt": "Levítico"
+    },
+    {
+     "pos": 306,
+     "txt": "Números"
+    },
+    {
+     "pos": 394,
+     "txt": "Deuteronômio"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "No Deuteronômio está a oração mais importante de Israel, o Shemá: \"Ouve, Israel: o Senhor nosso Deus é o único Senhor. Amarás o Senhor teu Deus de todo o teu coração, de toda a tua alma e de todas as tuas forças\". Jesus a chamou de primeiro mandamento e uniu a ela o amor ao próximo, de Levítico capítulo 19, versículo 18.",
+   "destaques": [
+    {
+     "pos": 64,
+     "txt": "Shemá"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 232,
+     "txt": "Dt 6,4-5"
+    },
+    {
+     "pos": 274,
+     "txt": "Mc 12,29-30"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Para o cristão, a Lei antiga não foi jogada fora: Jesus veio cumpri-la e levá-la à plenitude. A Lei moral, os Dez Mandamentos, continua valendo; as leis rituais apontavam para Cristo e se cumprem nele.",
+   "destaques": [
+    {
+     "pos": 61,
+     "txt": "cumpri-la e levá-la à plenitude"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 95,
+     "txt": "Mt 5,17"
+    },
+    {
+     "pos": 201,
+     "txt": "CIC 1961-1964"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Torá",
+     "origem": "hebraico torah, \"instrução, ensinamento\"",
+     "sentido": "os cinco livros de Moisés; a Lei de Deus"
+    },
+    {
+     "termo": "Pentateuco",
+     "origem": "grego pénte (cinco) + teûchos (estojo)",
+     "sentido": "os cinco primeiros livros da Bíblia"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Torá vem do hebraico torah, \"instrução, ensinamento\", e quer dizer: os cinco livros de Moisés; a Lei de Deus. A palavra Pentateuco vem do grego pénte, cinco, e teûchos, estojo, e quer dizer: os cinco primeiros livros da Bíblia."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Gn 3,15",
+    "Ex 12,1-14",
+    "Ex 20,1-17",
+    "Lv 19,2.18",
+    "Dt 6,4-9"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

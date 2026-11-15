@@ -1,0 +1,13 @@
+data/curso/biblica.json
+data/curso/dicionario.json
+data/curso/exegese.json
+data/curso/historia.json
+data/curso/introducao.json
+index.html
+js/aula-video-piloto.js
+js/aula-video.js
+js/config.js
+js/views/curso-video.js
+js/views/curso.js
+js/views/inicio.js
+sw.js

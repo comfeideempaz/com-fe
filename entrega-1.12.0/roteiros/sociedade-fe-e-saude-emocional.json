@@ -1,0 +1,159 @@
+{
+ "modulo": "sociedade",
+ "aula": "fe-e-saude-emocional",
+ "titulo": "Fé e saúde emocional",
+ "moduloTitulo": "Fé, pessoa e sociedade",
+ "n": 7,
+ "emoji": "🤝",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "🤝",
+   "modulo": "Módulo 7 · Sociologia e Psicologia da Religião",
+   "titulo": "Fé e saúde emocional",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 7, Sociologia e Psicologia da Religião, vamos estudar: Fé e saúde emocional."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "A psicologia da religião estuda como a fé influencia a vida interior das pessoas. Muitas pesquisas indicam que a prática religiosa está associada a mais esperança, sentido de vida, apoio comunitário e capacidade de enfrentar crises. A fé ajuda a viver melhor, mas não é um remédio mágico, e nem deve ser usada como tal.",
+   "destaques": [
+    {
+     "pos": 2,
+     "txt": "psicologia da religião"
+    },
+    {
+     "pos": 264,
+     "txt": "não é um remédio mágico"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "Jesus fala diretamente à nossa ansiedade: \"Não vos preocupeis com o dia de amanhã\"; \"Vinde a mim, vós que estais cansados e sobrecarregados, e eu vos aliviarei\". São Paulo ensina a apresentar tudo a Deus em oração, e então \"a paz de Deus, que supera todo entendimento, guardará os vossos corações\". São Pedro diz: \"lançai sobre Ele toda a vossa preocupação, porque Ele cuida de vós\".",
+   "destaques": [],
+   "refs": [
+    {
+     "pos": 83,
+     "txt": "Mt 6,34"
+    },
+    {
+     "pos": 161,
+     "txt": "Mt 11,28"
+    },
+    {
+     "pos": 298,
+     "txt": "Fl 4,6-7"
+    },
+    {
+     "pos": 383,
+     "txt": "1Pd 5,7"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "Ao mesmo tempo, lembre-se do princípio que vimos com Santo Tomás: a graça supõe a natureza. A depressão, os transtornos de ansiedade e outros sofrimentos psíquicos são doenças reais, não falta de fé. Assim como quem quebra a perna procura um médico e reza, quem sofre emocionalmente deve procurar ajuda profissional, psicólogo, psiquiatra, e também o apoio espiritual, sacerdote, direção espiritual, sacramentos. Uma coisa não exclui a outra.",
+   "destaques": [
+    {
+     "pos": 65,
+     "txt": "a graça supõe a natureza"
+    },
+    {
+     "pos": 287,
+     "txt": "procurar ajuda profissional"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "A Bíblia não esconde a dor: Jó lamenta, Elias pede para morrer, os salmos clamam \"por que estás triste, ó minha alma?\", e o próprio Jesus sentiu angústia no Getsêmani. Deus não pede que finjamos estar bem.",
+   "destaques": [],
+   "refs": [
+    {
+     "pos": 63,
+     "txt": "1Rs 19,4"
+    },
+    {
+     "pos": 119,
+     "txt": "Sl 42,6"
+    },
+    {
+     "pos": 167,
+     "txt": "Mc 14,34"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Uma palavra de cuidado: se você ou alguém próximo pensa em tirar a própria vida, procure ajuda imediatamente. No Brasil, o CVV atende de graça pelo telefone 188, 24 horas. A Igreja ensina que distúrbios psíquicos graves diminuem a responsabilidade, e que não devemos desesperar da salvação de quem se suicidou: Deus pode dar a oportunidade de um arrependimento salutar, e a Igreja reza por essas pessoas.",
+   "destaques": [
+    {
+     "pos": 81,
+     "txt": "procure ajuda imediatamente"
+    },
+    {
+     "pos": 157,
+     "txt": "188"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 404,
+     "txt": "CIC 2282-2283"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Psicologia",
+     "origem": "grego psyché (alma, sopro de vida) + lógos",
+     "sentido": "estudo da mente e do comportamento humano"
+    },
+    {
+     "termo": "Esperança",
+     "origem": "latim sperare, \"esperar\"",
+     "sentido": "virtude teologal: confiar nas promessas de Deus"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Psicologia vem do grego psyché, alma, sopro de vida, e lógos, e quer dizer: estudo da mente e do comportamento humano. A palavra Esperança vem do latim sperare, \"esperar\", e quer dizer: virtude teologal: confiar nas promessas de Deus."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Mt 6,25-34",
+    "Mt 11,28-30",
+    "Fl 4,6-7",
+    "1Pd 5,7",
+    "1Rs 19,1-8"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

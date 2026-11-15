@@ -1,0 +1,147 @@
+{
+ "modulo": "historia",
+ "aula": "padres-e-concilios",
+ "titulo": "Os Padres da Igreja e os grandes Concílios",
+ "moduloTitulo": "História da Igreja e das Religiões",
+ "n": 5,
+ "emoji": "🏛️",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "🏛️",
+   "modulo": "Módulo 5 · História da Igreja e das Religiões",
+   "titulo": "Os Padres da Igreja e os grandes Concílios",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 5, História da Igreja e das Religiões, vamos estudar: Os Padres da Igreja e os grandes Concílios."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "Em 313, o Edito de Milão, dos imperadores Constantino e Licínio, deu liberdade de culto aos cristãos. A Igreja saiu das catacumbas, construiu basílicas e pôde se organizar. Mas surgiram também grandes discussões sobre a fé, e foi preciso esclarecer quem é Jesus e quem é Deus.",
+   "destaques": [
+    {
+     "pos": 10,
+     "txt": "Edito de Milão"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "Os Concílios ecumênicos reuniram os bispos do mundo para isso. Niceia, em 325: contra Ário, o Filho é \"consubstancial\" ao Pai. Constantinopla primeiro, em 381: a divindade do Espírito Santo e o Credo que rezamos. Éfeso, em 431: Maria é Mãe de Deus. Calcedônia, em 451: Cristo, uma Pessoa em duas naturezas. Até hoje a Igreja Católica conta 21 concílios ecumênicos, o último sendo o Vaticano segundo.",
+   "destaques": [
+    {
+     "pos": 3,
+     "txt": "Concílios ecumênicos"
+    },
+    {
+     "pos": 64,
+     "txt": "Niceia"
+    },
+    {
+     "pos": 130,
+     "txt": "Constantinopla primeiro"
+    },
+    {
+     "pos": 212,
+     "txt": "Éfeso"
+    },
+    {
+     "pos": 250,
+     "txt": "Calcedônia"
+    },
+    {
+     "pos": 343,
+     "txt": "21 concílios ecumênicos"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "Esse é o tempo de ouro dos Padres da Igreja. No Oriente: Santo Atanásio, defensor de Niceia; São Basílio Magno, São Gregório de Nazianzo e São Gregório de Nissa, os Padres Capadócios; São João Crisóstomo, \"boca de ouro\", grande pregador; São Cirilo de Alexandria. No Ocidente: Santo Ambrósio de Milão; São Jerônimo, que traduziu a Bíblia para o latim, a Vulgata; Santo Agostinho, bispo de Hipona, autor das Confissões e da Cidade de Deus; e São Gregório Magno, papa, de 590 a 604.",
+   "destaques": [
+    {
+     "pos": 26,
+     "txt": "Padres da Igreja"
+    },
+    {
+     "pos": 301,
+     "txt": "São Jerônimo"
+    },
+    {
+     "pos": 364,
+     "txt": "Santo Agostinho"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "Nasce também o monaquismo. Santo Antão, no séculos terceiro e quarto, vai para o deserto do Egito buscar Deus na oração e na penitência. Depois, São Bento de Núrsia funda Monte Cassino, por volta de 529, e escreve a sua Regra, resumida no lema ora et labora, \"reza e trabalha\". Os mosteiros beneditinos guardarão a fé, a cultura e os livros da Antiguidade durante séculos.",
+   "destaques": [
+    {
+     "pos": 15,
+     "txt": "monaquismo"
+    },
+    {
+     "pos": 138,
+     "txt": "São Bento de Núrsia"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Em 476, cai o Império Romano do Ocidente. A Igreja, com seus bispos e monges, torna-se o grande ponto de unidade e evangeliza os povos germânicos, celtas e eslavos, como fizeram São Patrício na Irlanda e os Santos Cirilo e Metódio entre os eslavos.",
+   "destaques": [],
+   "refs": []
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Vulgata",
+     "origem": "latim vulgata, \"divulgada, de uso comum\"",
+     "sentido": "tradução latina da Bíblia feita por São Jerônimo (por volta de 400)"
+    },
+    {
+     "termo": "Monge",
+     "origem": "grego monachós, \"solitário, só\"",
+     "sentido": "quem deixa tudo para buscar só a Deus, na oração e no trabalho"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Vulgata vem do latim vulgata, \"divulgada, de uso comum\", e quer dizer: tradução latina da Bíblia feita por São Jerônimo, por volta de 400. A palavra Monge vem do grego monachós, \"solitário, só\", e quer dizer: quem deixa tudo para buscar só a Deus, na oração e no trabalho."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Jo 17,20-21",
+    "At 20,28-31",
+    "1Tm 6,20"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

@@ -1,0 +1,189 @@
+{
+ "modulo": "pastoral",
+ "aula": "ano-liturgico",
+ "titulo": "O ano litúrgico e as cores",
+ "moduloTitulo": "Liturgia e Prática Pastoral",
+ "n": 8,
+ "emoji": "⛪",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "⛪",
+   "modulo": "Módulo 8 · Prática Pastoral e Liturgia",
+   "titulo": "O ano litúrgico e as cores",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 8, Prática Pastoral e Liturgia, vamos estudar: O ano litúrgico e as cores."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "A Igreja celebra o mistério de Cristo ao longo de um ano, chamado ano litúrgico. Ele não começa em 1º de janeiro, mas no 1º Domingo do Advento, no fim de novembro ou início de dezembro. Seu centro é a Páscoa: o Tríduo Pascal, da Missa da Ceia do Senhor, na Quinta-feira Santa, até as Vésperas do Domingo da Ressurreição, é o ponto alto de todo o ano.",
+   "destaques": [
+    {
+     "pos": 66,
+     "txt": "ano litúrgico"
+    },
+    {
+     "pos": 121,
+     "txt": "1º Domingo do Advento"
+    },
+    {
+     "pos": 201,
+     "txt": "Páscoa"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 81,
+     "txt": "CIC 1163-1173"
+    },
+    {
+     "pos": 350,
+     "txt": "CIC 1168-1169"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "Os tempos são: Advento, quatro semanas de espera alegre do Natal e da vinda gloriosa de Cristo; Natal, até a festa do Batismo do Senhor; Tempo Comum, primeira parte; Quaresma, quarenta dias de conversão, da Quarta-feira de Cinzas até a Quinta-feira Santa; Tríduo Pascal; Tempo Pascal, cinquenta dias, até Pentecostes; e Tempo Comum, segunda parte, que termina com a solenidade de Cristo Rei.",
+   "destaques": [
+    {
+     "pos": 14,
+     "txt": "Advento"
+    },
+    {
+     "pos": 95,
+     "txt": "Natal"
+    },
+    {
+     "pos": 136,
+     "txt": "Tempo Comum"
+    },
+    {
+     "pos": 166,
+     "txt": "Quaresma"
+    },
+    {
+     "pos": 256,
+     "txt": "Tríduo Pascal"
+    },
+    {
+     "pos": 270,
+     "txt": "Tempo Pascal"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "O domingo é o \"dia do Senhor\", a Páscoa semanal, o primeiro dia da semana em que Cristo ressuscitou. Participar da Missa dominical é um preceito da Igreja e um encontro de família.",
+   "destaques": [
+    {
+     "pos": 2,
+     "txt": "domingo"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 101,
+     "txt": "CIC 2174-2177"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "As cores litúrgicas ajudam a viver cada tempo, Instrução Geral do Missal Romano 346: branco, alegria e pureza: Natal, Páscoa, festas do Senhor, de Nossa Senhora e de santos não mártires; vermelho, fogo do Espírito e sangue: Pentecostes, Paixão, Apóstolos e mártires; verde, esperança: Tempo Comum; roxo, penitência e espera: Advento e Quaresma; também nas Missas pelos falecidos. O rosa pode ser usado no 3º domingo do Advento, Gaudete, e no 4º da Quaresma, Laetare, e o preto pode ser usado nas Missas pelos falecidos.",
+   "destaques": [
+    {
+     "pos": 2,
+     "txt": "cores litúrgicas"
+    },
+    {
+     "pos": 85,
+     "txt": "branco"
+    },
+    {
+     "pos": 186,
+     "txt": "vermelho"
+    },
+    {
+     "pos": 266,
+     "txt": "verde"
+    },
+    {
+     "pos": 298,
+     "txt": "roxo"
+    },
+    {
+     "pos": 382,
+     "txt": "rosa"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Ao longo do ano, a Igreja celebra também Maria e os santos, que mostram o mistério de Cristo vivido em vidas concretas. O app mostra todos os dias o tempo, a cor e a celebração, e tem a roda do Ano Litúrgico.",
+   "destaques": [
+    {
+     "pos": 41,
+     "txt": "Maria e os santos"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 120,
+     "txt": "CIC 1172-1173"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Advento",
+     "origem": "latim adventus, \"chegada, vinda\"",
+     "sentido": "tempo de preparação para o Natal"
+    },
+    {
+     "termo": "Quaresma",
+     "origem": "latim quadragesima, \"quadragésimo (dia)\"",
+     "sentido": "40 dias de conversão antes da Páscoa"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Advento vem do latim adventus, \"chegada, vinda\", e quer dizer: tempo de preparação para o Natal. A palavra Quaresma vem do latim quadragesima, \"quadragésimo, dia,\", e quer dizer: 40 dias de conversão antes da Páscoa."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Ex 12,14",
+    "Lc 4,18-21",
+    "1Cor 5,7-8",
+    "Ap 1,10",
+    "Sl 118(117),24"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

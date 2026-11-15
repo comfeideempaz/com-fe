@@ -1,0 +1,173 @@
+{
+ "modulo": "biblica",
+ "aula": "sapienciais",
+ "titulo": "Os livros sapienciais e os Salmos",
+ "moduloTitulo": "Teologia Bíblica",
+ "n": 3,
+ "emoji": "📖",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "📖",
+   "modulo": "Módulo 3 · Teologia Bíblica",
+   "titulo": "Os livros sapienciais e os Salmos",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 3, Teologia Bíblica, vamos estudar: Os livros sapienciais e os Salmos."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "Os livros sapienciais são Jó, Salmos, Provérbios, Eclesiastes, Cântico dos Cânticos, Sabedoria e Eclesiástico. Eles tratam das grandes perguntas da vida: o sentido do sofrimento, a felicidade, o amor, a morte, como viver bem diante de Deus. Seu lema é: \"o temor do Senhor é o princípio da sabedoria\". Temor aqui não é medo, mas respeito amoroso de filho.",
+   "destaques": [
+    {
+     "pos": 3,
+     "txt": "livros sapienciais"
+    },
+    {
+     "pos": 253,
+     "txt": "o temor do Senhor é o princípio da sabedoria"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 301,
+     "txt": "Pr 9,10"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "Jó enfrenta o mistério do sofrimento do inocente e termina diante da grandeza de Deus. Provérbios reúne conselhos práticos. Eclesiastes, Coélet, mostra que tudo é \"vaidade\", fumaça, sopro, sem Deus. Cântico dos Cânticos canta o amor humano e é lido pela Tradição como imagem do amor de Deus pelo seu povo e de Cristo pela Igreja. Sabedoria fala da imortalidade da alma. Eclesiástico, Sirácida, é um grande manual de vida.",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "Jó"
+    },
+    {
+     "pos": 87,
+     "txt": "Provérbios"
+    },
+    {
+     "pos": 124,
+     "txt": "Eclesiastes"
+    },
+    {
+     "pos": 201,
+     "txt": "Cântico dos Cânticos"
+    },
+    {
+     "pos": 332,
+     "txt": "Sabedoria"
+    },
+    {
+     "pos": 372,
+     "txt": "Eclesiástico"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 370,
+     "txt": "Sb 3,1-9"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "Nesses livros aparece a Sabedoria personificada, que estava junto de Deus na criação. O Novo Testamento vê nela um anúncio de Cristo, \"sabedoria de Deus\".",
+   "destaques": [
+    {
+     "pos": 24,
+     "txt": "Sabedoria personificada"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 86,
+     "txt": "Pr 8,22-31; Sb 7,25-26"
+    },
+    {
+     "pos": 154,
+     "txt": "1Cor 1,24"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "Os Salmos são 150 orações-poemas, a escola de oração de Israel e da Igreja. Há salmos de louvor, de súplica, de ação de graças, de confiança, de arrependimento, como o 51, Miserere, reais e messiânicos. Jesus rezou os Salmos: na cruz, rezou o início do Salmo 22. A Igreja os reza todos os dias na Liturgia das Horas.",
+   "destaques": [
+    {
+     "pos": 2,
+     "txt": "Salmos"
+    },
+    {
+     "pos": 205,
+     "txt": "Jesus rezou os Salmos"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 265,
+     "txt": "Mt 27,46"
+    },
+    {
+     "pos": 317,
+     "txt": "CIC 2585-2589"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Atenção à numeração: o app usa a Bíblia de Figueiredo, que segue a numeração grega/latina dos Salmos. Por isso escrevemos, por exemplo, \"Sl 23, ou 22\": o 23 é a numeração hebraica, usada pela CNBB, e o 22 é a da Figueiredo.",
+   "destaques": [],
+   "refs": []
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Salmo",
+     "origem": "grego psalmós, canto ao som da cítara (psaltérion)",
+     "sentido": "oração-poema do livro dos Salmos"
+    },
+    {
+     "termo": "Sabedoria",
+     "origem": "hebraico chokmah; grego sophía",
+     "sentido": "saber viver segundo Deus; também um nome de Cristo (1Cor 1,24)"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Salmo vem do grego psalmós, canto ao som da cítara, psaltérion, e quer dizer: oração-poema do livro dos Salmos. A palavra Sabedoria vem do hebraico chokmah; grego sophía, e quer dizer: saber viver segundo Deus; também um nome de Cristo."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Pr 9,10",
+    "Jó 42,1-6",
+    "Ecl 1,2",
+    "Sb 3,1-9",
+    "Pr 8,22-31"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

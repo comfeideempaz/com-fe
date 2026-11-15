@@ -1,0 +1,183 @@
+{
+ "modulo": "etica",
+ "aula": "bioetica",
+ "titulo": "Bioética e questões atuais",
+ "moduloTitulo": "Filosofia e Ética Cristã",
+ "n": 6,
+ "emoji": "⚖️",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "⚖️",
+   "modulo": "Módulo 6 · Filosofia e Ética Cristã",
+   "titulo": "Bioética e questões atuais",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 6, Filosofia e Ética Cristã, vamos estudar: Bioética e questões atuais."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "A bioética estuda as questões morais ligadas à vida e à saúde. A Igreja ilumina esses temas a partir da dignidade da pessoa e do mandamento \"não matarás\".",
+   "destaques": [
+    {
+     "pos": 2,
+     "txt": "bioética"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 154,
+     "txt": "Ex 20,13"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "Vida desde a concepção: a vida humana deve ser respeitada e protegida de modo absoluto desde o momento da concepção. \"Antes de te formar no ventre materno, eu te conheci\". Por isso o aborto provocado é um mal grave. A Igreja também ensina o respeito ao embrião humano nas técnicas de reprodução e na pesquisa.",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "Vida desde a concepção"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 118,
+     "txt": "CIC 2270"
+    },
+    {
+     "pos": 172,
+     "txt": "Jr 1,5"
+    },
+    {
+     "pos": 216,
+     "txt": "CIC 2271-2272"
+    },
+    {
+     "pos": 309,
+     "txt": "CIC 2274-2275, 2376-2377"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "Fim da vida: a eutanásia, que é provocar a morte para eliminar o sofrimento, é moralmente inaceitável. Mas não é obrigatório usar tratamentos desproporcionais, onerosos ou extraordinários: recusar a \"obstinação terapêutica\" é legítimo, e os cuidados paliativos são uma forma privilegiada de caridade.",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "Fim da vida"
+    },
+    {
+     "pos": 15,
+     "txt": "eutanásia"
+    },
+    {
+     "pos": 241,
+     "txt": "cuidados paliativos"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 105,
+     "txt": "CIC 2277"
+    },
+    {
+     "pos": 300,
+     "txt": "CIC 2278-2279"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "Outros temas: a legítima defesa é permitida; sobre a pena de morte, o Papa Francisco revisou o Catecismo 2267 em 2018, ensinando que ela é inadmissível porque atenta contra a dignidade da pessoa. O cuidado com a criação também é questão moral: a encíclica Laudato Si', em 2015, chama a uma \"ecologia integral\", que une a defesa da natureza e a dos mais pobres. E diante de novas tecnologias, como a inteligência artificial, a Igreja pede que estejam sempre a serviço da pessoa, nunca o contrário.",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "Outros temas"
+    },
+    {
+     "pos": 53,
+     "txt": "pena de morte"
+    },
+    {
+     "pos": 208,
+     "txt": "criação"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 46,
+     "txt": "CIC 2263-2265"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "A moral cristã sobre a sexualidade vê o corpo como dom e o amor humano como chamado à doação total, fiel e aberta à vida no matrimônio. Em todos esses temas, a Igreja une firmeza na verdade e misericórdia com as pessoas, especialmente com quem sofre ou errou.",
+   "destaques": [
+    {
+     "pos": 23,
+     "txt": "sexualidade"
+    },
+    {
+     "pos": 171,
+     "txt": "firmeza na verdade e misericórdia com as pessoas"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 134,
+     "txt": "CIC 2331-2400"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Bioética",
+     "origem": "grego bíos (vida) + éthos (costume)",
+     "sentido": "estudo moral das questões da vida e da saúde"
+    },
+    {
+     "termo": "Eutanásia",
+     "origem": "grego eu (bom) + thánatos (morte)",
+     "sentido": "provocar a morte de quem sofre, moralmente inaceitável (CIC 2277)"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Bioética vem do grego bíos, vida, e éthos, costume, e quer dizer: estudo moral das questões da vida e da saúde. A palavra Eutanásia vem do grego eu, bom, e thánatos, morte, e quer dizer: provocar a morte de quem sofre, moralmente inaceitável."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Ex 20,13",
+    "Jr 1,5",
+    "Sl 139(138),13-16",
+    "Dt 30,19",
+    "Gn 2,15"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

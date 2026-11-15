@@ -1,0 +1,151 @@
+{
+ "modulo": "historia",
+ "aula": "vaticano-ii",
+ "titulo": "A Igreja moderna e o Concílio Vaticano II",
+ "moduloTitulo": "História da Igreja e das Religiões",
+ "n": 5,
+ "emoji": "🏛️",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "🏛️",
+   "modulo": "Módulo 5 · História da Igreja e das Religiões",
+   "titulo": "A Igreja moderna e o Concílio Vaticano II",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 5, História da Igreja e das Religiões, vamos estudar: A Igreja moderna e o Concílio Vaticano segundo."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "Os séculos dezoito e dezenove trouxeram o Iluminismo, a Revolução Francesa e grandes mudanças políticas e científicas. A Igreja perdeu os Estados Pontifícios em 1870, mas ganhou em liberdade espiritual. O Concílio Vaticano primeiro, de 1869 a 1870, ensinou sobre fé e razão, Dei Filius, e definiu o primado e a infalibilidade do Papa, Pastor Aeternus.",
+   "destaques": [
+    {
+     "pos": 205,
+     "txt": "Concílio Vaticano primeiro"
+    },
+    {
+     "pos": 310,
+     "txt": "infalibilidade"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "Com a Revolução Industrial, o Papa Leão treze escreveu a Rerum Novarum, em 1891, sobre a condição dos operários: é o começo da moderna Doutrina Social da Igreja. O século vinte foi marcado por duas guerras mundiais, pelo nazismo e pelo comunismo, que perseguiram milhões de cristãos. Santos como Maximiliano Kolbe e Teresa Benedita da Cruz, Edith Stein, morreram em Auschwitz.",
+   "destaques": [
+    {
+     "pos": 35,
+     "txt": "Leão treze"
+    },
+    {
+     "pos": 138,
+     "txt": "Doutrina Social da Igreja"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "Em 1959, São João vinte e três surpreendeu o mundo anunciando um concílio. O Concílio Vaticano segundo, de 1962 a 1965, concluído por São Paulo sexto, quis apresentar a fé de sempre ao mundo de hoje. Produziu 16 documentos, entre eles quatro constituições: Sacrosanctum Concilium, a liturgia, que passou a ser celebrada também nas línguas de cada povo, Lumen Gentium, a Igreja, Dei Verbum, a Revelação, e Gaudium et Spes, a Igreja no mundo atual. Também falou do chamado universal à santidade, dos leigos, do ecumenismo e da liberdade religiosa.",
+   "destaques": [
+    {
+     "pos": 9,
+     "txt": "São João vinte e três"
+    },
+    {
+     "pos": 71,
+     "txt": "Concílio Vaticano segundo"
+    },
+    {
+     "pos": 125,
+     "txt": "São Paulo sexto"
+    },
+    {
+     "pos": 232,
+     "txt": "constituições"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "Os papas seguintes aplicaram o Concílio. São João Paulo segundo, de 1978 a 2005, viajou o mundo, ajudou a derrubar o comunismo na Europa, criou as Jornadas Mundiais da Juventude e publicou o Catecismo da Igreja Católica, em 1992. Bento dezesseis, de 2005 a 2013, grande teólogo, renunciou por idade. Francisco, de 2013 a 2025, primeiro papa latino-americano, insistiu na misericórdia e na \"Igreja em saída\". Em 8 de maio de 2025 foi eleito Leão quatorze.",
+   "destaques": [
+    {
+     "pos": 42,
+     "txt": "São João Paulo segundo"
+    },
+    {
+     "pos": 191,
+     "txt": "Catecismo da Igreja Católica"
+    },
+    {
+     "pos": 232,
+     "txt": "Bento dezesseis"
+    },
+    {
+     "pos": 299,
+     "txt": "Francisco"
+    },
+    {
+     "pos": 444,
+     "txt": "Leão quatorze"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "O Concílio deve ser lido em continuidade com toda a Tradição, como insistiu Bento dezesseis: uma \"hermenêutica da reforma na continuidade\", e não de ruptura. A Igreja muda na forma para permanecer fiel na essência.",
+   "destaques": [],
+   "refs": []
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Encíclica",
+     "origem": "grego enkýklios, \"circular\"",
+     "sentido": "carta do Papa dirigida a toda a Igreja"
+    },
+    {
+     "termo": "Aggiornamento",
+     "origem": "italiano, \"atualização\"",
+     "sentido": "palavra de João XXIII para o espírito do Vaticano II"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Encíclica vem do grego enkýklios, \"circular\", e quer dizer: carta do Papa dirigida a toda a Igreja. A palavra Aggiornamento vem do italiano, \"atualização\", e quer dizer: palavra de João vinte e três para o espírito do Vaticano segundo."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Mt 16,18",
+    "Mt 13,52",
+    "Hb 13,8"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

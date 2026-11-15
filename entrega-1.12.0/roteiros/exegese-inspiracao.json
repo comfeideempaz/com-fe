@@ -1,0 +1,134 @@
+{
+ "modulo": "exegese",
+ "aula": "inspiracao",
+ "titulo": "Inspiração e verdade da Bíblia",
+ "moduloTitulo": "Hermenêutica e Exegese Bíblica",
+ "n": 2,
+ "emoji": "📜",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "📜",
+   "modulo": "Módulo 2 · Hermenêutica e Exegese Bíblica",
+   "titulo": "Inspiração e verdade da Bíblia",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 2, Hermenêutica e Exegese Bíblica, vamos estudar: Inspiração e verdade da Bíblia."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "A Igreja crê que Deus é o autor da Sagrada Escritura. Mas isso não quer dizer que Deus ditou palavra por palavra, como se os escritores fossem máquinas. Deus escolheu homens e se serviu deles, com suas capacidades, seu estilo e sua cultura, de modo que escrevessem tudo e só aquilo que Ele queria. Por isso falamos de dois autores: Deus, autor principal, e o escritor humano, verdadeiro autor também.",
+   "destaques": [
+    {
+     "pos": 17,
+     "txt": "Deus é o autor da Sagrada Escritura"
+    },
+    {
+     "pos": 318,
+     "txt": "dois autores"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 55,
+     "txt": "CIC 105"
+    },
+    {
+     "pos": 295,
+     "txt": "CIC 106"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "É por isso que Marcos escreve de um jeito simples e rápido, Lucas com cuidado de historiador, Paulo com argumentos e emoção, e os Salmos com poesia. Cada livro traz a marca do seu autor humano, e todos são Palavra de Deus.",
+   "destaques": [],
+   "refs": []
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "Como Deus é o autor, a Escritura ensina com firmeza, fielmente e sem erro a verdade que Deus quis que fosse escrita para a nossa salvação. A Bíblia não é um manual de astronomia ou de biologia: ela usa a linguagem do seu tempo, o sol \"nasce\" e \"se põe\", para ensinar verdades sobre Deus, o homem e a salvação.",
+   "destaques": [
+    {
+     "pos": 33,
+     "txt": "ensina com firmeza, fielmente e sem erro a verdade que Deus quis que fosse escrita para a nossa salvação"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 140,
+     "txt": "CIC 107; Dei Verbum 11"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "Mesmo assim, a fé cristã não é uma \"religião do Livro\", mas da Palavra de Deus viva, que é Jesus Cristo. Para que a Escritura não fique letra morta, é preciso que Cristo, pelo Espírito Santo, nos abra a inteligência para compreendê-la.",
+   "destaques": [
+    {
+     "pos": 25,
+     "txt": "não é uma \"religião do Livro"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 235,
+     "txt": "CIC 108; Lc 24,45"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Dica prática: ao ler um texto difícil, pergunte primeiro \"o que Deus quer me ensinar aqui para a minha salvação?\", e não \"isso é cientificamente exato?\".",
+   "destaques": [],
+   "refs": []
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Inspiração",
+     "origem": "latim inspirare (soprar dentro); grego theópneustos (2Tm 3,16), \"soprado por Deus\"",
+     "sentido": "ação do Espírito Santo nos autores sagrados"
+    },
+    {
+     "termo": "Bíblia",
+     "origem": "grego tà biblía, \"os livrinhos\"; de Biblos, cidade fenícia que exportava papiro",
+     "sentido": "a coleção dos livros sagrados"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Inspiração vem do latim inspirare, soprar dentro; grego theópneustos, \"soprado por Deus\", e quer dizer: ação do Espírito Santo nos autores sagrados. A palavra Bíblia vem do grego tà biblía, \"os livrinhos\"; de Biblos, cidade fenícia que exportava papiro, e quer dizer: a coleção dos livros sagrados."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "2Tm 3,14-17",
+    "2Pd 1,20-21",
+    "Lc 24,44-45",
+    "Hb 4,12"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

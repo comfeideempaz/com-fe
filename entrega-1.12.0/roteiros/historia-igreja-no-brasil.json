@@ -1,0 +1,148 @@
+{
+ "modulo": "historia",
+ "aula": "igreja-no-brasil",
+ "titulo": "A Igreja no Brasil",
+ "moduloTitulo": "História da Igreja e das Religiões",
+ "n": 5,
+ "emoji": "🏛️",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "🏛️",
+   "modulo": "Módulo 5 · História da Igreja e das Religiões",
+   "titulo": "A Igreja no Brasil",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 5, História da Igreja e das Religiões, vamos estudar: A Igreja no Brasil."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "A história da Igreja no Brasil começa com a Primeira Missa, celebrada por Frei Henrique de Coimbra em 26 de abril de 1500, na Bahia. Em 1549 chegaram os primeiros jesuítas, liderados pelo Padre Manuel da Nóbrega, e em 1551 foi criada a primeira diocese, em Salvador.",
+   "destaques": [
+    {
+     "pos": 44,
+     "txt": "Primeira Missa"
+    },
+    {
+     "pos": 102,
+     "txt": "26 de abril de 1500"
+    },
+    {
+     "pos": 163,
+     "txt": "jesuítas"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "São José de Anchieta, de 1534 a 1597, o \"Apóstolo do Brasil\", ajudou a fundar São Paulo, escreveu uma gramática da língua tupi, poemas e peças de teatro para evangelizar, e foi canonizado em 2014. Durante séculos, a Igreja viveu sob o padroado, sistema em que o rei de Portugal controlava muito da vida eclesial.",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "São José de Anchieta"
+    },
+    {
+     "pos": 235,
+     "txt": "padroado"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "A evangelização teve luzes e sombras. Houve missionários que defenderam os indígenas, como Nóbrega, Anchieta e o Padre Antônio Vieira, e houve também cumplicidade com a escravidão de indígenas e africanos, que a Igreja hoje reconhece com dor. Ao mesmo tempo, a fé foi abraçada pelo povo e se expressou em festas, irmandades, romarias e na devoção a Nossa Senhora.",
+   "destaques": [
+    {
+     "pos": 21,
+     "txt": "luzes e sombras"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "Em 1717, pescadores encontraram no rio Paraíba do Sul a imagem de Nossa Senhora da Conceição Aparecida, que se tornou padroeira do Brasil. Os Mártires de Cunhaú e Uruaçu, em 1645, no Rio Grande do Norte, foram canonizados em 2017. Santo Antônio de Sant'Ana Galvão, Frei Galvão, foi o primeiro santo nascido no Brasil, canonizado em 2007, e Santa Dulce dos Pobres, a primeira santa nascida no Brasil, em 2019.",
+   "destaques": [
+    {
+     "pos": 2,
+     "txt": "1717"
+    },
+    {
+     "pos": 65,
+     "txt": "Nossa Senhora da Conceição Aparecida"
+    },
+    {
+     "pos": 141,
+     "txt": "Mártires de Cunhaú e Uruaçu"
+    },
+    {
+     "pos": 231,
+     "txt": "Santo Antônio de Sant'Ana Galvão"
+    },
+    {
+     "pos": 340,
+     "txt": "Santa Dulce dos Pobres"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "No século vinte, foi criada a CNBB, Conferência Nacional dos Bispos do Brasil, em 1952, com papel importante de Dom Hélder Câmara. Em 2007, em Aparecida, a V Conferência do Episcopado Latino-Americano pediu que todos sejam \"discípulos missionários\". O Brasil é hoje o país com o maior número de católicos do mundo.",
+   "destaques": [
+    {
+     "pos": 27,
+     "txt": "CNBB"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Padroado",
+     "origem": "latim patronatus, \"proteção, patronato\"",
+     "sentido": "sistema em que o rei de Portugal administrava muitos assuntos da Igreja nas colônias"
+    },
+    {
+     "termo": "Diocese",
+     "origem": "grego dioíkesis, \"administração\"",
+     "sentido": "porção do povo de Deus confiada a um bispo"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Padroado vem do latim patronatus, \"proteção, patronato\", e quer dizer: sistema em que o rei de Portugal administrava muitos assuntos da Igreja nas colônias. A palavra Diocese vem do grego dioíkesis, \"administração\", e quer dizer: porção do povo de Deus confiada a um bispo."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Mt 28,19-20",
+    "Rm 10,14-15",
+    "Lc 1,46-55"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

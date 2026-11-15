@@ -1,0 +1,166 @@
+{
+ "modulo": "etica",
+ "aula": "consciencia-e-liberdade",
+ "titulo": "Consciência e liberdade",
+ "moduloTitulo": "Filosofia e Ética Cristã",
+ "n": 6,
+ "emoji": "⚖️",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "⚖️",
+   "modulo": "Módulo 6 · Filosofia e Ética Cristã",
+   "titulo": "Consciência e liberdade",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 6, Filosofia e Ética Cristã, vamos estudar: Consciência e liberdade."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "O Concílio Vaticano segundo chama a consciência de \"o núcleo mais secreto e o sacrário do homem, onde ele está a sós com Deus\". É o juízo da razão pelo qual a pessoa reconhece se um ato concreto é bom ou mau.",
+   "destaques": [
+    {
+     "pos": 31,
+     "txt": "consciência"
+    },
+    {
+     "pos": 47,
+     "txt": "o núcleo mais secreto e o sacrário do homem, onde ele está a sós com Deus"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 128,
+     "txt": "Gaudium et Spes 16; CIC 1776"
+    },
+    {
+     "pos": 208,
+     "txt": "CIC 1778"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "A consciência deve ser seguida: quem age contra a própria consciência certa peca. Mas ela também deve ser formada. Uma consciência pode errar, por ignorância ou por descuido. Quando a ignorância é culpável, a pessoa não se importou em buscar a verdade, ela é responsável pelo mal que faz. Por isso a formação da consciência é tarefa de toda a vida: com a Palavra de Deus, o ensinamento da Igreja, a oração, o exame de consciência e bons conselhos.",
+   "destaques": [
+    {
+     "pos": 22,
+     "txt": "seguida"
+    },
+    {
+     "pos": 105,
+     "txt": "formada"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 290,
+     "txt": "CIC 1790-1794"
+    },
+    {
+     "pos": 447,
+     "txt": "CIC 1783-1785"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "Consciência não é \"fazer o que eu sinto\". São João Henrique Newman dizia que a consciência é como a voz de Deus que fala dentro de nós, e não um direito de pensar o que se quer. Ela não cria o bem e o mal: reconhece o bem e o mal.",
+   "destaques": [
+    {
+     "pos": 206,
+     "txt": "reconhece"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "A liberdade é o poder, radicado na razão e na vontade, de agir ou não agir, de fazer isto ou aquilo. Mas a liberdade tem um sentido: quanto mais se faz o bem, mais livre se fica. \"Quem comete o pecado é escravo do pecado\". E \"é para a liberdade que Cristo nos libertou\".",
+   "destaques": [
+    {
+     "pos": 2,
+     "txt": "liberdade"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 102,
+     "txt": "CIC 1731"
+    },
+    {
+     "pos": 222,
+     "txt": "Jo 8,34"
+    },
+    {
+     "pos": 270,
+     "txt": "Gl 5,1"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Fatores como ignorância, medo, violência, hábitos e problemas psicológicos podem diminuir a responsabilidade de uma pessoa. Isso não muda o que é bom ou mau, mas nos ensina a julgar os atos e a ter misericórdia com as pessoas.",
+   "destaques": [
+    {
+     "pos": 81,
+     "txt": "diminuir a responsabilidade"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 124,
+     "txt": "CIC 1735"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Consciência",
+     "origem": "latim cum-scientia, \"saber com\"",
+     "sentido": "juízo da razão sobre o bem ou o mal de um ato concreto"
+    },
+    {
+     "termo": "Livre-arbítrio",
+     "origem": "latim liberum arbitrium, \"juízo livre\"",
+     "sentido": "a capacidade de escolher"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Consciência vem do latim cum-scientia, \"saber com\", e quer dizer: juízo da razão sobre o bem ou o mal de um ato concreto. A palavra Livre-arbítrio vem do latim liberum arbitrium, \"juízo livre\", e quer dizer: a capacidade de escolher."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Rm 2,15",
+    "Jo 8,31-36",
+    "Gl 5,1.13",
+    "1Tm 1,5",
+    "Sl 139(138),23-24"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

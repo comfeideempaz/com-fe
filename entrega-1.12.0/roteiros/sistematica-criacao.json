@@ -1,0 +1,195 @@
+{
+ "modulo": "sistematica",
+ "aula": "criacao",
+ "titulo": "Criação, anjos e pecado original",
+ "moduloTitulo": "Teologia Sistemática",
+ "n": 4,
+ "emoji": "✝️",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "✝️",
+   "modulo": "Módulo 4 · Teologia Sistemática (Dogmática)",
+   "titulo": "Criação, anjos e pecado original",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 4, Teologia Sistemática, Dogmática, vamos estudar: Criação, anjos e pecado original."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "\"No princípio, Deus criou o céu e a terra\". A fé ensina que Deus criou tudo do nada, livremente e por amor, para manifestar e comunicar a sua glória. A mãe dos Macabeus já dizia ao filho: Deus fez tudo \"do nada\". E Deus continua sustentando tudo e conduzindo a história com a sua Providência.",
+   "destaques": [
+    {
+     "pos": 76,
+     "txt": "do nada"
+    },
+    {
+     "pos": 98,
+     "txt": "por amor"
+    },
+    {
+     "pos": 280,
+     "txt": "Providência"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 41,
+     "txt": "Gn 1,1"
+    },
+    {
+     "pos": 150,
+     "txt": "CIC 293-295"
+    },
+    {
+     "pos": 211,
+     "txt": "2Mc 7,28"
+    },
+    {
+     "pos": 292,
+     "txt": "CIC 301-305"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "A fé na criação não briga com a ciência. A Igreja ensina que as pesquisas sobre as origens do universo e da vida podem enriquecer nossa admiração pelo Criador. O Papa Pio doze, na Humani Generis, em 1950, admitiu que a ciência estude a origem do corpo humano a partir de matéria viva preexistente, desde que se mantenha a fé de que a alma espiritual é criada diretamente por Deus.",
+   "destaques": [
+    {
+     "pos": 334,
+     "txt": "a alma espiritual é criada diretamente por Deus"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 157,
+     "txt": "CIC 283-284"
+    },
+    {
+     "pos": 382,
+     "txt": "CIC 366"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "Deus criou também seres puramente espirituais: os anjos, do grego \"mensageiros\". São criaturas pessoais e imortais, que contemplam Deus e servem ao seu plano; cada um de nós tem um anjo da guarda. Alguns anjos, por livre escolha, rejeitaram Deus de modo irrevogável: são os demônios, e o chefe deles é Satanás.",
+   "destaques": [
+    {
+     "pos": 49,
+     "txt": "anjos"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 197,
+     "txt": "CIC 328-336"
+    },
+    {
+     "pos": 310,
+     "txt": "CIC 391-395"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "O ser humano foi criado à imagem e semelhança de Deus, homem e mulher, em amizade com Ele. Mas, tentados, nossos primeiros pais desobedeceram, preferindo-se a Deus. A narrativa de Gn 3 usa linguagem simbólica, mas afirma um fato real, ocorrido no início da história humana. Essa ruptura feriu a natureza humana, que transmitimos a todos os descendentes: é o pecado original, que não é culpa pessoal nossa, mas um estado de privação da santidade original. Daí vêm a inclinação ao mal, concupiscência, o sofrimento e a morte.",
+   "destaques": [
+    {
+     "pos": 23,
+     "txt": "à imagem e semelhança de Deus"
+    },
+    {
+     "pos": 127,
+     "txt": "desobedeceram"
+    },
+    {
+     "pos": 357,
+     "txt": "pecado original"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 90,
+     "txt": "Gn 1,27"
+    },
+    {
+     "pos": 273,
+     "txt": "CIC 390"
+    },
+    {
+     "pos": 454,
+     "txt": "CIC 404-405"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Mas Deus não nos abandonou. Logo após a queda, anunciou a vitória sobre o mal. São Paulo compara: \"como pela desobediência de um só homem muitos se tornaram pecadores, assim pela obediência de um só muitos se tornarão justos\". E a liturgia da Vigília Pascal ousa cantar: \"Ó feliz culpa, que mereceu tão grande Redentor!\"",
+   "destaques": [
+    {
+     "pos": 271,
+     "txt": "Ó feliz culpa, que mereceu tão grande Redentor!"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 77,
+     "txt": "Gn 3,15"
+    },
+    {
+     "pos": 223,
+     "txt": "Rm 5,19"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Anjo",
+     "origem": "grego ángelos, \"mensageiro\"",
+     "sentido": "criatura espiritual a serviço de Deus"
+    },
+    {
+     "termo": "Concupiscência",
+     "origem": "latim concupiscentia, \"desejo intenso\"",
+     "sentido": "a inclinação ao pecado que ficou como ferida do pecado original"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Anjo vem do grego ángelos, \"mensageiro\", e quer dizer: criatura espiritual a serviço de Deus. A palavra Concupiscência vem do latim concupiscentia, \"desejo intenso\", e quer dizer: a inclinação ao pecado que ficou como ferida do pecado original."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Gn 1,1-31",
+    "2Mc 7,28",
+    "Sl 104(103),24",
+    "Gn 3,1-15",
+    "Rm 5,12-19"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

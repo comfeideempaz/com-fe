@@ -1,0 +1,149 @@
+{
+ "modulo": "pastoral",
+ "aula": "evangelizar-hoje",
+ "titulo": "Evangelizar hoje",
+ "moduloTitulo": "Liturgia e Prática Pastoral",
+ "n": 8,
+ "emoji": "⛪",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "⛪",
+   "modulo": "Módulo 8 · Prática Pastoral e Liturgia",
+   "titulo": "Evangelizar hoje",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 8, Prática Pastoral e Liturgia, vamos estudar: Evangelizar hoje."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "Antes de subir ao céu, Jesus deu a ordem: \"Ide, fazei discípulos de todas as nações, batizando-os em nome do Pai, e do Filho, e do Espírito Santo, ensinando-os a observar tudo o que vos ordenei\". São Paulo sexto disse que evangelizar é a identidade mais profunda da Igreja: ela existe para evangelizar, Evangelii Nuntiandi 14.",
+   "destaques": [
+    {
+     "pos": 42,
+     "txt": "Ide, fazei discípulos de todas as nações, batizando-os em nome do Pai, e do Filho, e do Espírito Santo, ensinando-os a observar tudo o que vos ordenei"
+    },
+    {
+     "pos": 220,
+     "txt": "evangelizar é a identidade mais profunda da Igreja"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 195,
+     "txt": "Mt 28,19-20"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "Evangelizar não é fazer propaganda nem forçar ninguém. É partilhar uma alegria. O Papa Francisco, na Evangelii Gaudium, em 2013, sonha com uma \"Igreja em saída\", que vai às periferias geográficas e existenciais, toma a iniciativa, se envolve, acompanha, frutifica e festeja, EG 20-24.",
+   "destaques": [
+    {
+     "pos": 144,
+     "txt": "Igreja em saída"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "A forma mais poderosa de evangelizar é o testemunho. Paulo sexto escreveu: \"O homem contemporâneo escuta com melhor boa vontade as testemunhas do que os mestres, ou, se escuta os mestres, é porque eles são testemunhas\", Evangelii Nuntiandi 41. Uma vida cristã coerente, alegre e caridosa desperta perguntas; então chega a hora de dar a razão da esperança.",
+   "destaques": [
+    {
+     "pos": 41,
+     "txt": "testemunho"
+    },
+    {
+     "pos": 72,
+     "txt": "O homem contemporâneo escuta com melhor boa vontade as testemunhas do que os mestres, ou, se escuta os mestres, é porque eles são testemunhas"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 355,
+     "txt": "1Pd 3,15"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "Na prática: reze pelas pessoas a quem você quer anunciar Cristo; crie amizade verdadeira; escute; conte o que Deus fez na sua vida; convide para algo concreto, uma Missa, um grupo, um retiro; use bem as redes sociais. E não tenha medo: \"não sois vós que falareis, mas o Espírito do vosso Pai\".",
+   "destaques": [],
+   "refs": [
+    {
+     "pos": 293,
+     "txt": "Mt 10,20"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Chegamos ao fim do curso. Lembre-se de onde começamos: a teologia é a fé que busca compreender, e ela termina em adoração e missão. Como Maria, que ouviu a Palavra, guardou-a no coração e saiu apressada para servir, somos chamados a conhecer, amar e anunciar Jesus. Ad maiorem Dei gloriam: tudo para a maior glória de Deus!",
+   "destaques": [
+    {
+     "pos": 113,
+     "txt": "adoração e missão"
+    },
+    {
+     "pos": 266,
+     "txt": "Ad maiorem Dei gloriam"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 213,
+     "txt": "Lc 1,39"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Evangelizar",
+     "origem": "grego euangelízesthai, \"anunciar a boa notícia\"",
+     "sentido": "levar o Evangelho às pessoas e às culturas"
+    },
+    {
+     "termo": "Missão",
+     "origem": "latim missio, de mittere (enviar)",
+     "sentido": "o envio de cada cristão para anunciar Cristo"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Evangelizar vem do grego euangelízesthai, \"anunciar a boa notícia\", e quer dizer: levar o Evangelho às pessoas e às culturas. A palavra Missão vem do latim missio, de mittere, enviar, e quer dizer: o envio de cada cristão para anunciar Cristo."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Mt 28,18-20",
+    "Mc 16,15",
+    "Rm 10,13-15",
+    "1Cor 9,16",
+    "Mt 10,19-20"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

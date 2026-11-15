@@ -1,0 +1,186 @@
+{
+ "modulo": "sistematica",
+ "aula": "ultimas-coisas",
+ "titulo": "As realidades últimas",
+ "moduloTitulo": "Teologia Sistemática",
+ "n": 4,
+ "emoji": "✝️",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "✝️",
+   "modulo": "Módulo 4 · Teologia Sistemática (Dogmática)",
+   "titulo": "As realidades últimas",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 4, Teologia Sistemática, Dogmática, vamos estudar: As realidades últimas."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "A parte da teologia que estuda o destino final do homem e do mundo se chama escatologia, do grego éschata, \"as últimas coisas\". Tradicionalmente fala-se dos Novíssimos: morte, juízo, inferno e paraíso.",
+   "destaques": [
+    {
+     "pos": 75,
+     "txt": "escatologia"
+    },
+    {
+     "pos": 159,
+     "txt": "Novíssimos"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "A morte é o fim da peregrinação terrena. Para o cristão, ela tem um sentido novo: \"para mim, o viver é Cristo e o morrer é lucro\". Não há reencarnação: \"está determinado que os homens morram uma só vez, e depois vem o juízo\". Logo após a morte, cada um recebe o juízo particular.",
+   "destaques": [
+    {
+     "pos": 2,
+     "txt": "morte"
+    },
+    {
+     "pos": 262,
+     "txt": "juízo particular"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 130,
+     "txt": "Fl 1,21"
+    },
+    {
+     "pos": 222,
+     "txt": "Hb 9,27; CIC 1013"
+    },
+    {
+     "pos": 279,
+     "txt": "CIC 1021-1022"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "O céu é a comunhão perfeita de vida e de amor com a Santíssima Trindade, com Maria, os anjos e os santos: ver Deus \"face a face\". O purgatório é a purificação depois da morte para quem morre na graça de Deus, mas ainda imperfeitamente purificado; por isso a Igreja reza pelos falecidos desde o início. O inferno é o estado de autoexclusão definitiva da comunhão com Deus, para quem morre em pecado mortal sem arrependimento. Deus não predestina ninguém ao inferno: ele é consequência da liberdade que recusa o amor.",
+   "destaques": [
+    {
+     "pos": 2,
+     "txt": "céu"
+    },
+    {
+     "pos": 132,
+     "txt": "purgatório"
+    },
+    {
+     "pos": 304,
+     "txt": "inferno"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 129,
+     "txt": "1Cor 13,12; CIC 1023-1029"
+    },
+    {
+     "pos": 301,
+     "txt": "2Mc 12,46; CIC 1030-1032"
+    },
+    {
+     "pos": 515,
+     "txt": "CIC 1033-1037"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "No fim dos tempos, Cristo virá na glória. Haverá a ressurreição dos mortos: nossos corpos serão transformados e unidos à alma. Será o Juízo Final, quando se revelará o sentido de toda a história e de cada vida; seremos julgados sobre o amor, como Jesus mostra em Mateus capítulo 25, versículos 31 a 46.",
+   "destaques": [
+    {
+     "pos": 56,
+     "txt": "ressurreição dos mortos"
+    },
+    {
+     "pos": 147,
+     "txt": "Juízo Final"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 138,
+     "txt": "CIC 988-1004"
+    },
+    {
+     "pos": 302,
+     "txt": "CIC 1038-1041"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "E então Deus fará novos céus e nova terra: todo o universo será renovado e Deus será \"tudo em todos\". A escatologia não é para dar medo, mas para dar esperança e seriedade à vida. Por isso a Igreja reza: \"Vem, Senhor Jesus!\"",
+   "destaques": [
+    {
+     "pos": 18,
+     "txt": "novos céus e nova terra"
+    },
+    {
+     "pos": 150,
+     "txt": "esperança"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 101,
+     "txt": "1Cor 15,28; Ap 21,1-5; CIC 1042-1050"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Escatologia",
+     "origem": "grego éschata (as últimas coisas) + lógos",
+     "sentido": "estudo do destino final do homem e do mundo"
+    },
+    {
+     "termo": "Purgatório",
+     "origem": "latim purgare (purificar)",
+     "sentido": "purificação depois da morte para quem morreu na graça de Deus"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Escatologia vem do grego éschata, as últimas coisas, e lógos, e quer dizer: estudo do destino final do homem e do mundo. A palavra Purgatório vem do latim purgare, purificar, e quer dizer: purificação depois da morte para quem morreu na graça de Deus."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Fl 1,21-23",
+    "Hb 9,27",
+    "1Cor 13,12",
+    "2Mc 12,43-46",
+    "Mt 25,31-46"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

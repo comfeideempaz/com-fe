@@ -1,0 +1,167 @@
+{
+ "modulo": "biblica",
+ "aula": "historicos",
+ "titulo": "Os livros históricos",
+ "moduloTitulo": "Teologia Bíblica",
+ "n": 3,
+ "emoji": "📖",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "📖",
+   "modulo": "Módulo 3 · Teologia Bíblica",
+   "titulo": "Os livros históricos",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 3, Teologia Bíblica, vamos estudar: Os livros históricos."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "Depois do Pentateuco vêm os livros históricos: Josué, Juízes, Rute, 1 e 2 Samuel, 1 e 2 Reis, 1 e 2 Crônicas, Esdras, Neemias, Tobias, Judite, Ester e 1 e 2 Macabeus. Eles contam a história de Israel da entrada na terra prometida até o tempo dos Macabeus, no século segundo antes de Cristo.",
+   "destaques": [
+    {
+     "pos": 29,
+     "txt": "livros históricos"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "É uma história contada com olhos de fé. Os autores não querem apenas registrar fatos, mas mostrar como Deus age na história: fiel à Aliança mesmo quando o povo é infiel. Por isso há um esquema que se repete, sobretudo em Juízes: o povo se afasta de Deus, sofre as consequências, clama, e Deus envia um libertador.",
+   "destaques": [
+    {
+     "pos": 23,
+     "txt": "com olhos de fé"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "Algumas figuras marcantes: Rute, uma estrangeira fiel que se torna bisavó de Davi e entra na genealogia de Jesus. Samuel, o menino que diz \"fala, Senhor, que o teu servo escuta\". Davi, pastor, rei, poeta e pecador arrependido, a quem Deus promete um reino eterno. Salomão, que constrói o Templo. Elias e Eliseu, profetas cheios de força. Esdras e Neemias, que reconstroem a vida do povo depois do exílio.",
+   "destaques": [
+    {
+     "pos": 27,
+     "txt": "Rute"
+    },
+    {
+     "pos": 114,
+     "txt": "Samuel"
+    },
+    {
+     "pos": 179,
+     "txt": "Davi"
+    },
+    {
+     "pos": 264,
+     "txt": "Salomão"
+    },
+    {
+     "pos": 296,
+     "txt": "Elias"
+    },
+    {
+     "pos": 304,
+     "txt": "Eliseu"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 108,
+     "txt": "Mt 1,5"
+    },
+    {
+     "pos": 172,
+     "txt": "1Sm 3,10"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "Os livros deuterocanônicos desta parte trazem joias: Tobias mostra a providência de Deus na vida familiar, com o arcanjo Rafael; Judite e Ester, mulheres corajosas que salvam o povo; 2 Macabeus traz a fé na ressurreição e a oração pelos falecidos.",
+   "destaques": [
+    {
+     "pos": 53,
+     "txt": "Tobias"
+    },
+    {
+     "pos": 129,
+     "txt": "Judite"
+    },
+    {
+     "pos": 138,
+     "txt": "Ester"
+    },
+    {
+     "pos": 183,
+     "txt": "2 Macabeus"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 221,
+     "txt": "2Mc 7"
+    },
+    {
+     "pos": 247,
+     "txt": "2Mc 12,43-46"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Lição para nós: Deus escreve certo por linhas humanas, às vezes tortas. Ele não abandona o seu povo, e a esperança de Israel no Rei-Messias, filho de Davi, se cumpre em Jesus.",
+   "destaques": [],
+   "refs": [
+    {
+     "pos": 175,
+     "txt": "Lc 1,32-33"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Messias",
+     "origem": "hebraico mashiach, \"ungido\"",
+     "sentido": "o rei ungido prometido por Deus; em grego, Christós"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Messias vem do hebraico mashiach, \"ungido\", e quer dizer: o rei ungido prometido por Deus; em grego, Christós."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Jz 2,11-19",
+    "Rt 1,16-17",
+    "1Sm 3,1-10",
+    "2Sm 7,12-16",
+    "1Rs 19,9-13"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

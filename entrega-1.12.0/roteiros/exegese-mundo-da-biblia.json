@@ -1,0 +1,44 @@
+{
+ "modulo": "exegese",
+ "aula": "mundo-da-biblia",
+ "titulo": "O mundo da Bíblia",
+ "piloto": true,
+ "n": 2,
+ "cenas": [
+  {
+   "id": "01-abertura",
+   "tipo": "piloto",
+   "fala": "Olá! Eu sou a Lumi. Hoje, no Curso de Teologia do Com Fé!, vamos descobrir o mundo da Bíblia: quanto valiam as moedas, como se mediam as distâncias e como se contavam as horas no tempo de Jesus."
+  },
+  {
+   "id": "02-denario",
+   "tipo": "piloto",
+   "fala": "Vamos começar pelo denário. Era uma moeda romana de prata, de quase quatro gramas. Na parábola dos trabalhadores da vinha, o patrão combina um denário por dia. Ou seja: um denário era o salário de um dia de trabalho."
+  },
+  {
+   "id": "03-talento",
+   "tipo": "piloto",
+   "fala": "E o talento? Ele não era uma moeda, mas um peso: de vinte e seis a trinta e quatro quilos de prata! Valia cerca de seis mil denários, quase vinte anos de trabalho. Na parábola dos talentos, um dos servos recebeu cinco talentos, uma fortuna de uns cem anos de salário, e, trabalhando com eles, ganhou outros cinco. E foi dessa parábola que nasceu a palavra talento no sentido de dom de Deus."
+  },
+  {
+   "id": "04-lepto",
+   "tipo": "piloto",
+   "fala": "No extremo oposto está o lepto, a menor moeda, feita de cobre. A viúva pobre deu duas dessas moedinhas no Templo, e Jesus disse que ela deu mais do que todos, porque deu tudo o que tinha."
+  },
+  {
+   "id": "05-medidas",
+   "tipo": "piloto",
+   "fala": "Agora, as medidas. O côvado era a distância do cotovelo até a ponta dos dedos, uns quarenta e cinco centímetros. O estádio tinha cerca de cento e oitenta e cinco metros: Emaús ficava a sessenta estádios de Jerusalém, uns onze quilômetros de caminhada. E em Caná, cada talha tinha de oitenta a cento e vinte litros: Jesus transformou centenas de litros de água em vinho!"
+  },
+  {
+   "id": "06-horas",
+   "tipo": "piloto",
+   "fala": "Por fim, as horas. Os judeus contavam as horas a partir do nascer do sol, por volta das seis da manhã. Por isso, a hora terceira são nove horas, a hora sexta é meio-dia, e a hora nona são três da tarde: a hora em que Jesus entregou a vida por nós."
+  },
+  {
+   "id": "07-final",
+   "tipo": "piloto",
+   "fala": "Viu só? Cada detalhe da Bíblia esconde uma história. Abra o app Com Fé!, leia a aula completa e faça o quiz. Até a próxima!"
+  }
+ ]
+}

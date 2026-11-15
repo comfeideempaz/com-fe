@@ -1,0 +1,177 @@
+{
+ "modulo": "biblica",
+ "aula": "atos-cartas-apocalipse",
+ "titulo": "Atos, Cartas e Apocalipse",
+ "moduloTitulo": "Teologia Bíblica",
+ "n": 3,
+ "emoji": "📖",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "📖",
+   "modulo": "Módulo 3 · Teologia Bíblica",
+   "titulo": "Atos, Cartas e Apocalipse",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 3, Teologia Bíblica, vamos estudar: Atos, Cartas e Apocalipse."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "Os Atos dos Apóstolos são a segunda parte da obra de Lucas. Contam como o Evangelho saiu de Jerusalém e chegou a Roma, conforme a palavra de Jesus: \"sereis minhas testemunhas em Jerusalém, em toda a Judeia e Samaria, e até os confins da terra\". O protagonista é o Espírito Santo, desde Pentecostes. Pedro domina a primeira parte e Paulo, a segunda. Em At 15 está o Concílio de Jerusalém, primeiro modelo de decisão da Igreja em comunhão.",
+   "destaques": [
+    {
+     "pos": 3,
+     "txt": "Atos dos Apóstolos"
+    },
+    {
+     "pos": 264,
+     "txt": "Espírito Santo"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 243,
+     "txt": "At 1,8"
+    },
+    {
+     "pos": 300,
+     "txt": "At 2"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "As Cartas de São Paulo são 13, Romanos, 1 e 2 Coríntios, Gálatas, Efésios, Filipenses, Colossenses, 1 e 2 Tessalonicenses, 1 e 2 Timóteo, Tito e Filêmon; a Carta aos Hebreus foi associada a Paulo pela tradição, embora seu autor seja discutido. Paulo escreve a comunidades concretas, com problemas concretos, e por isso suas cartas tratam de tudo: a justificação pela fé, Romanos, Gálatas, a Eucaristia e os carismas, 1 Coríntios, a Igreja Corpo de Cristo, Efésios, Colossenses, a ressurreição, a vida cristã no dia a dia. 1 Tessalonicenses, de por volta do ano 50, é provavelmente o escrito mais antigo do Novo Testamento.",
+   "destaques": [
+    {
+     "pos": 2,
+     "txt": "Cartas de São Paulo"
+    },
+    {
+     "pos": 165,
+     "txt": "Hebreus"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 494,
+     "txt": "1Cor 15"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "As Cartas católicas, \"universais\", porque se dirigem a muitos, são sete: Tiago, 1 e 2 Pedro, 1, 2 e 3 João e Judas. Tiago insiste que a fé sem obras é morta; João resume tudo em \"Deus é amor\"; Pedro chama os cristãos de \"raça eleita, sacerdócio real\". Tiago capítulo 5, versículos 14 a 15 é o texto bíblico da Unção dos Enfermos.",
+   "destaques": [
+    {
+     "pos": 3,
+     "txt": "Cartas católicas"
+    },
+    {
+     "pos": 144,
+     "txt": "a fé sem obras é morta"
+    },
+    {
+     "pos": 191,
+     "txt": "Deus é amor"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 169,
+     "txt": "Tg 2,17"
+    },
+    {
+     "pos": 210,
+     "txt": "1Jo 4,8"
+    },
+    {
+     "pos": 272,
+     "txt": "1Pd 2,9"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "O Apocalipse fecha a Bíblia. Escrito por João durante perseguições do fim do século primeiro, usa a linguagem simbólica da literatura apocalíptica: números, animais, cores e visões. Não é um calendário do fim do mundo, mas uma mensagem de esperança: o Cordeiro imolado e vitorioso, Cristo, vence o mal, e Deus enxugará toda lágrima. A Igreja reza com ele: \"Vem, Senhor Jesus!\".",
+   "destaques": [
+    {
+     "pos": 2,
+     "txt": "Apocalipse"
+    },
+    {
+     "pos": 178,
+     "txt": "Não é um calendário do fim do mundo"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 151,
+     "txt": "7 é plenitude; 12, o povo de Deus; 666, a imperfeição que se opõe a Deus"
+    },
+    {
+     "pos": 331,
+     "txt": "Ap 21,4"
+    },
+    {
+     "pos": 377,
+     "txt": "Ap 22,20"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Com isso, você completou o panorama da Bíblia. Uma boa forma de continuar é seguir um projeto de leitura no app e voltar a estas aulas quando chegar a cada livro.",
+   "destaques": [],
+   "refs": []
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Apóstolo",
+     "origem": "grego apóstolos, \"enviado\"",
+     "sentido": "os Doze escolhidos por Jesus e enviados a anunciar o Evangelho"
+    },
+    {
+     "termo": "Epístola",
+     "origem": "grego epistolé, \"mensagem enviada\"",
+     "sentido": "carta do Novo Testamento"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Apóstolo vem do grego apóstolos, \"enviado\", e quer dizer: os Doze escolhidos por Jesus e enviados a anunciar o Evangelho. A palavra Epístola vem do grego epistolé, \"mensagem enviada\", e quer dizer: carta do Novo Testamento."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "At 1,8",
+    "At 2,1-13",
+    "At 15,1-29",
+    "Rm 1,16-17",
+    "Tg 2,14-26"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

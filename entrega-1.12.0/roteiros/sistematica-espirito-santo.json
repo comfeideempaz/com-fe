@@ -1,0 +1,203 @@
+{
+ "modulo": "sistematica",
+ "aula": "espirito-santo",
+ "titulo": "O Espírito Santo",
+ "moduloTitulo": "Teologia Sistemática",
+ "n": 4,
+ "emoji": "✝️",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "✝️",
+   "modulo": "Módulo 4 · Teologia Sistemática (Dogmática)",
+   "titulo": "O Espírito Santo",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 4, Teologia Sistemática, Dogmática, vamos estudar: O Espírito Santo."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "O Espírito Santo é a terceira Pessoa da Santíssima Trindade, Senhor que dá a vida, que com o Pai e o Filho é adorado e glorificado. Ele estava presente desde a criação, pairando sobre as águas, falou pelos profetas e encheu Maria na Anunciação.",
+   "destaques": [
+    {
+     "pos": 2,
+     "txt": "Espírito Santo"
+    },
+    {
+     "pos": 61,
+     "txt": "Senhor que dá a vida"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 134,
+     "txt": "CIC 685"
+    },
+    {
+     "pos": 194,
+     "txt": "Gn 1,2"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "Jesus prometeu enviá-lo como outro Paráclito, advogado, consolador, o Espírito da verdade, que ensinaria tudo e recordaria tudo o que Ele disse. Em Pentecostes, cinquenta dias depois da Páscoa, o Espírito desceu sobre os Apóstolos reunidos com Maria, e a Igreja começou a anunciar o Evangelho a todos os povos.",
+   "destaques": [
+    {
+     "pos": 28,
+     "txt": "outro Paráclito"
+    },
+    {
+     "pos": 148,
+     "txt": "Pentecostes"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 144,
+     "txt": "Jo 14,16-17.26"
+    },
+    {
+     "pos": 310,
+     "txt": "At 2"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "A Bíblia usa vários símbolos do Espírito: a água, do Batismo, a unção com óleo, o fogo, a nuvem e a luz, o selo, a mão que se impõe, o dedo de Deus e a pomba. Em hebraico, \"espírito\" é ruah, que também quer dizer vento e sopro: o Espírito é o sopro de vida de Deus.",
+   "destaques": [
+    {
+     "pos": 19,
+     "txt": "símbolos"
+    },
+    {
+     "pos": 43,
+     "txt": "água"
+    },
+    {
+     "pos": 64,
+     "txt": "unção"
+    },
+    {
+     "pos": 82,
+     "txt": "fogo"
+    },
+    {
+     "pos": 90,
+     "txt": "nuvem e a luz"
+    },
+    {
+     "pos": 107,
+     "txt": "selo"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 170,
+     "txt": "CIC 694-701"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "O Espírito Santo santifica a Igreja e cada cristão. Ele nos dá os sete dons: sabedoria, entendimento, conselho, fortaleza, ciência, piedade e temor de Deus. E produz em nós frutos: São Paulo lista amor, alegria, paz, paciência, bondade, benignidade, fidelidade, mansidão e domínio de si; a Tradição da Igreja conta doze. Ele também distribui carismas, dons para o bem de todos.",
+   "destaques": [
+    {
+     "pos": 66,
+     "txt": "sete dons"
+    },
+    {
+     "pos": 173,
+     "txt": "frutos"
+    },
+    {
+     "pos": 342,
+     "txt": "carismas"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 77,
+     "txt": "Is 11,2-3"
+    },
+    {
+     "pos": 155,
+     "txt": "CIC 1830-1831"
+    },
+    {
+     "pos": 285,
+     "txt": "Gl 5,22-23"
+    },
+    {
+     "pos": 317,
+     "txt": "CIC 1832"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Uma questão histórica: o Credo latino diz que o Espírito procede \"do Pai e do Filho\", Filioque. Essa expressão foi motivo de discussão com os cristãos ortodoxos. O Catecismo explica que as duas tradições, bem entendidas, expressam a mesma fé: o Espírito procede do Pai como fonte primeira, por meio do Filho.",
+   "destaques": [
+    {
+     "pos": 72,
+     "txt": "e do Filho"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 309,
+     "txt": "CIC 246-248"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Espírito",
+     "origem": "hebraico ruah; grego pneûma; latim spiritus: vento, sopro",
+     "sentido": "a terceira Pessoa da Trindade, sopro de vida de Deus"
+    },
+    {
+     "termo": "Pentecostes",
+     "origem": "grego pentekosté, \"quinquagésimo (dia)\"",
+     "sentido": "a festa 50 dias depois da Páscoa, quando o Espírito desceu sobre a Igreja"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Espírito vem do hebraico ruah; grego pneûma; latim spiritus: vento, sopro, e quer dizer: a terceira Pessoa da Trindade, sopro de vida de Deus. A palavra Pentecostes vem do grego pentekosté, \"quinquagésimo, dia,\", e quer dizer: a festa 50 dias depois da Páscoa, quando o Espírito desceu sobre a Igreja."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Gn 1,2",
+    "Is 11,1-3",
+    "Jo 14,16-17.26",
+    "At 2,1-13",
+    "Rm 8,14-16.26"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

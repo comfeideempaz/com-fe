@@ -1,0 +1,151 @@
+{
+ "modulo": "exegese",
+ "aula": "generos",
+ "titulo": "Gêneros literários: cada livro, seu jeito",
+ "moduloTitulo": "Hermenêutica e Exegese Bíblica",
+ "n": 2,
+ "emoji": "📜",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "📜",
+   "modulo": "Módulo 2 · Hermenêutica e Exegese Bíblica",
+   "titulo": "Gêneros literários: cada livro, seu jeito",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 2, Hermenêutica e Exegese Bíblica, vamos estudar: Gêneros literários: cada livro, seu jeito."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "Ninguém lê uma poesia como lê uma receita de bolo, nem uma carta como lê uma notícia. Na Bíblia é igual: ela tem vários gêneros literários, e o Catecismo pede que se leve isso em conta.",
+   "destaques": [
+    {
+     "pos": 120,
+     "txt": "gêneros literários"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 185,
+     "txt": "CIC 110"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "Narrativa: conta acontecimentos, como Gênesis, Êxodo, Samuel, Reis e Atos. Lei: normas da Aliança, como em Levítico e Deuteronômio. Poesia e oração: Salmos, Cântico dos Cânticos, Lamentações. Sabedoria: provérbios e reflexões sobre a vida, como Provérbios, Eclesiastes e Jó. Profecia: palavras de Deus ao povo pelos profetas. Evangelho: um gênero novo, que anuncia a vida, morte e ressurreição de Jesus para despertar a fé. Cartas: escritos a comunidades e pessoas. Apocalíptica: linguagem simbólica, números, animais, cores, para dar esperança em tempos de perseguição, como em Daniel e no Apocalipse.",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "Narrativa"
+    },
+    {
+     "pos": 75,
+     "txt": "Lei"
+    },
+    {
+     "pos": 132,
+     "txt": "Poesia e oração"
+    },
+    {
+     "pos": 192,
+     "txt": "Sabedoria"
+    },
+    {
+     "pos": 275,
+     "txt": "Profecia"
+    },
+    {
+     "pos": 326,
+     "txt": "Evangelho"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "Um exemplo importante: Gênesis 1 apresenta a criação em seis dias e um descanso. A Igreja ensina que o texto usa uma linguagem simbólica para afirmar verdades seguras: só Deus é o Criador, tudo o que existe é bom, o ser humano é imagem de Deus e o sábado é dia consagrado. O texto não pretende dar uma aula de geologia.",
+   "destaques": [
+    {
+     "pos": 23,
+     "txt": "Gênesis 1"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 272,
+     "txt": "CIC 337"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "Outro: as parábolas. Quando Jesus conta a parábola do filho pródigo, não importa saber o nome daquela família; importa o que ela revela sobre a misericórdia do Pai.",
+   "destaques": [
+    {
+     "pos": 10,
+     "txt": "parábolas"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 70,
+     "txt": "Lc 15,11-32"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Saber o gênero evita dois erros: achar que tudo é \"só símbolo\", e negar fatos que a fé afirma, como a ressurreição, ou achar que tudo é relato técnico, e criar falsos conflitos com a ciência.",
+   "destaques": [],
+   "refs": []
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Parábola",
+     "origem": "grego parabolé, \"colocar ao lado\", comparação",
+     "sentido": "história curta que compara o Reino de Deus com coisas do dia a dia"
+    },
+    {
+     "termo": "Apocalipse",
+     "origem": "grego apokálypsis, \"tirar o véu\", revelação",
+     "sentido": "último livro da Bíblia; também o gênero de linguagem simbólica"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Parábola vem do grego parabolé, \"colocar ao lado\", comparação, e quer dizer: história curta que compara o Reino de Deus com coisas do dia a dia. A palavra Apocalipse vem do grego apokálypsis, \"tirar o véu\", revelação, e quer dizer: último livro da Bíblia; também o gênero de linguagem simbólica."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Gn 1,1-2,3",
+    "Lc 15,11-32",
+    "Sl 23(22)",
+    "Ap 1,1-3"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

@@ -1,0 +1,151 @@
+{
+ "modulo": "sociedade",
+ "aula": "familia-e-comunidade",
+ "titulo": "Família, comunidade e paróquia",
+ "moduloTitulo": "Fé, pessoa e sociedade",
+ "n": 7,
+ "emoji": "🤝",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "🤝",
+   "modulo": "Módulo 7 · Sociologia e Psicologia da Religião",
+   "titulo": "Família, comunidade e paróquia",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 7, Sociologia e Psicologia da Religião, vamos estudar: Família, comunidade e paróquia."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "A família é a célula original da vida social. Nela aprendemos a amar, a perdoar, a rezar e a viver juntos. O Concílio Vaticano segundo chama a família cristã de \"igreja doméstica\": é ali que os pais são os primeiros anunciadores da fé para os filhos.",
+   "destaques": [
+    {
+     "pos": 2,
+     "txt": "família"
+    },
+    {
+     "pos": 159,
+     "txt": "igreja doméstica"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 47,
+     "txt": "CIC 2207"
+    },
+    {
+     "pos": 250,
+     "txt": "CIC 1655-1658; Lumen Gentium 11"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "O quarto mandamento, \"honra teu pai e tua mãe\", mostra a importância dessas relações. Ele fala dos deveres dos filhos para com os pais, respeito, gratidão, cuidado na velhice, e dos pais para com os filhos, educação, sustento, testemunho de fé, e também das relações com as autoridades e da sociedade com as famílias.",
+   "destaques": [],
+   "refs": [
+    {
+     "pos": 84,
+     "txt": "CIC 2197-2257"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "Ninguém vive a fé sozinho. Os primeiros cristãos \"eram perseverantes no ensinamento dos Apóstolos, na comunhão fraterna, na fração do pão e nas orações\". A fé é pessoal, mas não individualista: \"eu creio\" está sempre ligado a \"nós cremos\".",
+   "destaques": [],
+   "refs": [
+    {
+     "pos": 153,
+     "txt": "At 2,42"
+    },
+    {
+     "pos": 239,
+     "txt": "CIC 166-167"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "A paróquia é a comunidade de fiéis estável numa Igreja particular, diocese, confiada a um pároco. É o lugar onde se celebra a Eucaristia dominical, se recebem os sacramentos, se faz catequese e se vive a caridade. As pastorais, os movimentos e as pequenas comunidades ajudam a paróquia a ser \"comunidade de comunidades\".",
+   "destaques": [
+    {
+     "pos": 1,
+     "txt": "paróquia"
+    },
+    {
+     "pos": 217,
+     "txt": "pastorais"
+    },
+    {
+     "pos": 231,
+     "txt": "movimentos"
+    },
+    {
+     "pos": 247,
+     "txt": "pequenas comunidades"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 96,
+     "txt": "CIC 2179"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "A sociologia mostra que pertencer a uma comunidade fortalece a perseverança na fé. Por isso, mais do que \"ir à igreja\", somos chamados a \"ser Igreja\": conhecer as pessoas, servir, participar. Se você está começando, procure um grupo ou pastoral da sua paróquia.",
+   "destaques": [],
+   "refs": []
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Paróquia",
+     "origem": "grego paroikía, \"morar junto, vizinhança\"",
+     "sentido": "comunidade estável de fiéis confiada a um pároco"
+    },
+    {
+     "termo": "Igreja doméstica",
+     "origem": "latim ecclesia domestica",
+     "sentido": "a família cristã, primeira escola de fé"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Paróquia vem do grego paroikía, \"morar junto, vizinhança\", e quer dizer: comunidade estável de fiéis confiada a um pároco. A palavra Igreja doméstica vem do latim ecclesia domestica, e quer dizer: a família cristã, primeira escola de fé."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "At 2,42-47",
+    "Ef 6,1-4",
+    "Cl 3,12-21",
+    "Dt 6,6-7",
+    "Hb 10,24-25"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

@@ -1,0 +1,169 @@
+{
+ "modulo": "pastoral",
+ "aula": "leigos-e-ministerios",
+ "titulo": "Leigos, ministérios e vocação",
+ "moduloTitulo": "Liturgia e Prática Pastoral",
+ "n": 8,
+ "emoji": "⛪",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "⛪",
+   "modulo": "Módulo 8 · Prática Pastoral e Liturgia",
+   "titulo": "Leigos, ministérios e vocação",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 8, Prática Pastoral e Liturgia, vamos estudar: Leigos, ministérios e vocação."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "Pelo Batismo, todo cristão participa da missão de Cristo sacerdote, profeta e rei. Os fiéis leigos são chamados a buscar o Reino de Deus tratando das coisas temporais, família, trabalho, política, cultura, e ordenando-as segundo Deus.",
+   "destaques": [
+    {
+     "pos": 50,
+     "txt": "Cristo sacerdote, profeta e rei"
+    },
+    {
+     "pos": 86,
+     "txt": "fiéis leigos"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 83,
+     "txt": "CIC 783-786, 897"
+    },
+    {
+     "pos": 234,
+     "txt": "CIC 898; Lumen Gentium 31"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "Existe um sacerdócio comum de todos os batizados: \"vós sois raça eleita, sacerdócio real\". Ele se exerce oferecendo a própria vida a Deus, na oração, no trabalho e na Eucaristia. E existe o sacerdócio ministerial dos bispos e presbíteros, que é diferente em essência, e não só em grau, e está a serviço do sacerdócio comum.",
+   "destaques": [
+    {
+     "pos": 10,
+     "txt": "sacerdócio comum"
+    },
+    {
+     "pos": 190,
+     "txt": "sacerdócio ministerial"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 91,
+     "txt": "1Pd 2,9"
+    },
+    {
+     "pos": 323,
+     "txt": "CIC 1546-1547"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "Na comunidade, os leigos podem exercer muitos serviços. Há os ministérios instituídos: leitor e acólito, abertos também às mulheres desde 2021, pelo documento Spiritus Domini, e catequista, Antiquum Ministerium, 2021. Há os ministros extraordinários da Sagrada Comunhão, e muitos serviços como os de cantor, salmista, coroinha, membro de pastorais e conselhos paroquiais.",
+   "destaques": [
+    {
+     "pos": 61,
+     "txt": "ministérios instituídos"
+    },
+    {
+     "pos": 86,
+     "txt": "leitor"
+    },
+    {
+     "pos": 95,
+     "txt": "acólito"
+    },
+    {
+     "pos": 179,
+     "txt": "catequista"
+    },
+    {
+     "pos": 228,
+     "txt": "ministros extraordinários da Sagrada Comunhão"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "São Paulo compara a Igreja a um corpo: há muitos membros, com dons diferentes, e todos são necessários. Ninguém é \"só leigo\": cada um tem uma vocação. As grandes vocações são o matrimônio, o sacerdócio, a vida consagrada e também a vida de solteiro dedicada a Deus e aos outros.",
+   "destaques": [
+    {
+     "pos": 142,
+     "txt": "vocação"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 101,
+     "txt": "Rm 12,4-8; 1Cor 12,4-27"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Para discernir a própria vocação: rezar, conhecer-se, conversar com um diretor espiritual, servir na comunidade e perguntar: \"Senhor, que queres que eu faça?\". Deus chama cada um pelo nome.",
+   "destaques": [],
+   "refs": [
+    {
+     "pos": 189,
+     "txt": "Is 43,1"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Leigo",
+     "origem": "grego laikós, \"do povo\" (láos)",
+     "sentido": "fiel batizado que não recebeu a Ordem nem é religioso"
+    },
+    {
+     "termo": "Vocação",
+     "origem": "latim vocare, \"chamar\"",
+     "sentido": "o chamado de Deus para um estado de vida e uma missão"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Leigo vem do grego laikós, \"do povo\", láos, e quer dizer: fiel batizado que não recebeu a Ordem nem é religioso. A palavra Vocação vem do latim vocare, \"chamar\", e quer dizer: o chamado de Deus para um estado de vida e uma missão."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "1Pd 2,4-10",
+    "Rm 12,4-8",
+    "1Cor 12,4-27",
+    "Is 43,1",
+    "Mt 9,37-38"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

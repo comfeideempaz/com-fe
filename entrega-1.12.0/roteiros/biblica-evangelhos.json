@@ -1,0 +1,185 @@
+{
+ "modulo": "biblica",
+ "aula": "evangelhos",
+ "titulo": "Os Evangelhos",
+ "moduloTitulo": "Teologia Bíblica",
+ "n": 3,
+ "emoji": "📖",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "📖",
+   "modulo": "Módulo 3 · Teologia Bíblica",
+   "titulo": "Os Evangelhos",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 3, Teologia Bíblica, vamos estudar: Os Evangelhos."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "Os quatro Evangelhos são o coração de todas as Escrituras, porque são o testemunho principal da vida e do ensinamento de Jesus. Por isso, na Missa, ficamos de pé para ouvi-los.",
+   "destaques": [
+    {
+     "pos": 25,
+     "txt": "o coração de todas as Escrituras"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 128,
+     "txt": "CIC 125"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "Eles foram formados em três etapas: 1. a vida e o ensinamento de Jesus; 2. a pregação dos Apóstolos, que, depois da Ressurreição e com a luz do Espírito Santo, transmitiram o que Jesus fez e disse; 3. a redação pelos evangelistas, que escolheram, resumiram e organizaram esse material para as suas comunidades. A Igreja afirma sem hesitar a historicidade dos Evangelhos: eles transmitem fielmente o que Jesus realmente fez e ensinou.",
+   "destaques": [
+    {
+     "pos": 23,
+     "txt": "três etapas"
+    },
+    {
+     "pos": 36,
+     "txt": "1"
+    },
+    {
+     "pos": 72,
+     "txt": "2"
+    },
+    {
+     "pos": 198,
+     "txt": "3"
+    },
+    {
+     "pos": 341,
+     "txt": "historicidade"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 37,
+     "txt": "CIC 126"
+    },
+    {
+     "pos": 433,
+     "txt": "Dei Verbum 19"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "Mateus, escrevendo para cristãos vindos do judaísmo, mostra Jesus como o novo Moisés e o cumprimento das profecias; organiza os ensinamentos em cinco grandes discursos, como o Sermão da Montanha. Marcos, o mais curto e provavelmente o mais antigo, ligado à pregação de Pedro, pergunta \"quem é Jesus?\" e responde aos pés da cruz: \"verdadeiramente este homem era Filho de Deus\". Lucas, médico e companheiro de Paulo, escreve com cuidado de historiador e destaca a misericórdia, os pobres, as mulheres, a oração e o Espírito Santo. Mateus, Marcos e Lucas são os sinóticos, porque se parecem muito.",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "Mateus"
+    },
+    {
+     "pos": 196,
+     "txt": "Marcos"
+    },
+    {
+     "pos": 377,
+     "txt": "Lucas"
+    },
+    {
+     "pos": 559,
+     "txt": "sinóticos"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 373,
+     "txt": "Mc 15,39"
+    },
+    {
+     "pos": 449,
+     "txt": "Lc 1,1-4"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "João, o discípulo amado, escreve de modo diferente e mais contemplativo: sete \"sinais\", milagres, longos discursos e os \"Eu sou\" de Jesus, o pão da vida, a luz do mundo, o bom pastor, a ressurreição e a vida.... Ele mesmo diz por que escreveu: \"para que creiais que Jesus é o Cristo, o Filho de Deus, e para que, crendo, tenhais a vida em seu nome\".",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "João"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 349,
+     "txt": "Jo 20,31"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Desde São Jerônimo, os evangelistas são representados pelos quatro seres viventes de Ezequiel capítulo 1, versículo 10 e Apocalipse capítulo 4, versículo 7: o homem, Mateus, que começa pela genealogia, o leão, Marcos, que começa com a voz no deserto, o touro, Lucas, que começa no Templo, com os sacrifícios, e a águia, João, que voa alto desde \"no princípio era o Verbo\".",
+   "destaques": [
+    {
+     "pos": 121,
+     "txt": "homem"
+    },
+    {
+     "pos": 174,
+     "txt": "leão"
+    },
+    {
+     "pos": 232,
+     "txt": "touro"
+    },
+    {
+     "pos": 302,
+     "txt": "águia"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Evangelista",
+     "origem": "grego euangelistés, \"o que anuncia a boa notícia\"",
+     "sentido": "autor de um dos quatro Evangelhos"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Evangelista vem do grego euangelistés, \"o que anuncia a boa notícia\", e quer dizer: autor de um dos quatro Evangelhos."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Lc 1,1-4",
+    "Mc 1,1",
+    "Mc 15,39",
+    "Jo 20,30-31",
+    "Ap 4,6-7"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

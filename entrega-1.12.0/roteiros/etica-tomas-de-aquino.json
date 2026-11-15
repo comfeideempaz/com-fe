@@ -1,0 +1,141 @@
+{
+ "modulo": "etica",
+ "aula": "tomas-de-aquino",
+ "titulo": "Santo Tomás e as cinco vias",
+ "moduloTitulo": "Filosofia e Ética Cristã",
+ "n": 6,
+ "emoji": "⚖️",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "⚖️",
+   "modulo": "Módulo 6 · Filosofia e Ética Cristã",
+   "titulo": "Santo Tomás e as cinco vias",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 6, Filosofia e Ética Cristã, vamos estudar: Santo Tomás e as cinco vias."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "Santo Tomás de Aquino, de 1225 a 1274, frade dominicano, é chamado de \"Doutor Angélico\" e \"Doutor Comum\" da Igreja. Ele uniu de modo genial a fé cristã e a filosofia de Aristóteles. Sua obra principal, a Suma Teológica, organiza toda a teologia em perguntas, objeções e respostas.",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "Santo Tomás de Aquino"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "Um princípio de Santo Tomás resume sua visão: \"a graça não destrói a natureza, mas a aperfeiçoa\". Deus não pede que deixemos de ser humanos para sermos santos; Ele cura e eleva o que somos. O mesmo vale para a razão: a fé não a anula, mas a leva mais longe.",
+   "destaques": [
+    {
+     "pos": 46,
+     "txt": "a graça não destrói a natureza, mas a aperfeiçoa"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "Tomás apresentou cinco vias, caminhos, pelos quais a razão pode chegar à existência de Deus a partir do mundo: 1. Movimento: tudo o que muda é mudado por outro; não se pode ir ao infinito; logo, há um primeiro motor imóvel. 2. Causa: toda coisa tem uma causa; deve haver uma primeira causa não causada. 3. Contingência: as coisas podem existir ou não existir; se tudo fosse assim, nada existiria; logo, há um ser necessário. 4. Graus de perfeição: há coisas mais ou menos boas, verdadeiras e belas; isso supõe um máximo, que é causa de toda perfeição. 5. Finalidade: as coisas da natureza agem em vista de um fim, como uma flecha que precisa de um arqueiro; logo, há uma inteligência que ordena tudo.",
+   "destaques": [
+    {
+     "pos": 17,
+     "txt": "cinco vias"
+    },
+    {
+     "pos": 111,
+     "txt": "1. Movimento"
+    },
+    {
+     "pos": 224,
+     "txt": "2. Causa"
+    },
+    {
+     "pos": 303,
+     "txt": "3. Contingência"
+    },
+    {
+     "pos": 425,
+     "txt": "4. Graus de perfeição"
+    },
+    {
+     "pos": 552,
+     "txt": "5. Finalidade"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 110,
+     "txt": "Suma Teológica I, q.2, a.3"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "\"E a isso todos chamam Deus\", conclui Tomás em cada via. O Catecismo ensina algo parecido quando fala dos caminhos para conhecer Deus a partir do mundo e da pessoa humana.",
+   "destaques": [],
+   "refs": [
+    {
+     "pos": 171,
+     "txt": "CIC 31-36"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "No fim da vida, depois de uma experiência mística durante a Missa, Tomás parou de escrever e disse que tudo o que tinha escrito lhe parecia \"palha\" diante do que tinha visto. A maior teologia termina em silêncio e adoração. Ele também compôs hinos eucarísticos, como o Tantum ergo e o Adoro te devote.",
+   "destaques": [],
+   "refs": []
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Contingente",
+     "origem": "latim contingere, \"acontecer\"",
+     "sentido": "o que existe, mas poderia não existir"
+    },
+    {
+     "termo": "Metafísica",
+     "origem": "grego metà tà physiká, \"além da física\"",
+     "sentido": "parte da filosofia que estuda o ser enquanto ser"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Contingente vem do latim contingere, \"acontecer\", e quer dizer: o que existe, mas poderia não existir. A palavra Metafísica vem do grego metà tà physiká, \"além da física\", e quer dizer: parte da filosofia que estuda o ser enquanto ser."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Rm 1,20",
+    "Sb 13,5",
+    "At 17,24-28",
+    "Sl 19(18),2-5"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

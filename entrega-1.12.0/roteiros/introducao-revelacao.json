@@ -1,0 +1,149 @@
+{
+ "modulo": "introducao",
+ "aula": "revelacao",
+ "titulo": "Deus se revela",
+ "moduloTitulo": "Introdução à Teologia",
+ "n": 1,
+ "emoji": "🕯️",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "🕯️",
+   "modulo": "Módulo 1 · Fundamentos: Revelação, Escritura, Tradição e Magistério",
+   "titulo": "Deus se revela",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 1, Fundamentos: Revelação, Escritura, Tradição e Magistério, vamos estudar: Deus se revela."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "O cristianismo não começa com o homem procurando Deus, mas com Deus vindo ao encontro do homem. Por amor, Deus quis se dar a conhecer e nos convidar à comunhão com Ele. Isso se chama Revelação.",
+   "destaques": [
+    {
+     "pos": 63,
+     "txt": "Deus vindo ao encontro do homem"
+    },
+    {
+     "pos": 183,
+     "txt": "Revelação"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 193,
+     "txt": "CIC 51-53"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "Deus se revelou aos poucos, como um bom professor, numa verdadeira pedagogia. Primeiro pela criação e pelos nossos primeiros pais; depois pela aliança com Noé, pela escolha de Abraão como pai de um povo, pela libertação do Egito e pela Lei dada a Moisés no Sinai; e pelos profetas, que mantiveram viva a esperança de um Salvador.",
+   "destaques": [
+    {
+     "pos": 67,
+     "txt": "pedagogia"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 329,
+     "txt": "CIC 54-64"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "Tudo isso preparava o grande momento: \"Muitas vezes e de muitos modos falou Deus outrora aos pais pelos profetas; nestes últimos dias, falou-nos por meio do Filho\". Jesus Cristo é a plenitude da Revelação: Ele não só fala de Deus, Ele é Deus feito homem. Quem o vê, vê o Pai. Por isso a Igreja ensina que não haverá nova revelação pública antes da vinda gloriosa de Cristo.",
+   "destaques": [
+    {
+     "pos": 165,
+     "txt": "Jesus Cristo é a plenitude da Revelação"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 162,
+     "txt": "Hb 1,1-2"
+    },
+    {
+     "pos": 276,
+     "txt": "Jo 14,9"
+    },
+    {
+     "pos": 373,
+     "txt": "CIC 65-66"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "E as aparições de Nossa Senhora, como Fátima e Lourdes? São revelações privadas. A Igreja pode reconhecê-las como dignas de fé, mas elas não acrescentam nada ao depósito da fé: ajudam a viver melhor a Revelação de Cristo num certo momento da história. Nenhum católico é obrigado a crer nelas como crê no Evangelho.",
+   "destaques": [
+    {
+     "pos": 60,
+     "txt": "revelações privadas"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 314,
+     "txt": "CIC 67"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "O Concílio Vaticano segundo explicou a Revelação na constituição Dei Verbum, \"A Palavra de Deus\", de 1965. Ela é um texto-chave para todo o curso: fala de como Deus se revela, de como a Revelação é transmitida e de como ler a Sagrada Escritura.",
+   "destaques": [],
+   "refs": []
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Revelação",
+     "origem": "latim revelatio, de re-velare: tirar o véu",
+     "sentido": "Deus se dá a conhecer e manifesta o seu plano de salvação"
+    },
+    {
+     "termo": "Aliança",
+     "origem": "hebraico berit",
+     "sentido": "pacto de amor e fidelidade que Deus faz com o seu povo"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Revelação vem do latim revelatio, de re-velare: tirar o véu, e quer dizer: Deus se dá a conhecer e manifesta o seu plano de salvação. A palavra Aliança vem do hebraico berit, e quer dizer: pacto de amor e fidelidade que Deus faz com o seu povo."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Hb 1,1-2",
+    "Jo 1,18",
+    "Jo 14,8-9",
+    "Gn 12,1-3",
+    "Ex 3,13-15"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

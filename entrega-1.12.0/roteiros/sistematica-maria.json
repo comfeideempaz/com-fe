@@ -1,0 +1,187 @@
+{
+ "modulo": "sistematica",
+ "aula": "maria",
+ "titulo": "Maria na fé da Igreja",
+ "moduloTitulo": "Teologia Sistemática",
+ "n": 4,
+ "emoji": "✝️",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "✝️",
+   "modulo": "Módulo 4 · Teologia Sistemática (Dogmática)",
+   "titulo": "Maria na fé da Igreja",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 4, Teologia Sistemática, Dogmática, vamos estudar: Maria na fé da Igreja."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "O que a Igreja crê sobre Maria está ligado ao que crê sobre Cristo e, ao mesmo tempo, ilumina a fé em Cristo. Por isso, a teologia sobre Maria, a mariologia, é parte da teologia sistemática.",
+   "destaques": [
+    {
+     "pos": 31,
+     "txt": "está ligado ao que crê sobre Cristo"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 110,
+     "txt": "CIC 487"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "A Igreja proclamou quatro dogmas marianos. 1. Mãe de Deus, Theotókos, no Concílio de Éfeso, em 431: como Jesus é uma só Pessoa, divina, quem gerou Jesus é verdadeiramente Mãe de Deus. 2. Virgindade perpétua: Maria concebeu Jesus pelo Espírito Santo, sem intervenção de homem, e permaneceu virgem antes, durante e depois do parto. Os \"irmãos de Jesus\" citados nos Evangelhos são parentes próximos, como era costume chamar na língua da época.",
+   "destaques": [
+    {
+     "pos": 18,
+     "txt": "quatro dogmas marianos"
+    },
+    {
+     "pos": 42,
+     "txt": "1. Mãe de Deus"
+    },
+    {
+     "pos": 187,
+     "txt": "2. Virgindade perpétua"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 188,
+     "txt": "CIC 495"
+    },
+    {
+     "pos": 333,
+     "txt": "CIC 496-507"
+    },
+    {
+     "pos": 441,
+     "txt": "CIC 500"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "3. Imaculada Conceição, definida pelo Papa Pio nono em 1854: por graça singular de Deus e em vista dos méritos de Cristo, Maria foi preservada do pecado original desde o primeiro instante da sua concepção. O anjo a saúda como \"cheia de graça\". 4. Assunção, definida por Pio doze em 1950: terminado o curso da vida terrena, Maria foi elevada em corpo e alma à glória celeste.",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "3. Imaculada Conceição"
+    },
+    {
+     "pos": 243,
+     "txt": "4. Assunção"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 203,
+     "txt": "CIC 490-493"
+    },
+    {
+     "pos": 240,
+     "txt": "Lc 1,28"
+    },
+    {
+     "pos": 374,
+     "txt": "CIC 966"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "Maria é também Mãe da Igreja e nossa mãe: aos pés da cruz, Jesus a entregou ao discípulo amado. Ela intercede por nós, como em Caná, mas sempre aponta para o Filho: \"fazei tudo o que Ele vos disser\".",
+   "destaques": [
+    {
+     "pos": 15,
+     "txt": "Mãe da Igreja"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 97,
+     "txt": "Jo 19,26-27"
+    },
+    {
+     "pos": 133,
+     "txt": "Jo 2,1-11"
+    },
+    {
+     "pos": 199,
+     "txt": "Jo 2,5"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "A Igreja distingue: a adoração, latria, é devida só a Deus. Aos santos damos veneração, dulia, e a Maria uma veneração especial, hiperdulia, por ser a Mãe de Deus. Honrar Maria nunca tira nada de Cristo, assim como honrar a mãe de um amigo é honrar o amigo.",
+   "destaques": [
+    {
+     "pos": 21,
+     "txt": "adoração"
+    },
+    {
+     "pos": 78,
+     "txt": "veneração"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 171,
+     "txt": "CIC 971"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Theotókos",
+     "origem": "grego, \"a que gerou Deus\"",
+     "sentido": "título de Maria, Mãe de Deus, definido em Éfeso (431)"
+    },
+    {
+     "termo": "Hiperdulia",
+     "origem": "grego hypér (acima) + douleía (serviço, honra)",
+     "sentido": "a veneração especial devida a Maria"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Theotókos vem do grego, \"a que gerou Deus\", e quer dizer: título de Maria, Mãe de Deus, definido em Éfeso, em 431. A palavra Hiperdulia vem do grego hypér, acima, e douleía, serviço, honra, e quer dizer: a veneração especial devida a Maria."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Lc 1,26-38",
+    "Lc 1,39-56",
+    "Jo 2,1-11",
+    "Jo 19,25-27",
+    "Gl 4,4"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

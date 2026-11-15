@@ -1,0 +1,141 @@
+{
+ "modulo": "introducao",
+ "aula": "como-estudar",
+ "titulo": "Como estudar teologia rezando",
+ "moduloTitulo": "Introdução à Teologia",
+ "n": 1,
+ "emoji": "🕯️",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "🕯️",
+   "modulo": "Módulo 1 · Fundamentos: Revelação, Escritura, Tradição e Magistério",
+   "titulo": "Como estudar teologia rezando",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 1, Fundamentos: Revelação, Escritura, Tradição e Magistério, vamos estudar: Como estudar teologia rezando."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "Todo o povo de Deus recebeu do Espírito Santo um \"sentido sobrenatural da fé\", sensus fidei. Quando o povo inteiro, dos bispos aos últimos fiéis leigos, concorda numa verdade de fé, não pode errar. Isso mostra que a teologia é um trabalho de família: o estudo do teólogo se apoia na fé de todo o povo e volta para ele.",
+   "destaques": [],
+   "refs": [
+    {
+     "pos": 199,
+     "txt": "CIC 91-93"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "Ao longo dos séculos, Deus deu à Igreja grandes mestres. Os Padres da Igreja são os escritores santos dos primeiros séculos, como Santo Inácio de Antioquia, Santo Atanásio e Santo Agostinho. Os Doutores da Igreja são santos cuja doutrina foi reconhecida como especialmente segura, como Santo Tomás de Aquino, Santa Teresa de Ávila e Santa Teresinha. Hoje são mais de trinta doutores.",
+   "destaques": [
+    {
+     "pos": 60,
+     "txt": "Padres da Igreja"
+    },
+    {
+     "pos": 194,
+     "txt": "Doutores da Igreja"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "Um monge do século quarto, Evágrio Pôntico, escreveu: \"Se és teólogo, rezarás de verdade; e se rezas de verdade, és teólogo\". A boa teologia sempre foi feita \"de joelhos\". Por isso este curso sugere um pequeno método para cada aula:",
+   "destaques": [
+    {
+     "pos": 50,
+     "txt": "Se és teólogo, rezarás de verdade; e se rezas de verdade, és teólogo"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "1. Comece com uma oração ao Espírito Santo, pedindo luz. 2. Leia a aula com calma, abrindo as passagens da Bíblia, elas abrem no leitor do app. 3. Confira o Catecismo: os números levam ao texto oficial no site do Vaticano. 4. Responda ao quiz e veja as explicações. 5. Termine rezando sobre uma frase que tocou o seu coração. Se quiser, faça uma Lectio Divina com o trecho.",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "1. Comece com uma oração"
+    },
+    {
+     "pos": 56,
+     "txt": "2. Leia a aula com calma"
+    },
+    {
+     "pos": 144,
+     "txt": "3. Confira o Catecismo"
+    },
+    {
+     "pos": 223,
+     "txt": "4. Responda ao quiz"
+    },
+    {
+     "pos": 266,
+     "txt": "5. Termine rezando"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Estudar a fé é também um ato de caridade: quem conhece melhor pode servir melhor a família, a paróquia e quem tem dúvidas. Mas lembre-se da advertência de São Paulo: \"a ciência incha, a caridade edifica\". O objetivo do curso não é ganhar discussões, e sim amar mais.",
+   "destaques": [],
+   "refs": [
+    {
+     "pos": 204,
+     "txt": "1Cor 8,1"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Padres da Igreja",
+     "origem": "latim patres (pais)",
+     "sentido": "escritores santos dos primeiros séculos, testemunhas da Tradição"
+    },
+    {
+     "termo": "Doutor da Igreja",
+     "origem": "latim doctor (o que ensina)",
+     "sentido": "santo cuja doutrina a Igreja declara especialmente segura e útil"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Padres da Igreja vem do latim patres, pais, e quer dizer: escritores santos dos primeiros séculos, testemunhas da Tradição. A palavra Doutor da Igreja vem do latim doctor, o que ensina, e quer dizer: santo cuja doutrina a Igreja declara especialmente segura e útil."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "1Cor 8,1",
+    "Lc 2,19",
+    "Sl 119(118),105",
+    "Tg 1,5"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

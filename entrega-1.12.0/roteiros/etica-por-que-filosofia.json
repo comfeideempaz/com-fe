@@ -1,0 +1,149 @@
+{
+ "modulo": "etica",
+ "aula": "por-que-filosofia",
+ "titulo": "Por que o cristão estuda filosofia",
+ "moduloTitulo": "Filosofia e Ética Cristã",
+ "n": 6,
+ "emoji": "⚖️",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "⚖️",
+   "modulo": "Módulo 6 · Filosofia e Ética Cristã",
+   "titulo": "Por que o cristão estuda filosofia",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 6, Filosofia e Ética Cristã, vamos estudar: Por que o cristão estuda filosofia."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "Filosofia vem do grego philía, amor, amizade, e sophía, sabedoria: é o amor à sabedoria. É o esforço da razão humana para responder às grandes perguntas: quem sou eu? De onde venho? Para onde vou? O que é o bem? Por que existe algo e não o nada?.",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "Filosofia"
+    },
+    {
+     "pos": 75,
+     "txt": "amor à sabedoria"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 249,
+     "txt": "Fides et Ratio 1"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "Os gregos deram passos enormes nesse caminho. Sócrates ensinava a buscar a verdade pelo diálogo e a cuidar da alma. Platão falava de um mundo de verdades eternas, além do que vemos. Aristóteles estudou a lógica, a natureza, a ética e chegou à ideia de um \"primeiro motor\" de todas as coisas.",
+   "destaques": [
+    {
+     "pos": 46,
+     "txt": "Sócrates"
+    },
+    {
+     "pos": 116,
+     "txt": "Platão"
+    },
+    {
+     "pos": 182,
+     "txt": "Aristóteles"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "Os cristãos logo perceberam que a boa filosofia podia servir à fé. São Justino, filósofo e mártir, no século segundo, dizia que havia nos pensadores pagãos \"sementes do Verbo\": fragmentos de verdade espalhados pelo Verbo, que é Cristo. São Paulo, no Areópago de Atenas, citou poetas gregos para anunciar o Deus desconhecido.",
+   "destaques": [
+    {
+     "pos": 153,
+     "txt": "sementes do Verbo"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 324,
+     "txt": "At 17,22-28"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "Por que estudar filosofia? Porque ela ensina a pensar com clareza, a definir as palavras, a argumentar bem e a perceber erros de raciocínio. Sem isso, a teologia vira só sentimento ou repetição. A teologia sempre usou conceitos filosóficos, como \"natureza\", \"pessoa\" e \"substância\", para expressar a fé com precisão.",
+   "destaques": [
+    {
+     "pos": 47,
+     "txt": "pensar com clareza"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Mas a filosofia tem limites, e nem toda filosofia é compatível com a fé. São Paulo alerta contra a \"filosofia vã e enganadora\", segundo as tradições humanas e não segundo Cristo. O critério é sempre a verdade: a razão serve à fé, e a fé purifica e alarga a razão.",
+   "destaques": [
+    {
+     "pos": 210,
+     "txt": "a razão serve à fé, e a fé purifica e alarga a razão"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 175,
+     "txt": "Cl 2,8"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Filosofia",
+     "origem": "grego philía (amor) + sophía (sabedoria)",
+     "sentido": "amor à sabedoria; estudo racional das grandes questões"
+    },
+    {
+     "termo": "Lógica",
+     "origem": "grego logiké, de lógos (razão)",
+     "sentido": "a arte de raciocinar corretamente"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Filosofia vem do grego philía, amor, e sophía, sabedoria, e quer dizer: amor à sabedoria; estudo racional das grandes questões. A palavra Lógica vem do grego logiké, de lógos, razão, e quer dizer: a arte de raciocinar corretamente."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "At 17,22-28",
+    "Cl 2,8",
+    "Sb 7,7-14",
+    "1Ts 5,21",
+    "Fl 4,8"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

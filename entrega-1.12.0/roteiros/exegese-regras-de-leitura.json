@@ -1,0 +1,157 @@
+{
+ "modulo": "exegese",
+ "aula": "regras-de-leitura",
+ "titulo": "As três regras para ler com a Igreja",
+ "moduloTitulo": "Hermenêutica e Exegese Bíblica",
+ "n": 2,
+ "emoji": "📜",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "📜",
+   "modulo": "Módulo 2 · Hermenêutica e Exegese Bíblica",
+   "titulo": "As três regras para ler com a Igreja",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 2, Hermenêutica e Exegese Bíblica, vamos estudar: As três regras para ler com a Igreja."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 6,
+   "fala": "Para interpretar bem a Bíblia, é preciso descobrir o que os autores humanos quiseram dizer e o que Deus quis revelar por meio deles. Para isso, conta muito conhecer a época, a cultura e os modos de escrever do tempo do autor.",
+   "destaques": [
+    {
+     "pos": 51,
+     "txt": "o que os autores humanos quiseram dizer"
+    },
+    {
+     "pos": 93,
+     "txt": "o que Deus quis revelar"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 135,
+     "txt": "CIC 109"
+    },
+    {
+     "pos": 225,
+     "txt": "CIC 110"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 6,
+   "fala": "Mas como a Escritura foi inspirada pelo Espírito Santo, ela deve ser lida no mesmo Espírito em que foi escrita. O Concílio Vaticano segundo dá três critérios:",
+   "destaques": [
+    {
+     "pos": 76,
+     "txt": "no mesmo Espírito"
+    },
+    {
+     "pos": 142,
+     "txt": "três critérios"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 158,
+     "txt": "CIC 111-114; Dei Verbum 12"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 6,
+   "fala": "1. Atenção ao conteúdo e à unidade de toda a Escritura. A Bíblia tem muitos livros, mas um único plano de Deus, cujo centro é Cristo. Um versículo nunca deve ser lido isolado, contra o resto da Bíblia.",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "1. Atenção ao conteúdo e à unidade de toda a Escritura"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 6,
+   "fala": "2. Ler a Escritura dentro da Tradição viva de toda a Igreja. Como dizem os Padres, a Escritura está escrita mais no coração da Igreja do que em pergaminhos. O que a Igreja sempre entendeu de um texto é um guia seguro.",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "2. Ler a Escritura dentro da Tradição viva de toda a Igreja"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 6,
+   "fala": "3. Estar atento à analogia da fé, isto é, à coerência das verdades da fé entre si e no conjunto do plano da Revelação. Uma interpretação que contradiz outra verdade de fé está errada.",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "3. Estar atento à analogia da fé"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p6",
+   "tipo": "ponto",
+   "n": 6,
+   "total": 6,
+   "fala": "Essas regras protegem contra dois perigos: o fundamentalismo, que lê tudo ao pé da letra, sem ver gêneros e contexto; e a leitura que trata a Bíblia como um livro só humano, sem fé. A Pontifícia Comissão Bíblica tratou disso no documento A interpretação da Bíblia na Igreja, em 1993.",
+   "destaques": [
+    {
+     "pos": 44,
+     "txt": "fundamentalismo"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Hermenêutica",
+     "origem": "grego hermeneúein (interpretar), ligado a Hermes, o mensageiro",
+     "sentido": "a ciência e a arte de interpretar textos"
+    },
+    {
+     "termo": "Exegese",
+     "origem": "grego exégesis, \"conduzir para fora\", explicar",
+     "sentido": "o estudo que tira do texto o seu sentido"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Hermenêutica vem do grego hermeneúein, interpretar, ligado a Hermes, o mensageiro, e quer dizer: a ciência e a arte de interpretar textos. A palavra Exegese vem do grego exégesis, \"conduzir para fora\", explicar, e quer dizer: o estudo que tira do texto o seu sentido."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "2Pd 1,20",
+    "2Pd 3,15-16",
+    "At 8,30-35",
+    "Lc 24,27"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

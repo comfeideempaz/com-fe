@@ -1,0 +1,165 @@
+{
+ "modulo": "pastoral",
+ "aula": "catequese",
+ "titulo": "Catequese: fazer ecoar a Palavra",
+ "moduloTitulo": "Liturgia e Prática Pastoral",
+ "n": 8,
+ "emoji": "⛪",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "⛪",
+   "modulo": "Módulo 8 · Prática Pastoral e Liturgia",
+   "titulo": "Catequese: fazer ecoar a Palavra",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 8, Prática Pastoral e Liturgia, vamos estudar: Catequese: fazer ecoar a Palavra."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "Catequese vem do grego katechéin, \"fazer ecoar\". Catequizar é fazer a Palavra de Deus ressoar na vida das pessoas. O Catecismo a define como a educação da fé de crianças, jovens e adultos, que compreende especialmente o ensino da doutrina cristã, de modo orgânico e sistemático, para iniciá-los na plenitude da vida cristã.",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "Catequese"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 325,
+     "txt": "CIC 5"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "No centro da catequese está o querigma, o primeiro anúncio: Jesus Cristo te ama, deu a vida para te salvar, e agora está vivo ao teu lado todos os dias. São Paulo resume assim o que recebeu e transmitiu: \"Cristo morreu pelos nossos pecados, foi sepultado, ressuscitou ao terceiro dia e apareceu\". Sem esse encontro pessoal, a catequese vira só aula.",
+   "destaques": [
+    {
+     "pos": 30,
+     "txt": "querigma"
+    },
+    {
+     "pos": 60,
+     "txt": "Jesus Cristo te ama, deu a vida para te salvar, e agora está vivo ao teu lado todos os dias"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 156,
+     "txt": "Evangelii Gaudium 164"
+    },
+    {
+     "pos": 297,
+     "txt": "1Cor 15,3-5"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "O Diretório para a Catequese, em 2020, propõe uma catequese de inspiração catecumenal, isto é, inspirada no antigo caminho dos que se preparavam para o Batismo: uma verdadeira iniciação à vida cristã, em etapas, com a comunidade, a liturgia, a Palavra e a caridade, e não só a preparação para \"receber um sacramento\".",
+   "destaques": [
+    {
+     "pos": 2,
+     "txt": "Diretório para a Catequese"
+    },
+    {
+     "pos": 63,
+     "txt": "inspiração catecumenal"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "O Catecismo se organiza em quatro partes, que são os quatro pilares de toda catequese: o que cremos, o Credo, o que celebramos, os sacramentos, como vivemos, os mandamentos, e como rezamos, o Pai-Nosso. Uma boa catequese toca a cabeça, o coração e as mãos.",
+   "destaques": [
+    {
+     "pos": 26,
+     "txt": "quatro partes"
+    },
+    {
+     "pos": 85,
+     "txt": "o que cremos"
+    },
+    {
+     "pos": 109,
+     "txt": "o que celebramos"
+    },
+    {
+     "pos": 144,
+     "txt": "como vivemos"
+    },
+    {
+     "pos": 175,
+     "txt": "como rezamos"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 82,
+     "txt": "CIC 13-17"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "O catequista é um testemunho antes de ser um professor. Desde 2021, a Igreja reconhece o ministério instituído de catequista, Antiquum Ministerium. Se você está fazendo este curso, já tem muito a oferecer à catequese da sua paróquia!",
+   "destaques": [
+    {
+     "pos": 88,
+     "txt": "ministério instituído de catequista"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Catequese",
+     "origem": "grego katechéin, \"fazer ecoar\"",
+     "sentido": "educação da fé"
+    },
+    {
+     "termo": "Querigma",
+     "origem": "grego kérygma, \"proclamação de um arauto\"",
+     "sentido": "o primeiro anúncio de Jesus morto e ressuscitado"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Catequese vem do grego katechéin, \"fazer ecoar\", e quer dizer: educação da fé. A palavra Querigma vem do grego kérygma, \"proclamação de um arauto\", e quer dizer: o primeiro anúncio de Jesus morto e ressuscitado."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "1Cor 15,1-8",
+    "Lc 24,13-35",
+    "At 8,26-40",
+    "Dt 6,4-9",
+    "Rm 10,14-17"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

@@ -1,0 +1,154 @@
+{
+ "modulo": "pastoral",
+ "aula": "escuta-e-aconselhamento",
+ "titulo": "Acolher, escutar e aconselhar",
+ "moduloTitulo": "Liturgia e Prática Pastoral",
+ "n": 8,
+ "emoji": "⛪",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "⛪",
+   "modulo": "Módulo 8 · Prática Pastoral e Liturgia",
+   "titulo": "Acolher, escutar e aconselhar",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 8, Prática Pastoral e Liturgia, vamos estudar: Acolher, escutar e aconselhar."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "Grande parte da pastoral acontece numa conversa: alguém que procura ajuda, um doente, um enlutado, um jovem confuso. Jesus é o modelo: no caminho de Emaús, Ele primeiro pergunta e escuta, depois ilumina com a Escritura e, por fim, parte o pão.",
+   "destaques": [
+    {
+     "pos": 169,
+     "txt": "pergunta e escuta"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 243,
+     "txt": "Lc 24,13-35"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "Escutar é a primeira caridade. \"Todo homem seja pronto para ouvir, lento para falar\". Algumas atitudes ajudam: dar atenção total, deixar o celular de lado, não interromper, não julgar, não dar respostas prontas, acolher os sentimentos e respeitar o segredo do que foi confiado. O Papa Francisco fala do \"apostolado do ouvido\".",
+   "destaques": [
+    {
+     "pos": 0,
+     "txt": "Escutar"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 86,
+     "txt": "Tg 1,19"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "A Igreja ensina as obras de misericórdia. Corporais: dar de comer a quem tem fome, dar de beber a quem tem sede, vestir os nus, dar pousada aos peregrinos, visitar os enfermos, visitar os presos e enterrar os mortos. Espirituais: dar bom conselho, ensinar os ignorantes, corrigir os que erram, consolar os tristes, perdoar as injúrias, suportar com paciência as fraquezas do próximo e rezar a Deus pelos vivos e pelos mortos.",
+   "destaques": [
+    {
+     "pos": 19,
+     "txt": "obras de misericórdia"
+    },
+    {
+     "pos": 42,
+     "txt": "Corporais"
+    },
+    {
+     "pos": 217,
+     "txt": "Espirituais"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 43,
+     "txt": "CIC 2447"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "Conhecer os limites também é sabedoria pastoral. O agente de pastoral não é psicólogo, médico nem confessor. Quando for o caso, encaminhe: ao sacerdote para a confissão e a direção espiritual, a profissionais de saúde mental, à assistência social, ou aos serviços de emergência. E em situações de abuso ou violência, proteja a vítima e procure as autoridades.",
+   "destaques": [
+    {
+     "pos": 12,
+     "txt": "limites"
+    },
+    {
+     "pos": 128,
+     "txt": "encaminhe"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "A capelania é a pastoral em lugares específicos: hospitais, presídios, escolas, quartéis. É levar Cristo aonde as pessoas estão, especialmente onde há sofrimento. \"Estive doente e me visitastes, estive na prisão e viestes a mim\".",
+   "destaques": [
+    {
+     "pos": 2,
+     "txt": "capelania"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 229,
+     "txt": "Mt 25,36"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Misericórdia",
+     "origem": "latim miser (miserável) + cor (coração)",
+     "sentido": "ter o coração voltado para a miséria do outro"
+    },
+    {
+     "termo": "Capelão",
+     "origem": "latim cappellanus, de cappella (capela)",
+     "sentido": "sacerdote ou agente de pastoral que atende um hospital, presídio, escola etc."
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Misericórdia vem do latim miser, miserável, e cor, coração, e quer dizer: ter o coração voltado para a miséria do outro. A palavra Capelão vem do latim cappellanus, de cappella, capela, e quer dizer: sacerdote ou agente de pastoral que atende um hospital, presídio, escola etcetera."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Lc 24,13-35",
+    "Tg 1,19",
+    "Mt 25,34-40",
+    "Tg 5,14-16",
+    "Gl 6,1-2"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

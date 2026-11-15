@@ -1,0 +1,164 @@
+{
+ "modulo": "pastoral",
+ "aula": "liturgia-das-horas",
+ "titulo": "A Liturgia das Horas",
+ "moduloTitulo": "Liturgia e Prática Pastoral",
+ "n": 8,
+ "emoji": "⛪",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "⛪",
+   "modulo": "Módulo 8 · Prática Pastoral e Liturgia",
+   "titulo": "A Liturgia das Horas",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 8, Prática Pastoral e Liturgia, vamos estudar: A Liturgia das Horas."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "Jesus pediu que rezássemos sempre, e São Paulo, \"orai sem cessar\". Uma das formas que a Igreja encontrou para santificar o dia inteiro é a Liturgia das Horas, também chamada de Ofício Divino.",
+   "destaques": [
+    {
+     "pos": 139,
+     "txt": "Liturgia das Horas"
+    },
+    {
+     "pos": 177,
+     "txt": "Ofício Divino"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 32,
+     "txt": "Lc 18,1"
+    },
+    {
+     "pos": 63,
+     "txt": "1Ts 5,17"
+    },
+    {
+     "pos": 191,
+     "txt": "CIC 1174-1178"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "Ela é a oração pública da Igreja, composta sobretudo de salmos, cânticos bíblicos, leituras, preces e hinos, distribuídos ao longo do dia. O salmista dizia: \"sete vezes ao dia eu te louvo\". As horas principais são as Laudes, oração da manhã, e as Vésperas, oração da tarde. Há também o Ofício das Leituras, a Hora Média, Tércia, Sexta ou Noa, e as Completas, antes de dormir.",
+   "destaques": [
+    {
+     "pos": 55,
+     "txt": "salmos"
+    },
+    {
+     "pos": 216,
+     "txt": "Laudes"
+    },
+    {
+     "pos": 246,
+     "txt": "Vésperas"
+    },
+    {
+     "pos": 286,
+     "txt": "Ofício das Leituras"
+    },
+    {
+     "pos": 309,
+     "txt": "Hora Média"
+    },
+    {
+     "pos": 348,
+     "txt": "Completas"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 180,
+     "txt": "Sl 119,164"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "Os padres, diáconos e religiosos assumem o compromisso de rezá-la. Mas a Igreja recomenda que os leigos também rezem a Liturgia das Horas, sozinhos, em família ou com a comunidade, sobretudo Laudes e Vésperas. Quem reza o Ofício une sua voz à de toda a Igreja e à do próprio Cristo, que reza ao Pai.",
+   "destaques": [
+    {
+     "pos": 97,
+     "txt": "leigos"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 210,
+     "txt": "Sacrosanctum Concilium 100; CIC 1175"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "As Completas terminam com uma antífona a Nossa Senhora, como a Salve Rainha. E no Brasil é comum o Ofício Divino das Comunidades, uma forma popular e inculturada de rezar as horas.",
+   "destaques": [
+    {
+     "pos": 101,
+     "txt": "Ofício Divino das Comunidades"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Para começar: escolha uma hora, por exemplo, as Laudes pela manhã, e reze por uma semana. Se não tiver o livro, há aplicativos e sites católicos com a liturgia de cada dia. E não se esqueça: a Lectio Divina e o terço também ajudam a fazer do dia uma oração.",
+   "destaques": [],
+   "refs": []
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Ofício",
+     "origem": "latim officium, \"dever, serviço\"",
+     "sentido": "a Liturgia das Horas, serviço de louvor a Deus"
+    },
+    {
+     "termo": "Laudes",
+     "origem": "latim laudes, \"louvores\"",
+     "sentido": "oração da manhã da Liturgia das Horas"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Ofício vem do latim officium, \"dever, serviço\", e quer dizer: a Liturgia das Horas, serviço de louvor a Deus. A palavra Laudes vem do latim laudes, \"louvores\", e quer dizer: oração da manhã da Liturgia das Horas."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Sl 119(118),164",
+    "Lc 18,1",
+    "1Ts 5,16-18",
+    "At 3,1",
+    "Ef 5,19-20"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

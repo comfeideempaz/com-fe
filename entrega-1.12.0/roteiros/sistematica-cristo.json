@@ -1,0 +1,199 @@
+{
+ "modulo": "sistematica",
+ "aula": "cristo",
+ "titulo": "Jesus Cristo, verdadeiro Deus e verdadeiro homem",
+ "moduloTitulo": "Teologia Sistemática",
+ "n": 4,
+ "emoji": "✝️",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "✝️",
+   "modulo": "Módulo 4 · Teologia Sistemática (Dogmática)",
+   "titulo": "Jesus Cristo, verdadeiro Deus e verdadeiro homem",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 4, Teologia Sistemática, Dogmática, vamos estudar: Jesus Cristo, verdadeiro Deus e verdadeiro homem."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "\"No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus... E o Verbo se fez carne e habitou entre nós\". A Encarnação é o mistério do Filho eterno de Deus que, sem deixar de ser Deus, se fez homem no seio da Virgem Maria, pelo poder do Espírito Santo.",
+   "destaques": [
+    {
+     "pos": 123,
+     "txt": "Encarnação"
+    },
+    {
+     "pos": 200,
+     "txt": "se fez homem"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 116,
+     "txt": "Jo 1,1.14"
+    },
+    {
+     "pos": 267,
+     "txt": "CIC 456-463"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "Por que Deus se fez homem? O Credo responde: \"por nós, homens, e para a nossa salvação\". O Catecismo dá quatro razões: para nos reconciliar com Deus, para nos fazer conhecer o amor de Deus, para ser nosso modelo de santidade e para nos fazer participantes da natureza divina. Santo Atanásio resumiu: \"o Filho de Deus se fez homem para nos fazer Deus\", isto é, filhos de Deus pela graça.",
+   "destaques": [
+    {
+     "pos": 128,
+     "txt": "reconciliar"
+    },
+    {
+     "pos": 165,
+     "txt": "conhecer o amor"
+    },
+    {
+     "pos": 205,
+     "txt": "modelo de santidade"
+    },
+    {
+     "pos": 242,
+     "txt": "participantes da natureza divina"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 279,
+     "txt": "CIC 457-460; 2Pd 1,4"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "Nos primeiros séculos, surgiram erros que negavam ou a divindade, ou a humanidade de Jesus, ou a unidade entre elas. A Igreja respondeu nos concílios. Niceia, em 325: Jesus é verdadeiro Deus. Éfeso, em 431: Jesus é uma só Pessoa, e por isso Maria é Mãe de Deus. Calcedônia, em 451: Jesus é uma só Pessoa divina em duas naturezas, divina e humana, \"sem confusão, sem mudança, sem divisão, sem separação\". Jesus tem inteligência e vontade humanas, sentiu fome, cansaço, chorou e amou com coração humano.",
+   "destaques": [
+    {
+     "pos": 150,
+     "txt": "Niceia"
+    },
+    {
+     "pos": 191,
+     "txt": "Éfeso"
+    },
+    {
+     "pos": 262,
+     "txt": "Calcedônia"
+    },
+    {
+     "pos": 291,
+     "txt": "uma só Pessoa divina em duas naturezas"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 406,
+     "txt": "CIC 467"
+    },
+    {
+     "pos": 501,
+     "txt": "CIC 470-478"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "Toda a vida de Jesus é revelação e salvação. Sua Paixão e morte na cruz são o sacrifício que nos reconcilia com Deus: Ele \"carregou os nossos pecados em seu corpo sobre o madeiro\". Sua Ressurreição é um acontecimento real e histórico, atestado pelo túmulo vazio e pelas aparições, e é o fundamento da nossa fé: \"se Cristo não ressuscitou, vã é a vossa fé\".",
+   "destaques": [
+    {
+     "pos": 49,
+     "txt": "Paixão e morte"
+    },
+    {
+     "pos": 185,
+     "txt": "Ressurreição"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 179,
+     "txt": "1Pd 2,24; CIC 599-618"
+    },
+    {
+     "pos": 356,
+     "txt": "1Cor 15,14; CIC 638-655"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Cristo subiu aos céus, está sentado à direita do Pai e virá de novo para julgar os vivos e os mortos. O hino de Filipenses capítulo 2, versículos 6 a 11 resume todo esse caminho: Ele se esvaziou, fez-se servo, obediente até a morte de cruz, e por isso Deus o exaltou, para que todo joelho se dobre e toda língua confesse que Jesus Cristo é o Senhor.",
+   "destaques": [
+    {
+     "pos": 7,
+     "txt": "subiu aos céus"
+    },
+    {
+     "pos": 60,
+     "txt": "virá de novo"
+    },
+    {
+     "pos": 322,
+     "txt": "Jesus Cristo é o Senhor"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 115,
+     "txt": "CIC 659-682"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Encarnação",
+     "origem": "latim in carne, \"em carne\"",
+     "sentido": "o Filho de Deus que assume a natureza humana"
+    },
+    {
+     "termo": "Cristologia",
+     "origem": "Christós (ungido) + lógos",
+     "sentido": "a parte da teologia que estuda Jesus Cristo"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Encarnação vem do latim in carne, \"em carne\", e quer dizer: o Filho de Deus que assume a natureza humana. A palavra Cristologia vem do Christós, ungido, e lógos, e quer dizer: a parte da teologia que estuda Jesus Cristo."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Jo 1,1-18",
+    "Fl 2,6-11",
+    "Cl 1,15-20",
+    "Hb 4,15",
+    "1Pd 2,24"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

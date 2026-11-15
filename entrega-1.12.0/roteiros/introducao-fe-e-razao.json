@@ -1,0 +1,147 @@
+{
+ "modulo": "introducao",
+ "aula": "fe-e-razao",
+ "titulo": "Fé e razão: as duas asas",
+ "moduloTitulo": "Introdução à Teologia",
+ "n": 1,
+ "emoji": "🕯️",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "🕯️",
+   "modulo": "Módulo 1 · Fundamentos: Revelação, Escritura, Tradição e Magistério",
+   "titulo": "Fé e razão: as duas asas",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 1, Fundamentos: Revelação, Escritura, Tradição e Magistério, vamos estudar: Fé e razão: as duas asas."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "São João Paulo segundo abriu a encíclica Fides et Ratio, em 1998, com uma imagem bonita: a fé e a razão são como duas asas pelas quais o espírito humano se eleva para contemplar a verdade. Com uma asa só, ninguém voa.",
+   "destaques": [
+    {
+     "pos": 88,
+     "txt": "a fé e a razão são como duas asas"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "A razão consegue chegar a Deus pelas coisas criadas. A ordem do universo, a beleza, a existência das coisas que poderiam não existir, a consciência moral: tudo isso aponta para um Criador. São Paulo diz que as perfeições invisíveis de Deus se tornam visíveis à inteligência pelas suas obras, e o livro da Sabedoria critica quem olhou a criação e não reconheceu o Artista. O Concílio Vaticano primeiro ensinou que Deus pode ser conhecido com certeza pela luz natural da razão.",
+   "destaques": [
+    {
+     "pos": 2,
+     "txt": "razão"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 296,
+     "txt": "Rm 1,20"
+    },
+    {
+     "pos": 376,
+     "txt": "Sb 13,1-5"
+    },
+    {
+     "pos": 475,
+     "txt": "CIC 36"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "Mas a razão tem limites. Ela pode saber que Deus existe, mas não descobre sozinha que Deus é Trindade, que o Filho se fez homem ou que nos deu os sacramentos. Isso só conhecemos porque Deus mesmo contou: é a Revelação, acolhida pela fé.",
+   "destaques": [
+    {
+     "pos": 210,
+     "txt": "Revelação"
+    },
+    {
+     "pos": 235,
+     "txt": "fé"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 238,
+     "txt": "CIC 50"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "Fé não é acreditar sem motivo. É confiar em Deus, que não engana nem pode ser enganado, e aceitar o que Ele revelou. A fé é um dom de Deus e, ao mesmo tempo, um ato livre e humano, que usa a inteligência. Por isso o cristão pode e deve fazer perguntas.",
+   "destaques": [],
+   "refs": [
+    {
+     "pos": 116,
+     "txt": "CIC 156-157"
+    },
+    {
+     "pos": 204,
+     "txt": "CIC 153-155"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Fé e ciência também não brigam. Como o mesmo Deus criou o mundo e revelou a fé, a verdade da ciência e a verdade da fé não podem se contradizer de verdade. Quando parece haver conflito, ou a ciência foi além do seu campo, ou a fé foi mal interpretada. Muitos cientistas foram católicos fervorosos: o padre Georges Lemaître, que propôs a teoria do Big Bang, e o frade agostiniano Gregor Mendel, pai da genética, são dois exemplos.",
+   "destaques": [],
+   "refs": [
+    {
+     "pos": 155,
+     "txt": "CIC 159"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Fé",
+     "origem": "latim fides (confiança, fidelidade)",
+     "sentido": "adesão pessoal a Deus e a tudo o que Ele revelou"
+    },
+    {
+     "termo": "Razão",
+     "origem": "latim ratio (cálculo, juízo)",
+     "sentido": "capacidade humana de pensar, compreender e julgar"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Fé vem do latim fides, confiança, fidelidade, e quer dizer: adesão pessoal a Deus e a tudo o que Ele revelou. A palavra Razão vem do latim ratio, cálculo, juízo, e quer dizer: capacidade humana de pensar, compreender e julgar."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Rm 1,19-20",
+    "Sb 13,1-5",
+    "Hb 11,1-3",
+    "Sl 19(18),2"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

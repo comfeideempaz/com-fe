@@ -1,0 +1,151 @@
+{
+ "modulo": "exegese",
+ "aula": "sentidos",
+ "titulo": "Os sentidos da Escritura",
+ "moduloTitulo": "Hermenêutica e Exegese Bíblica",
+ "n": 2,
+ "emoji": "📜",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "📜",
+   "modulo": "Módulo 2 · Hermenêutica e Exegese Bíblica",
+   "titulo": "Os sentidos da Escritura",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 2, Hermenêutica e Exegese Bíblica, vamos estudar: Os sentidos da Escritura."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "Uma antiga tradição ensina que a Bíblia tem dois sentidos: o literal e o espiritual. E o espiritual se divide em três.",
+   "destaques": [
+    {
+     "pos": 44,
+     "txt": "dois sentidos"
+    },
+    {
+     "pos": 61,
+     "txt": "literal"
+    },
+    {
+     "pos": 73,
+     "txt": "espiritual"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 118,
+     "txt": "CIC 115-119"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "O sentido literal é o que as palavras significam, descoberto por uma boa leitura do texto. Ele é a base de todos os outros: \"todos os sentidos se fundamentam no literal\", como diz Santo Tomás. Ler o literal não é ler ao pé da letra: se o texto é uma parábola, o sentido literal é o ensinamento da parábola.",
+   "destaques": [
+    {
+     "pos": 2,
+     "txt": "sentido literal"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 193,
+     "txt": "CIC 116"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "O sentido espiritual nasce do fato de que os acontecimentos narrados também podem ser sinais. Ele tem três dimensões: o alegórico, que mostra como algo aponta para Cristo, a travessia do Mar Vermelho é sinal do Batismo, primeira Coríntios capítulo 10, versículo 2; o moral, que ensina como agir, os acontecimentos foram escritos para nos instruir, primeira Coríntios capítulo 10, versículo 11; e o anagógico, do grego \"conduzir para cima\", que aponta para a vida eterna, a Igreja na terra é sinal da Jerusalém celeste, Apocalipse capítulo 21, versículos 1 a 4.",
+   "destaques": [
+    {
+     "pos": 2,
+     "txt": "sentido espiritual"
+    },
+    {
+     "pos": 144,
+     "txt": "alegórico"
+    },
+    {
+     "pos": 281,
+     "txt": "moral"
+    },
+    {
+     "pos": 399,
+     "txt": "anagógico"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "Os medievais resumiram tudo num versinho latino citado pelo Catecismo: a letra ensina o que aconteceu; a alegoria, o que deves crer; a moral, o que deves fazer; a anagogia, para onde deves caminhar.",
+   "destaques": [],
+   "refs": [
+    {
+     "pos": 70,
+     "txt": "CIC 118"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Exemplo com Jerusalém: no sentido literal, é a cidade de Davi; no alegórico, a Igreja; no moral, a alma fiel; no anagógico, a cidade celeste. Assim, um só texto pode alimentar o estudo, a fé, a vida e a esperança.",
+   "destaques": [
+    {
+     "pos": 12,
+     "txt": "Jerusalém"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Alegoria",
+     "origem": "grego allegoría, \"dizer outra coisa\"",
+     "sentido": "quando um fato ou figura aponta para outra realidade, sobretudo para Cristo"
+    },
+    {
+     "termo": "Anagogia",
+     "origem": "grego anagogé, \"conduzir para cima\"",
+     "sentido": "o sentido que aponta para a vida eterna"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Alegoria vem do grego allegoría, \"dizer outra coisa\", e quer dizer: quando um fato ou figura aponta para outra realidade, sobretudo para Cristo. A palavra Anagogia vem do grego anagogé, \"conduzir para cima\", e quer dizer: o sentido que aponta para a vida eterna."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "1Cor 10,1-11",
+    "Gl 4,24-26",
+    "Ap 21,1-4",
+    "Hb 10,1"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

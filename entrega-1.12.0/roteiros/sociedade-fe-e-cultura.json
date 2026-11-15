@@ -1,0 +1,135 @@
+{
+ "modulo": "sociedade",
+ "aula": "fe-e-cultura",
+ "titulo": "Fé e cultura",
+ "moduloTitulo": "Fé, pessoa e sociedade",
+ "n": 7,
+ "emoji": "🤝",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "🤝",
+   "modulo": "Módulo 7 · Sociologia e Psicologia da Religião",
+   "titulo": "Fé e cultura",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 7, Sociologia e Psicologia da Religião, vamos estudar: Fé e cultura."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "A fé não flutua no ar: ela é vivida por pessoas concretas, com língua, costumes, arte, música e modo de pensar. Por isso a relação entre fé e cultura é tão importante. São Paulo sexto escreveu que \"a ruptura entre Evangelho e cultura é, sem dúvida, o drama da nossa época\", Evangelii Nuntiandi 20.",
+   "destaques": [
+    {
+     "pos": 137,
+     "txt": "fé e cultura"
+    },
+    {
+     "pos": 195,
+     "txt": "a ruptura entre Evangelho e cultura é, sem dúvida, o drama da nossa época"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "A Igreja chama de inculturação o processo em que o Evangelho entra numa cultura, purifica o que nela é contrário à fé, assume e eleva o que é bom, e a enriquece com os valores cristãos. Foi o que fizeram São Cirilo e São Metódio ao criar um alfabeto para os eslavos, e o que fez Anchieta ao escrever teatro e poesia em tupi.",
+   "destaques": [
+    {
+     "pos": 18,
+     "txt": "inculturação"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 186,
+     "txt": "CIC 854; Redemptoris Missio 52"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "A cultura cristã deu ao mundo catedrais, a música gregoriana, as universidades, os hospitais, obras de arte como as de Michelangelo e Aleijadinho, e uma visão da pessoa que está na base dos direitos humanos. A fé, quando é viva, gera cultura.",
+   "destaques": [
+    {
+     "pos": 229,
+     "txt": "gera cultura"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "A religiosidade popular é uma expressão forte da fé inculturada: romarias, procissões, festas de padroeiro, novenas, o terço, as medalhas, as bênçãos, as festas juninas. A Igreja valoriza essas expressões porque nelas o povo simples manifesta a sua fé, e ao mesmo tempo as acompanha para que estejam sempre ligadas à liturgia e a Cristo, sem superstição.",
+   "destaques": [
+    {
+     "pos": 2,
+     "txt": "religiosidade popular"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 171,
+     "txt": "CIC 1674-1676"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Hoje vivemos numa cultura digital, global e plural. O cristão é chamado a estar presente nela como fermento na massa: usar bem as redes, produzir beleza e verdade, dialogar com respeito e não ter vergonha da própria fé.",
+   "destaques": [],
+   "refs": [
+    {
+     "pos": 117,
+     "txt": "Mt 13,33"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Cultura",
+     "origem": "latim colere, \"cultivar\"",
+     "sentido": "o modo de viver, pensar e expressar-se de um povo"
+    },
+    {
+     "termo": "Inculturação",
+     "origem": "in + cultura",
+     "sentido": "o Evangelho que entra numa cultura, purifica-a e a eleva"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Cultura vem do latim colere, \"cultivar\", e quer dizer: o modo de viver, pensar e expressar-se de um povo. A palavra Inculturação vem do in e cultura, e quer dizer: o Evangelho que entra numa cultura, purifica-a e a eleva."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Mt 13,33",
+    "1Cor 9,19-23",
+    "At 2,5-11",
+    "Fl 4,8"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

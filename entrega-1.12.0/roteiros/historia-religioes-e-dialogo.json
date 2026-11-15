@@ -1,0 +1,182 @@
+{
+ "modulo": "historia",
+ "aula": "religioes-e-dialogo",
+ "titulo": "As religiões do mundo e o diálogo",
+ "moduloTitulo": "História da Igreja e das Religiões",
+ "n": 5,
+ "emoji": "🏛️",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "🏛️",
+   "modulo": "Módulo 5 · História da Igreja e das Religiões",
+   "titulo": "As religiões do mundo e o diálogo",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 5, História da Igreja e das Religiões, vamos estudar: As religiões do mundo e o diálogo."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "O ser humano sempre buscou a Deus, e por isso existem tantas religiões. A Igreja ensina que nada rejeita do que há de verdadeiro e santo nelas, pois muitas vezes refletem um raio da Verdade que ilumina todos os homens. Ao mesmo tempo, anuncia sem cessar que Cristo é o caminho, a verdade e a vida.",
+   "destaques": [
+    {
+     "pos": 92,
+     "txt": "nada rejeita do que há de verdadeiro e santo"
+    },
+    {
+     "pos": 258,
+     "txt": "Cristo é o caminho, a verdade e a vida"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 216,
+     "txt": "Nostra Aetate 2"
+    },
+    {
+     "pos": 297,
+     "txt": "Jo 14,6"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "O judaísmo tem um lugar único: é a raiz em que fomos enxertados. Os judeus foram os primeiros a ouvir a Palavra de Deus, e \"os dons e o chamado de Deus são irrevogáveis\". O Vaticano segundo rejeitou qualquer acusação coletiva aos judeus pela morte de Jesus e todo antissemitismo.",
+   "destaques": [
+    {
+     "pos": 2,
+     "txt": "judaísmo"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 68,
+     "txt": "Rm 11,16-18"
+    },
+    {
+     "pos": 174,
+     "txt": "Rm 11,29"
+    },
+    {
+     "pos": 279,
+     "txt": "Nostra Aetate 4; CIC 597, 839-840"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "Os muçulmanos professam a fé de Abraão e adoram conosco o Deus único e misericordioso, embora não reconheçam Jesus como Deus. O hinduísmo e o budismo buscam, por caminhos próprios, a libertação e a paz interior. No Brasil, convivemos também com as religiões afro-brasileiras e as tradições indígenas: os cristãos devem tratar todos com respeito e caridade, sem misturar a fé católica com outros cultos.",
+   "destaques": [
+    {
+     "pos": 3,
+     "txt": "muçulmanos"
+    },
+    {
+     "pos": 128,
+     "txt": "hinduísmo"
+    },
+    {
+     "pos": 142,
+     "txt": "budismo"
+    },
+    {
+     "pos": 248,
+     "txt": "religiões afro-brasileiras"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 124,
+     "txt": "CIC 841"
+    },
+    {
+     "pos": 214,
+     "txt": "Nostra Aetate 2"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "Com os outros cristãos, ortodoxos, protestantes, evangélicos, a relação é ainda mais próxima: são irmãos, unidos a nós pelo Batismo, ainda que numa comunhão imperfeita. Buscar a unidade é o ecumenismo, que pede oração, conversão, estudo e diálogo.",
+   "destaques": [
+    {
+     "pos": 14,
+     "txt": "cristãos"
+    },
+    {
+     "pos": 190,
+     "txt": "ecumenismo"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 247,
+     "txt": "CIC 817-822; Unitatis Redintegratio"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Diálogo não é relativismo, como se todas as religiões fossem iguais. A declaração Dominus Iesus, em 2000, lembra que Cristo é o único Salvador e que a Igreja deve anunciá-lo a todos. O cristão dialoga com respeito, aprende o que há de bom no outro e testemunha, com mansidão, a esperança que tem.",
+   "destaques": [],
+   "refs": [
+    {
+     "pos": 184,
+     "txt": "CIC 849-851"
+    },
+    {
+     "pos": 298,
+     "txt": "1Pd 3,15"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Ecumenismo",
+     "origem": "grego oikouméne, \"a terra habitada\"",
+     "sentido": "o esforço pela unidade de todos os cristãos"
+    },
+    {
+     "termo": "Religião",
+     "origem": "latim religio, talvez de religare, \"religar\" (Lactâncio)",
+     "sentido": "relação do ser humano com Deus"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Ecumenismo vem do grego oikouméne, \"a terra habitada\", e quer dizer: o esforço pela unidade de todos os cristãos. A palavra Religião vem do latim religio, talvez de religare, \"religar\", Lactâncio, e quer dizer: relação do ser humano com Deus."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "At 17,22-31",
+    "Jo 14,6",
+    "Rm 11,16-29",
+    "1Tm 2,4-5",
+    "Jo 17,21"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

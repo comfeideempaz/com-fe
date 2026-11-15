@@ -1,0 +1,136 @@
+{
+ "modulo": "sociedade",
+ "aula": "desejo-de-deus",
+ "titulo": "O ser humano é religioso",
+ "moduloTitulo": "Fé, pessoa e sociedade",
+ "n": 7,
+ "emoji": "🤝",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "🤝",
+   "modulo": "Módulo 7 · Sociologia e Psicologia da Religião",
+   "titulo": "O ser humano é religioso",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 7, Sociologia e Psicologia da Religião, vamos estudar: O ser humano é religioso."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "\"Fizeste-nos para ti, Senhor, e inquieto está o nosso coração enquanto não repousa em ti.\" Essa frase de Santo Agostinho, no início das Confissões, resume uma verdade que o Catecismo coloca logo na primeira parte: o desejo de Deus está inscrito no coração do homem, porque o homem foi criado por Deus e para Deus.",
+   "destaques": [
+    {
+     "pos": 32,
+     "txt": "inquieto está o nosso coração enquanto não repousa em ti"
+    },
+    {
+     "pos": 216,
+     "txt": "o desejo de Deus está inscrito no coração do homem"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 315,
+     "txt": "CIC 27"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "A história confirma isso. Em todos os tempos e culturas, os seres humanos expressaram sua busca de Deus por crenças, orações, sacrifícios, cultos e meditações. Por isso se diz que o homem é um ser religioso. Os estudiosos das religiões, antropólogos, sociólogos, historiadores, constatam esse fato: não se conhece povo sem alguma forma de religião.",
+   "destaques": [
+    {
+     "pos": 193,
+     "txt": "ser religioso"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 208,
+     "txt": "CIC 28"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "São Paulo usou essa realidade no Areópago de Atenas. Viu um altar \"ao Deus desconhecido\" e disse: \"Aquele que adorais sem conhecer, eu vos anuncio\". E explicou que Deus fez os homens \"para que buscassem a Deus e, mesmo às apalpadelas, o encontrassem\", pois \"nele vivemos, nos movemos e existimos\".",
+   "destaques": [],
+   "refs": [
+    {
+     "pos": 297,
+     "txt": "At 17,23-28"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "Mas esse desejo pode ser esquecido, ignorado ou até rejeitado. O Catecismo aponta causas: a revolta diante do mal no mundo, a ignorância ou indiferença religiosa, as preocupações e riquezas do mundo, o mau exemplo dos crentes, correntes de pensamento hostis à religião e a atitude do pecador que, por medo, se esconde de Deus.",
+   "destaques": [],
+   "refs": [
+    {
+     "pos": 326,
+     "txt": "CIC 29"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Para o cristão, isso tem consequências práticas. Por trás de muitas buscas humanas, sucesso, prazer, relacionamentos, até vícios, está, muitas vezes, uma sede de infinito que só Deus sacia. Evangelizar é ajudar as pessoas a reconhecer essa sede e apresentar a elas a fonte: \"Se alguém tem sede, venha a mim e beba\".",
+   "destaques": [],
+   "refs": [
+    {
+     "pos": 315,
+     "txt": "Jo 7,37"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Religioso",
+     "origem": "latim religiosus, de religio (vínculo, escrúpulo)",
+     "sentido": "que vive a relação com Deus"
+    },
+    {
+     "termo": "Antropologia",
+     "origem": "grego ánthropos (homem) + lógos",
+     "sentido": "estudo do ser humano"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Religioso vem do latim religiosus, de religio, vínculo, escrúpulo, e quer dizer: que vive a relação com Deus. A palavra Antropologia vem do grego ánthropos, homem, e lógos, e quer dizer: estudo do ser humano."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "At 17,22-28",
+    "Sl 42(41),2-3",
+    "Sl 63(62),2",
+    "Jo 4,13-14",
+    "Jo 7,37-38"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}

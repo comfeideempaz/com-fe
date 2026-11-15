@@ -1,0 +1,169 @@
+{
+ "modulo": "sistematica",
+ "aula": "trindade",
+ "titulo": "Deus Uno e Trino",
+ "moduloTitulo": "Teologia Sistemática",
+ "n": 4,
+ "emoji": "✝️",
+ "cenas": [
+  {
+   "id": "abertura",
+   "tipo": "abertura",
+   "emoji": "✝️",
+   "modulo": "Módulo 4 · Teologia Sistemática (Dogmática)",
+   "titulo": "Deus Uno e Trino",
+   "fala": "Olá! Eu sou a Lumi. Nesta aula do Curso de Teologia do Com Fé!, no módulo 4, Teologia Sistemática, Dogmática, vamos estudar: Deus Uno e Trino."
+  },
+  {
+   "id": "p1",
+   "tipo": "ponto",
+   "n": 1,
+   "total": 5,
+   "fala": "O mistério da Santíssima Trindade é o mistério central da fé e da vida cristã: é a fonte de todos os outros. Cremos em um só Deus em três Pessoas: Pai, Filho e Espírito Santo.",
+   "destaques": [
+    {
+     "pos": 14,
+     "txt": "Santíssima Trindade"
+    },
+    {
+     "pos": 119,
+     "txt": "um só Deus em três Pessoas"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 107,
+     "txt": "CIC 234"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "tipo": "ponto",
+   "n": 2,
+   "total": 5,
+   "fala": "Israel já confessava: \"o Senhor nosso Deus é o único Senhor\". Jesus não desmente isso, mas revela algo que ninguém podia imaginar: Deus é comunhão de amor. Ele chama Deus de Pai de um modo único, apresenta-se como o Filho e promete o Espírito Santo. E manda batizar \"em nome do Pai, e do Filho, e do Espírito Santo\": um só nome, três Pessoas.",
+   "destaques": [
+    {
+     "pos": 174,
+     "txt": "Pai"
+    },
+    {
+     "pos": 216,
+     "txt": "Filho"
+    },
+    {
+     "pos": 234,
+     "txt": "Espírito Santo"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 58,
+     "txt": "Dt 6,4"
+    },
+    {
+     "pos": 316,
+     "txt": "Mt 28,19"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "tipo": "ponto",
+   "n": 3,
+   "total": 5,
+   "fala": "Para proteger essa fé, a Igreja precisou de palavras precisas. Natureza ou substância é o que Deus é: e só há uma natureza divina. Pessoa é quem: e são três, realmente distintas pelas relações entre si. O Pai gera, o Filho é gerado, o Espírito procede. As três Pessoas são iguais em tudo, coeternas e igualmente Deus: não são três deuses, nem três \"máscaras\" de um só.",
+   "destaques": [
+    {
+     "pos": 63,
+     "txt": "Natureza"
+    },
+    {
+     "pos": 75,
+     "txt": "substância"
+    },
+    {
+     "pos": 133,
+     "txt": "Pessoa"
+    }
+   ],
+   "refs": [
+    {
+     "pos": 60,
+     "txt": "CIC 251-256"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "tipo": "ponto",
+   "n": 4,
+   "total": 5,
+   "fala": "Os Concílios de Niceia, em 325, e Constantinopla, em 381, formularam o Credo que rezamos na Missa. Contra Ário, que dizia que o Filho era criatura, Niceia afirmou que o Filho é consubstancial ao Pai, homooúsios, \"da mesma substância\". Constantinopla confessou a divindade do Espírito Santo, \"que com o Pai e o Filho é adorado e glorificado\".",
+   "destaques": [
+    {
+     "pos": 15,
+     "txt": "Niceia"
+    },
+    {
+     "pos": 33,
+     "txt": "Constantinopla"
+    },
+    {
+     "pos": 176,
+     "txt": "consubstancial"
+    }
+   ],
+   "refs": []
+  },
+  {
+   "id": "p5",
+   "tipo": "ponto",
+   "n": 5,
+   "total": 5,
+   "fala": "Nenhuma comparação explica a Trindade. A famosa imagem do trevo de três folhas, atribuída a São Patrício, ajuda as crianças, mas é limitada. Mais do que entender, somos chamados a entrar nela: fomos batizados na Trindade e, pela graça, Deus faz morada em nós. Cada sinal da cruz é uma profissão de fé trinitária.",
+   "destaques": [],
+   "refs": [
+    {
+     "pos": 259,
+     "txt": "Jo 14,23"
+    }
+   ]
+  },
+  {
+   "id": "palavras",
+   "tipo": "palavras",
+   "palavras": [
+    {
+     "termo": "Trindade",
+     "origem": "latim trinitas (trindade, três-em-um); termo usado por Tertuliano, séc. III",
+     "sentido": "um só Deus em três Pessoas"
+    },
+    {
+     "termo": "Consubstancial",
+     "origem": "latim consubstantialis; grego homooúsios, \"da mesma substância\"",
+     "sentido": "o Filho tem a mesma natureza divina do Pai"
+    }
+   ],
+   "fala": "De onde vêm as palavras? A palavra Trindade vem do latim trinitas, trindade, três-em-um; termo usado por Tertuliano, século terceiro, e quer dizer: um só Deus em três Pessoas. A palavra Consubstancial vem do latim consubstantialis; grego homooúsios, \"da mesma substância\", e quer dizer: o Filho tem a mesma natureza divina do Pai."
+  },
+  {
+   "id": "biblia",
+   "tipo": "biblia",
+   "refs": [
+    "Dt 6,4",
+    "Mt 28,19",
+    "Mt 3,16-17",
+    "Jo 14,16-17.23-26",
+    "2Cor 13,13"
+   ],
+   "fala": "Para aprofundar, abra a sua Bíblia e leia as passagens que aparecem na tela."
+  },
+  {
+   "id": "final",
+   "tipo": "final",
+   "fala": "Agora é a sua vez: abra o app Com Fé! e faça o quiz desta aula. Até a próxima!"
+  }
+ ]
+}
